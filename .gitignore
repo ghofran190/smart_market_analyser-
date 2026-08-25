@@ -11,7 +11,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Virtual environments
+# Virtual environments      
 venv/
 .venv/
 env/
