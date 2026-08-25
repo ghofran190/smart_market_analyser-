@@ -12,7 +12,7 @@ from utils.logger import logger
 
 from agents.report_synthesis_agent import ReportSynthesisAgent, synthesize_report
 from agents.report_evaluator import ReportSynthesisEvaluator, evaluate_synthesis
-from llm_config import OpenRouterLLMClient
+# from llm_config import OpenRouterLLMClient
 from embedding.chroma_manager import ChromaManager
 
 from .Agents import MacroAgent, DemandAgent, SwotAgent, CompetitionAgent
