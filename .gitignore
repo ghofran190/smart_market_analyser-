@@ -1,0 +1,27 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Kilo
+.kilo/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
