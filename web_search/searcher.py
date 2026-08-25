@@ -10,6 +10,7 @@ from typing import Any, Dict, List, Tuple
 
 from tavily import TavilyClient
 
+
 from web_search.utils import (
     calculate_comprehensive_score,
     calculate_french_context_score,
@@ -177,7 +178,6 @@ class WebSearchEngine:
 # ============================================================================
 # Entry Point
 # ============================================================================
-
 
 if __name__ == "__main__":
     search_engine = WebSearchEngine(client=APIClients().tavily_client)
