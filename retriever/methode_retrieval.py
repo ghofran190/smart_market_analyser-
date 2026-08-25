@@ -22,8 +22,8 @@ from typing import Any, Dict, List, Optional, Union
 from embedding.chroma_manager import ChromaManager
 # from llm_config import LLMClient, OpenRouterLLMClient
 
-from retreiver.rtriever import Retriever, RetrievalResult, RetrievalResponse, VectorRetrievalConfig
-from retreiver.hybrid_retreiver import (
+from retriever.simple_retriever import Retriever, RetrievalResult, RetrievalResponse, VectorRetrievalConfig
+from retriever.hybrid_retriever import (
     HybridRetriever,
     HybridResult,
     MergedHybridResult,
@@ -31,7 +31,7 @@ from retreiver.hybrid_retreiver import (
     HybridSearchConfig,
     aggregate_scores,
 )
-from retreiver.hybrid_retreiver import CROSS_ENCODER_AVAILABLE
+from retriever.hybrid_retriever import CROSS_ENCODER_AVAILABLE
 import concurrent.futures
 from clients import APIClients , OpenRouterLLMClient
 

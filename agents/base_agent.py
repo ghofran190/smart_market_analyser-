@@ -16,9 +16,9 @@ from typing import Any, Dict, List, Literal, Optional, Tuple
 from clients import OpenRouterLLMClient
 from embedding.chroma_manager import ChromaManager
 
-from retreiver.hybrid_retriever import HybridResultReporter, HybridRetriever, MergedHybridResult
-from retreiver.simple_retriever import Retriever, RetrievalResult, VectorRetrievalConfig
-from retreiver.methode_retrieval import RetrievalMethods, NormalizedResult
+from retriever.hybrid_retriever import HybridResultReporter, HybridRetriever, MergedHybridResult
+from retriever.simple_retriever import Retriever, RetrievalResult, VectorRetrievalConfig
+from retriever.methode_retrieval import RetrievalMethods, NormalizedResult
 
 from .models import QuestionInput, QuestionAnalysis, SectionAnalysis, SubQueryHyde
 from .Retrieval_strategy import RetrievalStrategy
@@ -93,7 +93,7 @@ class BaseSectionAgent(ABC):
         config = VectorRetrievalConfig()
         self.vector_retriever = Retriever(self.chroma_manager, config, self.logger)
 
-        from retreiver.methode_retrieval import HyDEGenerator
+        from retriever.methode_retrieval import HyDEGenerator
         hyde_generator = HyDEGenerator(self.llm_client, self.logger) if self.llm_client else None
 
         self.retrieval_methods = RetrievalMethods(
@@ -330,7 +330,7 @@ class BaseSectionAgent(ABC):
     def _evaluate_section(self, analysis: SectionAnalysis) -> Dict[str, Any]:
         """Évalue la qualité de la récupération pour l'ensemble de la section."""
         try:
-            from retreiver.retrieval_evaluator import RetrievalEvaluator
+            from retriever.retrieval_evaluator import RetrievalEvaluator
             evaluator = RetrievalEvaluator(
                 llm_client=self.llm_client,
                 chroma_manager=self.chroma_manager,
