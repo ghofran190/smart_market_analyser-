@@ -25,7 +25,7 @@ try:
 except ImportError:
     SENTENCE_TRANSFORMERS_AVAILABLE = False
 
-from retreiver.methode_retrieval import NormalizedResult
+from retriever.methode_retrieval import NormalizedResult
 
 # ============================================================================
 # DATA MODELS
@@ -820,7 +820,7 @@ if __name__ == "__main__":
     logger = logging.getLogger(__name__)
 
     from clients import OpenRouterLLMClient
-    from retreiver.methode_retrieval import NormalizedResult
+    from retriever.methode_retrieval import NormalizedResult
     
     # # Create two test chunks
     # chunk1 = NormalizedResult(
