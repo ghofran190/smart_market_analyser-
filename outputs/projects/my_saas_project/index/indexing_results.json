@@ -1,0 +1,12 @@
+{
+    "name": "hospitality_saas_restauration_20260822_140913",
+    "count": 2478,
+    "metadata": {
+        "hnsw:space": "cosine",
+        "embedding_dimension": 1024
+    },
+    "embedding_model": "BGE-M3",
+    "embedding_dimension": 1024,
+    "total_added": 2478,
+    "collection_name": "hospitality_saas_restauration_20260822_140913"
+}

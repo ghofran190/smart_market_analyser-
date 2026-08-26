@@ -1,0 +1,425 @@
+{
+    "demand": {
+        "section_name": "demand",
+        "synthesis": "**Analyse « Demande & Pain Points » – RMS SaaS pour les restaurants indépendants en France**  \n\n---\n\n### 1️⃣ Segments de clientèle  \n\n| Segment | Taille / Poids du marché | Principaux indicateurs |\n|---------|--------------------------|------------------------|\n| **Restaurants indépendants (service à table + rapide)** | 68 % du chiffre d’affaires du secteur français et 88 % des points de vente | CA : 42,4 Md€ (2023) → 43,9 Md€ (2024) + 3,54 % (extraits 5, 12) |\n| **PME (≤ 50 places)** | 65 % des établissements privilégient le cloud pour son évolutivité (extrait 18) | 72 % utilisent déjà un POS intégré (extrait 2) |\n| **QSR (quick‑service)** | 38,3 % de la demande mondiale en 2024 (extrait 3) |  |\n| **Grandes chaînes (> 100 sites)** | 40,3 % de l’utilisation mondiale (extrait 3) |  |\n\nLe marché mondial des plateformes de gestion de restaurants (RMS) était évalué à **5,79 milliards USD** en 2024, dont **61,4 %** des déploiements sont basés sur le cloud (extrait 4). Cette orientation cloud constitue le socle technique attendu par les PME françaises.\n\n---\n\n### 2️⃣ Principaux pain points  \n\n| Pain point | Chiffre clé | Conséquence |\n|------------|-------------|-------------|\n| **Coût d’acquisition** | 35 % des PME retardent le déploiement à cause du prix (extrait 9) ; abonnement moyen 220‑650 €/mois (extrait 2, 8) | Barrière d’entrée élevée, besoin de modèles tarifaires clairs. |\n| **Fragmentation & intégration** | 41 % des restaurants rencontrent des problèmes d’intégration avec leurs anciens outils comptables/inventaires (extrait 10) ; 37 % craignent les migrations de données (extrait 10) | Risque de double‑licence, perte de productivité. |\n| **Résistance culturelle** | 75 % des gérants jugent le paiement papier « irritant » mais restent réticents à la digitalisation (extrait 9) | Frein à l’adoption même si le besoin est reconnu. |\n| **Manque de compétences internes** | 13 % (extrait 13) et 17 % (extrait 17) signalent une pénurie de personnel qualifié pour gérer, sécuriser et personnaliser les solutions SaaS | Allongement des cycles d’onboarding, besoin de support dédié. |\n| **Mobilité & IA attendues** | 58 % utilisent déjà des terminaux mobiles (extrait 1) ; 73 % prévoient d’investir dans l’IA d’ici 2025, avec un gain de +18‑26 % de la valeur moyenne des commandes (extrait 2) | Opportunité de différencier l’offre par des modules IA et mobile. |\n| **Priorité à l’automatisation** | 47 % des opérateurs placent l’intégration/automatisation en première priorité (extrait 14) | Les solutions fragmentées sont perçues comme inadaptées. |\n\n---\n\n### 3️⃣ Critères de décision & disposition à payer  \n\n1. **Architecture cloud** – 61,4 % des déploiements mondiaux sont cloud (extrait 1) ; 65 % des PME françaises le préfèrent pour la scalabilité (extrait 18).  \n2. **Intégration fonctionnelle** – 72 % des restaurants utilisent déjà un système couvrant POS, stocks, réservations et fidélité (extrait 2). Une solution « tout‑en‑un » est donc un critère décisif.  \n3. **Coût transparent** – Le budget moyen se situe entre **50 €/mois et 150 €/mois** par module, soit **220‑650 €/mois** au total (extrait 2, 8). Les clients sont prêts à payer ce niveau si le ROI est rapide.  \n4. **ROI mesurable** – Gains de rentabilité de **5‑10 points** et amortissement du coût de digitalisation en **2‑4 mois** grâce à une hausse du CA de **30‑50 %** (extrait 8, 9). Ces chiffres justifient la dépense initiale.  \n5. **Valeur ajoutée IA** – 73 % envisagent l’IA, attendent une hausse de **18‑26 %** du ticket moyen et une amélioration de **22 %** des prévisions de revenu (extrait 5).  \n6. **Ergonomie & support** – Interface intuitive, déploiement rapide et assistance réactive sont cités comme critères essentiels (extrait 15).  \n\n**Disposition à payer** : la majorité des PME (≈ 65 %) accepteront un abonnement mensuel compris entre **220 € et 650 €**, à condition que le contrat inclue l’onboarding, la formation et les mises à jour IA, et que le client puisse constater un ROI en moins de trois mois.\n\n---\n\n**Synthèse**  \nLe marché français des restaurants indépendants représente une opportunité de **+3,5 %** de croissance du CA en 2024, avec une forte appétence pour le cloud (61,4 %) et l’intégration totale (72 %). Les freins majeurs restent le coût perçu (35 %), la complexité d’intégration (41 %) et la résistance culturelle (75 %). Une offre SaaS qui combine tarif transparent, onboarding clé en main, modules IA et mobilité répondra aux critères de décision et pourra justifier une fourchette de prix de **220‑650 €/mois**, soutenue par un ROI rapide (amortissement en 2‑4 mois, +30‑50 % de CA).",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.7392,
+            "coverage_score": 0.6667,
+            "diversity_score": 0.5823,
+            "composite_score": 0.6861,
+            "details": {
+                "query": "Comment est la demande actuelle et les segments de clientèle pour Hospitality SaaS - Restaurant Management System (RMS) ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.525,
+                    "heuristic_score": 0.9535,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "demande actuelle du marché pour les solutions SaaS de gestion de restaurant",
+                        "tendances de la demande et facteurs de croissance",
+                        "taille et évolution du marché du RMS",
+                        "segments de clientèle ciblés (restaurants indépendants, chaînes, fast‑food, cafés, etc.)",
+                        "profil des décideurs (propriétaires, directeurs, chefs de cuisine, managers)",
+                        "besoins et exigences spécifiques de chaque segment",
+                        "géographies ou régions où la demande est la plus forte",
+                        "impact des technologies émergentes sur la demande",
+                        "principaux critères de sélection du RMS par les clients"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "demande actuelle du marché pour les solutions SaaS de gestion de restaurant",
+                            "max_similarity": 0.6883,
+                            "score": 1.0,
+                            "best_chunk_id": "f6b7feae147a7c79_6"
+                        },
+                        {
+                            "aspect": "tendances de la demande et facteurs de croissance",
+                            "max_similarity": 0.4919,
+                            "score": 0.5,
+                            "best_chunk_id": "8caafb9510a909bf_4"
+                        },
+                        {
+                            "aspect": "taille et évolution du marché du RMS",
+                            "max_similarity": 0.5421,
+                            "score": 0.5,
+                            "best_chunk_id": "1252aad8af797554_6"
+                        },
+                        {
+                            "aspect": "segments de clientèle ciblés (restaurants indépendants, chaînes, fast‑food, cafés, etc.)",
+                            "max_similarity": 0.6276,
+                            "score": 1.0,
+                            "best_chunk_id": "6952a8cd8e3ab818_9"
+                        },
+                        {
+                            "aspect": "profil des décideurs (propriétaires, directeurs, chefs de cuisine, managers)",
+                            "max_similarity": 0.4885,
+                            "score": 0.5,
+                            "best_chunk_id": "1252aad8af797554_6"
+                        },
+                        {
+                            "aspect": "besoins et exigences spécifiques de chaque segment",
+                            "max_similarity": 0.4811,
+                            "score": 0.5,
+                            "best_chunk_id": "d387dcd3b15ec0e1_40"
+                        },
+                        {
+                            "aspect": "géographies ou régions où la demande est la plus forte",
+                            "max_similarity": 0.4397,
+                            "score": 0.5,
+                            "best_chunk_id": "8cd9567e0c6ba4d5_16"
+                        },
+                        {
+                            "aspect": "impact des technologies émergentes sur la demande",
+                            "max_similarity": 0.5027,
+                            "score": 0.5,
+                            "best_chunk_id": "8caafb9510a909bf_4"
+                        },
+                        {
+                            "aspect": "principaux critères de sélection du RMS par les clients",
+                            "max_similarity": 0.6056,
+                            "score": 1.0,
+                            "best_chunk_id": "1252aad8af797554_6"
+                        }
+                    ],
+                    "covered": 3,
+                    "partial": 6,
+                    "uncovered": 0,
+                    "total": 9
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5823,
+                    "min_dissimilarity": 0.4082,
+                    "max_dissimilarity": 0.7138,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3439
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\my_saas_project\\agents\\demand_analysis.md"
+    },
+    "macro": {
+        "section_name": "macro",
+        "synthesis": "**Macro‑marché – Hospitality SaaS : Restaurant Management System (RMS) en France**  \n\n---\n\n### 1. Taille & croissance  \n\n- Le marché mondial du SaaS devrait atteindre **344 milliards $ d’ici 2027**. En France, le segment des services d’intelligence artificielle, pilier du SaaS, représente **1,8 milliard € en 2024** avec une croissance annuelle de **+5 %**.  \n- Le taux de croissance annuel moyen (TCAM) des solutions SaaS en France est estimé à **11,48 % jusqu’en 2024**. Cette dynamique se traduit par une adoption massive du cloud : **61,4 % des déploiements mondiaux de logiciels de restauration sont basés sur le cloud en 2024** (et **68 % du volume du POS** en 2023).  \n- Le secteur de la restauration en France a enregistré une hausse du chiffre d’affaires de **+6,8 % en 2024**, malgré une légère baisse de fréquentation (**‑2 %**). Le ticket moyen s’établit autour de **35 €**, offrant une marge de progression pour les solutions d’optimisation.  \n- Les petits et moyens restaurants représentent **≈ 35 %** du total des établissements et restent les plus réticents à la digitalisation, ce qui constitue un levier de croissance important pour les RMS SaaS.\n\n---\n\n### 2. Facteurs macro‑économiques et réglementaires  \n\n- **Pression sur les coûts** : après le pic d’inflation 2022‑2023, l’inflation générale a ralenti à **1,2‑1,3 % en 2024**, mais les matières premières restent **+20 %** (janv 2022 → janv 2023). La rentabilité nette moyenne des restaurants est passée de **≈ 11 % du CA en 2023 à ≈ 3 % en 2024**, incitant les exploitants à rechercher des gains d’efficacité via le SaaS.  \n- **Main‑d’œuvre** : le taux de roulement du personnel atteint **70 % par an**, créant une demande forte pour l’automatisation. Les solutions IA permettent de réduire les coûts de matières premières de **15 %** et d’améliorer la précision des prévisions de revenus de **22 %**.  \n- **Coût d’entrée** : le coût initial d’un RMS représente encore **≈ 35 %** du budget des PME, d’où l’intérêt pour des modèles SaaS à faible investissement.  \n- **Réglementation** : le respect du **RGPD** impose des modèles hybrides de stockage des données. Depuis 2025, la **réglementation européenne du cyberrisque** renforce les exigences de cybersécurité, poussant les fournisseurs à intégrer des protections renforcées. Des incitations publiques à la digitalisation (subventions, crédits d’impôt) viennent soutenir l’adoption.\n\n---\n\n### 3. Tendances structurantes  \n\n- **Intégration de l’IA** : **75 % des plateformes SaaS** intègrent des fonctions d’IA en 2024 (contre **60 % en 2022**). En France, **73 % des exploitants** prévoient d’investir dans l’IA d’ici 2025, et les POS offrent déjà **> 33 % d’analyses prédictives**. L’IA peut augmenter la valeur moyenne des commandes de **+18‑26 %**.  \n- **Mobilité & paiement sans contact** : les solutions de paiement sans contact ont progressé de **260 % entre 2020 et 2023**. **65 % des restaurants de petite ou moyenne taille** privilégient les POS cloud pour leur évolutivité.  \n- **Plateformes unifiées** : **47 % des opérateurs** ont priorisé l’intégration et l’automatisation (POS, stocks, fidélisation, livraison) en 2024, favorisant des solutions modulaires à faible coût initial.  \n- **Automatisation de la main‑d’œuvre** : le taux d’automatisation dépasse **60 %** à l’échelle mondiale, avec un TCAC de **8,7 %** (2025‑2034) pour les outils de planification.  \n- **Concentration du marché** : les principaux fournisseurs détiennent **≈ 55 %** de la part de marché mondiale, incitant les acteurs locaux à se différencier par l’IA, la modularité et le prix d’entrée.\n\n**En synthèse**, la combinaison d’une croissance soutenue du SaaS, d’une pression accrue sur les marges, d’une pénurie de main‑d’œuvre et d’un cadre réglementaire exigeant crée un environnement propice à l’adoption rapide de RMS SaaS intelligents pour les restaurants indépendants en France.",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.7678,
+            "coverage_score": 0.5,
+            "diversity_score": 0.5491,
+            "composite_score": 0.6437,
+            "details": {
+                "query": "Quelle est la structure du marché de Hospitality SaaS - Restaurant Management System (RMS) en termes de segments, taille et croissance ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.55,
+                    "heuristic_score": 0.9857,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "Segments du marché",
+                        "Taille du marché",
+                        "Croissance du marché"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "Segments du marché",
+                            "max_similarity": 0.5056,
+                            "score": 0.5,
+                            "best_chunk_id": "8f27f31ccd5dfefd_9"
+                        },
+                        {
+                            "aspect": "Taille du marché",
+                            "max_similarity": 0.528,
+                            "score": 0.5,
+                            "best_chunk_id": "d42207de1a01e3d7"
+                        },
+                        {
+                            "aspect": "Croissance du marché",
+                            "max_similarity": 0.5054,
+                            "score": 0.5,
+                            "best_chunk_id": "afafb3654cdd0b36_7"
+                        }
+                    ],
+                    "covered": 0,
+                    "partial": 3,
+                    "uncovered": 0,
+                    "total": 3
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5491,
+                    "min_dissimilarity": 0.229,
+                    "max_dissimilarity": 0.7138,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3071
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\my_saas_project\\agents\\macro_analysis.md"
+    },
+    "swot": {
+        "section_name": "swot",
+        "synthesis": "## 💪 Forces\n- 61,4 % des déploiements mondiaux de RMS sont déjà cloud, montrant une forte appétence des restaurateurs pour les solutions SaaS.  \n- Plus de 65 % des PME de restauration préfèrent les systèmes cloud et 72 % utilisent aujourd’hui des logiciels intégrés (POS, stocks, réservations, fidélité).  \n- 75 % des plateformes SaaS intègrent de l’IA en 2024, et 73 % des exploitants prévoient d’investir dans l’IA d’ici 2025, ce qui peut augmenter la valeur moyenne des commandes de 18‑26 %.  \n- L’IA permet d’améliorer la précision des prévisions de revenus de 22 % et de réduire les coûts matériels de 15 %.  \n- Le marché SaaS français croît à 11,48 % par an, avec une hausse mondiale du chiffre d’affaires SaaS de 15 % annuel (+75 % en 5 ans).  \n\n## ⚠️ Faiblesses\n- 35 % des petits et moyens restaurants retardent le déploiement de solutions SaaS à cause du coût d’installation et d’abonnement jugés trop élevés.  \n- Le coût total de mise en œuvre peut dépasser 5 % du chiffre d’affaires annuel pour certaines petites entreprises, freinant l’adoption.  \n- L’offre actuelle est fragmentée : aucun système unifié ne répond à tous les besoins (POS, inventaire, planification, comptabilité, CRM).  \n- Le marché est concentré : les principaux fournisseurs détiennent ≈ 55 % de la part de marché mondiale, rendant difficile la conquête de parts sans différenciation forte.  \n\n## 🚀 Opportunités\n- La croissance des commandes numériques génère 30 % de valeur supplémentaire, créant une demande immédiate pour des modules de prise de commande en ligne et de livraison.  \n- 73 % des exploitants prévoient d’investir dans l’IA d’ici 2025, offrant un levier pour proposer des fonctions de personnalisation IA et d’automatisation des stocks.  \n- Le turnover du personnel atteint 70 % par an, ce qui rend attractives les solutions d’optimisation des plannings et d’analyse prédictive (amélioration de la prévision de revenus de 22 %).  \n- 58 % des restaurants utilisent déjà des terminaux mobiles, facilitant le déploiement rapide d’une solution SaaS mobile‑first.  \n- Le marché mondial des RMS devrait croître à un TCAC de 16 % (2024‑2032) et le segment SaaS en France progresse à 11,48 % annuel, offrant un fort potentiel de capture de parts.  \n\n## ⚡ Menaces\n- L’inflation des matières premières (+20 % entre 2022‑2023) et la hausse des salaires ont fait passer la marge nette moyenne de 11 % en 2023 à ≈ 3 % en 2024.  \n- Les défaillances d’entreprises dans l’hôtellerie‑restauration ont augmenté de plus de 60 % entre 2022 et 2024, indiquant une fragilité du segment ciblé.  \n- Le coût d’acquisition et de mise en œuvre élevé (35 % retardent le déploiement, >5 % du CA) limite la pénétration chez les PME.  \n- Le non‑respect du RGPD expose les SaaS à des amendes pouvant atteindre 4 % du chiffre d’affaires mondial et à un risque de réputation accru.  \n- La fréquentation globale recule de 2 % en 2024 et 81 % des consommateurs perçoivent une hausse des prix, réduisant le volume de ventes et la capacité des restaurants à absorber le coût d’un RMS.",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.782,
+            "coverage_score": 0.4667,
+            "diversity_score": 0.5542,
+            "composite_score": 0.6419,
+            "details": {
+                "query": "Quelles sont les opportunités et avantages exploitables à court et moyen terme pour Hospitality SaaS - Restaurant Management System (RMS) ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.575,
+                    "heuristic_score": 0.9891,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "opportunités à court terme",
+                        "opportunités à moyen terme",
+                        "avantages à court terme",
+                        "avantages à moyen terme",
+                        "potentiel de croissance du marché Hospitality SaaS",
+                        "tendances technologiques pertinentes pour les RMS",
+                        "effets sur l'efficacité opérationnelle",
+                        "impact sur l'expérience client",
+                        "possibilités de réduction des coûts",
+                        "potentiel d'augmentation des revenus",
+                        "scalabilité et flexibilité du système",
+                        "intégration avec d'autres solutions",
+                        "avantages concurrentiels",
+                        "risques et contraintes réglementaires",
+                        "adoption par les restaurateurs"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "opportunités à court terme",
+                            "max_similarity": 0.5245,
+                            "score": 0.5,
+                            "best_chunk_id": "53d70ca73686d097_35"
+                        },
+                        {
+                            "aspect": "opportunités à moyen terme",
+                            "max_similarity": 0.5399,
+                            "score": 0.5,
+                            "best_chunk_id": "53d70ca73686d097_35"
+                        },
+                        {
+                            "aspect": "avantages à court terme",
+                            "max_similarity": 0.4732,
+                            "score": 0.5,
+                            "best_chunk_id": "9755e364bf8c5c63_5"
+                        },
+                        {
+                            "aspect": "avantages à moyen terme",
+                            "max_similarity": 0.4812,
+                            "score": 0.5,
+                            "best_chunk_id": "9755e364bf8c5c63_5"
+                        },
+                        {
+                            "aspect": "potentiel de croissance du marché Hospitality SaaS",
+                            "max_similarity": 0.5849,
+                            "score": 0.5,
+                            "best_chunk_id": "5b752bc8c2e66c6a_3"
+                        },
+                        {
+                            "aspect": "tendances technologiques pertinentes pour les RMS",
+                            "max_similarity": 0.5217,
+                            "score": 0.5,
+                            "best_chunk_id": "1252aad8af797554_6"
+                        },
+                        {
+                            "aspect": "effets sur l'efficacité opérationnelle",
+                            "max_similarity": 0.4397,
+                            "score": 0.5,
+                            "best_chunk_id": "dc78551d77c3cf89_2"
+                        },
+                        {
+                            "aspect": "impact sur l'expérience client",
+                            "max_similarity": 0.4966,
+                            "score": 0.5,
+                            "best_chunk_id": "9755e364bf8c5c63_5"
+                        },
+                        {
+                            "aspect": "possibilités de réduction des coûts",
+                            "max_similarity": 0.501,
+                            "score": 0.5,
+                            "best_chunk_id": "afafb3654cdd0b36_7"
+                        },
+                        {
+                            "aspect": "potentiel d'augmentation des revenus",
+                            "max_similarity": 0.4996,
+                            "score": 0.5,
+                            "best_chunk_id": "f1b9a5d6610c8eab_3"
+                        },
+                        {
+                            "aspect": "scalabilité et flexibilité du système",
+                            "max_similarity": 0.4776,
+                            "score": 0.5,
+                            "best_chunk_id": "d387dcd3b15ec0e1_40"
+                        },
+                        {
+                            "aspect": "intégration avec d'autres solutions",
+                            "max_similarity": 0.5,
+                            "score": 0.5,
+                            "best_chunk_id": "d387dcd3b15ec0e1_40"
+                        },
+                        {
+                            "aspect": "avantages concurrentiels",
+                            "max_similarity": 0.4662,
+                            "score": 0.5,
+                            "best_chunk_id": "dc78551d77c3cf89_2"
+                        },
+                        {
+                            "aspect": "risques et contraintes réglementaires",
+                            "max_similarity": 0.3914,
+                            "score": 0.0,
+                            "best_chunk_id": "7bf45b1e413976d8_14"
+                        },
+                        {
+                            "aspect": "adoption par les restaurateurs",
+                            "max_similarity": 0.5212,
+                            "score": 0.5,
+                            "best_chunk_id": "7bf45b1e413976d8_14"
+                        }
+                    ],
+                    "covered": 0,
+                    "partial": 14,
+                    "uncovered": 1,
+                    "total": 15
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5542,
+                    "min_dissimilarity": 0.4061,
+                    "max_dissimilarity": 0.6802,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3132
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\my_saas_project\\agents\\swot_analysis.md"
+    },
+    "supply": {
+        "section_name": "supply",
+        "synthesis": "**Offre & Concurrence – Marché français du Restaurant Management System (RMS) SaaS**  \n\n---\n\n### 1. Principaux acteurs & positionnement  \n\n| Acteur | Base d’utilisateurs | Tarif d’entrée (€/mois) | Points forts cités |\n|--------|--------------------|------------------------|-------------------|\n| **TouchBistro** | > 20 000 restaurants (mondial) | ≈ 69 $ / mois (≈ 64 €/mois) | Suite « tout‑en‑un » (POS, fidélisation, cartes‑cadeaux) ; disponibilité Web, Desktop et iOS |\n| **Lightspeed Restaurant** | > 50 000 établissements | 69 $ / mois (≈ 64 €/mois) ou 109‑339 €/mois selon modules | Gestion ventes, stocks, plan de salle, conformité NF525 (France) |\n| **Square for Restaurants** | – | 29 $ / mois (≈ 27 €/mois) + frais de traitement | Intégration native avec l’écosystème Square (paiement, e‑commerce) |\n| **Tiller Systems (SumUp)** | – (ciblant les indépendants) | 49‑99 €/mois | Caisse iPad avec TPE intégré, prix abordable, forte simplicité d’usage |\n| **Zenchef** | – | – (modulaire) | Spécialiste réservation en ligne, CRM, réduction du no‑show grâce à l’empreinte bancaire |\n| **Autres (Clover, NCR, Oracle, Revel, OpenTable, 7shifts…)** | – | – | Présence globale, souvent via des modules complémentaires (livraison, gestion du personnel) |\n\nCes six fournisseurs concentrent **≈ 55 %** de la part de marché mondiale des plateformes de gestion de restaurants (extrait 9) et dominent le segment cloud, où **61,4 %** des installations mondiales en 2024 sont hébergées (extraits 3, 7, 10).  \n\n---\n\n### 2. Parts de marché & dynamique concurrentielle  \n\n- **Segment cloud** : + 61,4 % des déploiements en 2024, ce qui rend le SaaS le canal privilégié pour les nouvelles implémentations.  \n- **Solutions intégrées (POS + réservations + stocks + analytics)** capturent **≈ 45,3 %** du marché du logiciel de gestion de restaurant en 2024 (extrait 10).  \n- **Tarification moyenne** : en France, les offres basiques se situent entre **20 – 30 €/mois**, tandis que les suites complètes atteignent **≈ 150 €/mois**. Les acteurs leaders affichent des fourchettes similaires (Toast = 69 $, Lightspeed = 69 $ ou 109‑339 €, Tiller = 49‑99 €).  \n- **Coût d’implémentation** : les frais d’on‑boarding peuvent atteindre plusieurs centaines d’euros, et le matériel (caisses, imprimantes) coûte **100 – 500 €** par terminal.  \n- **Frein à l’adoption** : **≈ 35 %** des PME restauratrices retardent le déploiement pour des raisons de coût et de complexité, et le budget d’implémentation peut dépasser **5 % du chiffre d’affaires annuel** (extrait 10).  \n\nCes dynamiques montrent un marché où la plupart des acteurs misent sur la modularité (ajout de fonctions IA, CRM, livraison) pour convaincre les restaurants indépendants, tout en restant sensibles aux contraintes budgétaires des petites structures.  \n\n---\n\n### 3. Barrières à l’entrée & différenciation  \n\n| Barrières | Niveau d’impact |\n|-----------|-----------------|\n| **Coût d’acquisition client** (on‑boarding, matériel) | Élevé – nécessite des budgets de plusieurs centaines d’euros |\n| **Complexité d’intégration** (API, conformité fiscale NF525) | Modéré à élevé – les restaurants français exigent une intégration comptable fiable |\n| **Effet de réseau** (large base d’utilisateurs, partenaires de livraison) | Fort – les acteurs établis bénéficient d’écosystèmes déjà connectés |\n| **Exigences de performance cloud** (disponibilité, sécurité) | Important – 61,4 % des déploiements sont cloud, les nouveaux entrants doivent garantir la même fiabilité |\n\n**Axes de différenciation possibles**  \n\n1. **IA intégrée à faible coût** : proposer des modules d’analyse des ventes et de prévision des stocks à partir de 20 €/mois, bien en dessous des 45,3 % de parts détenues par les solutions intégrées actuelles.  \n2. **Tarification transparente « freemium »** : offrir un plan de base à 0 €/mois avec facturation à l’usage (ex. : 0,05 €/commande) pour réduire le frein des 35 % de restaurants qui retardent le déploiement.  \n3. **Partenariats locaux** : intégrer directement les plateformes de livraison françaises (Frichti, Deliveroo France) et les solutions comptables (Sage, Cegid) pour répondre aux exigences NF525 sans surcoût.  \n4. **Support dédié aux PME** : mise en place d’un service d’on‑boarding à distance à 199 €, incluant la configuration du matériel, afin de limiter le dépassement du seuil de 5 % du CA annuel.  \n\nEn combinant une offre modulaire, une tarification adaptée aux petites structures et une forte intégration locale, un nouvel entrant peut se positionner contre les géants qui détiennent déjà 55 % du marché tout en contournant les principales barrières d’entrée.",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.5508,
+            "coverage_score": 0.5833,
+            "diversity_score": 0.5945,
+            "composite_score": 0.5693,
+            "details": {
+                "query": "Qui sont les acteurs majeurs du marché de Hospitality SaaS - Restaurant Management System (RMS) et quelle est leur position ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.125,
+                    "heuristic_score": 0.9766,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "Identification des acteurs majeurs du marché Hospitality SaaS",
+                        "Focus sur les systèmes de gestion de restaurant (RMS)",
+                        "Définition du critère de « majeur » (part de marché, revenus, notoriété)",
+                        "Analyse de la position de chaque acteur (part de marché, rang, leadership)",
+                        "Période de référence pour l'évaluation (ex. 2023‑2024)",
+                        "Couverture géographique du marché (global, régions spécifiques)"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "Identification des acteurs majeurs du marché Hospitality SaaS",
+                            "max_similarity": 0.5714,
+                            "score": 0.5,
+                            "best_chunk_id": "82ee677a852f2acc_2"
+                        },
+                        {
+                            "aspect": "Focus sur les systèmes de gestion de restaurant (RMS)",
+                            "max_similarity": 0.6539,
+                            "score": 1.0,
+                            "best_chunk_id": "1252aad8af797554_6"
+                        },
+                        {
+                            "aspect": "Définition du critère de « majeur » (part de marché, revenus, notoriété)",
+                            "max_similarity": 0.4158,
+                            "score": 0.5,
+                            "best_chunk_id": "b7166709e410391d_8"
+                        },
+                        {
+                            "aspect": "Analyse de la position de chaque acteur (part de marché, rang, leadership)",
+                            "max_similarity": 0.4499,
+                            "score": 0.5,
+                            "best_chunk_id": "dc78551d77c3cf89_2"
+                        },
+                        {
+                            "aspect": "Période de référence pour l'évaluation (ex. 2023‑2024)",
+                            "max_similarity": 0.4368,
+                            "score": 0.5,
+                            "best_chunk_id": "58f5174096798411"
+                        },
+                        {
+                            "aspect": "Couverture géographique du marché (global, régions spécifiques)",
+                            "max_similarity": 0.5031,
+                            "score": 0.5,
+                            "best_chunk_id": "58f5174096798411"
+                        }
+                    ],
+                    "covered": 1,
+                    "partial": 5,
+                    "uncovered": 0,
+                    "total": 6
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5945,
+                    "min_dissimilarity": 0.229,
+                    "max_dissimilarity": 0.7597,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3669
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\my_saas_project\\agents\\supply_analysis.md"
+    }
+}

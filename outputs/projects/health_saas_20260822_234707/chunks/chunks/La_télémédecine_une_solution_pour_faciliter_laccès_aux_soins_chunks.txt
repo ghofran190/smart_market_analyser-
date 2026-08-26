@@ -1,0 +1,721 @@
+
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 129 caractères
+# Tokens: 20
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+© kentoh - stock.adobe.com
+- Télécharger au format pdf
+- Copier dans le presse-papier
+- Partager sur Bluesky (nouvelle fenêtre)")
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ?
+# Titre section: La télémédecine, une solution pour faciliter l'accès aux soins ?
+# Type: h1
+# Taille: 702 caractères
+# Tokens: 111
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+# La télémédecine, une solution pour faciliter l'accès aux soins ?
+La télémédecine est une pratique médicale à distance recourant aux nouvelles technologies. Favorisant l'accès à des soins sur l’ensemble du territoire, elle a été très utilisée en 2020, durant l'épidémie de Covid-19. Toutefois, après la crise sanitaire, en quoi cette pratique peut-elle continuer de répondre aux défis du système de santé ?
+**La** **loi du 21 juillet 2009** **portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires (dite "loi HPST") définit et réglemente pour la première fois la télémédecine en France**. En 2018, cette modalité de soin entre dans le droit commun de l'Assurance maladie.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Quels sont les actes pratiqués en télémédecine ?
+# Titre section: Quels sont les actes pratiqués en télémédecine ?
+# Type: list
+# Taille: 922 caractères
+# Tokens: 143
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+## Quels sont les actes pratiqués en télémédecine ?
+Le décret du 19 octobre 2010, pris en application de la loi HPST, définit cinq actes médicaux réalisables en télémédecine, ainsi que leurs conditions de mise en œuvre :
+- la **téléconsultation** : il s'agit d'une consultation à distance, entre un médecin et un patient (seul ou assisté d'un professionnel de santé). Tout médecin libéral ou salarié d'un établissement de santé peut effectuer une téléconsultation, qu’il facture au tarif d'une consultation en présentiel. Toutes les situations médicales peuvent donner lieu à une téléconsultation mais le recours à la téléconsultation relève de la seule décision du médecin ;
+- la **téléexpertise** : elle consiste en un échange entre au moins deux médecins qui arrêtent ensemble, avec le consentement du patient, un diagnostic ou une stratégie thérapeutique sur la base de données biologiques, radiologiques ou cliniques.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Quels sont les actes pratiqués en télémédecine ?
+# Titre section: Quels sont les actes pratiqués en télémédecine ?
+# Type: list
+# Taille: 641 caractères
+# Tokens: 104
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Elle permet d'obtenir rapidement l'avis d'un spécialiste, donc de réduire les délais de prise en charge et de suivi ;
+- la **télésurveillance médicale** : un médecin interprète à distance les données cliniques ou biologiques recueillies par le patient ou un professionnel de santé ;
+- la **téléassistance** : un médecin assiste à distance l’un de ses confrères pendant un acte médical ou chirurgical ;
+- la **régulation** : c'est la réponse médicale apportée par les centres 15 (SAMU). Les médecins de ces centres établissent par téléphone un premier diagnostic afin de déterminer et de déclencher la réponse la mieux adaptée à la situation.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ?
+# Titre section: La télémédecine, une réponse aux défis du système de santé ?
+# Type: h2
+# Taille: 859 caractères
+# Tokens: 137
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+## La télémédecine, une réponse aux défis du système de santé ?
+La télémédecine a été conçue comme une solution possible aux principaux problèmes qui se posent actuellement en matière de santé publique. Elle ne se substitue pas aux pratiques médicales traditionnelles mais peut faciliter l’accès de la population à des soins de proximité, pallier le manque de personnel médical et renforcer les missions des établissements isolés.
+Une étude - Nouvelle fenêtre") publiée en décembre 2022 par la Direction de la recherche, des études, de l'évaluation et des statistiques (Drees) évalue le **nombre de téléconsultations réalisées par des médecins généralistes libéraux** à 800 000 en 2019, **13,5 millions en 2020** et **9,4 millions en 2021**. Les généralistes salariés en centres de santé, quant à eux, en ont effectué 600 000 en 2020 puis 1,1 million en 2021.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ? > Maîtriser les dépenses de santé
+# Titre section: Maîtriser les dépenses de santé
+# Type: h3
+# Taille: 908 caractères
+# Tokens: 139
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Maîtriser les dépenses de santé
+La télémédecine vise aussi à faire des économies grâce à une **restructuration des soins** et une mise en commun des compétences médicales. En abolissant les distances, la téléconsultation simplifie l’accès à un médecin pour les personnes ayant des problèmes de mobilité et réduit les coûts engendrés par les transferts inutiles de patients et les passages aux urgences.
+La télésurveillance contribue à **maintenir plus longtemps à domicile les personnes en situation de dépendance**. La téléexpertise, en associant des avis de spécialistes, devrait accélérer la prise en charge des patients et améliorer sa qualité. Elle a deux avantages majeurs : elle induit un gain de temps et contribue à désengorger les cabinets médicaux.
+Les patients qui souffrent de **maladies chroniques** exigeant une continuité et un suivi des soins peuvent être pris en charge en télémédecine.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ? > Maîtriser les dépenses de santé
+# Titre section: Maîtriser les dépenses de santé
+# Type: paragraph
+# Taille: 158 caractères
+# Tokens: 22
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Celle-ci permet de contenir les investissements humains et financiers générés par ces pathologies, qui explosent en raison du vieillissement de la population.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ? > Lutter contre les déserts médicaux
+# Titre section: Lutter contre les déserts médicaux
+# Type: h3
+# Taille: 996 caractères
+# Tokens: 154
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Lutter contre les déserts médicaux
+La télémédecine permet de remédier à la **pénurie de praticiens** qui touche des zones rurales et urbaines. Selon un communiqué - Nouvelle fenêtre") de la Drees paru en novembre 2023, " _l'accessibilité aux médecins généralistes continue de se dégrader en 2022"_ car la baisse du nombre de généralistes libéraux et de leur activité moyenne se poursuit, de même que la croissance de la population. Cette dégradation ralentit néanmoins (-0,8% contre -1,8% par an en moyenne entre 2015 et 2021), sous l'effet notamment de l'augmentation de l'offre de soins en centre de santé. Un rapport d'information sénatorial de mars 2022 révèle que les inégalités territoriales d'accès aux soins se creusent et que 30,2% des Français résident dans un désert médical.
+Par ailleurs, la télémédecine favorise l’activité des **professionnels de santé en réseau**. Cela peut aider à renforcer l’attractivité de la médecine libérale, qui connaît aujourd'hui une forme de déclin.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ? > Lutter contre les déserts médicaux
+# Titre section: Lutter contre les déserts médicaux
+# Type: list
+# Taille: 834 caractères
+# Tokens: 127
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Une étude - Nouvelle fenêtre") de la Mutuelle d'assurance du corps de santé français (MACSF) révèle qu'en 2022, 62% des jeunes praticiens choisissent de devenir salariés, et 12% d’exercer exclusivement en libéral.
+Les **usagers** semblent **prêts à adopter cette pratique**. Une enquête sur " les Français et le numérique en santé" publiée en février 2024 par le ministère Ensemble des services de l'État (administration centrale et services déconcentrés) placés sous la responsabilité d'un ministre du travail, de la santé et des solidarités met en lumière la perception de la télémédecine en 2023 :
+- les Français utilisent de plus en plus les outils ou services numériques de santé (prise de rendez-vous, récupération de documents, services en ligne de l'Assurance maladie ou de la mutuelle, téléconsultation, objets connectés...).
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ? > Lutter contre les déserts médicaux
+# Titre section: Lutter contre les déserts médicaux
+# Type: list
+# Taille: 400 caractères
+# Tokens: 64
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+90% d'entre eux y ont déjà eu recours ;
+- 74% estiment qu'ils améliorent la coordination du parcours médical, et 72% qu'ils fluidifient les démarches administratives ;
+- des inquiétudes demeurent sur le risque de déshumanisation des soins et d'inégalité d'accès à ces services et sur la sécurité des données de santé (78% redoutent que leurs données de santé ne fassent l'objet d'usages commerciaux).
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La télémédecine, une réponse aux défis du système de santé ? > Accès aux soins : rétablir l’équité territoriale face aux déserts médicaux
+# Titre section: Accès aux soins : rétablir l’équité territoriale face aux déserts médicaux
+# Type: h3
+# Taille: 398 caractères
+# Tokens: 61
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Accès aux soins : rétablir l’équité territoriale face aux déserts médicaux
+Les inégalités territoriales d’accès aux soins ne cessent de se creuser. Une partie croissante de la population peine à organiser son parcours de soins. Beaucoup y renoncent, se heurtent à de longs délais d’attente ou n’ont pas de médecin traitant. De nouvelles mesures s’imposent pour atténuer ces fractures médicales.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une courte phase expérimentale
+# Titre section: Une courte phase expérimentale
+# Type: h3
+# Taille: 912 caractères
+# Tokens: 138
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Une courte phase expérimentale
+En 2012, le gouvernement Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale lance le Pacte territoire santé 2012-2015 pour faire reculer les déserts médicaux. Parmi ses 12 engagements figure le développement de la télémédecine. Un second plan lui succède jusqu'en 2017 ; il prévoit de favoriser l’accès à la télémédecine pour les patients chroniques et les soins urgents.
+La loi de financement de la sécurité sociale (LFSS) pour 2014 (article 36) - Légifrance - Nouvelle fenêtre") instaure l’expérimentation de la télémédecine pour une durée de quatre ans à compter du 1er janvier 2014 : le **programme Etapes** (Expérimentations de télémédecine pour l’amélioration des parcours en santé) encourage et soutient financièrement le déploiement de projets de télésanté.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une courte phase expérimentale
+# Titre section: Une courte phase expérimentale
+# Type: paragraph
+# Taille: 760 caractères
+# Tokens: 117
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Initialement menées dans neuf régions, ces expérimentations s’étendent en 2017 à tout le territoire. Le dispositif Etapes est reconduit pour quatre ans par la LFSS pour 2018 (article 54) - Légifrance - Nouvelle fenêtre") ; il porte sur la télésurveillance de certaines affections de longue durée (ALD).
+La Haute Autorité de santé (HAS) est chargée de valider une évaluation de ces expérimentations, en vue d’une généralisation de la télémédecine sur l’ensemble du territoire. Un rapport évaluant le dispositif est rédigé en 2017 par le ministère Ensemble des services de l'État (administration centrale et services déconcentrés) placés sous la responsabilité d'un ministre des solidarités et de la santé puis soumis à la HAS avant sa transmission au Parlement.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une reconnaissance juridique
+# Titre section: Une reconnaissance juridique
+# Type: list
+# Taille: 937 caractères
+# Tokens: 141
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Une reconnaissance juridique
+La LFSS Loi déterminant les conditions générales de l'équilibre financier de la Sécurité sociale pour 2018 met fin au caractère expérimental de la télémédecine et fait entrer la téléconsultation dans le droit commun de l'Assurance maladie. Fruit de plusieurs mois de négociations, un accord est signé le 14 juin 2018 entre les syndicats de médecins et la Caisse nationale d’assurance maladie (CNAM) puis approuvé par un arrêté d'août 2018. Il instaure un **cadre légal** pour le déploiement de la télémédecine en précisant ses grands principes et ses modalités de fonctionnement.
+Depuis le 15 septembre 2018, les **actes de téléconsultation** sont ouverts à tous les patients et **remboursés** par l’Assurance maladie comme des consultations classiques :
+- s'ils sont réalisés par **vidéotransmission** _via_ une plateforme sécurisée ;
+- s’ils s’inscrivent dans le cadre d’un parcours de soins coordonné.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une reconnaissance juridique
+# Titre section: Une reconnaissance juridique
+# Type: list
+# Taille: 930 caractères
+# Tokens: 145
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Le patient doit être orienté initialement par son médecin traitant, sauf s’il n’en a pas désigné un, s’il a moins de 16 ans ou si la consultation relève d’une spécialité médicale d’accès direct (gynécologie, ophtalmologie, pédiatrie, psychiatrie…) ;
+- si le médecin téléconsultant se situe dans le même territoire que le patient ;
+- si le suivi de ce dernier alterne des consultations en présentiel et des téléconsultations, au regard de ses besoins et de l'appréciation du médecin ;
+- si la téléconsultation fait l'objet d'un compte rendu inscrit au dossier du patient.
+Par ailleurs, le plan quinquennal de lutte contre les déserts médicaux lancé en 2017 prévoit d’équiper en matériel de téléconsultation à l'horizon 2020 tous les établissements d’hébergement pour personnes âgées dépendantes (Ehpad) et les zones à faible densité médicale, pour éviter des hospitalisations inutiles et améliorer la qualité du suivi des patients.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une reconnaissance juridique
+# Titre section: Une reconnaissance juridique
+# Type: paragraph
+# Taille: 921 caractères
+# Tokens: 138
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Depuis février 2019, la **téléexpertise** est également **remboursée** par l’Assurance maladie. Initialement, elle n'était accessible qu'aux personnes atteintes d’une ALD ou d’une maladie rare et aux résidents des zones de faible densité médicale, des Ehpad et des établissements médicosociaux. Depuis 2022, tout patient peut en bénéficier, et tout professionnel de santé peut solliciter ainsi l'avis d'un médecin ou d'une sage-femme.
+La **télésurveillance**, quant à elle, est rémunérée en droit commun depuis juillet 2023 ; la prise en charge ne couvre que quelques pathologies et nécessite une déclaration préalable du médecin opérateur à l'agence régionale de santé (ARS).
+Annoncée en septembre 2018 par le président de la République, la stratégie "Ma santé 2022" propose une vision d’ensemble du système de santé pour les années à venir et réaffirme le rôle de la télémédecine au sein de cette nouvelle organisation.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une reconnaissance juridique
+# Titre section: Une reconnaissance juridique
+# Type: paragraph
+# Taille: 336 caractères
+# Tokens: 57
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+La loi du 24 juillet 2019 relative à l’organisation et à la transformation du système de santé met en œuvre une partie des mesures avancées par la stratégie. Elle confirme la place de l’e-santé. Elle prévoit la création d’un espace numérique de santé pour chaque usager, de même que le développement de la télémédecine et des télésoins.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une pratique de plus en plus encadrée
+# Titre section: Une pratique de plus en plus encadrée
+# Type: list
+# Taille: 953 caractères
+# Tokens: 153
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Une pratique de plus en plus encadrée
+En juillet 2022, le groupe Ramsay lance, en partenariat avec une plateforme, une **offre de téléconsultations 24 heures sur 24 et sept jours sur sept** pour un forfait mensuel de 11,90 euros. L'abonné peut consulter un médecin ou un autre professionnel de santé. Ces consultations, téléphoniques ou vidéo, ne sont pas prises en charge par l'Assurance maladie mais peuvent donner lieu à des prescriptions qui, elles, le sont. Elles ne donnent pas lieu à la prescription d'arrêts maladie. La Mission flash relative aux téléconsultations sur abonnement réalisée en 2023 par l'Assemblée nationale constate que cette offre :
+- s'inscrit hors de la logique du parcours de soins ;
+- peut accentuer les inégalités d'accès aux soins ;
+- permet à des médecins d'exercer une activité très lucrative depuis n'importe quel endroit.
+Selon ce rapport, " _elle témoigne d'une conception consumériste et marchande de la santé"_.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une pratique de plus en plus encadrée
+# Titre section: Une pratique de plus en plus encadrée
+# Type: list
+# Taille: 829 caractères
+# Tokens: 134
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Elle a d'ailleurs abouti à un échec commercial. La mission appelle les autorités à **réguler les téléconsultations** et à _"rester vigilantes par rapport à l'évolution de ces offres payantes et au risque de financiarisation"_.
+Le 17 mai 2023, le gouvernement Organe collégial composé du Premier ministre, des ministres et des secrétaires d'État, chargé de l'exécution des lois et de la direction de la politique nationale lance la Feuille de route du numérique en santé 2023-2027. Elle décrit les chantiers prioritaires pour cette période, déclinés en quatre axes :
+- développer la prévention et rendre chacun acteur de sa santé ;
+- redonner du temps aux professionnels de santé et mieux prendre en charge les patients grâce au numérique ;
+- améliorer l'accès à la santé pour les patients et les professionnels qui les orientent.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une pratique de plus en plus encadrée
+# Titre section: Une pratique de plus en plus encadrée
+# Type: list
+# Taille: 885 caractères
+# Tokens: 133
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Elle prévoit notamment :
+- d'étendre l'usage de la télésanté dans les zones sous-denses,
+- de soutenir et d'évaluer celle-ci au service des parcours de santé prioritaires,
+- de réguler les outils de télésanté pour les rendre plus interopérables, sécurisés et éthiques ;
+- déployer un cadre propice au développement des usages et de l'innovation numérique en santé.
+La loi de financement de la Sécurité sociale (LFSS) pour 2023 (art. 53) vise à réguler l'offre des **sociétés de téléconsultation** en les dotant d'un **statut** _**ad hoc**_. Elles peuvent, si elles remplissent plusieurs conditions, recevoir un **agrément** qui permet le remboursement par l'Assurance maladie, à partir de janvier 2024, des téléconsultations effectuées par leurs médecins salariés. Le décret du 29 février 2024 relatif aux sociétés de téléconsultation précise les modalités de délivrance de l'agrément.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une montée en puissance progressive > Une pratique de plus en plus encadrée
+# Titre section: Une pratique de plus en plus encadrée
+# Type: paragraph
+# Taille: 343 caractères
+# Tokens: 54
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+La LFSS pour 2024 prévoit l' **impossibilité d'obtenir en téléconsultation un arrêt de travail supérieur à trois jours** (sauf s'il est prescrit par le médecin traitant) ou un renouvellement d'arrêt de travail (sauf si le patient justifie qu'il ne peut pas consulter pour cela en présentiel). Cette mesure s'applique depuis le 27 février 2024.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+# Titre section: Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+# Type: list
+# Taille: 741 caractères
+# Tokens: 115
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+## Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+Le rapport publié par la CNAM en juillet 2020 recense, pour février 2020, environ 40 000 téléconsultations remboursées et plus de 3 000 médecins téléconsultants. Mais dès l’instauration du **confinement**, le 15 mars 2020, la téléconsultation a connu un **essor spectaculaire**.
+Dans le cadre de l’ **état d’urgence sanitaire** instauré par la loi du 23 mars 2020 :
+- les **règles** de réalisation des actes de télémédecine ont été **assouplies**, afin de protéger patients et médecins des risques de contamination. Les patients ont pu bénéficier d'une consultation à distance avec un médecin qu’ils ne connaissaient pas et sans être orientés par leur médecin traitant.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+# Titre section: Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+# Type: list
+# Taille: 984 caractères
+# Tokens: 159
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+En vue de pallier les disparités d’accès au numérique, la consultation par téléphone a été autorisée pour les femmes enceintes et certains patients (résidant en "zone blanche", ne disposant pas d’outil vidéo, en ALD ou âgés de 70 ans et plus) ;
+- toutes les téléconsultations ont été **prises en charge à 100%** par l’Assurance maladie, de même que les actes de télésuivi accomplis par des infirmiers.
+La télémédecine est ainsi devenue, en quelques semaines, un **outil essentiel** pour l’accompagnement et le suivi médical des patients. De 486 369 entre le 23 et le 29 mars 2020, le nombre de téléconsultations remboursées par semaine a atteint 1 million au plus fort de la crise, en avril, avant de revenir aux alentours de 650 000 à la fin mai.
+Ces actes ont été effectués très majoritairement par des **médecins libéraux**, surtout des généralistes (pour les quatre cinquièmes) mais aussi des psychiatres, des pédiatres, des gynécologues, des dermatologues et des endocrinologues.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+# Titre section: Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ?
+# Type: paragraph
+# Taille: 460 caractères
+# Tokens: 68
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+La période de confinement a modifié le **profil des patients** bénéficiant de la téléconsultation : les moins de 30 ans y ont eu moins souvent recours (19% contre 32% avant le confinement), contrairement aux plus de 70 ans (20% contre 8% avant). Les patients en ALD l’ont proportionnellement moins utilisée. Toujours surreprésentée dans les zones densément peuplées (principalement l’Île-de-France), la téléconsultation n’a cessé de progresser dans les autres.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ? > Et depuis ?
+# Titre section: Et depuis ?
+# Type: list
+# Taille: 876 caractères
+# Tokens: 142
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Et depuis ?
+Le volume de téléconsultations a baissé significativement dès le début du déconfinement, tout en restant à un niveau important.
+Dans son rapport de juillet 2020, la CNAM affirme que la téléconsultation doit _"devenir une modalité d’accès aux soins choisie et non subie"_, adaptée à la situation et à l’état de santé du malade. Elle formule trois propositions pour **accélérer le déploiement** de la télémédecine en maintenant la qualité de la prise en charge :
+- prolonger pour une durée limitée (au moins un an) la prise en charge à 100% des téléconsultations ;
+- assouplir le principe selon lequel le téléconsultant doit connaître préalablement le patient ;
+- maintenir de façon transitoire les actes dérogatoires de télésoin créés lors de la crise épidémique pour les pharmaciens et certains auxiliaires de santé, afin d’assurer une continuité de ces soins.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ? > Et depuis ?
+# Titre section: Et depuis ?
+# Type: table
+# Taille: 883 caractères
+# Tokens: 153
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Ces trois points font partie des préconisations du Ségur de la santé pour accompagner et renforcer l’essor de la télémédecine.
+Après le pic lié à la crise sanitaire, le nombre de téléconsultations pratiquées en France a reculé dans les années 2020-2023, avant de repartir à la hausse en 2024. La tendance à la hausse s'est poursuivie sur le 1er trimestre 2025.
+| | 2020 | 2021 | 2022 | 2023 | 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Nombre de téléconsultations (en millions) | 17,3 | 13,2 | 12,6 | 11,7 | 13,9 |
+Nombre annuel de téléconsultations (en millions)
+En 2024, les professionnels de santé libéraux représentent encore plus de la moitié des téléconsultations pratiquées (55%). Toutefois, leur part recule significativement sur les dernières années au profit des sociétés de téléconsultations : 40% des téléconsultations réalisées en 2024 (contre 6% seulement en 2021).
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ? > Et depuis ?
+# Titre section: Et depuis ?
+# Type: list
+# Taille: 890 caractères
+# Tokens: 131
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+Les médecins généralistes libéraux ont une activité de téléconsultation très limitée (2% de leur activité clinique), tandis que celle-ci est plus développée pour plusieurs spécialités médicales libérales :
+- psychiatres (7% de l’activité) ;
+Les patients qui ont téléconsulté un médecin généraliste libéral résident le plus souvent dans les communes favorisées alors que ceux qui ont téléconsulté via les plateformes de téléconsultation résident davantage dans des communes avec une faible accessibilité Mesures d'adaptation et d'aménagement de l'espace social destinées à en faciliter l'accès aux personnes handicapées ou à mobilité réduite à un médecin généraliste.
+Globalement, les femmes recourent davantage à la téléconsultation que les hommes, en particulier les plus jeunes, avec un pic de recours entre 20 et 30 ans. Le recours à la téléconsultation augmente de nouveau après 75 ans.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ? > Et depuis ?
+# Titre section: Et depuis ?
+# Type: paragraph
+# Taille: 745 caractères
+# Tokens: 119
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+La Direction générale de l’offre de soins (DGOS) du ministère Ensemble des services de l'État (administration centrale et services déconcentrés) placés sous la responsabilité d'un ministre de la santé et la CNAM ont lancé, le 27 juin 2025, les assises de la télémédecine, pour engager une nouvelle étape de structuration de la télémédecine. Des ateliers impliquant l’ensemble des acteurs (professionnels de santé, patients, institutions et opérateurs) et se tenant du mois de septembre au mois de décembre 2025, vont mener une réflexion sur la " _juste place_" de la télémédecine dans le parcours de soins des Français.
+Il s'agit d'identifier et soutenir les usages au bénéfice de la qualité du soin et de la fluidité des organisations de santé.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ? > Et depuis ?
+# Titre section: Et depuis ?
+# Type: paragraph
+# Taille: 552 caractères
+# Tokens: 86
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+L'objectif affiché est de faire, en janvier 2026, des propositions d’action au ministre chargé de la santé, en faveur d’un développement maitrisé de la téléconsultation en France, en complémentarité et en bonne coordination avec l’offre de soins existante afin de faire de la télémédecine un véritable outil d’accès aux soins pour tous.
+Dans un contexte de tension sur les ressources médicales, l'enjeu est de veiller à préserver la disponibilité des médecins face à leurs patients, en complément du recours à la téléconsultation et à la téléexpertise.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > Une pratique plébiscitée pendant l'épidémie de Covid-19 mais après ? > Téléconsultations en médecine générale : une pratique majoritairement citadine
+# Titre section: Téléconsultations en médecine générale : une pratique majoritairement citadine
+# Type: h3
+# Taille: 427 caractères
+# Tokens: 65
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Téléconsultations en médecine générale : une pratique majoritairement citadine
+Durant la pandémie de Covid-19, les trois quarts des médecins généralistes ont mis en place la téléconsultation (contre moins de 5% auparavant). Après la fin de la crise sanitaire, la pratique s'est installée, même si elle reste peu fréquente. La Direction de la recherche, des études, de l'évaluation et des statistiques (Drees) fait le point.
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > La Documentation française propose > Parlons santé en 30 questions
+# Titre section: Parlons santé en 30 questions
+# Type: h3
+# Taille: 167 caractères
+# Tokens: 22
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+### Parlons santé en 30 questions
+30 questions-réponses pour comprendre les enjeux en matière de santé : déserts médicaux, financement, relations patients-soignants...
+
+
+
+================================================================================# Source URL: https://www.vie-publique.fr/eclairage/18473-la-telemedecine-une-solution-pour-faciliter-lacces-aux-soins
+# Document parent: La télémédecine, une solution pour faciliter l'accès aux soins
+# Section: Analyse de la demande et pain points
+# Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?
+# Query: besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024
+# Angle: besoins utilisateurs finaux
+# Chemin hiérarchique: La télémédecine, une solution pour faciliter l'accès aux soins ? > En ce moment
+# Titre section: En ce moment
+# Type: list
+# Taille: 508 caractères
+# Tokens: 85
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:21:33.976895+00:00
+................................................................................
+
+## En ce moment
+- ### Atteintes à la probité au sein des administrations : une circulaire pour renforcer la prévention et les sanctions
+- ### Effets d'une application prolongée de la loi spéciale en 2027
+- ### Rapport du Gouvernement sur la situation des Français établis hors de France - 2026
+- ### La clause de défense mutuelle de l'Union européenne en 5 questions
+- ### Agence française anticorruption - Rapport d'activité 2025
+- ### Rapport d'activité 2025 de l'Inspection générale des affaires maritimes

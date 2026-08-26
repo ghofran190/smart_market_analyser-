@@ -1,0 +1,340 @@
+[
+    {
+        "chunk_id": "a55a8139306a576a",
+        "content": "Lancé en 2021 avec un investissement historique de 2 milliards d’euros, le programme Ségur numérique transforme la manière dont les données de santé sont partagées entre professionnels et usagers en France. Cette initiative, portée par la Délégation au numérique en santé (DNS), s’inscrit dans une stratégie nationale visant à faire du numérique un levier majeur d’amélioration des soins.\nLors du 11ᵉ Comité de suivi (COSUI) tenu le 10 décembre 2024, les acteurs de l’écosystème — pouvoirs publics, professionnels de santé, industriels et associations — ont dressé un bilan des avancées et défini les priorités pour 2025. Voici les faits marquants de ce point d’étape.",
+        "metadata": {
+            "chunk_id": "a55a8139306a576a",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Lancé en 2021 avec un investissement historique de 2 milliards d’euros, le programme Ségur numérique transforme la manière dont les données de santé sont partagées entre professionnels et usagers en France. Cette initiative, portée par la Délégation au numérique en santé (DNS), s’inscrit dans une stratégie nationale visant à faire du numérique un levier majeur d’amélioration des soins.\nLors du 11ᵉ Comité de suivi (COSUI) tenu le 10 décembre 2024, les acteurs de l’écosystème — pouvoirs publics, p",
+            "token_count": 104,
+            "character_count": 668,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "046b1e89b1fb4d5c",
+        "content": "## **Mon espace santé : une adoption croissante chez les patients et les professionnels**\nLe carnet de santé numérique **Mon espace santé** s’impose progressivement comme un outil incontournable :\n- **Une adoption accélérée** : près d’un Français sur quatre utilise déjà Mon espace santé, avec une moyenne de 600 000 nouvelles activations mensuelles en 2024.\n- **Un enrichissement continu** : en octobre, plus de 30 millions de documents médicaux ont été partagés, bien que la grève des biologistes ait temporairement ralenti les flux en novembre.\n- **Des usages prometteurs chez les professionnels** : les premiers retours confirment que l’accès à l’historique médical améliore la prise en charge des patients. Tous les utilisateurs pilotes prévoient de poursuivre leur usage.",
+        "metadata": {
+            "chunk_id": "046b1e89b1fb4d5c",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Mon espace santé : une adoption croissante chez les patients et les professionnels**"
+            ],
+            "section_title": "**Mon espace santé : une adoption croissante chez les patients et les professionnels**",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## **Mon espace santé : une adoption croissante chez les patients et les professionnels**\nLe carnet de santé numérique **Mon espace santé** s’impose progressivement comme un outil incontournable :\n- **Une adoption accélérée** : près d’un Français sur quatre utilise déjà Mon espace santé, avec une moyenne de 600 000 nouvelles activations mensuelles en 2024.\n- **Un enrichissement continu** : en octobre, plus de 30 millions de documents médicaux ont été partagés, bien que la grève des biologistes a",
+            "token_count": 118,
+            "character_count": 777,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d82b296087af9185",
+        "content": "### **Des avancées concrètes grâce à la vague 2 du Ségur numérique**\nLa vague 2, entamée en 2024, vise à équiper davantage de professionnels et d’établissements de logiciels compatibles avec Mon espace santé :\n1. **À l’hôpital** : Tous les éditeurs sont engagés, et la première solution a déjà été référencée.\n2. **En imagerie médicale** : Les travaux pour les logiciels de gestion des images (RIS et Drimbox) sont finalisés, avec des arrêtés prévus début 2025.\n3. **En médecine de ville** : Le déploiement des solutions pour les prescripteurs et les officines sera intensifié en 2025.\nDes mécanismes de suivi terrain et des phases de test rigoureuses garantiront la qualité des logiciels déployés.",
+        "metadata": {
+            "chunk_id": "d82b296087af9185",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Mon espace santé : une adoption croissante chez les patients et les professionnels**",
+                "**Des avancées concrètes grâce à la vague 2 du Ségur numérique**"
+            ],
+            "section_title": "**Des avancées concrètes grâce à la vague 2 du Ségur numérique**",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### **Des avancées concrètes grâce à la vague 2 du Ségur numérique**\nLa vague 2, entamée en 2024, vise à équiper davantage de professionnels et d’établissements de logiciels compatibles avec Mon espace santé :\n1. **À l’hôpital** : Tous les éditeurs sont engagés, et la première solution a déjà été référencée.\n2. **En imagerie médicale** : Les travaux pour les logiciels de gestion des images (RIS et Drimbox) sont finalisés, avec des arrêtés prévus début 2025.\n3. **En médecine de ville** : Le déplo",
+            "token_count": 113,
+            "character_count": 698,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e960ca1ef4fda692",
+        "content": "### **Les défis à relever pour 2025**\nPour généraliser l’utilisation de Mon espace santé, plusieurs défis doivent encore être relevés :\n- **Sécuriser l’identification électronique** : L’adoption de moyens d’identification à double facteur sera essentielle, notamment grâce aux financements « Hospiconnect ».\n- **Encourager les usages** : Les programmes HOP’EN 2 et ESMS numérique accompagneront les établissements hospitaliers et médico-sociaux. En ville, 20 000 médecins bénéficient déjà des financements pour l’envoi des volets de synthèse médicale.\nPar ailleurs, la démarche « Sentinelle » continuera d’apporter des réponses concrètes aux problématiques terrain, telles que la gestion des consentements et des documents sensibles.",
+        "metadata": {
+            "chunk_id": "e960ca1ef4fda692",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Mon espace santé : une adoption croissante chez les patients et les professionnels**",
+                "**Les défis à relever pour 2025**"
+            ],
+            "section_title": "**Les défis à relever pour 2025**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **Les défis à relever pour 2025**\nPour généraliser l’utilisation de Mon espace santé, plusieurs défis doivent encore être relevés :\n- **Sécuriser l’identification électronique** : L’adoption de moyens d’identification à double facteur sera essentielle, notamment grâce aux financements « Hospiconnect ».\n- **Encourager les usages** : Les programmes HOP’EN 2 et ESMS numérique accompagneront les établissements hospitaliers et médico-sociaux. En ville, 20 000 médecins bénéficient déjà des finance",
+            "token_count": 101,
+            "character_count": 733,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2f31724ca44b271b",
+        "content": "### **Un programme aux impacts transformateurs**\nAu-delà des avancées techniques, le Ségur numérique redéfinit le cadre des politiques publiques de santé :\n- **Infrastructures partagées** : Le modèle d’État-plateforme permet une co-construction impliquant patients, professionnels et industriels.\n- **Mise à jour des logiciels** : Une intervention directe de l’État garantit des outils à jour, alignés sur les exigences du programme.",
+        "metadata": {
+            "chunk_id": "2f31724ca44b271b",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Mon espace santé : une adoption croissante chez les patients et les professionnels**",
+                "**Un programme aux impacts transformateurs**"
+            ],
+            "section_title": "**Un programme aux impacts transformateurs**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **Un programme aux impacts transformateurs**\nAu-delà des avancées techniques, le Ségur numérique redéfinit le cadre des politiques publiques de santé :\n- **Infrastructures partagées** : Le modèle d’État-plateforme permet une co-construction impliquant patients, professionnels et industriels.\n- **Mise à jour des logiciels** : Une intervention directe de l’État garantit des outils à jour, alignés sur les exigences du programme.",
+            "token_count": 60,
+            "character_count": 433,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "23b823f5dd3ed6d7",
+        "content": "## **Un futur prometteur pour la santé numérique**\nEn 2025, le Ségur numérique s’apprête à franchir de nouvelles étapes décisives. Grâce à une coordination renforcée et à des investissements stratégiques, l’ambition de généraliser un partage fluide et sécurisé des données de santé devient réalité.\nLes professionnels et patients sont invités à découvrir les ressources disponibles sur esante.gouv.fr/segur pour rester informés des évolutions et opportunités offertes par ce programme.\n![Photo de Clémence Minota]()Clémence MinotaDernière mise à jour : 31 décembre 2024\n![Photo de Clémence Minota]()",
+        "metadata": {
+            "chunk_id": "23b823f5dd3ed6d7",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Un futur prometteur pour la santé numérique**"
+            ],
+            "section_title": "**Un futur prometteur pour la santé numérique**",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## **Un futur prometteur pour la santé numérique**\nEn 2025, le Ségur numérique s’apprête à franchir de nouvelles étapes décisives. Grâce à une coordination renforcée et à des investissements stratégiques, l’ambition de généraliser un partage fluide et sécurisé des données de santé devient réalité.\nLes professionnels et patients sont invités à découvrir les ressources disponibles sur esante.gouv.fr/segur pour rester informés des évolutions et opportunités offertes par ce programme.\n![Photo de Clé",
+            "token_count": 84,
+            "character_count": 599,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a6855046c875908d",
+        "content": "### Clémence Minota\nJe suis rédactrice spécialisée en santé et innovation, passionnée par l'impact des technologies sur l'évolution des soins médicaux. Mon expertise consiste à décrypter les dernières avancées du secteur et à fournir des contenus clairs et pertinents pour les professionnels de santé.",
+        "metadata": {
+            "chunk_id": "a6855046c875908d",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Un futur prometteur pour la santé numérique**",
+                "Clémence Minota"
+            ],
+            "section_title": "Clémence Minota",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Clémence Minota\nJe suis rédactrice spécialisée en santé et innovation, passionnée par l'impact des technologies sur l'évolution des soins médicaux. Mon expertise consiste à décrypter les dernières avancées du secteur et à fournir des contenus clairs et pertinents pour les professionnels de santé.",
+            "token_count": 44,
+            "character_count": 301,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fd4a21e8c809d238",
+        "content": "### Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie",
+        "metadata": {
+            "chunk_id": "fd4a21e8c809d238",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Un futur prometteur pour la santé numérique**",
+                "Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie"
+            ],
+            "section_title": "Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie",
+            "token_count": 16,
+            "character_count": 112,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7d32dbe5c0182d6e",
+        "content": "### SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques",
+        "metadata": {
+            "chunk_id": "7d32dbe5c0182d6e",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Un futur prometteur pour la santé numérique**",
+                "SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques"
+            ],
+            "section_title": "SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques",
+            "token_count": 19,
+            "character_count": 104,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "18c8f2423541e74c",
+        "content": "### Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026\n![France 2030, programme national de soutien à l’innovation en santé et aux biotechnologies]()",
+        "metadata": {
+            "chunk_id": "18c8f2423541e74c",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Un futur prometteur pour la santé numérique**",
+                "Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026"
+            ],
+            "section_title": "Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026\n![France 2030, programme national de soutien à l’innovation en santé et aux biotechnologies]()",
+            "token_count": 30,
+            "character_count": 188,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ecb3153169f57485",
+        "content": "### France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?\nBouton retour en haut de la page\ntoute l'actualité sur l'innovation médicale\nUne fois par mois, recevez l’essentiel de l’innovation en santé, sans spam ni surplus.\nUne newsletter totalement gratuite\nRecaptcha requires verification.\nprotected by **reCAPTCHA**",
+        "metadata": {
+            "chunk_id": "ecb3153169f57485",
+            "parent_doc": "Ségur du numérique : le bilan 2024 et les perspectives pour 2025",
+            "source_url": "https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "risques liés à l’adoption utilisateur",
+            "heading_path": [
+                "**Un futur prometteur pour la santé numérique**",
+                "France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?"
+            ],
+            "section_title": "France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?\nBouton retour en haut de la page\ntoute l'actualité sur l'innovation médicale\nUne fois par mois, recevez l’essentiel de l’innovation en santé, sans spam ni surplus.\nUne newsletter totalement gratuite\nRecaptcha requires verification.\nprotected by **reCAPTCHA**",
+            "token_count": 53,
+            "character_count": 346,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:36:02.706637+00:00",
+            "extra": {}
+        }
+    }
+]

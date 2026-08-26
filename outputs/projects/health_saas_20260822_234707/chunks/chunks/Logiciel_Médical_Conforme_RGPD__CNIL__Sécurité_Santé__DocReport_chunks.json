@@ -1,0 +1,408 @@
+[
+    {
+        "chunk_id": "ca6a40c38943e9c2",
+        "content": "← Accueil DocReport France\nCharte de Sécurité et Notice RGPD / CNIL\nSécurité Zéro-Trust & Conformité Européenne",
+        "metadata": {
+            "chunk_id": "ca6a40c38943e9c2",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "← Accueil DocReport France\nCharte de Sécurité et Notice RGPD / CNIL\nSécurité Zéro-Trust & Conformité Européenne",
+            "token_count": 17,
+            "character_count": 111,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a840ad2d02c07ca4",
+        "content": "# Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient\nLa sécurité des données de santé est notre priorité absolue. DocReport est le seul scribe médical IA à implémenter le masquage local des identifiants (NIR), un chiffrement client-side Zero-Knowledge et un hébergement souverain en Europe via Vertex AI.\nDécouvrir le scribe sécurisé Voir l'architecture de sécurité\nEntièrement conforme au secret médical et à l'article R. 1112-7 du Code de la santé publique.",
+        "metadata": {
+            "chunk_id": "a840ad2d02c07ca4",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient"
+            ],
+            "section_title": "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient\nLa sécurité des données de santé est notre priorité absolue. DocReport est le seul scribe médical IA à implémenter le masquage local des identifiants (NIR), un chiffrement client-side Zero-Knowledge et un hébergement souverain en Europe via Vertex AI.\nDécouvrir le scribe sécurisé Voir l'architecture de sécurité\nEntièrement conforme au secret médical et à l'article R. 1112-7 du Code de la santé publique.",
+            "token_count": 76,
+            "character_count": 490,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "75fc8ae32913d28f",
+        "content": "## Le Cadre Réglementaire des Données de Santé en France\nEn France, le traitement informatique des données à caractère personnel relatives à la santé est encadré par des règles d'une rigueur exceptionnelle. Les professionnels de santé sont tenus au \\*\\*secret médical\\*\\* (article L. 1110-4 du Code de la santé publique). Toute fuite d'information ou tout hébergement non sécurisé peut engager la responsabilité pénale et ordinale du praticien.\nDe plus, le \\*\\*Règlement Général sur la Protection des Données (RGPD)\\*\\* de l'Union Européenne et la \\*\\*Loi Informatique et Libertés\\*\\* imposent des obligations spécifiques en matière d'analyse d'impact relative à la protection des données (AIPD), d'information claire des patients, et de sécurisation des accès physiques et logiques. DocReport a été conçu dès sa première ligne de code selon le principe du “Privacy by Design” (la protection des données par conception) pour répondre à ces exigences.",
+        "metadata": {
+            "chunk_id": "75fc8ae32913d28f",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Le Cadre Réglementaire des Données de Santé en France"
+            ],
+            "section_title": "Le Cadre Réglementaire des Données de Santé en France",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Le Cadre Réglementaire des Données de Santé en France\nEn France, le traitement informatique des données à caractère personnel relatives à la santé est encadré par des règles d'une rigueur exceptionnelle. Les professionnels de santé sont tenus au \\*\\*secret médical\\*\\* (article L. 1110-4 du Code de la santé publique). Toute fuite d'information ou tout hébergement non sécurisé peut engager la responsabilité pénale et ordinale du praticien.\nDe plus, le \\*\\*Règlement Général sur la Protection des",
+            "token_count": 142,
+            "character_count": 950,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "50ca176b2023adcc_3",
+        "content": "## Notre Architecture de Sécurité Zero-Trust : Comment nous protégeons vos patients\nPour assurer une sécurité maximale, nous partons du principe que le serveur cloud ne doit jamais avoir accès à des informations médicales nominatives en clair. C'est pourquoi notre système repose sur trois piliers technologiques :\n- **Nettoyage local (Scrubbing) du NIR et des PII** : Lorsque vous enregistrez ou dictez une consultation, notre bibliothèque logicielle client-side `fr-compliance.ts` analyse le flux textuel dans la mémoire de votre navigateur. Tout numéro de Sécurité Sociale français (NIR à 15 chiffres) ou information nominative évidente (noms, numéros de téléphone) est extrait et remplacé par un jeton neutre (ex: `[FR_NIR_1]`) \\*avant\\* d'envoyer les données au serveur d'IA.\n- **Chiffrement local AES-GCM 256 bits** : Une fois le rapport médical structuré généré par l'IA, il est renvoyé à votre navigateur. L'association avec l'identité réelle du patient se fait localement dans votre RAM.",
+        "metadata": {
+            "chunk_id": "50ca176b2023adcc_3",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Notre Architecture de Sécurité Zero-Trust : Comment nous protégeons vos patients"
+            ],
+            "section_title": "Notre Architecture de Sécurité Zero-Trust : Comment nous protégeons vos patients",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Notre Architecture de Sécurité Zero-Trust : Comment nous protégeons vos patients\nPour assurer une sécurité maximale, nous partons du principe que le serveur cloud ne doit jamais avoir accès à des informations médicales nominatives en clair. C'est pourquoi notre système repose sur trois piliers technologiques :\n- **Nettoyage local (Scrubbing) du NIR et des PII** : Lorsque vous enregistrez ou dictez une consultation, notre bibliothèque logicielle client-side `fr-compliance.ts` analyse le flux t",
+            "token_count": 148,
+            "character_count": 996,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "915e1be0febaeefe_4",
+        "content": "Avant d'être stocké en base de données cloud pour archivage, le rapport finalisé est chiffré dans votre navigateur avec l'algorithme AES-GCM 256 bits à l'aide d'une clé privée stockée dans votre stockage local (`localStorage`). Nos serveurs n'hébergent que du texte crypté indéchiffrable.\n- **Souveraineté avec Vertex AI EU** : Le traitement de l'intelligence artificielle s'effectue exclusivement dans les centres de données de Google Cloud situés au sein de l'Union Européenne (multi-région EU). Aucune donnée ne sort de l'UE, et aucune information clinique n'est conservée pour l'entraînement des modèles linguistiques généraux.",
+        "metadata": {
+            "chunk_id": "915e1be0febaeefe_4",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Notre Architecture de Sécurité Zero-Trust : Comment nous protégeons vos patients"
+            ],
+            "section_title": "Notre Architecture de Sécurité Zero-Trust : Comment nous protégeons vos patients",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "Avant d'être stocké en base de données cloud pour archivage, le rapport finalisé est chiffré dans votre navigateur avec l'algorithme AES-GCM 256 bits à l'aide d'une clé privée stockée dans votre stockage local (`localStorage`). Nos serveurs n'hébergent que du texte crypté indéchiffrable.\n- **Souveraineté avec Vertex AI EU** : Le traitement de l'intelligence artificielle s'effectue exclusivement dans les centres de données de Google Cloud situés au sein de l'Union Européenne (multi-région EU). Au",
+            "token_count": 90,
+            "character_count": 631,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c30ffd4435dd63bd",
+        "content": "## Obligation de Conservation des Dossiers Médicaux et RGPD\nUne question fréquente concerne l'articulation entre le droit à l'effacement (“droit à l'oubli”) prévu par le RGPD et l'obligation de conservation des dossiers médicaux. En France, l'article R. 1112-7 du Code de la santé publique impose une durée minimale de conservation des dossiers médicaux de 20 ans à compter du dernier séjour du patient (ou jusqu'au 28ème anniversaire pour les mineurs).\nNotre politique de confidentialité B2B documente explicitement ce point : l'obligation légale de conservation des dossiers par le médecin traitant \\*\\*prime\\*\\* sur les demandes simples de suppression RGPD de la part de tiers. L'archivage crypté et le maintien de la clé d'accès (dont le médecin a l'entière responsabilité) garantissent la pérennité du dossier médical conformément aux exigences légales, tout en empêchant toute exploitation non autorisée des données.",
+        "metadata": {
+            "chunk_id": "c30ffd4435dd63bd",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Obligation de Conservation des Dossiers Médicaux et RGPD"
+            ],
+            "section_title": "Obligation de Conservation des Dossiers Médicaux et RGPD",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Obligation de Conservation des Dossiers Médicaux et RGPD\nUne question fréquente concerne l'articulation entre le droit à l'effacement (“droit à l'oubli”) prévu par le RGPD et l'obligation de conservation des dossiers médicaux. En France, l'article R. 1112-7 du Code de la santé publique impose une durée minimale de conservation des dossiers médicaux de 20 ans à compter du dernier séjour du patient (ou jusqu'au 28ème anniversaire pour les mineurs).\nNotre politique de confidentialité B2B documen",
+            "token_count": 137,
+            "character_count": 922,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "382e1ea2944b0911",
+        "content": "## Qui fait quoi ? Les rôles RGPD définis dans notre contrat B2B\nPour être en conformité, les rôles de traitement de données doivent être définis de manière contractuelle :\n- **Le Praticien ou la Clinique** est le \\*\\*Responsable de Traitement\\*\\* (Data Controller). C'est lui qui décide de collecter les antécédents médicaux et d'effectuer l'examen clinique pour le diagnostic du patient.\n- **Be Smart Global, LLC (DocReport)** agit en tant que \\*\\*Sous-Traitant\\*\\* (Data Processor) au sens de l'article 28 du RGPD. Nous fournissons l'infrastructure technologique de transcription et d'archivage chiffré sous les instructions directes du praticien.\nNotre Politique de Confidentialité B2B et nos CGU intègrent des clauses contractuelles types conformes à l'Union Européenne, protégeant ainsi juridiquement votre cabinet en cas d'audit de la CNIL.",
+        "metadata": {
+            "chunk_id": "382e1ea2944b0911",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Qui fait quoi ? Les rôles RGPD définis dans notre contrat B2B"
+            ],
+            "section_title": "Qui fait quoi ? Les rôles RGPD définis dans notre contrat B2B",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Qui fait quoi ? Les rôles RGPD définis dans notre contrat B2B\nPour être en conformité, les rôles de traitement de données doivent être définis de manière contractuelle :\n- **Le Praticien ou la Clinique** est le \\*\\*Responsable de Traitement\\*\\* (Data Controller). C'est lui qui décide de collecter les antécédents médicaux et d'effectuer l'examen clinique pour le diagnostic du patient.\n- **Be Smart Global, LLC (DocReport)** agit en tant que \\*\\*Sous-Traitant\\*\\* (Data Processor) au sens de l'ar",
+            "token_count": 124,
+            "character_count": 847,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "87386832e5ac381a",
+        "content": "## Comparatif de Sécurité : DocReport vs Scribes IA grand public\n| Caractéristique | DocReport France | Scribes IA Non-Européens |\n| Hébergement des données | Union Européenne (Vertex AI EU) | États-Unis (sans isolation) |\n| Nettoyage local du NIR | Oui (local client-side scrubbing) | Non (envoi brut en clair vers les API) |\n| Cryptage Zero-Knowledge | Oui (chiffrement AES-GCM local) | Non (chiffré en transit uniquement) |\n| Conformité RGPD / CNIL | Contrat B2B & DPO dédié | Termes grand public inadaptés aux médecins |",
+        "metadata": {
+            "chunk_id": "87386832e5ac381a",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Comparatif de Sécurité : DocReport vs Scribes IA grand public"
+            ],
+            "section_title": "Comparatif de Sécurité : DocReport vs Scribes IA grand public",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Comparatif de Sécurité : DocReport vs Scribes IA grand public\n| Caractéristique | DocReport France | Scribes IA Non-Européens |\n| Hébergement des données | Union Européenne (Vertex AI EU) | États-Unis (sans isolation) |\n| Nettoyage local du NIR | Oui (local client-side scrubbing) | Non (envoi brut en clair vers les API) |\n| Cryptage Zero-Knowledge | Oui (chiffrement AES-GCM local) | Non (chiffré en transit uniquement) |\n| Conformité RGPD / CNIL | Contrat B2B & DPO dédié | Termes grand public ",
+            "token_count": 90,
+            "character_count": 524,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "00bc764df7216022",
+        "content": "#### DocReport est-il certifié Hébergeur de Données de Santé (HDS) ?\nL'infrastructure physique sous-jacente de Google Cloud (Vertex AI) sur laquelle transitent et sont chiffrées nos données possède toutes les certifications européennes de sécurité, y compris l'agrément HDS en France et la certification ISO 27001. De plus, notre architecture Zero-Knowledge empêchant tout stockage de données de santé identifiables en clair dans le cloud rend la sécurité de notre logiciel encore plus élevée que les exigences HDS standard.",
+        "metadata": {
+            "chunk_id": "00bc764df7216022",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Questions Fréquentes sur la Sécurité",
+                "DocReport est-il certifié Hébergeur de Données de Santé (HDS) ?"
+            ],
+            "section_title": "DocReport est-il certifié Hébergeur de Données de Santé (HDS) ?",
+            "heading_level": 4,
+            "chunk_type": "h4",
+            "content": "#### DocReport est-il certifié Hébergeur de Données de Santé (HDS) ?\nL'infrastructure physique sous-jacente de Google Cloud (Vertex AI) sur laquelle transitent et sont chiffrées nos données possède toutes les certifications européennes de sécurité, y compris l'agrément HDS en France et la certification ISO 27001. De plus, notre architecture Zero-Knowledge empêchant tout stockage de données de santé identifiables en clair dans le cloud rend la sécurité de notre logiciel encore plus élevée que les",
+            "token_count": 77,
+            "character_count": 524,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "16a7a006fc679fd8",
+        "content": "#### Que se passe-t-il si je perds ma clé de chiffrement locale ?\nPar mesure de sécurité Zero-Knowledge, nous ne stockons pas votre clé de chiffrement sur nos serveurs. Lors de votre première connexion, vous devez exporter et sauvegarder votre fichier de clé dans un dossier sécurisé de votre cabinet. En cas de perte et sans sauvegarde, il vous sera impossible de lire vos anciens rapports archivés.",
+        "metadata": {
+            "chunk_id": "16a7a006fc679fd8",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Questions Fréquentes sur la Sécurité",
+                "Que se passe-t-il si je perds ma clé de chiffrement locale ?"
+            ],
+            "section_title": "Que se passe-t-il si je perds ma clé de chiffrement locale ?",
+            "heading_level": 4,
+            "chunk_type": "h4",
+            "content": "#### Que se passe-t-il si je perds ma clé de chiffrement locale ?\nPar mesure de sécurité Zero-Knowledge, nous ne stockons pas votre clé de chiffrement sur nos serveurs. Lors de votre première connexion, vous devez exporter et sauvegarder votre fichier de clé dans un dossier sécurisé de votre cabinet. En cas de perte et sans sauvegarde, il vous sera impossible de lire vos anciens rapports archivés.",
+            "token_count": 67,
+            "character_count": 400,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4e7564597e85c0bf",
+        "content": "#### Les données de mes patients sont-elles utilisées pour entraîner l'IA ?\nNon, absolument pas. Dans le cadre de nos accords d'API d'entreprise avec Vertex AI (Google Cloud EU), aucune donnée de consultation transcrite n'est enregistrée pour l'entraînement des modèles de langage globaux. Vos données restent strictement confidentielles et sous votre contrôle.",
+        "metadata": {
+            "chunk_id": "4e7564597e85c0bf",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Questions Fréquentes sur la Sécurité",
+                "Les données de mes patients sont-elles utilisées pour entraîner l'IA ?"
+            ],
+            "section_title": "Les données de mes patients sont-elles utilisées pour entraîner l'IA ?",
+            "heading_level": 4,
+            "chunk_type": "h4",
+            "content": "#### Les données de mes patients sont-elles utilisées pour entraîner l'IA ?\nNon, absolument pas. Dans le cadre de nos accords d'API d'entreprise avec Vertex AI (Google Cloud EU), aucune donnée de consultation transcrite n'est enregistrée pour l'entraînement des modèles de langage globaux. Vos données restent strictement confidentielles et sous votre contrôle.",
+            "token_count": 52,
+            "character_count": 361,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ec6b40613049ec7c",
+        "content": "#### Puis-je signer un Accord de Traitement des Données (DPA) ?\nOui. Un accord de traitement des données (Data Processing Agreement) conforme à l'article 28 du RGPD est automatiquement inclus et signé numériquement dans nos Conditions Générales de Vente B2B lors de la création de votre compte professionnel.",
+        "metadata": {
+            "chunk_id": "ec6b40613049ec7c",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Questions Fréquentes sur la Sécurité",
+                "Puis-je signer un Accord de Traitement des Données (DPA) ?"
+            ],
+            "section_title": "Puis-je signer un Accord de Traitement des Données (DPA) ?",
+            "heading_level": 4,
+            "chunk_type": "h4",
+            "content": "#### Puis-je signer un Accord de Traitement des Données (DPA) ?\nOui. Un accord de traitement des données (Data Processing Agreement) conforme à l'article 28 du RGPD est automatiquement inclus et signé numériquement dans nos Conditions Générales de Vente B2B lors de la création de votre compte professionnel.",
+            "token_count": 48,
+            "character_count": 308,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "889f76d3cd6ded38",
+        "content": "### Déployez un Scribe IA 100% Conforme dans votre Cabinet\nBénéficiez du gain de temps de l'intelligence artificielle sans faire de compromis sur la confidentialité de vos patients.\nCommencer l'essai gratuit de 14 jours\n14 jours d'essai gratuits. Annulation en ligne en 1 clic.",
+        "metadata": {
+            "chunk_id": "889f76d3cd6ded38",
+            "parent_doc": "Logiciel Médical Conforme RGPD & CNIL | Sécurité Santé | DocReport",
+            "source_url": "https://docreport.eu/fr/logiciel-medical-rgpd",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Logiciel Médical Conforme RGPD & CNIL : La Protection Absolue des Données Patient",
+                "Questions Fréquentes sur la Sécurité",
+                "Déployez un Scribe IA 100% Conforme dans votre Cabinet"
+            ],
+            "section_title": "Déployez un Scribe IA 100% Conforme dans votre Cabinet",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Déployez un Scribe IA 100% Conforme dans votre Cabinet\nBénéficiez du gain de temps de l'intelligence artificielle sans faire de compromis sur la confidentialité de vos patients.\nCommencer l'essai gratuit de 14 jours\n14 jours d'essai gratuits. Annulation en ligne en 1 clic.",
+            "token_count": 44,
+            "character_count": 277,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:03:55.079406+00:00",
+            "extra": {}
+        }
+    }
+]

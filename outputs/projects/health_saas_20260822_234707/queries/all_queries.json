@@ -1,0 +1,322 @@
+{
+    "macro": {
+        "section": "Analyse macro marché et tendances",
+        "question_queries": [
+            {
+                "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+                "queries": [
+                    {
+                        "query": "taille marché logiciel prise de rendez-vous médical en ligne France 2024 segmentation et croissance",
+                        "angle": "market sizing and segmentation in France",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "tendances croissance marché HealthTech logiciel gestion rendez-vous médicaux France 2023-2028",
+                        "angle": "growth trends and forecasts",
+                        "relevance_score": 0.96
+                    },
+                    {
+                        "query": "analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France",
+                        "angle": "competitive landscape and market shares",
+                        "relevance_score": 0.94
+                    },
+                    {
+                        "query": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+                        "angle": "regulatory and technological impact on market structure",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+                "queries": [
+                    {
+                        "query": "réglementation RGPD et sécurité données médicales logiciels santé France",
+                        "angle": "regulatory impact of GDPR and data security on HealthTech software",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024",
+                        "angle": "technological innovations in online medical appointment software",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+                        "angle": "trends in teleconsultation integration and digital appointment adoption",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "évolution marché SaaS santé France innovations et contraintes réglementaires 2024",
+                        "angle": "market evolution combining innovations and regulatory constraints",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+                "queries": [
+                    {
+                        "query": "taille et croissance marché HealthTech France 2024 adoption logiciels prise rendez-vous médical en ligne",
+                        "angle": "taille et croissance du marché HealthTech en France",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+                        "angle": "réglementations et politiques publiques influençant l’adoption",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+                        "angle": "facteurs socio-économiques et comportement des patients",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "investissements infrastructures numériques santé France impact adoption logiciels gestion rendez-vous médicaux",
+                        "angle": "investissements et capacités économiques des établissements de santé",
+                        "relevance_score": 0.9
+                    }
+                ]
+            }
+        ]
+    },
+    "demand": {
+        "section": "Analyse de la demande et pain points",
+        "question_queries": [
+            {
+                "question": "Comment est la demande actuelle et les segments de clientèle ?",
+                "queries": [
+                    {
+                        "query": "taille et croissance marché logiciel prise de rendez-vous médical en ligne France 2024",
+                        "angle": "taille et dynamique de la demande",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+                        "angle": "difficultés et besoins utilisateurs",
+                        "relevance_score": 0.97
+                    },
+                    {
+                        "query": "segments clients solutions HealthTech prise de rendez-vous médical France 2024",
+                        "angle": "segmentation clientèle",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "tendances adoption digital santé France 2024 rapport marché HealthTech",
+                        "angle": "tendances d’adoption et attentes marché",
+                        "relevance_score": 0.93
+                    }
+                ]
+            },
+            {
+                "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+                "queries": [
+                    {
+                        "query": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+                        "angle": "besoins utilisateurs finaux",
+                        "relevance_score": 0.97
+                    },
+                    {
+                        "query": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+                        "angle": "frictions dans le parcours d'achat",
+                        "relevance_score": 0.96
+                    },
+                    {
+                        "query": "obstacles adoption logiciel SaaS santé prise de rendez-vous France RGPD sécurité données",
+                        "angle": "freins réglementaires et sécurité",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "avis utilisateurs plateforme prise rendez-vous médical en ligne France 2024",
+                        "angle": "retours d'expérience et frustrations clients",
+                        "relevance_score": 0.94
+                    }
+                ]
+            },
+            {
+                "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+                "queries": [
+                    {
+                        "query": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+                        "angle": "user reviews and satisfaction",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "critères de choix solutions HealthTech prise de rendez-vous médical France",
+                        "angle": "decision criteria for solution selection",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+                        "angle": "competitor comparison and client feedback",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "impact conformité RGPD sur choix logiciel prise rendez-vous médical France",
+                        "angle": "regulatory and data privacy impact on client choice",
+                        "relevance_score": 0.9
+                    }
+                ]
+            }
+        ]
+    },
+    "supply": {
+        "section": "Analyse de l'offre et concurrence",
+        "question_queries": [
+            {
+                "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+                "queries": [
+                    {
+                        "query": "principaux acteurs logiciels prise de rendez-vous médical en ligne France 2024",
+                        "angle": "identification des leaders du marché",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+                        "angle": "analyse quantitative des positions concurrentielles",
+                        "relevance_score": 0.96
+                    },
+                    {
+                        "query": "rapport concurrence marché HealthTech France logiciels gestion rendez-vous médicaux",
+                        "angle": "étude de marché et dynamique concurrentielle",
+                        "relevance_score": 0.94
+                    },
+                    {
+                        "query": "avis utilisateurs plateformes prise de rendez-vous médical en ligne France 2024",
+                        "angle": "retours d’expérience et perception qualitative",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+                "queries": [
+                    {
+                        "query": "comparatif fonctionnalités Doctolib Maiia Keldoc Livi Qare prise de rendez-vous médical en ligne France 2024",
+                        "angle": "analyse fonctionnelle des concurrents",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "avis utilisateurs patients professionnels santé applications prise rendez-vous médical France",
+                        "angle": "retours utilisateurs et expérience patient/professionnel",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+                        "angle": "aspects réglementaires et sécurité des données",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "parts de marché tarification modèle économique plateformes prise rendez-vous médical France 2024",
+                        "angle": "analyse économique et commerciale des concurrents",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?",
+                "queries": [
+                    {
+                        "query": "modèles de pricing logiciels SaaS prise de rendez-vous médical France 2024",
+                        "angle": "modèles de tarification spécifiques au marché français",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "stratégies de différenciation concurrents Doctolib Maiia Keldoc France HealthTech",
+                        "angle": "analyse comparative des stratégies concurrentielles",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe",
+                        "angle": "cas pratiques et innovations dans le secteur HealthTech européen",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "attentes patients professionnels santé modèles pricing logiciels santé numérique France",
+                        "angle": "perspective utilisateur sur la valeur et le pricing",
+                        "relevance_score": 0.88
+                    }
+                ]
+            }
+        ]
+    },
+    "swot": {
+        "section": "Analyse SWOT",
+        "question_queries": [
+            {
+                "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+                "queries": [
+                    {
+                        "query": "opportunités marché logiciel prise de rendez-vous médical en ligne France 2024",
+                        "angle": "market growth and opportunities",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "besoins utilisateurs et attentes patients professionnels santé prise rendez-vous digital France",
+                        "angle": "user needs and pain points",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "impact réglementation RGPD et sécurité données médicales sur logiciels santé France",
+                        "angle": "regulatory and compliance advantages",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "analyse concurrentielle Doctolib Maiia Keldoc avantages compétitifs logiciels santé France",
+                        "angle": "competitor analysis and differentiation",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+                "queries": [
+                    {
+                        "query": "risques réglementaires et conformité RGPD logiciels prise de rendez-vous médical en ligne France 2024",
+                        "angle": "risques réglementaires et conformité",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "analyse concurrence Doctolib Maiia Keldoc menaces marché HealthTech SaaS France",
+                        "angle": "menaces concurrentielles",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+                        "angle": "risques liés à l’adoption utilisateur",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "impact crises sanitaires et politiques publiques sur marché logiciels santé France",
+                        "angle": "risques macroéconomiques et sectoriels",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?",
+                "queries": [
+                    {
+                        "query": "forces et faiblesses internes logiciels de prise de rendez-vous médical en ligne France 2024",
+                        "angle": "internal strengths and weaknesses in French online medical appointment software",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "retours utilisateurs points faibles applications santé numérique gestion rendez-vous France",
+                        "angle": "user feedback highlighting weaknesses in French digital health appointment apps",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "analyse comparative Doctolib Maiia forces et faiblesses internes 2024",
+                        "angle": "competitor internal strengths and weaknesses comparison in French HealthTech SaaS",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "contraintes techniques et réglementaires impactant forces et faiblesses internes logiciels santé France",
+                        "angle": "technical and regulatory constraints affecting internal strengths and weaknesses in French health software",
+                        "relevance_score": 0.88
+                    }
+                ]
+            }
+        ]
+    }
+}

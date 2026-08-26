@@ -1,0 +1,338 @@
+[
+    {
+        "chunk_id": "e18d810f020cd85e",
+        "content": "![Ce que le numérique fait à l'innovation en santé - Sarah Sandré | Lgdj.fr]()",
+        "metadata": {
+            "chunk_id": "e18d810f020cd85e",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "![Ce que le numérique fait à l'innovation en santé - Sarah Sandré | Lgdj.fr]()",
+            "token_count": 14,
+            "character_count": 78,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "93f803fcb7a34063_1",
+        "content": "# Ce que le numérique fait à l'innovation en santé\nUne comparaison franco-anglaise\n- Collection : Ethique & pratique médicales\nExpédié sous 6 à 10 jours\nIntelligence artificielle, objets connectés, applications, télémédecine, sont autant d'innovations numériques qui ont bouleversé les usages dans le domaine de la santé. Ces innovations sont souvent difficiles à cerner en raison de leur caractère protéiforme et d'un rythme de développement différent selon les pays, dont la France et l'Angleterre qui feront ici l'objet d'une comparaison.\nLa France se distingue par un cadre réglementaire strict intégrant progressivement les innovations numériques en santé. L'Angleterre s'illustre par la multiplication de partenariats entre le secteur public (NHS) et les entreprises privées, en particulier les multinationales américaines. Cette transformation des codes, des acteurs et des frontières s'incarne dans une nouvelle valeur qui est la donnée personnelle de santé.",
+        "metadata": {
+            "chunk_id": "93f803fcb7a34063_1",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé"
+            ],
+            "section_title": "Ce que le numérique fait à l'innovation en santé",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Ce que le numérique fait à l'innovation en santé\nUne comparaison franco-anglaise\n- Collection : Ethique & pratique médicales\nExpédié sous 6 à 10 jours\nIntelligence artificielle, objets connectés, applications, télémédecine, sont autant d'innovations numériques qui ont bouleversé les usages dans le domaine de la santé. Ces innovations sont souvent difficiles à cerner en raison de leur caractère protéiforme et d'un rythme de développement différent selon les pays, dont la France et l'Angleterre ",
+            "token_count": 138,
+            "character_count": 966,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a35169af737887cd_2",
+        "content": "Réglementée par le RGPD, règlement européen relatif à la protection des données personnelles, la gestion des données des patients pose aussi des questions économiques et éthiques, qu'il s'agisse de leur conservation, de leur protection et/ou de leur vente mais aussi de la représentation du corps humain.\nAu-delà des enjeux de qualification juridique, les innovations numériques en santé sont le résultat d'investissements publics considérables depuis la fin des années 1990, à l'échelle européenne, nationale et locale ; elles ont également bénéficié d'une politique favorable aux partenariats publics et privés et à la création de nombreux relais. L'innovation numérique en santé est le témoin de la révolution numérique qui bouleverse les sociétés contemporaines comme le fit la révolution industrielle au XIXe siècle.",
+        "metadata": {
+            "chunk_id": "a35169af737887cd_2",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé"
+            ],
+            "section_title": "Ce que le numérique fait à l'innovation en santé",
+            "heading_level": 1,
+            "chunk_type": "paragraph",
+            "content": "Réglementée par le RGPD, règlement européen relatif à la protection des données personnelles, la gestion des données des patients pose aussi des questions économiques et éthiques, qu'il s'agisse de leur conservation, de leur protection et/ou de leur vente mais aussi de la représentation du corps humain.\nAu-delà des enjeux de qualification juridique, les innovations numériques en santé sont le résultat d'investissements publics considérables depuis la fin des années 1990, à l'échelle européenne, ",
+            "token_count": 120,
+            "character_count": 821,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b273b3cd4b30cc3b_3",
+        "content": "_Docteure en histoire des sciences et des techniques contemporaines comparée au laboratoire IRIS de l'Université Paris Sorbonne Nord, **Sarah Sandré** est également juriste spécialisée sur la santé numérique. Elle travaille à la Direction de la Recherche et de l'Innovation de l'AP-HP Nord Université Paris Cité. Spécialisée dans le domaine de la santé numérique ou « e-santé », Sarah Sandré dirige depuis plusieurs années le module « droit, éthique et responsabilité » à l'EPISEN, l'école d'ingénieurs de l'Université de Paris-Est Créteil (UPEC). Depuis avril 2022, elle a créé le groupe de travail « santé numérique » du réseau des jeunes chercheurs santé société de la Maison des Sciences de l'Homme Paris Nord. Ce groupe valorise les travaux des jeunes chercheurs en SHS travaillant dans le champ de la santé numérique.",
+        "metadata": {
+            "chunk_id": "b273b3cd4b30cc3b_3",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé"
+            ],
+            "section_title": "Ce que le numérique fait à l'innovation en santé",
+            "heading_level": 1,
+            "chunk_type": "paragraph",
+            "content": "_Docteure en histoire des sciences et des techniques contemporaines comparée au laboratoire IRIS de l'Université Paris Sorbonne Nord, **Sarah Sandré** est également juriste spécialisée sur la santé numérique. Elle travaille à la Direction de la Recherche et de l'Innovation de l'AP-HP Nord Université Paris Cité. Spécialisée dans le domaine de la santé numérique ou « e-santé », Sarah Sandré dirige depuis plusieurs années le module « droit, éthique et responsabilité » à l'EPISEN, l'école d'ingénieu",
+            "token_count": 129,
+            "character_count": 823,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f3423cdff8d3c576_4",
+        "content": "_\n| ISBN | 978-2-14-035257-7 |\n| Date de parution | 15/02/2024 |\n| Nombres de pages | 392 |\n| Type d’ouvrage | Colloques - Etudes - Rapports |\n| Auteur(s) | Sarah Sandré |\n| Editeur | L'Harmattan |\n| Collection | Ethique & pratique médicales |\n| Thème | Droit > Droit international et étranger > Droit comparé |\n| Thème secondaire | Droit > Droit de la santé / Droit médical > Autres ouvrages |\n!Ce que le numérique fait à l'innovation en santé - Sarah Sandré | Lgdj.fr\nCe que le numérique fait à l'innovation en santé\n!",
+        "metadata": {
+            "chunk_id": "f3423cdff8d3c576_4",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé"
+            ],
+            "section_title": "Ce que le numérique fait à l'innovation en santé",
+            "heading_level": 1,
+            "chunk_type": "table",
+            "content": "_\n| ISBN | 978-2-14-035257-7 |\n| Date de parution | 15/02/2024 |\n| Nombres de pages | 392 |\n| Type d’ouvrage | Colloques - Etudes - Rapports |\n| Auteur(s) | Sarah Sandré |\n| Editeur | L'Harmattan |\n| Collection | Ethique & pratique médicales |\n| Thème | Droit > Droit international et étranger > Droit comparé |\n| Thème secondaire | Droit > Droit de la santé / Droit médical > Autres ouvrages |\n!Ce que le numérique fait à l'innovation en santé - Sarah Sandré | Lgdj.fr\nCe que le numérique fait à l'i",
+            "token_count": 103,
+            "character_count": 520,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "41f52ee8e05a23a9",
+        "content": "## Droit constitutionnel et institutions politiques - Édition 2026-2027\n![Comparaison du droit français et du droit roumain : les contrats spéciaux]( \"Comparaison du droit français et du droit roumain : les contrats spéciaux\")",
+        "metadata": {
+            "chunk_id": "41f52ee8e05a23a9",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé",
+                "Droit constitutionnel et institutions politiques - Édition 2026-2027"
+            ],
+            "section_title": "Droit constitutionnel et institutions politiques - Édition 2026-2027",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Droit constitutionnel et institutions politiques - Édition 2026-2027\n![Comparaison du droit français et du droit roumain : les contrats spéciaux]( \"Comparaison du droit français et du droit roumain : les contrats spéciaux\")",
+            "token_count": 33,
+            "character_count": 226,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b89ac89969a6c9d7",
+        "content": "## Comparaison du droit français et du droit roumain : les contrats spéciaux\n![Les systèmes de protection sociale face aux crises]( \"Les systèmes de protection sociale face aux crises\")",
+        "metadata": {
+            "chunk_id": "b89ac89969a6c9d7",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé",
+                "Comparaison du droit français et du droit roumain : les contrats spéciaux"
+            ],
+            "section_title": "Comparaison du droit français et du droit roumain : les contrats spéciaux",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Comparaison du droit français et du droit roumain : les contrats spéciaux\n![Les systèmes de protection sociale face aux crises]( \"Les systèmes de protection sociale face aux crises\")",
+            "token_count": 29,
+            "character_count": 185,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "367d0ca9cdaf1d64",
+        "content": "## Les systèmes de protection sociale face aux crises\n![Le droit de vote aux États-Unis d’Amérique]( \"Le droit de vote aux États-Unis d’Amérique\")",
+        "metadata": {
+            "chunk_id": "367d0ca9cdaf1d64",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé",
+                "Les systèmes de protection sociale face aux crises"
+            ],
+            "section_title": "Les systèmes de protection sociale face aux crises",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Les systèmes de protection sociale face aux crises\n![Le droit de vote aux États-Unis d’Amérique]( \"Le droit de vote aux États-Unis d’Amérique\")",
+            "token_count": 23,
+            "character_count": 146,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c027b9e397a74254",
+        "content": "## Le droit de vote aux États-Unis d’Amérique\n![Éthique, intelligence artificielle et santé]( \"Éthique, intelligence artificielle et santé\")",
+        "metadata": {
+            "chunk_id": "c027b9e397a74254",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé",
+                "Le droit de vote aux États-Unis d’Amérique"
+            ],
+            "section_title": "Le droit de vote aux États-Unis d’Amérique",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Le droit de vote aux États-Unis d’Amérique\n![Éthique, intelligence artificielle et santé]( \"Éthique, intelligence artificielle et santé\")",
+            "token_count": 18,
+            "character_count": 140,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cab190a122c5c667",
+        "content": "## L'État et la santé\n![Le droit d'accès aux soins des personnes sourdes en France]( \"Le droit d'accès aux soins des personnes sourdes en France\")",
+        "metadata": {
+            "chunk_id": "cab190a122c5c667",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé",
+                "L'État et la santé"
+            ],
+            "section_title": "L'État et la santé",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## L'État et la santé\n![Le droit d'accès aux soins des personnes sourdes en France]( \"Le droit d'accès aux soins des personnes sourdes en France\")",
+            "token_count": 25,
+            "character_count": 146,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5b77b07e6e3f6bb8",
+        "content": "## Le droit d'accès aux soins des personnes sourdes en France\n![La recherche sur les cellules souches]( \"La recherche sur les cellules souches\")",
+        "metadata": {
+            "chunk_id": "5b77b07e6e3f6bb8",
+            "parent_doc": "Ce que le numérique fait à l'innovation en santé",
+            "source_url": "https://www.lgdj.fr/ce-que-le-numerique-fait-a-l-innovation-en-sante-9782140352577.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et innovations digitales sur segmentation marché logiciel santé France",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "regulatory and technological impact on market structure",
+            "heading_path": [
+                "Ce que le numérique fait à l'innovation en santé",
+                "Le droit d'accès aux soins des personnes sourdes en France"
+            ],
+            "section_title": "Le droit d'accès aux soins des personnes sourdes en France",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Le droit d'accès aux soins des personnes sourdes en France\n![La recherche sur les cellules souches]( \"La recherche sur les cellules souches\")",
+            "token_count": 23,
+            "character_count": 144,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:00:36.909871+00:00",
+            "extra": {}
+        }
+    }
+]

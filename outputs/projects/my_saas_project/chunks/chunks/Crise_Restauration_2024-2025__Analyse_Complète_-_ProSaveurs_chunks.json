@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "819a7b02eb74e74c",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at for increased rate limits or please retry after 4s, resets at Sat Aug 22 2026 12:55:15 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "819a7b02eb74e74c",
+            "parent_doc": "Crise Restauration 2024-2025 : Analyse Complète - ProSaveurs",
+            "source_url": "https://www.prosaveurs.com/etude-crise-restauration-2024-2025-analyse-complete.html",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "besoins et pain points gestion restaurant indépendant France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at for increased rate limits or please retry after 4s, resets at Sat Aug 22 2026 12:55:15 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+            "token_count": 61,
+            "character_count": 385,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:55:12.880153+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "de730e97ce59f144",
+        "content": "### Métadonnées\n- Section: Analyse de la demande et pain points\n- Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?\n- Angle: client needs and pain points",
+        "metadata": {
+            "chunk_id": "de730e97ce59f144",
+            "parent_doc": "Crise Restauration 2024-2025 : Analyse Complète - ProSaveurs",
+            "source_url": "https://www.prosaveurs.com/etude-crise-restauration-2024-2025-analyse-complete.html",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "besoins et pain points gestion restaurant indépendant France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse de la demande et pain points\n- Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?\n- Angle: client needs and pain points",
+            "token_count": 37,
+            "character_count": 213,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:55:12.880153+00:00",
+            "extra": {}
+        }
+    }
+]

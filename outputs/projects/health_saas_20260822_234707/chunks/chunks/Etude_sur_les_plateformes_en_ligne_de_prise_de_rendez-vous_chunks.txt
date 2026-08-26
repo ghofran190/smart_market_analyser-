@@ -1,0 +1,223 @@
+
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 732 caractères
+# Tokens: 119
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+**Fluidifier les transactions entre patients et médecins**
+Avec une population vieillissante et un taux de tabagisme et une consommation d’alcool plus élevés en France que dans les autres pays de l’OCDE, la demande de soins médicaux s’annonce à la hausse en France et en Europe de manière générale. Un facteur déterminant de la demande pour les soins médicaux est l’état de santé de la population.
+Les résultats de notre étude démontrent que, même si dans l’ensemble **65%** des répondants déclarent être en bonne santé, seulement **14%** jugent leur santé« très bonne ». Ainsi **37%** disent avoir pris rendez-vous chez un médecin généraliste entre 3 et 5 fois au cours des 12 derniers mois, et **21%** pour un médecin spécialiste.
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 937 caractères
+# Tokens: 146
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+Ces rendez-vous peuvent s’avérer difficiles à obtenir dans des délais convenables, ce qui contribue au mécontentement des patients, et crée de nombreux désistements, une situation loin d’être parfaite à la fois pour les médecins et pour les patients
+Les plateformes numériques de prise de rendez-vous médicaux se positionnent sur ce marché, induit à la fois par ce nouveau paysage économique et social, et par la démocratisation des interfaces de communication numérique. Elles soutiennent une proposition de valeur visant à optimiser les transactions entre patients et médecins afin de réduire le temps ainsi que les charges de secrétariat pour les médecins, et faciliter la prise de rendez-vous pour les patients
+**Un service intéressant, qui influence l’image des médecins qui le proposent**
+Plus de la moitié des Français (53%) ont déjà entendu parler des sites de prise de rendez-vous médical en ligne, et 15% les ont déjà utilisés.
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 931 caractères
+# Tokens: 140
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+C’est surtout à Paris que le service est connu (71%) et utilisé (29%).
+Doctolib et Mondocteur se distinguent comme leaders de ce marché, atteignant respectivement **14%** et **12%** de notoriété assistée parmi l’ensemble des adultes français.
+Le domaine de la médecine est néanmoins un cas particulier pour l’adoption des nouvelles technologies. D’après le docteur Robert Pearl de l’université de Stanford, la technologie appliquée à la médecine doit, entre autres choses, répondre à un réel besoin sans pour autant occasionner de coûts supplémentaires pour les patients. Ainsi, au-delà de répondre à ces exigences, le modèle mis en place par ces plateformes permet de fournir des services adaptés aux besoins des patients et des médecins tout en créant une communauté collaborative autour des services qu’elles proposent : **44%** des répondants trouvent leur offre intéressante, et **43%** se disent susceptibles de les utiliser.
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 922 caractères
+# Tokens: 140
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+De manière générale **53%** des Français connaissent ces plateformes de prise de rendez-vous médicaux, mais uniquement **15%** déclarent les avoir déjà utilisées. Ces chiffres passent à **71%** et **29%** respectivement en région parisienne, où un plus grand nombre de médecins y proposent la prise de rendez-vous à travers ces sites internet et autres applications. Ces chiffres illustrent le besoin de ces plateformes d’attirer un plus grand nombre de médecins, notamment dans les petites villes, afin de répondre à la demande du marché.
+En tenant compte de la place importante qu’occupent les interactions sur ces plateformes, une mesure de la perception des médecins proposant des services de prise de rendez-vous en ligne montre que si **67%** des Français ont une impression positive des médecins, seulement **43%** déclarent avoir une impression positive des médecins qui proposent la prise de rendez-vous en ligne.
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 336 caractères
+# Tokens: 51
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+Cet écart peut s’expliquer par une certaine méconnaissance des plateformes et de leur mode d’utilisation : en effet, parmi ceux qui connaissent ces plateformes, 54% ont une impression positive des médecins qui proposent la prise de rendez-vous en ligne, et cette bonne impression atteint même 81% parmi les utilisateurs des plateformes.
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Contenu associé
+# Titre section: Contenu associé
+# Type: h2
+# Taille: 970 caractères
+# Tokens: 135
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+## Contenu associé
+Soldes d'été 2026 : entre regain d'intérêt, arbitrages et mutation des comportements\\
+![Photo by Paper Boat Creative]()Kick-Off 2026 : la Suisse en pleine fièvre de la Coupe du monde ?\\
+![null]()Coupe du Monde de la FIFA 2026 : entre ferveur, indifférence et désamour…\\
+![Man with football ball]()[\[On demand\] Tous durables ? Les 4 visages de la consommation responsable\\
+!null]()French Days 2026 : un parcours d’achat digital first pour un événement encore en quête de singularité\\
+![shopping bag in hands]()Flying high: France airline rankings 2026\\
+![Travel ranking FR landing page banner]()France Auto rankings 2026: Driving brand preference\\
+![car maker]()How Spikes makes advertising effectiveness measurable with YouGov\\
+![null]()Le Live Shopping en France : encore discret mais ultra-performant\\
+![live shopping]()Furniture Trends in Belgium and the Netherlands\\
+![furniture shop]()Fashion Trends in Belgium and the Netherlands\\
+!
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Contenu associé
+# Titre section: Contenu associé
+# Type: unstructured
+# Taille: 987 caractères
+# Tokens: 140
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+[clothes on dresing]()Dry January\* 2026 : une notoriété forte, une adoption plus timide en France\\
+![cocktail preparation]()Classe premium dans les trains : les Français privilégient l’équilibre entre calme et inclusion\\
+![train moving]()How Kärcher measures global product ownership with YouGov\\
+![Karcher - Logo - Client case studies]()Comment les Français se préparent pour le Black Friday & le Cyber Monday 2025Octobre Rose et Movember : Deux campagnes, deux réalités\\
+![ruban rose]()French Days 2025 : populaires, mais pas décisifsDécouvrez les comportements et attentes des jeunes générations en France\\
+![Photo by We Are]()Rentrée scolaire 2025 : Les Français profitent-ils de cette période pour faire des achats ?\\
+![Photo by Marco VDM]()Cotisations assurance en hausse : L’inquiétude gagne-t-elle les Français ?\\
+![Photo by d3sign]()Soldes d’été : bonnes affaires, bonne conscience ?\\
+![Photo by Paper Boat Creative]()Médias & IA Générative : Révolution ou Menace ?\\
+!
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Contenu associé
+# Titre section: Contenu associé
+# Type: unstructured
+# Taille: 991 caractères
+# Tokens: 152
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+[An image of a short haired man and long haired woman sat on a sofa watching something on a television as well as the man viewing something on his phone.]()Saint-Valentin 2025 : quels cadeaux, activités et budgets prévoient les Français ?\\
+![Valentine's Day 2024]()How The Hygiene Bank raised awareness of hygiene poverty with YouGov\\
+![The Hygiene Bank logo]()How GambleAware used YouGov insights to tackle gambling harms\\
+![GambleAware logo]()Soldes d’hiver 2025 : ce que les marques doivent savoir sur les comportements d’achat des Français\\
+![Shopping bags]()Skincare : quelles sont les attentes des consommateurs en 2025 ?\\
+![man using face cream]()Après les fêtes, place au « Dry January » : les Français relèvent-ils le défi ?\\
+![Dry january]()Le Dynamic Pricing : une stratégie efficace ?\\
+![Photo by FG Trade]()Noël 2024 : les chiffres clés à connaître\\
+![Gifting]()JO 2024 : l'heure du bilan\\
+![Data et insights YouGov]()Halloween 2024 : des insights qui font trembler\\
+!
+
+
+
+================================================================================# Source URL: https://yougov.com/fr-fr/articles/16715-etude-sur-les-plateformes-en-ligne-de-prise-de-ren
+# Document parent: Etude sur les plateformes en ligne de prise de rendez-vous ...
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: tendances technologiques logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: technological innovations in online medical appointment software
+# Chemin hiérarchique: Contenu associé
+# Titre section: Contenu associé
+# Type: unstructured
+# Taille: 317 caractères
+# Tokens: 44
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:25.713007+00:00
+................................................................................
+
+[halloween pumpkin]()How YouGov delivered insights on the plant-based market\\
+![ClientsCaseStudies - Fast Moving Consumer Goods - Logo]()Préparez-vous pour le Black Friday : Insights et Tendances 2024\\
+![Man with shopping bag]()Octobre Rose : un regard sur le niveau de connaissance et l’engagement des Français\\
+!

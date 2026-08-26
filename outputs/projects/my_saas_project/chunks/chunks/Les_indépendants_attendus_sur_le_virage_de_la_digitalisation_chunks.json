@@ -1,0 +1,62 @@
+[
+    {
+        "chunk_id": "b1d905ee86ca40c8",
+        "content": "Services Évènement Emploi Toute la franchise Abonnement\nMes informations Mes newsletters\nBesoin d'aide ? Déconnexion",
+        "metadata": {
+            "chunk_id": "b1d905ee86ca40c8",
+            "parent_doc": "Les indépendants attendus sur le virage de la digitalisation",
+            "source_url": "https://www.neorestauration.com/article/les-independants-attendus-sur-le-virage-de-la-digitalisation%2C63021",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "besoins non satisfaits restaurants indépendants France digitalisation gestion opérationnelle",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "customer pain points and unmet needs",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Services Évènement Emploi Toute la franchise Abonnement\nMes informations Mes newsletters\nBesoin d'aide ? Déconnexion",
+            "token_count": 15,
+            "character_count": 116,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:59:59.377647+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0df225297e76d4b1",
+        "content": "# La page demandée n’existe pas\nLa page que vous recherchez a peut-être été déplacée ou l’adresse que vous avez saisie est incorrecte.\n- Vous avez plusieurs possibilités :\n- \\- Saisissez de nouveau l’adresse correspondant à la page que vous recherchez.\n- \\- Utilisez notre moteur de recherche pour accéder à la page que vous souhaitez voir.",
+        "metadata": {
+            "chunk_id": "0df225297e76d4b1",
+            "parent_doc": "Les indépendants attendus sur le virage de la digitalisation",
+            "source_url": "https://www.neorestauration.com/article/les-independants-attendus-sur-le-virage-de-la-digitalisation%2C63021",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "besoins non satisfaits restaurants indépendants France digitalisation gestion opérationnelle",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "customer pain points and unmet needs",
+            "heading_path": [
+                "La page demandée n’existe pas"
+            ],
+            "section_title": "La page demandée n’existe pas",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# La page demandée n’existe pas\nLa page que vous recherchez a peut-être été déplacée ou l’adresse que vous avez saisie est incorrecte.\n- Vous avez plusieurs possibilités :\n- \\- Saisissez de nouveau l’adresse correspondant à la page que vous recherchez.\n- \\- Utilisez notre moteur de recherche pour accéder à la page que vous souhaitez voir.",
+            "token_count": 58,
+            "character_count": 340,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:59:59.377647+00:00",
+            "extra": {}
+        }
+    }
+]

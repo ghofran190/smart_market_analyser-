@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "0a1c992eac9ac4fd",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "0a1c992eac9ac4fd",
+            "parent_doc": "Le SaaS franchit un point de basculement dans ...",
+            "source_url": "https://www.zdnet.fr/actualites/le-saas-franchit-un-point-de-basculement-dans-la-conception-de-produits-39909939.htm",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "obstacles adoption logiciel SaaS restauration indépendante France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.",
+            "token_count": 63,
+            "character_count": 363,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:55:55.285365+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8b36b849159770ca",
+        "content": "### Métadonnées\n- Section: Analyse de la demande et pain points\n- Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?\n- Angle: barriers to SaaS adoption",
+        "metadata": {
+            "chunk_id": "8b36b849159770ca",
+            "parent_doc": "Le SaaS franchit un point de basculement dans ...",
+            "source_url": "https://www.zdnet.fr/actualites/le-saas-franchit-un-point-de-basculement-dans-la-conception-de-produits-39909939.htm",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "obstacles adoption logiciel SaaS restauration indépendante France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse de la demande et pain points\n- Question: Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?\n- Angle: barriers to SaaS adoption",
+            "token_count": 36,
+            "character_count": 210,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:55:55.285365+00:00",
+            "extra": {}
+        }
+    }
+]

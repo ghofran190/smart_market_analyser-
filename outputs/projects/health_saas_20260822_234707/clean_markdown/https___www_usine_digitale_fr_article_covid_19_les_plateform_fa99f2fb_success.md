@@ -1,0 +1,38 @@
+# Covid-19 : les plateformes Doctolib, Maiia et Keldoc retenues pour la prise de rendez-vous pour la vaccination
+Recevez l'actu essentielle de la cybersécurité et du droit des données tous les jeudi avec notre newsletter Cyber Insider. Inscrivez-vous gratuitement !
+Les spécialistes de la téléconsultation Doctolib, Maiia et Keldoc ont été sélectionnés par le gouvernement pour assurer la prise de rendez-vous pour la vaccination contre le Covid-19. L'objectif est de fluidifier cette étape en permettant aux Français de choisir entre une plateforme publique et l'un de ces trois services. D'ici mercredi soir, tous les centres de vaccination devront être équipés d'une solution de gestion de prise de rendez-vous.
+Publié le 12 janvier 2021 à 14h30
+!Vaccin contre le Covid-19
+Steven Cornfield/Unsplash
+Vaccin contre le Covid-19
+Le 18 janvier, la vaccination des plus de 75 ans ne résidant pas en Ehpad débutera en France. Pour piloter cette nouvelle étape dans la stratégie vaccinale, le ministère des Solidarités et de la Santé a choisi trois plateformes privés, Doctolib, Maiia et Keldoc, pour épauler la plateforme publique sante.fr, assure que des centres de vaccination, utilisent déjà sa solution de prise de rendez-vous. Comme pour Maiia, les patients devront attendre mercredi pour réserver un créneau.
+Le Covid-19, une aubaine pour la télémédecine
+Une nouvelle fois durant cette crise sanitaire, les entreprises de télémédecine tirent leur épingle du jeu]()
+- Quelles pistes pour améliorer le "soin digital" 10 ans après le lancement de la télémédecine ?
+1. La Pologne confrontée à une fuite massive de données médicales : près de 19 millions de personnes potentiellement touchées
+2. Comment Novo Nordisk s’appuie sur l’intelligence artificielle et le cloud d’AWS pour accélérer les processus de découverte de médicaments
+3. “Améliorer les parcours de soins grâce à l’intelligence artificielle” : Pourquoi le projet de recherche de Doctolib suscite la controverse
+4. “De plus gros montants mais pour beaucoup moins d’entreprises” : L’IA et la souveraineté redessinent la carte des levées de fonds européennes au premier semestre 2026
+5. Chirurgie du futur : Deux robots humanoïdes Unitree téléopérés réalisent une ablation de la vésicule biliaire
+6. Santé numérique : un collectif d’éditeurs accuse l’État d’ériger SecNumCloud en “totem” de la souveraineté, au risque de freiner l’innovation en IA
+Newsletter L'Usine Digitale
+Nos journalistes sélectionnent pour vous les articles essentiels de votre secteur.
+Votre email est traité par notre titre de presse qui selon le titre appartient, à une des sociétés suivantes…
+Cherche talents numériques
+Qu’est donc le Global Device ID, ce mystérieux identifiant de Windows qui a permis au FBI de traquer un membre présumé de Scattered Spider ?
+La plainte fédérale ayant conduit à l’arrestation de Peter Stokes, un membre présumé de Scattered Spider, révèle l’utilisation par Microsoft d’un identifiant unique associé à une installation de Windows, qui ne change pas au fil des mises à jour du système. Baptisé “Global Device Identifier”, il a permis au FBI de recouper plusieurs éléments techniques et soulève des interrogations sur les données de télémétrie associées à cet identifiant.
+![Talent Acquisition Officer H/F\\
+ASSYSTEM - 13/02/2026 - CDI - Cherbourg-en-Cotentin, Normandy, France\\
+Opens in new window]( "Talent Acquisition Officer H/F") ![Chef de projet H/F\\
+ASSYSTEM - 23/06/2025 - CDI - Romans-sur-Isère, Auvergne-Rhône-Alpes, France\\
+Opens in new window]( "Chef de projet H/F")
+Tous les postes disponiblesOpens in new window
+![Projets tech et carrière : découvrez le quotidien de deux experts chez Accenture]()
+Projets tech et carrière : découvrez le quotidien de deux experts chez Accenture
+Contenu proposé par ACCENTURE
+[![[ÉNERGIES] Déployez vos projets IA à l’échelle, inspirez-vous du cas ENGIE Entreprises et Collectivités]()]()
+[\[ÉNERGIES\] Déployez vos projets IA à l’échelle, inspirez-vous du cas ENGIE Entreprises et Collectivités]()
+Contenu proposé par Salesforce
+![Performance et IA : les nouvelles priorités digitales du secteur des médias]()
+Performance et IA : les nouvelles priorités digitales du secteur des médias
+search by querylyAdvanced Search!close

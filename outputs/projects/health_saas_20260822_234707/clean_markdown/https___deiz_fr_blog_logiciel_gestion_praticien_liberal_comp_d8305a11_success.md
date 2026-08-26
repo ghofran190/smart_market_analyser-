@@ -1,0 +1,125 @@
+Comparatif 12 février 2026·17 min de lecture
+# Quel logiciel choisir quand on est psychologue ? Le comparatif 2026
+Doctolib, Maiia, Docorga, KelDoc, CalenDoc et les solutions gratuites : prix réels, comparatif honnête et alternatives à Doctolib pour votre cabinet de psychologue ou de praticien libéral.
+![Audren Bouëssel du Bourg\\
+Psychologue en libéral à Quimper]()
+Quel logiciel choisir quand on est psychologue, et faut-il vraiment payer Doctolib 139 € par mois ? **La réponse courte : non, pas forcément. Pour la gestion du cabinet (agenda, rendez-vous en ligne, rappels, facturation), des alternatives à Doctolib existent de 0 à 55 € par mois. Doctolib ne se justifie que si sa place de marché vous apporte réellement des patients.** Ce qui est vrai pour les psychologues l’est aussi pour la plupart des praticiens libéraux non conventionnés.
+Ce comparatif couvre les solutions les plus utilisées en France : Doctolib, Maiia, Docorga, KelDoc, CalenDoc, et les alternatives gratuites. Avec les **prix réels** (pas ceux de la page commerciale), les forces et faiblesses de chaque outil, et ce que personne ne vous dit sur la conformité RGPD. Je l’ai écrit en tant que psychologue libéral qui a testé plusieurs de ces outils pour son propre cabinet.
+## Les 7 fonctionnalités indispensables
+Avant de comparer les prix, faites l’inventaire de ce dont vous avez réellement besoin. D’un logiciel à l’autre, le périmètre change du tout au tout. Voici les **7 fonctionnalités qui font la différence au quotidien** pour un praticien libéral.
+Prise de rendez-vous en ligne
+Entre 40 et 60 % des patients réservent en dehors des heures d’ouverture (source : Doctolib, rapport 2024). Sans RDV en ligne, vous perdez ces patients.
+Rappels automatiques (SMS ou email)
+D’après les chiffres publiés par Doctolib (rapport 2024), le taux de rendez-vous non honorés est de **3,3 % en moyenne**, et monte à **5,2 % pour les nouveaux patients**. Les rappels réduisent ce taux de 30 à 40 %.
+La réforme Factur-X entre en vigueur en septembre 2026 (réception obligatoire, émission en 2027). Anticiper avec un outil conforme vous évite de devoir changer dans quelques mois.
+Proposer des créneaux en visio élargit votre zone de chalandise et occupe des heures qui resteraient vides. Vérifiez si la téléconsultation est incluse ou facturée en supplément.
+Fiche publique indexée sur Google
+Plus de 70 % des recherches de professionnels de santé sont locales. Une fiche publique avec votre nom, spécialité et ville, indexée par Google, est votre meilleur levier d’acquisition.
+Conformité RGPD et données de santé
+Selon la CNIL (guide RGPD santé, 2021), l’hébergement de données de santé chez des sociétés américaines est qualifié de « non adapté ». Vérifiez que votre outil est conforme aux normes HDS françaises.
+Votre agenda doit être accessible depuis votre téléphone : vérifier un créneau entre deux consultations, confirmer un rendez-vous, envoyer une facture. Si l’interface mobile est un ajout tardif, l’ergonomie s’en ressent.
+## Tableau comparatif complet
+Le tableau qui suit rassemble les principales solutions présentes en France en 2026. Les prix restent approximatifs pour celles qui gardent leur grille tarifaire sous le coude.
+| Critère | Doctolib | Maiia | Docorga | KelDoc | CalenDoc | Deiz |
+| --- | --- | --- | --- | --- | --- | --- |
+| Prix / mois | ~139-298 € | 69-235 € | 54,90 € | ~40 € | 10-30 € | Gratuit |
+| RDV en ligne | Oui | Premium | En option | Oui | Oui | Oui |
+| Rappels auto | Oui | Oui | En option | Oui | Crédits | Oui |
+| Facturation | Offres sup. | Offres médecin | En option | Non | Non | Factur-X |
+| Téléconsultation | +79 €/mois | +40 €/mois | Non | Offre complète | 3 crédits | Gratuit |
+| Fiche publique SEO | Ouidoctolib.fr | Ouimaiia.com | Non | Ouikeldoc.com | Non | Ouivotre propre URL |
+| Chiffrement E2E | Non | Non | Non | Non | Non | Oui |
+| Sans engagement | Selon offre | Selon offre | Oui | Oui | Oui | Oui |
+Pensez en coût annuel, pas en prix mensuel. Doctolib à 139 €/mois + téléconsultation à 79 €/mois = **2 616 € par an**. Sur 3 ans, c’est **7 848 €**. Ce calcul change la perspective, surtout quand on débute.
+## Doctolib : le leader, mais à quel prix ?
+Doctolib domine le marché français avec **60 millions de visites mensuelles** sur sa plateforme (source : Doctolib, données publiques 2024). C’est son atout principal : les patients connaissent Doctolib et y cherchent directement un praticien.
+Le prix : entre **139 et 298 € TTC/mois** selon l’offre, auxquels s’ajoutent 79 €/mois pour la téléconsultation. Doctolib ne publie pas de grille tarifaire transparente, ce qui oblige à contacter un commercial pour connaître le tarif exact.
+- +Visibilité massive (marketplace patient)
+- +Certifié Ségur depuis 2022
+- +Marque connue des patients
+- -Prix élevé (1 668 à 3 576 €/an)
+- -Téléconsultation payante en sus
+- -Données hébergées sur AWS (Cloud Act)
+- -Tarifs opaques, en hausse régulière
+**Idéal pour** : les praticiens établis dont l’agenda est rempli à plus de 70 % et qui veulent maximiser leur visibilité patient. Moins pertinent au démarrage, quand le coût représente une part importante du chiffre d’affaires.
+## Maiia : le challenger institutionnel
+Maiia, développé par Cegedim Santé, propose un modèle modulaire. L’offre démarre à **69 €/mois** pour l’agenda seul, et monte à **235 €/mois** pour l’offre Maiia Médecin Premium (source : GetApp, Le Quotidien du Médecin). La téléconsultation coûte 40 €/mois en supplément, et le module IA 60 €/mois.
+Son avantage principal : l’intégration avec les téléservices de l’Assurance Maladie, ce qui en fait un choix pertinent pour les **médecins conventionnés**. La messagerie sécurisée Maiia Connect est gratuite et sans limite, y compris pour les non-abonnés.
+**Idéal pour** : les médecins conventionnés qui ont besoin d’une intégration avec la Sécurité sociale. Moins adapté aux paramédicaux et professions non conventionnées, pour lesquels le rapport fonctionnalités/prix est moins favorable.
+## Docorga : la sécurité avant tout
+Docorga se positionne comme l’alternative à Doctolib pour les **professions réglementées** (psychologues, orthophonistes, kinésithérapeutes, sages-femmes). Prix fixe : **54,90 €/mois** tout compris avec SMS illimités (source : site officiel Docorga).
+Son point fort : la conformité RGPD santé et la certification HDS. Quatre outils sont gratuits (agenda, fiches patients, messagerie sécurisée, conformité RGPD), les options payantes (comptabilité, liste d’attente, RDV en ligne, rappels SMS) sont activables sans engagement.
+Le problème, c’est que **l’agenda gratuit de Docorga n’est visible que par vous**. Pas de page publique, pas de fiche praticien indexée sur Google, pas de lien de prise de rendez-vous à envoyer à vos patients. Concrètement, un patient qui vous cherche en ligne ne trouvera rien. Vous gérez vos créneaux dans votre coin, mais personne ne peut les voir ni réserver. Pour débloquer la prise de RDV en ligne, il faut passer à l’offre payante à 54,90 €/mois. L’agenda “gratuit” est donc un agenda papier numérisé : utile pour s’organiser, inutile pour remplir son cabinet.
+Agenda gratuit ne veut pas dire visible
+Un agenda que vos patients ne peuvent pas consulter ne vous rapportera aucun rendez-vous. La prise de RDV en ligne et la fiche publique sont ce qui fait la différence entre un outil de gestion interne et un vrai levier pour développer votre activité.
+**Idéal pour** : les paramédicaux réglementés qui veulent avant tout sécuriser leurs données et n’ont pas besoin de visibilité en ligne. Si vous cherchez à attirer de nouveaux patients via internet, ce n’est pas le bon outil.
+## KelDoc et CalenDoc : les options légères
+### KelDoc : simple et sans engagement
+KelDoc propose un agenda avec prise de RDV en ligne et rappels SMS pour environ **40 €/mois** (source : Médecine Connectée, Lonasante). Sans engagement, résiliable à tout moment. Deux formules : une offre complète (présentiel + distance) et une offre agenda seul.
+La limite : **pas de facturation ni de dossier patient**. C’est un outil d’agenda, pas un logiciel de gestion de cabinet complet.
+### CalenDoc : le paiement à l’usage
+CalenDoc fonctionne avec un système de crédits : 1 RDV = 1 crédit, 1 SMS = 1 crédit, 1 téléconsultation = 3 crédits. L’offre Essentiel démarre à **9,99 €/mois** (2 000 crédits/an), l’offre Premium à **29,99 €/mois** (5 000 crédits/an). Source : site officiel CalenDoc.
+Le système de crédits peut vite devenir imprévisible. Un praticien avec 20 consultations par semaine et un rappel SMS par RDV consomme environ **160 crédits/mois**, soit 1 920/an. Avec l’offre Essentiel (2 000 crédits/an), c’est juste. Ajoutez les créneaux de téléconsultation et le quota est dépassé.
+## Google Agenda : le piège du « gratuit »
+Beaucoup de praticiens démarrent avec Google Agenda parce que c’est gratuit et familier. C’est compréhensible, mais c’est un **risque juridique réel**.
+Selon la CNIL (avis de 2021), l’hébergement de données de santé chez des sociétés américaines est qualifié de « non adapté », même avec certification HDS. L’article L.1111-8 du Code de la santé publique prévoit **3 ans d’emprisonnement et 45 000 € d’amende** pour l’hébergement de données de santé sans certification HDS conforme.
+Inscrire le nom d’un patient et le type de consultation dans Google Agenda constitue un traitement de données de santé. Ces données sont hébergées par Google (entreprise américaine), soumise au Cloud Act, ce qui permet aux autorités américaines d’y accéder.
+Au-delà du risque juridique, Google Agenda ne propose **aucune fonctionnalité métier** : pas de prise de RDV en ligne, pas de rappels SMS, pas de facturation, pas de visibilité patient.
+**Verdict** : utilisable pour votre agenda personnel, mais pas pour gérer des rendez-vous avec des données de patients. La synchronisation avec un outil conforme (comme la sync bidirectionnelle Google Calendar proposée par certaines solutions) est une meilleure approche : votre outil métier gère les données sensibles, Google Calendar vous offre une vue unifiée.
+## Facturation électronique 2026 : ce qui change
+La réforme de la facturation électronique entre en vigueur progressivement en France. Les formats acceptés sont **Factur-X, UBL et CII**. Concrètement, voici le calendrier (source : economie.gouv.fr, URSSAF) :
+Tous les professionnels assujettis à la TVA doivent pouvoir recevoir des factures électroniques
+Émission obligatoire (TPE, PME, indépendants)
+Les micro-entreprises et indépendants doivent émettre des factures au format électronique
+Cas des professionnels de santé
+Si vos actes sont **exonérés de TVA** (cas de la majorité des actes médicaux et paramédicaux), vous n’êtes pas tenu d’émettre des factures électroniques ni de faire du e-reporting. Vous devez cependant être en mesure d’en recevoir dès septembre 2026. Si vous réalisez des actes soumis à TVA (formations, expertises, actes esthétiques), l’émission devient obligatoire en septembre 2027.
+Un point que beaucoup ignorent : l’État a renoncé en 2024 à son portail public gratuit. Pour émettre, transmettre ou recevoir vos factures électroniques, il faut désormais passer par une **plateforme agréée (PA)**, le nouveau nom des anciennes « plateformes de dématérialisation partenaires (PDP) ». Le bon critère de choix d’un logiciel ne se limite donc plus au format Factur-X : il faut une solution qui couvre toute la chaîne, du bon format à la transmission par plateforme agréée jusqu’au e-reporting pour les activités taxables.
+C’est précisément ce que propose une solution clé en main comme **Deiz**, là où la plupart des outils s’arrêtent à la génération du PDF. Pour le détail complet du calendrier, des plateformes agréées et du e-reporting, consultez notre guide de la facture électronique 2026 pour les praticiens libéraux et les éventuels crédits supplémentaires.
+**Budget 0 €** : Deiz (tout inclus, gratuit)
+**Budget 40-55 €/mois** : KelDoc ou Docorga
+**Budget 100 €+/mois** : Doctolib ou Maiia
+### 2\. Ai-je besoin de visibilité patient ou juste de gestion ?
+Si votre agenda est vide et que vous avez besoin d’attirer de nouveaux patients, la visibilité est prioritaire. Doctolib offre la marketplace la plus visitée, mais une fiche publique bien référencée sur Google combinée à un profil Google Business peut rivaliser sans les 139 €/mois.
+Si votre patientèle est déjà constituée et que vous avez besoin d’organiser votre quotidien (agenda, facturation, rappels), un outil de gestion suffit.
+### 3\. Quelle importance pour la protection des données ?
+Si vous exercez une profession où la confidentialité est centrale (psychologues, psychiatres), le chiffrement de bout en bout et l’hébergement HDS ne sont pas des options, ce sont des obligations. Vérifiez où sont hébergées les données et si l’hébergeur est soumis au Cloud Act américain.
+### Le cas type : psychologue à la recherche d’une alternative à Doctolib
+C’est la situation la plus fréquente chez les confrères : un abonnement signé à l’installation, un agenda désormais rempli en bonne partie par le bouche-à-oreille, et une question qui revient : que me rapporte encore cet abonnement à 139 € par mois ? Trois scénarios de sortie :
+- •**Votre patientèle est constituée** : un outil de gestion gratuit ou léger suffit. L’économie finance votre supervision et votre formation continue de l’année.
+- •**Vous avez encore besoin d’être trouvé en ligne** : remplacez la place de marché par une fiche publique SEO à votre nom et un profil Google Business soigné. Sur la requête « psychologue + votre ville », c’est votre fiche Google qui compte, pas l’annuaire Doctolib.
+- •**Vous hésitez** : faites tourner les deux en parallèle un trimestre et comptez les nouveaux patients réellement arrivés par Doctolib. Le chiffre tranche mieux que n’importe quel comparatif.
+## Les erreurs à éviter
+Choisir Doctolib « parce que tout le monde l’utilise »
+Doctolib est pertinent pour certains profils, pas pour tous. Un praticien qui débute avec 15 consultations par semaine n’a pas les mêmes besoins qu’un cabinet de groupe établi.
+Gérer ses patients sur Google Agenda
+Ce n’est pas conforme RGPD/HDS pour les données de santé. Le risque juridique est réel : jusqu’à 3 ans d’emprisonnement et 45 000 € d’amende.
+Ignorer la facturation électronique
+La réforme Factur-X arrive en 2026-2027. Choisir un outil sans facturation intégrée, c’est s’assurer de devoir en changer dans quelques mois.
+Exigez une période d’essai de 30 jours minimum. Testez votre flux complet : prise de RDV, rappels, consultation, facturation. Un outil qui vous convient sur le papier peut être frustrant au quotidien.
+Un agenda ici, un logiciel de facturation là, un outil de téléconsultation ailleurs. Chaque outil supplémentaire est un mot de passe de plus, une synchronisation de plus, et un risque de perte d’information. Préférez une solution tout-en-un quand c’est possible.
+## Questions fréquentes
+Quel est le meilleur logiciel pour praticien libéral ?
+Il n’existe pas de meilleur logiciel universel. Le choix dépend de votre budget, de votre profession et de vos besoins. Si vous démarrez et que chaque euro compte, des solutions gratuites comme Deiz couvrent l’essentiel (agenda, RDV en ligne, facturation, rappels). Si votre priorité est la visibilité patient et que le budget le permet, Doctolib reste le leader avec **60 millions de visites mensuelles** sur sa plateforme.
+Combien coûte Doctolib pour un praticien ?
+Doctolib facture entre **139 et 298 € TTC/mois** selon l’offre choisie, auxquels s’ajoutent 79 €/mois pour la téléconsultation. Le tarif varie selon la spécialité et le mode de facturation (mensuel ou annuel). Doctolib ne publie pas de grille tarifaire publique : il faut contacter un commercial pour obtenir un devis précis.
+Google Agenda est-il conforme pour un praticien de santé ?
+**Non.** Google Agenda n’est pas certifié HDS. Selon la CNIL (2021), l’hébergement de données de santé chez des sociétés américaines est « non adapté ». Stocker le nom d’un patient et le type de consultation dans Google Agenda constitue un risque juridique : **3 ans d’emprisonnement et 45 000 € d’amende**.
+Quelle alternative à Doctolib pour un psychologue ?
+Tout dépend de votre besoin. Pour la **gestion pure** (agenda, rendez-vous en ligne, factures, rappels), une solution gratuite comme Deiz ou Docorga à 54,90 €/mois couvrent l’essentiel. Pour rester **visible en ligne** sans la place de marché Doctolib, une fiche publique bien référencée combinée à un profil Google Business fait le travail. Le changement se prépare : exportez vos rendez-vous et prévenez vos patients avec un à deux mois d’avance.
+Faut-il être sur Doctolib quand on s'installe ?
+Pas nécessairement. Doctolib coûte entre **139 et 298 €/mois**. Au démarrage, quand l’agenda n’est rempli qu’à 30 ou 40 %, cet abonnement représente une part significative du chiffre d’affaires. Des alternatives gratuites offrent les fonctionnalités essentielles. Doctolib devient rentable quand le volume de consultations justifie l’investissement, généralement à partir de 70 % de remplissage. Consultez notre guide pour trouver des patients sans Doctolib propose un ensemble complet gratuit : agenda, prise de RDV en ligne, rappels automatiques, facturation conforme Factur-X, téléconsultation intégrée avec visio P2P (aucune donnée ne transite par les serveurs), fiche publique SEO avec badge RPPS, liste d’attente, et chiffrement de bout en bout. D’autres solutions offrent des fonctionnalités de base gratuites avec options payantes (Docorga : messagerie et agenda gratuits, options payantes à 54,90 €/mois).
+Docorga ou Doctolib pour un psychologue ?
+Deux logiques différentes. **Doctolib** (139 €/mois et plus) mise sur la visibilité de sa place de marché auprès des patients. **Docorga** (54,90 €/mois) mise sur la conformité RGPD/HDS pour les professions réglementées, mais sans fiche publique indexée sur Google : personne ne vous trouve en ligne. Un psychologue qui veut à la fois être trouvé et maîtriser son budget peut regarder les solutions gratuites avec fiche publique SEO, comme Deiz.
+Quel budget prévoir pour un logiciel de gestion de cabinet ?
+Trois paliers existent : **gratuit** (Deiz), **intermédiaire** (40 à 55 €/mois pour KelDoc ou Docorga), et **premium** (139 à 298 €/mois pour Doctolib ou Maiia). Sur 12 mois, la différence est considérable : 0 € contre 1 668 à 3 576 € pour Doctolib. Évaluez le rapport entre le coût et le nombre de consultations supplémentaires que l’outil vous apporte réellement.
+## Conclusion
+Le meilleur logiciel est celui qui colle à votre situation d’aujourd’hui, pas celui qui aligne le plus de fonctionnalités ou la plus grosse notoriété. Si vous démarrez, partez sur un outil gratuit ou abordable qui couvre vos besoins réels. Vous évoluerez quand votre activité le justifiera. Une seule chose à éviter vraiment : rester sur Excel ou Google Agenda. Chaque jour sans prise de RDV en ligne et sans rappels automatiques, ce sont des patients et du temps qui filent.
+1. \[1\]CNIL, Le RGPD appliqué au secteur de la santé
+3. \[3\]URSSAF, Facturation électronique obligatoire
+4. \[4\]Le Quotidien du Médecin, Baisse générale des rendez-vous non honorés : 3,3 % de taux de lapins
+6. \[6\]Doctolib, doctolib.fr · Maiia, maiia.com · Docorga, docorga.com · KelDoc, keldoc.com · CalenDoc, calendoc.com
+Les prix mentionnés dans cet article sont indicatifs et peuvent varier. Dernière vérification : juillet 2026.
+Envie de tester sans risque ?
+Agenda, RDV en ligne, facturation Factur-X, rappels, téléconsultation, fiche publique SEO. Tout est inclus, tout est gratuit.
+Créer mon profil en 5 minutes
+Gratuit · Sans engagement · Pas de carte bancaire

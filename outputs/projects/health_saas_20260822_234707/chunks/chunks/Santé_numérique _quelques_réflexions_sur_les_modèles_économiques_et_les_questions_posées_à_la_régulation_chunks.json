@@ -1,0 +1,62 @@
+[
+    {
+        "chunk_id": "2411ac3b6c119f51",
+        "content": "![]( \"Santé, numérique et droit-s\")Cover information",
+        "metadata": {
+            "chunk_id": "2411ac3b6c119f51",
+            "parent_doc": "Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation",
+            "source_url": "https://books.openedition.org/putc/4454?lang=en",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "attentes patients professionnels santé modèles pricing logiciels santé numérique France",
+            "question": "Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?",
+            "angle": "perspective utilisateur sur la valeur et le pricing",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "![]( \"Santé, numérique et droit-s\")Cover information",
+            "token_count": 6,
+            "character_count": 52,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:34:04.837600+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0321c15ef91a5a50",
+        "content": "# Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation",
+        "metadata": {
+            "chunk_id": "0321c15ef91a5a50",
+            "parent_doc": "Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation",
+            "source_url": "https://books.openedition.org/putc/4454?lang=en",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "attentes patients professionnels santé modèles pricing logiciels santé numérique France",
+            "question": "Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?",
+            "angle": "perspective utilisateur sur la valeur et le pricing",
+            "heading_path": [
+                "Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation"
+            ],
+            "section_title": "Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation",
+            "token_count": 17,
+            "character_count": 107,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:34:04.837600+00:00",
+            "extra": {}
+        }
+    }
+]

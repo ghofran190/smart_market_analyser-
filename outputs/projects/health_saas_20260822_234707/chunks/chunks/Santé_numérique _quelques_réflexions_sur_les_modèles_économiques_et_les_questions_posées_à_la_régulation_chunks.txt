@@ -1,0 +1,41 @@
+
+
+
+
+================================================================================# Source URL: https://books.openedition.org/putc/4454?lang=en
+# Document parent: Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: attentes patients professionnels santé modèles pricing logiciels santé numérique France
+# Angle: perspective utilisateur sur la valeur et le pricing
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 52 caractères
+# Tokens: 6
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:34:04.837600+00:00
+................................................................................
+
+![]( "Santé, numérique et droit-s")Cover information
+
+
+
+================================================================================# Source URL: https://books.openedition.org/putc/4454?lang=en
+# Document parent: Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: attentes patients professionnels santé modèles pricing logiciels santé numérique France
+# Angle: perspective utilisateur sur la valeur et le pricing
+# Chemin hiérarchique: Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation
+# Titre section: Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation
+# Type: h1
+# Taille: 107 caractères
+# Tokens: 17
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:34:04.837600+00:00
+................................................................................
+
+# Santé numérique : quelques réflexions sur les modèles économiques et les questions posées à la régulation

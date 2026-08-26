@@ -1,0 +1,660 @@
+
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 272 caractères
+# Tokens: 39
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+``````Passer au contenu principal
+!Quels sont les modèles de téléconsultation en Europe ?
+Les modèles de téléconsultation varient sensiblement d’un pays européen à l’autre en matière d’intégration au système de santé, modalités d’accès, outils utilisés et taux de recours.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En France
+# Titre section: En France
+# Type: h3
+# Taille: 867 caractères
+# Tokens: 128
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En France
+La téléconsultation est intégrée au système de soins, dispose d'un cadre réglementaire précis, est réalisée sur des plateformes publiques ou privées, l'accès pour les citoyens est libre. Elle représente 2-4% actes médicaux de consultation rémunérés par l'Assurance maladie (2024), avec une particularité pour la téléconsultation psychiatrique qui représente en 2024 environ 20% de l'activité des psychiatres français. La téléconsultation est remboursée en France depuis le 15 septembre 2018. Au décours de la pandémie, son usage a fortement diminué chez les médecins libéraux et a au contraire progressé sur les plateformes gérées par les Sociétés de Téléconsultation (STC). Ces dernières seront agréées ou non en 2026 pour un remboursement par l'Assurance maladie si elles remplissent le cahier des charges élaboré par les autorités sanitaires en 2023.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En Allemagne
+# Titre section: En Allemagne
+# Type: h3
+# Taille: 501 caractères
+# Tokens: 77
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En Allemagne
+Le développement de la téléconsultation est progressif depuis la fin de la pandémie, Elle est surtout pratiquéedans les hôpitaux dont la plupart utilisent la plateforme privée Medgate. Dans le secteur libéral, la téléconsultation est organisée par le médecin référent, En 2023, 2,2 M d'actes ont été remboursés (contre 12 M en France).. Le taux d'usage des citoyens n'est pas libre et dépend de l'engagement du médecin référent. Les conditions d'accès au remboursement sont variables.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > Au Royaume-Uni et Irlande
+# Titre section: Au Royaume-Uni et Irlande
+# Type: h3
+# Taille: 563 caractères
+# Tokens: 86
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Au Royaume-Uni et Irlande
+L'intégration au système de soins passe par le NHS Digital,et des plateformes privées (Babylon, PushDoctor) L'accès du patient à la téléconsultation dépend de son enrégistrement au National Health Service (NHS). Le taux d'usage par les citoyens est moyen à élevé, selon les spécialités. Les patients sont remboursés par le NHS et des assurances privées. Le secteur public irlandais met en place une politique incitative à l'usage de la téléconsultation en médecine générale. Elle est désormais intégrée au système de santé irlandais.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > Dans les Pays nordiques (Norvège, Suède, Finlande, Danemark)
+# Titre section: Dans les Pays nordiques (Norvège, Suède, Finlande, Danemark)
+# Type: h3
+# Taille: 793 caractères
+# Tokens: 125
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Dans les Pays nordiques (Norvège, Suède, Finlande, Danemark)
+La téléconsultation est complètement intégrée au système de soins. Les plateformes sont publiques et privées (une trentaine de plateformes en Suède, dont la sociéte Kry/Livi qui est leader du marché, une vingtaine de plateformes au Danemark, 30 à 35 plateformes en Finlande). En Norvège, 80% des citoyens utilisent le portail national Helsenorge pour la prise de rendez-vous (l'équivalent de DoctoLib en France). L'accès des citoyens est libre et son usage est très large, avec un taux supérieur à 30% des actes médicaux au Danemark, plus de 15% en Suéde, 20 à 25% en Norvège et environ 20% en Finlande. Les actes de téléconsultation sont remboursés par les assurances publiques ou privées, comme une consultation en présentiel.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En Espagne et en Italie
+# Titre section: En Espagne et en Italie
+# Type: h3
+# Taille: 317 caractères
+# Tokens: 47
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En Espagne et en Italie
+La téléconsultation est en forte croissance depuis la fin de la pandémie. Son développement est régionalisé. Les plateformes sont autonomes et le déploiement régional de la téléconsultation est variable. Le remboursement est également variable, en fonction des systèmes de santé régionaux.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En Estonie et au Portugal
+# Titre section: En Estonie et au Portugal
+# Type: h3
+# Taille: 339 caractères
+# Tokens: 53
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En Estonie et au Portugal
+Ces deux pays ont une numérisation poussée, centralisée. Les Plateformes sont nationales. L'accès du patient se fait par son Dossier électronique. Le taux d'usage de la téléconsultation est élevé en 2024 : Estonie : 37%, Portugal : 30% des actes de consultation. Toutes les téléconsultations sont remboursées.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > Au Luxembourg et à Malte
+# Titre section: Au Luxembourg et à Malte
+# Type: h3
+# Taille: 364 caractères
+# Tokens: 54
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Au Luxembourg et à Malte
+L'intégration au système de santé est très avancée (score >90% intégration). Lea plateformes sont publiques et nationales. Les patients bénéficient de la couverture universelle. Ces deux pays sont en tête des pays européens pour leur maturité numérique. La téléconsultations sont remboursées dans le cadre de la couverture universelle.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En Belgique et aux Pays-Bas :
+# Titre section: En Belgique et aux Pays-Bas :
+# Type: h3
+# Taille: 923 caractères
+# Tokens: 150
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En Belgique et aux Pays-Bas :
+Députés, sauvez des vies : le 23 janvier votez la loi…\\
+Pacte de lutte contre les déserts médicaux : une…\\
+Maha 2025 : “On ne peut plus faire comme si le système…\\
+Croissance rapide d’acteurs privés de la téléconsultation et intégration dans la régulation de la santé numérique à l’échelle nationale.
+En Belgique, après une forte intégration de la téléconsultation dans le système de santé, la Belgique a suspendu son remboursement en 2025, principalement pour maitrîser les coûts, incitant à une réforme du modèle de financement et d'organisation, ainsi que le cadre réglementaire, afin de garentir la qualité et la pertinence des actes à distance. Le plan e-santé fédéral 2025-2027 vise à intégrer durablement les outils numériques et la téléconsultation dans le système de soins belge.
+Aux Pays Bas se trouve l'un des taux d'adoption de la téléconsultation les plus élevés en Europe.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En Belgique et aux Pays-Bas :
+# Titre section: En Belgique et aux Pays-Bas :
+# Type: paragraph
+# Taille: 300 caractères
+# Tokens: 40
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+Trois quarts des cabinets de médecine générale proposent la téléconsultation video. 90% de la population néerlandaise (18 millions d'habitants) ont eu accès à une téléconsultation en 2024. Les téléconsultations sont remboursées lorsqu'elles répondent aux critères du système public d'assurance santé.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > Autres Pays européens
+# Titre section: Autres Pays européens
+# Type: h3
+# Taille: 276 caractères
+# Tokens: 40
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Autres Pays européens
+Intégration progressive de la téléconsultation en Europe de l'Est, en Pologne, en République tchèque, en Hongrie, en Lituanie, en Slovénie et dans les pays baltes, avec souvent des solutions locales, mais aussi présence de plateformes internationales
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Les principaux modèles européens > En résumé,
+# Titre section: En résumé,
+# Type: h3
+# Taille: 545 caractères
+# Tokens: 84
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En résumé,
+La grande majorité des pays européens disposent désormais de plateformes de téléconsultation en 2025, avec une adoption généralisée aussi bien à l’Ouest qu’à l'Est, en Europe du Nord et du Sud. C'est une structuration accélérée des soins à distance depuis la pandémie de COVID-19. Pratiquement tous les États membres de l’Union européenne et de nombreux pays hors UE proposent des solutions numériques de consultation à distance, souvent soutenues par leur système de santé public ou développées par des sociétés privées majeures.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Quels sont les points de comparaison essentiels ? > Pour l'Intégration au système public
+# Titre section: Pour l'Intégration au système public
+# Type: h3
+# Taille: 332 caractères
+# Tokens: 49
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Pour l'Intégration au système public
+Les pays nordiques, le Luxembourg et l’Estonie ont fait de la téléconsultation un mode d’accès standard, associé au dossier médical électronique (DME) et à des plateformes nationales, tandis que la France et l’Allemagne s’appuient sur un mix public-privé, souvent via des outils commerciaux.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Quels sont les points de comparaison essentiels ? > Sur la forme d’accès à la téléconsultation
+# Titre section: Sur la forme d’accès à la téléconsultation
+# Type: h3
+# Taille: 736 caractères
+# Tokens: 106
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Sur la forme d’accès à la téléconsultation
+Certains pays privilégient le contact direct patient-médecin (France, Suède), tandis que d’autres pays imposent un passage par le médecin traitant ou le système d’assurance (Allemagne, Royaume-Uni). Au début de son déploiement en septembre 2018, la France imposait le passage préalable par le médecin traitant (avenant 6 de la convention médicale nationale). Depuis 2022, la France autorise et rembourse l'accès direct aux plateformes commerciales de téléconsultation (STC). Toutefois, les Assises de la Télémédecine préciseront si l'accès direct à une plateforme ne sera pas conditionné par l'activivation préalable du dossier électronique centré sur le patient (DMP de Mon Espace Santé).
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Quels sont les points de comparaison essentiels ? > Degré de remboursement
+# Titre section: Degré de remboursement
+# Type: h3
+# Taille: 207 caractères
+# Tokens: 31
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Degré de remboursement
+Tous les pays d’Europe de l’Ouest sont globalement favorables à la prise en charge financière des actes de téléconsultation, sauf pour certains modèles privés ou non conventionnés.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Quels sont les points de comparaison essentiels ? > Taux d’usage de la téléconsultation:
+# Titre section: Taux d’usage de la téléconsultation:
+# Type: h3
+# Taille: 305 caractères
+# Tokens: 50
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Taux d’usage de la téléconsultation:
+Les écarts sont forts, jusqu’à 37-40% des consultations médicales en Estonie contre moins de 2% en Allemagne et 4% en France (2024). Les pays nordiques avec le Danemerk et les Pays Bas, ainsi que certaines régions d'Espagne et d'Italie sont leaders dans son usage.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Quels sont les points de comparaison essentiels ? > Innovation
+# Titre section: Innovation
+# Type: code
+# Taille: 516 caractères
+# Tokens: 74
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Innovation
+L’intelligence artificielle et les outils de triage automatisé se développent plus vite en Scandinavie et au Royaume-Uni qu’en France ou en Allemagne, rendant ainsi le parcours du patient plus fluide.
+24`````````````` 1 commentaire
+- Signaler ce commentaire
+Le chemin qu'il nous reste à parcourir pour rattraper le retard en France est encore trop long. Puissent les #assisesdelatelemedecine raccourcir la trajectoire !
+J’aime Réagir 2 réactions
+Identifiez-vous pour afficher ou ajouter un commentaire
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon
+# Titre section: Plus d’articles de Pierre Simon
+# Type: list
+# Taille: 120 caractères
+# Tokens: 19
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+## Plus d’articles de Pierre Simon
+- Comment sont organisés en Europe les soins paramédicaux d'optique et d'audiologie ?
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > Comment sont organisés en Europe les soins paramédicaux d'optique et d'audiologie ?
+# Titre section: Comment sont organisés en Europe les soins paramédicaux d'optique et d'audiologie ?
+# Type: list
+# Taille: 351 caractères
+# Tokens: 57
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Comment sont organisés en Europe les soins paramédicaux d'optique et d'audiologie ?
+La CNAM avait mis le sujet de la filière visuelle et auditive à l'ordre du jour des Assises de la Télémédecine (atelier…
+- France 2030 : Lancement d’un appel à manifestation d’intérêt pour réduire les inégalités d’accès aux soins grâce à des solutions innovantes.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > France 2030 : Lancement d’un appel à manifestation d’intérêt pour réduire les inégalités d’accès aux soins grâce à des solutions innovantes.
+# Titre section: France 2030 : Lancement d’un appel à manifestation d’intérêt pour réduire les inégalités d’accès aux soins grâce à des solutions innovantes.
+# Type: list
+# Taille: 309 caractères
+# Tokens: 49
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### France 2030 : Lancement d’un appel à manifestation d’intérêt pour réduire les inégalités d’accès aux soins grâce à des solutions innovantes.
+Dans le cadre de France 2030, le gouvernement à lancé le 21 juillet 2026 un appel à manifestation d’intérêt (AMI)…
+- Telesoin infirmier aux Etats-Unis (2ème Partie)
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > Telesoin infirmier aux Etats-Unis (2ème Partie)
+# Titre section: Telesoin infirmier aux Etats-Unis (2ème Partie)
+# Type: list
+# Taille: 202 caractères
+# Tokens: 33
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Telesoin infirmier aux Etats-Unis (2ème Partie)
+Il est recommandé de lire ou de relire la 1ère partie avant de découvrir cette deuxième partie :…
+- Le Télésoin Infirmier aux Etats-Unis (1ère partie)
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > Le Télésoin Infirmier aux Etats-Unis (1ère partie)
+# Titre section: Le Télésoin Infirmier aux Etats-Unis (1ère partie)
+# Type: list
+# Taille: 295 caractères
+# Tokens: 49
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Le Télésoin Infirmier aux Etats-Unis (1ère partie)
+Le métier d'infirmier est en pleine transformation dans de nombreux pays dont la France qui a promulgué le 29 juin 2025…
+- Comment réussir la mise en place de soins distanciels au domicile pour les patients atteints de maladies chroniques ?
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > Comment réussir la mise en place de soins distanciels au domicile pour les patients atteints de maladies chroniques ?
+# Titre section: Comment réussir la mise en place de soins distanciels au domicile pour les patients atteints de maladies chroniques ?
+# Type: list
+# Taille: 341 caractères
+# Tokens: 54
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Comment réussir la mise en place de soins distanciels au domicile pour les patients atteints de maladies chroniques ?
+Les projets pilotes de santé numérique pour les patients atteints de maladies chroniques rencontrent souvent des…
+- En Australie, le triage des demandes de soins primaires par l'IA augmente le recours à la télémédecine.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > En Australie, le triage des demandes de soins primaires par l'IA augmente le recours à la télémédecine.
+# Titre section: En Australie, le triage des demandes de soins primaires par l'IA augmente le recours à la télémédecine.
+# Type: list
+# Taille: 315 caractères
+# Tokens: 54
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### En Australie, le triage des demandes de soins primaires par l'IA augmente le recours à la télémédecine.
+Alors que la CNAM lance une mission de cadrage de son projet d'assistant d'IA en santé sur son site ameli.fr…
+- Les mesures de la LFSS 2026 sont-elles suffisantes pour améliorer l'accès aux soins primaires ?
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > Les mesures de la LFSS 2026 sont-elles suffisantes pour améliorer l'accès aux soins primaires ?
+# Titre section: Les mesures de la LFSS 2026 sont-elles suffisantes pour améliorer l'accès aux soins primaires ?
+# Type: list
+# Taille: 331 caractères
+# Tokens: 50
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Les mesures de la LFSS 2026 sont-elles suffisantes pour améliorer l'accès aux soins primaires ?
+Dans ce billet, nous analysons les difficultés d’accès aux soins en France, en particulier dans les territoires…
+- La téléconsultation n'est pas simplement une prestation de soins : elle nécessite une compétence clinique distincte.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > La téléconsultation n'est pas simplement une prestation de soins : elle nécessite une compétence clinique distincte.
+# Titre section: La téléconsultation n'est pas simplement une prestation de soins : elle nécessite une compétence clinique distincte.
+# Type: list
+# Taille: 293 caractères
+# Tokens: 44
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### La téléconsultation n'est pas simplement une prestation de soins : elle nécessite une compétence clinique distincte.
+Ce billet défend la nécessité d’un enseignement structuré de la télémédecine, en particulier de la téléconsultation…
+- La santé mentale en 2026 : une grande cause mondiale.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > La santé mentale en 2026 : une grande cause mondiale.
+# Titre section: La santé mentale en 2026 : une grande cause mondiale.
+# Type: list
+# Taille: 289 caractères
+# Tokens: 47
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### La santé mentale en 2026 : une grande cause mondiale.
+Introduction Le fardeau mondial des troubles de la santé mentale n'a cessé de progresser au cours des 30 dernières…
+- Dans ses dernières recommandations sur la télémédecine, le CNOM prend le contre-pied des conclusions des Assises.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Plus d’articles de Pierre Simon > Dans ses dernières recommandations sur la télémédecine, le CNOM prend le contre-pied des conclusions des Assises.
+# Titre section: Dans ses dernières recommandations sur la télémédecine, le CNOM prend le contre-pied des conclusions des Assises.
+# Type: h3
+# Taille: 236 caractères
+# Tokens: 37
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+### Dans ses dernières recommandations sur la télémédecine, le CNOM prend le contre-pied des conclusions des Assises.
+En déclarant dans la conclusion de son dernier rapport, publié 4 mois après la clôture des Assises de la Télémédecine…
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Autres pages consultées
+# Titre section: Autres pages consultées
+# Type: list
+# Taille: 715 caractères
+# Tokens: 125
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+## Autres pages consultées
+- **Députés, sauvez des vies : le 23 janvier votez la loi sur les ratios !**\\
+- **Pacte de lutte contre les déserts médicaux : une occasion manquée !**\\
+- **Maha 2025 : “On ne peut plus faire comme si le système tenait encore debout”**\\
+- **Accès aux soins : et si nous nous trompions de débat ?**\\
+- **La pénurie de médecins**\\
+- **HAD et virtual wards au Royaume-Uni**\\
+- **« PDSA : quand les médecins décrochent, le système se réorganise sans nous »**\\
+- **Transformer les soins à domicile : le modèle d’Acadian Health**\\
+- **Accès aux soins au Québec : un système sous tension**\\
+- **Encadrer l’innovation sans la freiner : vers une approche coopérative entre les acteurs**\\
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/pulse/quels-sont-les-mod%25C3%25A8les-de-t%25C3%25A9l%25C3%25A9consultation-en-europe-pierre-simon-etcke
+# Document parent: Quels sont les modèles de téléconsultation en Europe ?
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: li.protechts.net is blocked
+# Titre section: li.protechts.net is blocked
+# Type: list
+# Taille: 105 caractères
+# Tokens: 17
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:43.169380+00:00
+................................................................................
+
+# li.protechts.net is blocked
+This page has been blocked by an extension
+- Try disabling your extensions.

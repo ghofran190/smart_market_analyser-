@@ -1,0 +1,49 @@
+{
+    "total_chunks": 2478,
+    "total_tokens": 234075,
+    "total_characters": 1547510,
+    "avg_tokens_per_chunk": 94.46125907990314,
+    "avg_characters_per_chunk": 624.499596448749,
+    "min_tokens": 20,
+    "max_tokens": 302,
+    "median_tokens": 96,
+    "percentile_25": 55,
+    "percentile_75": 133,
+    "chunk_types": {
+        "h1": 63,
+        "h2": 399,
+        "table": 140,
+        "h3": 614,
+        "list": 521,
+        "unstructured": 146,
+        "paragraph": 358,
+        "introduction": 114,
+        "quote": 27,
+        "h4": 96
+    },
+    "heading_levels": {
+        "1": 164,
+        "2": 926,
+        "3": 1082,
+        "0": 114,
+        "4": 159,
+        "5": 30,
+        "6": 3
+    },
+    "sections": {
+        "Analyse macro marché et tendances": 842,
+        "unknown": 19,
+        "Analyse de la demande et pain points": 674,
+        "Analyse de l'offre et concurrence": 395,
+        "Analyse SWOT": 548
+    },
+    "has_code_count": 0,
+    "has_tables_count": 145,
+    "has_lists_count": 559,
+    "has_numbers_count": 1548,
+    "has_dates_count": 693,
+    "unique_documents": 120,
+    "unique_sections": 5,
+    "unique_questions": 12,
+    "unique_angles": 37
+}

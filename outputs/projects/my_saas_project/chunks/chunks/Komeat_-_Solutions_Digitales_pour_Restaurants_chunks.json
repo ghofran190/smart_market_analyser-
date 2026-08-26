@@ -1,0 +1,973 @@
+[
+    {
+        "chunk_id": "54a9bb20f4576923",
+        "content": "![Komeat - Solutions Digitales pour Restaurants]()\n!Digitalisation Restaurant : Comment Augmenter Son CA de 70%\nPourtant, beaucoup de restaurateurs hésitent encore. Entre la complexité perçue des outils numériques, le coût d'investissement et le manque de temps, la transformation digitale peut sembler intimidante. Ce guide complet vous accompagne pas à pas pour **digitaliser votre restaurant efficacement**, augmenter votre chiffre d'affaires et fidéliser votre clientèle durablement.\n> **Chiffre clé** : Les restaurants ayant adopté une stratégie digitale complète ont constaté une augmentation moyenne de leur chiffre d'affaires de **40 à 70%** en moins de 12 mois. (Source : étude CHD Expert 2024)",
+        "metadata": {
+            "chunk_id": "54a9bb20f4576923",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "![Komeat - Solutions Digitales pour Restaurants]()\n!Digitalisation Restaurant : Comment Augmenter Son CA de 70%\nPourtant, beaucoup de restaurateurs hésitent encore. Entre la complexité perçue des outils numériques, le coût d'investissement et le manque de temps, la transformation digitale peut sembler intimidante. Ce guide complet vous accompagne pas à pas pour **digitaliser votre restaurant efficacement**, augmenter votre chiffre d'affaires et fidéliser votre clientèle durablement.\n> **Chiffre ",
+            "token_count": 100,
+            "character_count": 703,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7cc5d389ea028fbf_1",
+        "content": "## 1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026\nLe secteur de la restauration a connu des transformations majeures ces dernières années. La crise sanitaire de 2020-2021 a accéléré un mouvement déjà en cours, et les nouvelles habitudes des consommateurs se sont solidement ancrées.\n**Les chiffres parlent d'eux-mêmes :**\n- **85%** des consommateurs recherchent un restaurant sur Google avant de s'y rendre\n- **72%** des 18-35 ans préfèrent commander en ligne plutôt qu'au téléphone\n- **67%** des clients sont prêts à dépenser plus dans un restaurant offrant une expérience digitale fluide\n- Le marché de la livraison et du click & collect a augmenté de **250%** depuis 2019\n- **53%** des restaurateurs ayant digitalisé leur activité déclarent avoir gagné du temps sur la gestion quotidienne\nLa digitalisation ne se limite pas à créer un site web ou à s'inscrire sur une plateforme de livraison.",
+        "metadata": {
+            "chunk_id": "7cc5d389ea028fbf_1",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026"
+            ],
+            "section_title": "1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## 1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026\nLe secteur de la restauration a connu des transformations majeures ces dernières années. La crise sanitaire de 2020-2021 a accéléré un mouvement déjà en cours, et les nouvelles habitudes des consommateurs se sont solidement ancrées.\n**Les chiffres parlent d'eux-mêmes :**\n- **85%** des consommateurs recherchent un restaurant sur Google avant de s'y rendre\n- **72%** des 18-35 ans préfèrent commander en ligne plutôt qu'au téléphon",
+            "token_count": 145,
+            "character_count": 914,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ec6cc2ab50e837ef_2",
+        "content": "C'est une **approche globale** qui touche tous les aspects de votre activité : la commande, le paiement, la relation client, la gestion des stocks, le marketing, et bien plus encore.",
+        "metadata": {
+            "chunk_id": "ec6cc2ab50e837ef_2",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026"
+            ],
+            "section_title": "1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "C'est une **approche globale** qui touche tous les aspects de votre activité : la commande, le paiement, la relation client, la gestion des stocks, le marketing, et bien plus encore.",
+            "token_count": 30,
+            "character_count": 182,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a96e71404a9e17a6",
+        "content": "### Les Risques de Ne Pas Se Digitaliser\nLes restaurateurs qui refusent la transformation digitale s'exposent à des risques concrets :\n1. **Perte de visibilité** : sans présence en ligne optimisée, vous êtes invisible pour une part croissante de la clientèle\n2. **Érosion de la clientèle** : vos concurrents digitalisés captent les clients que vous ne touchez pas\n3. **Inefficacité opérationnelle** : les processus manuels consomment du temps et génèrent des erreurs\n4. **Dépendance aux plateformes** : sans système propre, vous êtes à la merci des commissions élevées d'Uber Eats ou Deliveroo (25 à 35% par commande)\n5. **Incapacité à fidéliser** : sans données clients, impossible de construire une relation durable\n> _\"Nous avons résisté pendant deux ans. Quand nous avons enfin sauté le pas, nos ventes ont augmenté de 45% en trois mois. Mon seul regret ? Ne pas l'avoir fait plus tôt.\"_ — Pierre M., restaurateur à Lyon",
+        "metadata": {
+            "chunk_id": "a96e71404a9e17a6",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "1\\. Pourquoi la Digitalisation est Devenue Incontournable en 2026",
+                "Les Risques de Ne Pas Se Digitaliser"
+            ],
+            "section_title": "Les Risques de Ne Pas Se Digitaliser",
+            "heading_level": 3,
+            "chunk_type": "quote",
+            "content": "### Les Risques de Ne Pas Se Digitaliser\nLes restaurateurs qui refusent la transformation digitale s'exposent à des risques concrets :\n1. **Perte de visibilité** : sans présence en ligne optimisée, vous êtes invisible pour une part croissante de la clientèle\n2. **Érosion de la clientèle** : vos concurrents digitalisés captent les clients que vous ne touchez pas\n3. **Inefficacité opérationnelle** : les processus manuels consomment du temps et génèrent des erreurs\n4. **Dépendance aux plateformes**",
+            "token_count": 150,
+            "character_count": 924,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cddd6cb82b2a8952",
+        "content": "## 2\\. La Commande en Ligne : Le Pilier de la Digitalisation\nLa commande en ligne est le **premier levier de croissance digitale** pour un restaurant. Elle permet de capter une clientèle qui ne se serait jamais déplacée, d'augmenter le panier moyen et de lisser l'activité sur des créneaux habituellement calmes.",
+        "metadata": {
+            "chunk_id": "cddd6cb82b2a8952",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "2\\. La Commande en Ligne : Le Pilier de la Digitalisation"
+            ],
+            "section_title": "2\\. La Commande en Ligne : Le Pilier de la Digitalisation",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 2\\. La Commande en Ligne : Le Pilier de la Digitalisation\nLa commande en ligne est le **premier levier de croissance digitale** pour un restaurant. Elle permet de capter une clientèle qui ne se serait jamais déplacée, d'augmenter le panier moyen et de lisser l'activité sur des créneaux habituellement calmes.",
+            "token_count": 51,
+            "character_count": 312,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "648c53049d19117c",
+        "content": "### Les Différents Modèles de Commande en Ligne\nIl existe plusieurs façons de proposer la commande en ligne. Chaque modèle a ses avantages et ses inconvénients :\n| Modèle | Avantages | Inconvénients | Commission |\n| --- | --- | --- | --- |\n| **Plateforme tierce** (Uber Eats, Deliveroo) | Visibilité immédiate, logistique incluse | Commissions élevées, pas de données clients | 25-35% |\n| **Site web propre** | Marges préservées, données clients | Nécessite du trafic, maintenance technique | 0-5% |\n| **Application mobile** | Expérience optimale, notifications push | Coût de développement, adoption plus lente | 0-3% |\n| **Solution hybride** | Combine visibilité et rentabilité | Gestion multi-canal | Variable |\n**Notre recommandation** : adoptez une stratégie hybride. Utilisez les plateformes tierces pour la visibilité et l'acquisition de nouveaux clients, mais redirigez progressivement votre clientèle vers votre propre canal de commande pour préserver vos marges.",
+        "metadata": {
+            "chunk_id": "648c53049d19117c",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "2\\. La Commande en Ligne : Le Pilier de la Digitalisation",
+                "Les Différents Modèles de Commande en Ligne"
+            ],
+            "section_title": "Les Différents Modèles de Commande en Ligne",
+            "heading_level": 3,
+            "chunk_type": "table",
+            "content": "### Les Différents Modèles de Commande en Ligne\nIl existe plusieurs façons de proposer la commande en ligne. Chaque modèle a ses avantages et ses inconvénients :\n| Modèle | Avantages | Inconvénients | Commission |\n| --- | --- | --- | --- |\n| **Plateforme tierce** (Uber Eats, Deliveroo) | Visibilité immédiate, logistique incluse | Commissions élevées, pas de données clients | 25-35% |\n| **Site web propre** | Marges préservées, données clients | Nécessite du trafic, maintenance technique | 0-5% |\n",
+            "token_count": 150,
+            "character_count": 972,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c6c4987b7977ac8f",
+        "content": "### Augmenter le Panier Moyen grâce au Digital\nL'un des avantages majeurs de la commande en ligne est l'augmentation naturelle du panier moyen. En moyenne, **le panier moyen en ligne est 20 à 30% supérieur** à celui en salle. Voici pourquoi :\n- **Le cross-selling automatisé** : des suggestions pertinentes (\"Ajoutez des frites pour 2,50€\", \"Complétez avec un dessert\") augmentent les ventes additionnelles\n- **L'absence de pression sociale** : les clients commandent plus librement sans le regard du serveur\n- **Les photos et descriptions détaillées** : des visuels appétissants déclenchent l'envie\n- **Les promotions ciblées** : offres personnalisées basées sur l'historique de commande\nPour maximiser ces bénéfices, soignez vos **photos de plats** (investissez dans une séance photo professionnelle — comptez 300 à 500€ pour un shooting complet), rédigez des **descriptions gourmandes** et configurez des **suggestions intelligentes** à chaque étape de la commande.",
+        "metadata": {
+            "chunk_id": "c6c4987b7977ac8f",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "2\\. La Commande en Ligne : Le Pilier de la Digitalisation",
+                "Augmenter le Panier Moyen grâce au Digital"
+            ],
+            "section_title": "Augmenter le Panier Moyen grâce au Digital",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Augmenter le Panier Moyen grâce au Digital\nL'un des avantages majeurs de la commande en ligne est l'augmentation naturelle du panier moyen. En moyenne, **le panier moyen en ligne est 20 à 30% supérieur** à celui en salle. Voici pourquoi :\n- **Le cross-selling automatisé** : des suggestions pertinentes (\"Ajoutez des frites pour 2,50€\", \"Complétez avec un dessert\") augmentent les ventes additionnelles\n- **L'absence de pression sociale** : les clients commandent plus librement sans le regard du",
+            "token_count": 142,
+            "character_count": 968,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "666e4f02f16329e2_7",
+        "content": "## 3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé\nLe click & collect — ou commande en ligne avec retrait sur place — est devenu un canal de vente incontournable. Il combine le meilleur des deux mondes : la commodité de la commande en ligne et l'absence de frais de livraison.\n**Pourquoi le click & collect est si efficace :**\n- **Zéro commission de livraison** : vous conservez 100% de votre marge\n- **Flux prévisible** : vous savez à l'avance combien de commandes préparer\n- **Nouvelle clientèle** : les actifs pressés qui n'ont pas le temps de manger sur place\n- **Réduction du gaspillage** : une meilleure anticipation des volumes\n- **Fidélisation** : le client revient physiquement, créant un lien avec votre établissement\n**Mise en place concrète :**\n1. Définissez des **créneaux de retrait** réalistes (toutes les 10 ou 15 minutes)\n2. Créez un **espace dédié** au retrait pour ne pas encombrer la salle\n3.",
+        "metadata": {
+            "chunk_id": "666e4f02f16329e2_7",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé"
+            ],
+            "section_title": "3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## 3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé\nLe click & collect — ou commande en ligne avec retrait sur place — est devenu un canal de vente incontournable. Il combine le meilleur des deux mondes : la commodité de la commande en ligne et l'absence de frais de livraison.\n**Pourquoi le click & collect est si efficace :**\n- **Zéro commission de livraison** : vous conservez 100% de votre marge\n- **Flux prévisible** : vous savez à l'avance combien de commandes préparer\n- **Nouvelle clien",
+            "token_count": 158,
+            "character_count": 919,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6487c7096dd58ff8_8",
+        "content": "Prévoyez un **packaging adapté** (sacs kraft personnalisés, étiquettes claires)\n4. Testez d'abord sur le **service du midi** — le moment le plus propice au click & collect\n5. Communiquez activement sur ce service via vos réseaux sociaux et en salle\n> **Astuce** : proposez une **réduction de 5 à 10%** sur les commandes click & collect par rapport à la livraison. Le client économise, et vous aussi : pas de frais de livreur, pas de commission plateforme.",
+        "metadata": {
+            "chunk_id": "6487c7096dd58ff8_8",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé"
+            ],
+            "section_title": "3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé",
+            "heading_level": 2,
+            "chunk_type": "quote",
+            "content": "Prévoyez un **packaging adapté** (sacs kraft personnalisés, étiquettes claires)\n4. Testez d'abord sur le **service du midi** — le moment le plus propice au click & collect\n5. Communiquez activement sur ce service via vos réseaux sociaux et en salle\n> **Astuce** : proposez une **réduction de 5 à 10%** sur les commandes click & collect par rapport à la livraison. Le client économise, et vous aussi : pas de frais de livreur, pas de commission plateforme.",
+            "token_count": 77,
+            "character_count": 455,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "10c4b568605f6af0",
+        "content": "### La Commande à Table via QR Code\n**Résultats observés chez les restaurants ayant adopté ce système :**\n- Augmentation du ticket moyen de **15 à 25%** (les clients commandent plus facilement un deuxième verre ou un dessert)\n- Réduction du temps de service de **20 à 30%**\n- Satisfaction client en hausse (moins d'attente)\n- Possibilité de **réallouer le personnel** sur l'accueil et le conseil plutôt que sur la prise de commande\nAttention toutefois : cette approche ne convient pas à tous les types de restaurants. Un bistrot gastronomique où le service fait partie de l'expérience n'aura pas le même intérêt qu'un restaurant rapide ou un bar à tapas.",
+        "metadata": {
+            "chunk_id": "10c4b568605f6af0",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé",
+                "La Commande à Table via QR Code"
+            ],
+            "section_title": "La Commande à Table via QR Code",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### La Commande à Table via QR Code\n**Résultats observés chez les restaurants ayant adopté ce système :**\n- Augmentation du ticket moyen de **15 à 25%** (les clients commandent plus facilement un deuxième verre ou un dessert)\n- Réduction du temps de service de **20 à 30%**\n- Satisfaction client en hausse (moins d'attente)\n- Possibilité de **réallouer le personnel** sur l'accueil et le conseil plutôt que sur la prise de commande\nAttention toutefois : cette approche ne convient pas à tous les type",
+            "token_count": 110,
+            "character_count": 654,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e28c828399a8d2fd",
+        "content": "### Besoin d'un accompagnement personnalisé ?\nNos experts analysent votre situation et vous proposent un plan d'action sur-mesure. Appel gratuit de 30 min.\nRéserver mon appel gratuit →",
+        "metadata": {
+            "chunk_id": "e28c828399a8d2fd",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "3\\. Le Click & Collect : Un Canal de Vente Sous-Estimé",
+                "Besoin d'un accompagnement personnalisé ?"
+            ],
+            "section_title": "Besoin d'un accompagnement personnalisé ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Besoin d'un accompagnement personnalisé ?\nNos experts analysent votre situation et vous proposent un plan d'action sur-mesure. Appel gratuit de 30 min.\nRéserver mon appel gratuit →",
+            "token_count": 28,
+            "character_count": 184,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "64f11d8724fadb54_11",
+        "content": "## 5\\. Google My Business : Votre Vitrine Digitale Gratuite\nVotre fiche **Google My Business** (désormais Google Business Profile) est probablement le levier digital le plus puissant et le plus sous-exploité par les restaurateurs. Lorsqu'un client tape \"restaurant près de moi\" sur Google, c'est votre fiche qui apparaît — avant même votre site web.\n**Optimiser votre fiche Google :**\n1. **Informations complètes et à jour** : adresse, horaires (y compris les jours fériés), numéro de téléphone, site web, type de cuisine\n2. **Photos de qualité** : publiez au moins 20 photos de votre établissement, de vos plats, de votre équipe. Les fiches avec plus de 20 photos reçoivent **35% de clics en plus**\n4. **Posts réguliers** : partagez vos plats du jour, événements spéciaux, promotions (au moins 2 posts par semaine)\n5.",
+        "metadata": {
+            "chunk_id": "64f11d8724fadb54_11",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "5\\. Google My Business : Votre Vitrine Digitale Gratuite"
+            ],
+            "section_title": "5\\. Google My Business : Votre Vitrine Digitale Gratuite",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 5\\. Google My Business : Votre Vitrine Digitale Gratuite\nVotre fiche **Google My Business** (désormais Google Business Profile) est probablement le levier digital le plus puissant et le plus sous-exploité par les restaurateurs. Lorsqu'un client tape \"restaurant près de moi\" sur Google, c'est votre fiche qui apparaît — avant même votre site web.\n**Optimiser votre fiche Google :**\n1. **Informations complètes et à jour** : adresse, horaires (y compris les jours fériés), numéro de téléphone, site",
+            "token_count": 132,
+            "character_count": 818,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2868e0391514f61d_12",
+        "content": "**Gestion des avis** : répondez à **100% des avis**, positifs comme négatifs, dans les 24 heures\n**La gestion des avis — un enjeu critique :**\nLes avis Google sont le **premier critère de choix** pour 90% des consommateurs. Voici les bonnes pratiques :\n- **Encouragez les avis** : un simple \"Si vous avez apprécié votre repas, un avis Google nous aiderait beaucoup\" à la fin du repas peut doubler votre nombre d'avis\n- **Répondez rapidement** : une réponse dans les 24h montre votre professionnalisme\n- **Restez courtois face aux avis négatifs** : remerciez, expliquez, proposez une solution. Un avis négatif bien géré peut devenir un atout\n- **Visez la note de 4.",
+        "metadata": {
+            "chunk_id": "2868e0391514f61d_12",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "5\\. Google My Business : Votre Vitrine Digitale Gratuite"
+            ],
+            "section_title": "5\\. Google My Business : Votre Vitrine Digitale Gratuite",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "**Gestion des avis** : répondez à **100% des avis**, positifs comme négatifs, dans les 24 heures\n**La gestion des avis — un enjeu critique :**\nLes avis Google sont le **premier critère de choix** pour 90% des consommateurs. Voici les bonnes pratiques :\n- **Encouragez les avis** : un simple \"Si vous avez apprécié votre repas, un avis Google nous aiderait beaucoup\" à la fin du repas peut doubler votre nombre d'avis\n- **Répondez rapidement** : une réponse dans les 24h montre votre professionnalisme",
+            "token_count": 112,
+            "character_count": 664,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b661d5bde60d2fb9",
+        "content": "## 6\\. Les Réseaux Sociaux : Construire une Communauté Autour de Votre Restaurant\nLes réseaux sociaux sont un canal de **communication gratuit et puissant** pour les restaurateurs. Encore faut-il les utiliser correctement.\n**Quelle plateforme privilégier ?**\n- **Google Posts** : souvent oublié, mais directement visible dans les résultats de recherche\n**Stratégie de contenu — le calendrier type :**\n- **Mercredi** : promotion mid-week (tous les réseaux)\n- **Samedi** : partage des avis clients et photos de l'ambiance\n- **Dimanche** : repost de contenu client (UGC — User Generated Content)\n**Conseil pratique** : vous n'avez pas besoin de passer des heures sur les réseaux. Consacrez **30 minutes par jour** à cette activité, idéalement le matin avant le service. Utilisez des outils de planification comme Buffer ou Later pour programmer vos publications à l'avance.",
+        "metadata": {
+            "chunk_id": "b661d5bde60d2fb9",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "6\\. Les Réseaux Sociaux : Construire une Communauté Autour de Votre Restaurant"
+            ],
+            "section_title": "6\\. Les Réseaux Sociaux : Construire une Communauté Autour de Votre Restaurant",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## 6\\. Les Réseaux Sociaux : Construire une Communauté Autour de Votre Restaurant\nLes réseaux sociaux sont un canal de **communication gratuit et puissant** pour les restaurateurs. Encore faut-il les utiliser correctement.\n**Quelle plateforme privilégier ?**\n- **Google Posts** : souvent oublié, mais directement visible dans les résultats de recherche\n**Stratégie de contenu — le calendrier type :**\n- **Mercredi** : promotion mid-week (tous les réseaux)\n- **Samedi** : partage des avis clients et p",
+            "token_count": 132,
+            "character_count": 870,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cd2cd0418dc5e5c3",
+        "content": "### Le Pouvoir du Contenu Généré par les Utilisateurs (UGC)\nLe contenu créé par vos clients est votre meilleur atout marketing. **92% des consommateurs** font davantage confiance aux recommandations d'autres clients qu'à la publicité traditionnelle.\nComment encourager l'UGC :\n- Créez un **hashtag dédié** à votre restaurant (#NomDeVotreRestaurant)\n- Organisez des **challenges** (\"Partagez votre plat préféré et gagnez un repas offert\")\n- **Repostez systématiquement** les contenus de vos clients en les mentionnant\n- Offrez un **café ou un dessert** aux clients qui publient une photo avec votre hashtag",
+        "metadata": {
+            "chunk_id": "cd2cd0418dc5e5c3",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "6\\. Les Réseaux Sociaux : Construire une Communauté Autour de Votre Restaurant",
+                "Le Pouvoir du Contenu Généré par les Utilisateurs (UGC)"
+            ],
+            "section_title": "Le Pouvoir du Contenu Généré par les Utilisateurs (UGC)",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Le Pouvoir du Contenu Généré par les Utilisateurs (UGC)\nLe contenu créé par vos clients est votre meilleur atout marketing. **92% des consommateurs** font davantage confiance aux recommandations d'autres clients qu'à la publicité traditionnelle.\nComment encourager l'UGC :\n- Créez un **hashtag dédié** à votre restaurant (#NomDeVotreRestaurant)\n- Organisez des **challenges** (\"Partagez votre plat préféré et gagnez un repas offert\")\n- **Repostez systématiquement** les contenus de vos clients en",
+            "token_count": 88,
+            "character_count": 605,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d28e3b2495e0821b_15",
+        "content": "## 7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers\nAcquérir un nouveau client coûte **5 à 7 fois plus cher** que de fidéliser un client existant. La digitalisation offre des outils de fidélisation extrêmement puissants.\n**Les leviers de fidélisation digitale :**\n- **Programme de fidélité digital** : oubliez les cartes en carton. Un programme sur smartphone avec points, récompenses et avantages exclusifs est bien plus efficace. Taux de rétention moyen : +35%\n- **Email marketing** : une newsletter mensuelle avec vos actualités, un plat signature et une offre exclusive. Taux d'ouverture moyen en restauration : 25 à 30%\n- **SMS marketing** : pour les offres flash et les promotions du jour.",
+        "metadata": {
+            "chunk_id": "d28e3b2495e0821b_15",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers"
+            ],
+            "section_title": "7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## 7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers\nAcquérir un nouveau client coûte **5 à 7 fois plus cher** que de fidéliser un client existant. La digitalisation offre des outils de fidélisation extrêmement puissants.\n**Les leviers de fidélisation digitale :**\n- **Programme de fidélité digital** : oubliez les cartes en carton. Un programme sur smartphone avec points, récompenses et avantages exclusifs est bien plus efficace. Taux de rétention moyen : +35%\n- **Emai",
+            "token_count": 114,
+            "character_count": 724,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ac33bfd394b3f4c7_16",
+        "content": "Taux de lecture : 98% (contre 20% pour les emails)\n- **Notifications push** : si vous disposez d'une application, les notifications push sont le canal le plus direct pour toucher vos clients\n- **Données clients** : collectez et exploitez les données (fréquence de visite, plats préférés, panier moyen) pour personnaliser vos communications\n**Exemple concret de scénario de fidélisation :**\n1. Le client commande pour la première fois en ligne → il reçoit un **email de bienvenue** avec une offre de -10% sur sa prochaine commande\n2. Il revient dans les 15 jours → il gagne ses **premiers points de fidélité**\n3. Après 5 commandes → il reçoit un **plat offert** et un message de remerciement personnalisé\n4. S'il ne revient pas pendant 30 jours → un **SMS de réactivation** avec une offre spéciale\n5.",
+        "metadata": {
+            "chunk_id": "ac33bfd394b3f4c7_16",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers"
+            ],
+            "section_title": "7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "Taux de lecture : 98% (contre 20% pour les emails)\n- **Notifications push** : si vous disposez d'une application, les notifications push sont le canal le plus direct pour toucher vos clients\n- **Données clients** : collectez et exploitez les données (fréquence de visite, plats préférés, panier moyen) pour personnaliser vos communications\n**Exemple concret de scénario de fidélisation :**\n1. Le client commande pour la première fois en ligne → il reçoit un **email de bienvenue** avec une offre de -",
+            "token_count": 134,
+            "character_count": 799,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "66e17b86ddedf8aa_17",
+        "content": "Pour son anniversaire → une **surprise** (dessert offert, réduction spéciale)\nCe type de scénario automatisé peut être mis en place facilement avec les bons outils et génère un **retour sur investissement considérable**.",
+        "metadata": {
+            "chunk_id": "66e17b86ddedf8aa_17",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers"
+            ],
+            "section_title": "7\\. La Fidélisation Digitale : Transformer les Visiteurs en Clients Réguliers",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Pour son anniversaire → une **surprise** (dessert offert, réduction spéciale)\nCe type de scénario automatisé peut être mis en place facilement avec les bons outils et génère un **retour sur investissement considérable**.",
+            "token_count": 32,
+            "character_count": 220,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1cfdcfd9cae1a378",
+        "content": "## 8\\. L'Automatisation et la Gestion Optimisée\nLa digitalisation ne concerne pas uniquement la relation client. Elle permet aussi d' **optimiser toute la gestion interne** de votre restaurant.\n**Les domaines clés de l'automatisation :**",
+        "metadata": {
+            "chunk_id": "1cfdcfd9cae1a378",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "8\\. L'Automatisation et la Gestion Optimisée"
+            ],
+            "section_title": "8\\. L'Automatisation et la Gestion Optimisée",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 8\\. L'Automatisation et la Gestion Optimisée\nLa digitalisation ne concerne pas uniquement la relation client. Elle permet aussi d' **optimiser toute la gestion interne** de votre restaurant.\n**Les domaines clés de l'automatisation :**",
+            "token_count": 34,
+            "character_count": 237,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ba3c0e58dd19ee5f",
+        "content": "### Gestion des Stocks et des Approvisionnements\nUn logiciel de gestion des stocks connecté à votre caisse et à votre système de commande permet de :\n- **Suivre les consommations en temps réel** et anticiper les ruptures\n- **Automatiser les commandes fournisseurs** en fonction des seuils définis\n- **Réduire le gaspillage alimentaire** de 15 à 30% grâce à une meilleure anticipation\n- **Calculer le coût matière** exact de chaque plat pour optimiser votre pricing\n- **Générer des rapports** automatiques sur les tendances de consommation",
+        "metadata": {
+            "chunk_id": "ba3c0e58dd19ee5f",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "8\\. L'Automatisation et la Gestion Optimisée",
+                "Gestion des Stocks et des Approvisionnements"
+            ],
+            "section_title": "Gestion des Stocks et des Approvisionnements",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Gestion des Stocks et des Approvisionnements\nUn logiciel de gestion des stocks connecté à votre caisse et à votre système de commande permet de :\n- **Suivre les consommations en temps réel** et anticiper les ruptures\n- **Automatiser les commandes fournisseurs** en fonction des seuils définis\n- **Réduire le gaspillage alimentaire** de 15 à 30% grâce à une meilleure anticipation\n- **Calculer le coût matière** exact de chaque plat pour optimiser votre pricing\n- **Générer des rapports** automati",
+            "token_count": 84,
+            "character_count": 538,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "99276b9d89658c85",
+        "content": "### Gestion du Personnel et Planning\nLes outils digitaux de gestion du personnel permettent de :\n- Créer des **plannings optimisés** en fonction de l'affluence prévisionnelle\n- Gérer les **demandes de congés** et les échanges de shifts en ligne\n- **Pointer les heures** automatiquement\n- **Communiquer avec l'équipe** via une messagerie dédiée\n- **Suivre la masse salariale** en temps réel",
+        "metadata": {
+            "chunk_id": "99276b9d89658c85",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "8\\. L'Automatisation et la Gestion Optimisée",
+                "Gestion du Personnel et Planning"
+            ],
+            "section_title": "Gestion du Personnel et Planning",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Gestion du Personnel et Planning\nLes outils digitaux de gestion du personnel permettent de :\n- Créer des **plannings optimisés** en fonction de l'affluence prévisionnelle\n- Gérer les **demandes de congés** et les échanges de shifts en ligne\n- **Pointer les heures** automatiquement\n- **Communiquer avec l'équipe** via une messagerie dédiée\n- **Suivre la masse salariale** en temps réel",
+            "token_count": 60,
+            "character_count": 389,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f26ab16223c8df89",
+        "content": "### Comptabilité et Reporting\nLa digitalisation de la comptabilité offre un gain de temps considérable :\n- **Export automatique** des données de caisse vers votre logiciel comptable\n- **Tableaux de bord** en temps réel : CA, marge, panier moyen, nombre de couverts\n- **Suivi des KPIs** essentiels : coût matière, ratio personnel, taux de remplissage\n- **Déclarations fiscales simplifiées** grâce à la dématérialisation\n- **Prévisions financières** basées sur les données historiques",
+        "metadata": {
+            "chunk_id": "f26ab16223c8df89",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "8\\. L'Automatisation et la Gestion Optimisée",
+                "Comptabilité et Reporting"
+            ],
+            "section_title": "Comptabilité et Reporting",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Comptabilité et Reporting\nLa digitalisation de la comptabilité offre un gain de temps considérable :\n- **Export automatique** des données de caisse vers votre logiciel comptable\n- **Tableaux de bord** en temps réel : CA, marge, panier moyen, nombre de couverts\n- **Suivi des KPIs** essentiels : coût matière, ratio personnel, taux de remplissage\n- **Déclarations fiscales simplifiées** grâce à la dématérialisation\n- **Prévisions financières** basées sur les données historiques",
+            "token_count": 71,
+            "character_count": 482,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "45e41a85e728d981",
+        "content": "### Vous voulez aller plus loin ?\nDiscutons de votre projet lors d'un appel stratégique gratuit. Sans engagement, 100% actionnable.",
+        "metadata": {
+            "chunk_id": "45e41a85e728d981",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "8\\. L'Automatisation et la Gestion Optimisée",
+                "Vous voulez aller plus loin ?"
+            ],
+            "section_title": "Vous voulez aller plus loin ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Vous voulez aller plus loin ?\nDiscutons de votre projet lors d'un appel stratégique gratuit. Sans engagement, 100% actionnable.",
+            "token_count": 20,
+            "character_count": 131,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4da82a1ff6b45140_23",
+        "content": "## 9\\. Le Budget de la Digitalisation : Combien Ça Coûte ?\nL'une des craintes principales des restaurateurs est le coût de la digitalisation. Voici une estimation réaliste des investissements nécessaires :\n| Poste | Investissement initial | Coût mensuel |\n| Site web avec commande en ligne | 0 - 2 000€ | 30 - 100€ |\n| Système de caisse connecté | 500 - 3 000€ | 50 - 150€ |\n| Solution click & collect | 0 - 500€ | 30 - 80€ |\n| Programme de fidélité | 0 - 500€ | 20 - 60€ |\n| Gestion des réseaux sociaux | 0€ (DIY) | 0 - 500€ |\n| Shooting photo professionnel | 300 - 800€ | — |\n| **Total** | **800 - 7 100€** | **130 - 920€** |\n**Le ROI est rapide** : avec une augmentation moyenne du CA de 30 à 50%, la plupart des restaurateurs amortissent leur investissement en **2 à 4 mois**.\n> **Conseil** : commencez par les actions à **fort impact et faible coût** : optimisation de votre fiche Google (gratuit), lancement de réseaux sociaux (gratuit), mise en place du click & collect.",
+        "metadata": {
+            "chunk_id": "4da82a1ff6b45140_23",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "9\\. Le Budget de la Digitalisation : Combien Ça Coûte ?"
+            ],
+            "section_title": "9\\. Le Budget de la Digitalisation : Combien Ça Coûte ?",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## 9\\. Le Budget de la Digitalisation : Combien Ça Coûte ?\nL'une des craintes principales des restaurateurs est le coût de la digitalisation. Voici une estimation réaliste des investissements nécessaires :\n| Poste | Investissement initial | Coût mensuel |\n| Site web avec commande en ligne | 0 - 2 000€ | 30 - 100€ |\n| Système de caisse connecté | 500 - 3 000€ | 50 - 150€ |\n| Solution click & collect | 0 - 500€ | 30 - 80€ |\n| Programme de fidélité | 0 - 500€ | 20 - 60€ |\n| Gestion des réseaux soci",
+            "token_count": 195,
+            "character_count": 977,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "141ce7d1b169b642_24",
+        "content": "Puis investissez progressivement dans les outils plus avancés en réinvestissant les bénéfices générés.",
+        "metadata": {
+            "chunk_id": "141ce7d1b169b642_24",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "9\\. Le Budget de la Digitalisation : Combien Ça Coûte ?"
+            ],
+            "section_title": "9\\. Le Budget de la Digitalisation : Combien Ça Coûte ?",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Puis investissez progressivement dans les outils plus avancés en réinvestissant les bénéfices générés.",
+            "token_count": 13,
+            "character_count": 102,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "92ffca8b7bb9a7f0_25",
+        "content": "## 10\\. Plan d'Action : Digitaliser Votre Restaurant en 90 Jours\nVoici un plan d'action concret et réaliste pour digitaliser votre restaurant en 3 mois :\n**Mois 1 — Les Fondations (Semaines 1-4)**\n- ✅ **Semaine 3** : Faites réaliser un shooting photo professionnel de vos plats et de votre établissement\n- ✅ **Semaine 4** : Choisissez et configurez votre solution de commande en ligne et de click & collect\n**Mois 2 — Le Lancement (Semaines 5-8)**\n- ✅ **Semaine 5** : Lancez votre service de commande en ligne. Testez avec votre équipe et vos proches\n- ✅ **Semaine 7** : Lancez votre première campagne sur les réseaux sociaux pour annoncer vos nouveaux services\n- ✅ **Semaine 8** : Configurez votre programme de fidélité et vos emails automatiques\n**Mois 3 — L'Optimisation (Semaines 9-12)**\n- ✅ **Semaine 9** : Analysez les premières données : quels plats se vendent le plus en ligne ? Quels créneaux ?\n- ✅ **Semaine 11** : Intensifiez votre présence sur les réseaux sociaux.",
+        "metadata": {
+            "chunk_id": "92ffca8b7bb9a7f0_25",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "10\\. Plan d'Action : Digitaliser Votre Restaurant en 90 Jours"
+            ],
+            "section_title": "10\\. Plan d'Action : Digitaliser Votre Restaurant en 90 Jours",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## 10\\. Plan d'Action : Digitaliser Votre Restaurant en 90 Jours\nVoici un plan d'action concret et réaliste pour digitaliser votre restaurant en 3 mois :\n**Mois 1 — Les Fondations (Semaines 1-4)**\n- ✅ **Semaine 3** : Faites réaliser un shooting photo professionnel de vos plats et de votre établissement\n- ✅ **Semaine 4** : Choisissez et configurez votre solution de commande en ligne et de click & collect\n**Mois 2 — Le Lancement (Semaines 5-8)**\n- ✅ **Semaine 5** : Lancez votre service de commande",
+            "token_count": 168,
+            "character_count": 976,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3f13cd4bcb1b48b6_26",
+        "content": "## 11\\. Les Tendances Digitales à Surveiller en 2026-2026\nLe digital dans la restauration évolue rapidement.",
+        "metadata": {
+            "chunk_id": "3f13cd4bcb1b48b6_26",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "11\\. Les Tendances Digitales à Surveiller en 2026-2026"
+            ],
+            "section_title": "11\\. Les Tendances Digitales à Surveiller en 2026-2026",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 11\\. Les Tendances Digitales à Surveiller en 2026-2026\nLe digital dans la restauration évolue rapidement.",
+            "token_count": 16,
+            "character_count": 108,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c15c3fbe7ad43042_27",
+        "content": "Voici les tendances qui façonneront les prochains mois :\n- **Commande vocale** : avec la démocratisation des assistants vocaux (Alexa, Google Home), la commande vocale de repas se développe rapidement\n- **Réalité augmentée** : visualiser les plats en 3D sur la table avant de commander — une technologie déjà testée par plusieurs chaînes\n- **Paiement invisible** : le client quitte le restaurant sans passer en caisse, le paiement est prélevé automatiquement (modèle Amazon Go adapté à la restauration)\n- **Dark kitchens et marques virtuelles** : développer des concepts de livraison sans restaurant physique, ou créer des marques virtuelles depuis votre cuisine existante\n- **Abonnements restaurant** : proposer des formules d'abonnement mensuel (ex : 2 déjeuners par semaine pour un prix fixe), un modèle en forte croissance\nCes tendances ne sont pas de la science-fiction — elles sont déjà adoptées par les restaurateurs les plus innovants.",
+        "metadata": {
+            "chunk_id": "c15c3fbe7ad43042_27",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "11\\. Les Tendances Digitales à Surveiller en 2026-2026"
+            ],
+            "section_title": "11\\. Les Tendances Digitales à Surveiller en 2026-2026",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "Voici les tendances qui façonneront les prochains mois :\n- **Commande vocale** : avec la démocratisation des assistants vocaux (Alexa, Google Home), la commande vocale de repas se développe rapidement\n- **Réalité augmentée** : visualiser les plats en 3D sur la table avant de commander — une technologie déjà testée par plusieurs chaînes\n- **Paiement invisible** : le client quitte le restaurant sans passer en caisse, le paiement est prélevé automatiquement (modèle Amazon Go adapté à la restauratio",
+            "token_count": 145,
+            "character_count": 943,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "779208a7b117cdf9_28",
+        "content": "## Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant\nLa digitalisation de votre restaurant n'est pas une dépense — c'est un **investissement stratégique** qui génère des retours concrets et mesurables. Que vous soyez un petit restaurant de quartier ou un établissement gastronomique, les outils digitaux existent aujourd'hui pour **chaque budget et chaque besoin**.\nLes restaurateurs qui réussissent en 2026 sont ceux qui ont compris que le digital n'est pas l'ennemi de l'authenticité et du contact humain. Au contraire, en automatisant les tâches à faible valeur ajoutée (prise de commande, gestion des stocks, comptabilité), la digitalisation vous permet de **vous concentrer sur l'essentiel** : la cuisine, l'accueil, et la relation avec vos clients.",
+        "metadata": {
+            "chunk_id": "779208a7b117cdf9_28",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant"
+            ],
+            "section_title": "Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant\nLa digitalisation de votre restaurant n'est pas une dépense — c'est un **investissement stratégique** qui génère des retours concrets et mesurables. Que vous soyez un petit restaurant de quartier ou un établissement gastronomique, les outils digitaux existent aujourd'hui pour **chaque budget et chaque besoin**.\nLes restaurateurs qui réussissent en 2026 sont ceux qui ont compris que le digital n'est pas l'ennem",
+            "token_count": 115,
+            "character_count": 788,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "39719518a74f6bcf_29",
+        "content": "**Récapitulatif des bénéfices clés :**\n- 📈 Augmentation du CA de **40 à 70%**\n- 🕐 Gain de temps de **2 à 3 heures par jour** sur la gestion\n- 💰 Réduction des commissions plateformes de **25-35% à 0-5%** grâce aux canaux propres\n- 👥 Fidélisation accrue avec un taux de rétention en hausse de **35%**\n- 📊 Prise de décision éclairée grâce aux données et aux analytics\nN'attendez plus pour franchir le pas. Commencez petit, avancez méthodiquement, et les résultats suivront. Votre restaurant a tout à gagner de la transformation digitale — et vos clients aussi.",
+        "metadata": {
+            "chunk_id": "39719518a74f6bcf_29",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant"
+            ],
+            "section_title": "Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "**Récapitulatif des bénéfices clés :**\n- 📈 Augmentation du CA de **40 à 70%**\n- 🕐 Gain de temps de **2 à 3 heures par jour** sur la gestion\n- 💰 Réduction des commissions plateformes de **25-35% à 0-5%** grâce aux canaux propres\n- 👥 Fidélisation accrue avec un taux de rétention en hausse de **35%**\n- 📊 Prise de décision éclairée grâce aux données et aux analytics\nN'attendez plus pour franchir le pas. Commencez petit, avancez méthodiquement, et les résultats suivront. Votre restaurant a tout à gag",
+            "token_count": 97,
+            "character_count": 557,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3ad6bb13a88697b7",
+        "content": "### Prêt à Digitaliser Votre Restaurant ?\nDécouvrez comment Komeat peut vous aider à augmenter votre chiffre d'affaires de 40 à 70% grâce à une solution digitale complète, conçue spécialement pour les restaurateurs indépendants. Sans engagement, sans commission sur vos ventes.\nDemander une Démo Gratuite",
+        "metadata": {
+            "chunk_id": "3ad6bb13a88697b7",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "Conclusion : La Digitalisation, un Investissement dans l'Avenir de Votre Restaurant",
+                "Prêt à Digitaliser Votre Restaurant ?"
+            ],
+            "section_title": "Prêt à Digitaliser Votre Restaurant ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Prêt à Digitaliser Votre Restaurant ?\nDécouvrez comment Komeat peut vous aider à augmenter votre chiffre d'affaires de 40 à 70% grâce à une solution digitale complète, conçue spécialement pour les restaurateurs indépendants. Sans engagement, sans commission sur vos ventes.\nDemander une Démo Gratuite",
+            "token_count": 45,
+            "character_count": 304,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "01b59dce2efd772b",
+        "content": "## Prêt à transformer votre restaurant ?\nRéservez un appel gratuit de 30 minutes avec notre équipe pour créer votre stratégie sur-mesure",
+        "metadata": {
+            "chunk_id": "01b59dce2efd772b",
+            "parent_doc": "Komeat - Solutions Digitales pour Restaurants",
+            "source_url": "https://www.komeat.com/blog/digitalisation-restaurant-augmenter-ca",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "customer segmentation by digital adoption and restaurant type",
+            "heading_path": [
+                "Prêt à transformer votre restaurant ?"
+            ],
+            "section_title": "Prêt à transformer votre restaurant ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Prêt à transformer votre restaurant ?\nRéservez un appel gratuit de 30 minutes avec notre équipe pour créer votre stratégie sur-mesure",
+            "token_count": 22,
+            "character_count": 136,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:54:46.603593+00:00",
+            "extra": {}
+        }
+    }
+]

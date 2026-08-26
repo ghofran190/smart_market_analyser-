@@ -1,0 +1,489 @@
+[
+    {
+        "chunk_id": "505a103efa0d6901",
+        "content": "Accueil \\> Actualité médicale \\> **Informatique médicale**",
+        "metadata": {
+            "chunk_id": "505a103efa0d6901",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Accueil \\> Actualité médicale \\> **Informatique médicale**",
+            "token_count": 7,
+            "character_count": 58,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "45ae95ab89f63ca9_1",
+        "content": "# Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin\npar CompuGroup Medical \\|\nMettre en page sur une colonneMettre en page sur deux colonnes \\|\n!Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin **CompuGroup Medical, acteur majeur de la e-santé en France, équipe près d’1 médecin sur 2 avec ses logiciels médicaux. À l’occasion de la Paris Healthcare Week 2019 (21-23 mai), CompuGroup Medical lance CLICKDOC, la première plateforme de rendez-vous médicaux en ligne qui se synchronise d’emblée au logiciel métier des professionnels de santé. C’est aussi la solution e — santé la plus complète proposée aux praticiens à un prix très concurrentiel. Gratuite pour les patients, CLICKDOC va aussi plus loin dans son offre avec un service original unique « On appelle pour vous », qui prend le rendez-vous avec le praticien au nom du patient… même si le praticien n’est pas encore sur CLICKDOC.",
+        "metadata": {
+            "chunk_id": "45ae95ab89f63ca9_1",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "table",
+            "content": "# Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin\npar CompuGroup Medical \\|\nMettre en page sur une colonneMettre en page sur deux colonnes \\|\n!Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin **CompuGroup Medical, acteur majeur de la e-santé en France, équipe près d’1 médecin sur 2 avec ses logiciels médicaux. À l’occasion de la Paris Healthcare Week 2019 (21-23 mai), CompuGroup Medical lance CLICKDOC, la ",
+            "token_count": 160,
+            "character_count": 976,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "30737a44d296c535_2",
+        "content": "**\n**CLICKDOC : une avancée majeure pour les professionnels de santé avec la synchronisation**\nParmi les solutions offertes par la e-santé, les plateformes de prise rendez-vous médicaux en ligne constituent des outils indispensables pour la gestion efficace du temps médical et la prise en charge des patients. Cependant, les solutions proposées ne se synchronisent pas avec les logiciels de gestion de cabinet des professionnels de santé, leur outil de travail quotidien, entraînant perte d’efficacité dans la gestion de leur activité médicale et la prise en charge des patients. D’après une étude URPS — IFOP, l’intégration et la synchronisation avec ces outils constituent la première amélioration des plateformes de rendez-vous médicaux en ligne souhaitée par les professionnels de santé.\n« Notre mission est d’être un facilitateur. Facilitateur dans la pratique médicale : permettre aux médecins de consacrer plus de temps à leurs patients et moins à la gestion opérationnelle de leur cabinet.",
+        "metadata": {
+            "chunk_id": "30737a44d296c535_2",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "unstructured",
+            "content": "**\n**CLICKDOC : une avancée majeure pour les professionnels de santé avec la synchronisation**\nParmi les solutions offertes par la e-santé, les plateformes de prise rendez-vous médicaux en ligne constituent des outils indispensables pour la gestion efficace du temps médical et la prise en charge des patients. Cependant, les solutions proposées ne se synchronisent pas avec les logiciels de gestion de cabinet des professionnels de santé, leur outil de travail quotidien, entraînant perte d’efficaci",
+            "token_count": 151,
+            "character_count": 998,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "313bcd2949a0d3b4_3",
+        "content": "Facilitateur dans l’accès aux soins : permettre aux patients de bénéficier d’un service complet, garantissant la prise de contact avec le médecin de son choix. Facilitateur dans le renouveau des pratiques grâce à des technologies intégrées, accessibles, où le digital est compatible avec l’humain. CLICKDOC incarne bien notre mission et l’évolution naturelle de nos services en renforçant le lien patient/médecin de manière simple, efficace et sécurisée ; avec un atout incontestable sur le marché : une proximité de plus de 30 ans avec les médecins ! » Franck Frayer, Senior Vice-President Western Europe, CompuGroup Medical.\nProlongation naturelle des logiciels AxiSanté et HelloDoc de CompuGroup Medical, CLICKDOC s’intègre aux outils de travail des médecins équipés, permettant ainsi la synchronisation immédiate de leur agenda et de leur liste de patients. CLICKDOC facilite ainsi l’activité médicale au quotidien et offre un gain de temps précieux aux médecins.",
+        "metadata": {
+            "chunk_id": "313bcd2949a0d3b4_3",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "paragraph",
+            "content": "Facilitateur dans l’accès aux soins : permettre aux patients de bénéficier d’un service complet, garantissant la prise de contact avec le médecin de son choix. Facilitateur dans le renouveau des pratiques grâce à des technologies intégrées, accessibles, où le digital est compatible avec l’humain. CLICKDOC incarne bien notre mission et l’évolution naturelle de nos services en renforçant le lien patient/médecin de manière simple, efficace et sécurisée ; avec un atout incontestable sur le marché : ",
+            "token_count": 144,
+            "character_count": 967,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "84135fbafd5f7c85_4",
+        "content": "« Je n’étais pas convaincue par les rendez-vous en ligne, j’ai une secrétaire, ça se passe très bien. J’ai quand même testé les services CLICKDOC, et je dois dire que mes patients ont été ravis de pouvoir prendre rendez-vous, les modifier ou les annuler une fois de plus, en dehors des horaires d’ouverture du cabinet. Ils sont très satisfaits du service. Quant à ma secrétaire, elle est ravie d’avoir plus de temps pour gérer les dossiers et accueillir les patients, au lieu de le passer au téléphone. » Dr Massing, Médecin généraliste, utilisatrice du logiciel AxiSanté\nCLICKDOC est disponible à un tarif très concurrentiel pour les médecins et se positionne comme la solution complète la plus attractive du marché. La solution est disponible à partir de 49,99 euros TTC pour les professionnels de santé équipés d’un logiciel CompuGroup Medical, soit 40 % des médecins en France.",
+        "metadata": {
+            "chunk_id": "84135fbafd5f7c85_4",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "paragraph",
+            "content": "« Je n’étais pas convaincue par les rendez-vous en ligne, j’ai une secrétaire, ça se passe très bien. J’ai quand même testé les services CLICKDOC, et je dois dire que mes patients ont été ravis de pouvoir prendre rendez-vous, les modifier ou les annuler une fois de plus, en dehors des horaires d’ouverture du cabinet. Ils sont très satisfaits du service. Quant à ma secrétaire, elle est ravie d’avoir plus de temps pour gérer les dossiers et accueillir les patients, au lieu de le passer au téléphon",
+            "token_count": 146,
+            "character_count": 881,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2150f565bf669614_5",
+        "content": "**CLICKDOC : une avancée majeure pour les patients avec « On appelle pour vous »**\nCLICKDOC permet aux patients de prendre un rendez-vous gratuitement en ligne avec un médecin généraliste ou spécialiste depuis tous ses équipements (ordinateur, tablette, et smartphone) via le site web clickdoc.fr et son application mobile, mais la plateforme va encore plus loin… CLICKDOC offre la garantie d’entrer en contact avec le médecin de son choix grâce à la fonction « On appelle pour vous » : même si le praticien n’utilise pas encore CLICKDOC, l’équipe de la plateforme peut contacter le médecin choisi pour convenir d’un rendez-vous au nom du patient, en fonction des disponibilités qu’il aura indiquées sur CLICKDOC.",
+        "metadata": {
+            "chunk_id": "2150f565bf669614_5",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "paragraph",
+            "content": "**CLICKDOC : une avancée majeure pour les patients avec « On appelle pour vous »**\nCLICKDOC permet aux patients de prendre un rendez-vous gratuitement en ligne avec un médecin généraliste ou spécialiste depuis tous ses équipements (ordinateur, tablette, et smartphone) via le site web clickdoc.fr et son application mobile, mais la plateforme va encore plus loin… CLICKDOC offre la garantie d’entrer en contact avec le médecin de son choix grâce à la fonction « On appelle pour vous » : même si le pr",
+            "token_count": 114,
+            "character_count": 713,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "dff38644e558717d_6",
+        "content": "**CLICKDOC, la solution e-santé la plus complète du marché**\nAu-delà de la prise de rendez-vous en ligne, CLICKDOC offre de nombreuses autres fonctionnalités telles que :\n˗ un coaching des médecins : audit et conseils à distance, formation sur site aux solutions et services, accompagnement digital\n˗ un télésecrétariat médical\n˗ la téléconsultation entre un patient et son praticien\n˗ l’échange sécurisé de messages et de documents avec les patients telles que les ordonnances suite à une téléconsultation notamment.\nCLICKDOC est une plateforme développée en conformité avec les exigences requises en matière de sécurité des données de santé, et les données sont hébergées dans un environnement agréé par l’ASIP Santé.\nCLICKDOC commence son déploiement en France et en Allemagne, et affiche une ambition de déploiement au niveau international. Le groupe vise l’intégration de 100 % de son parc client.",
+        "metadata": {
+            "chunk_id": "dff38644e558717d_6",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "unstructured",
+            "content": "**CLICKDOC, la solution e-santé la plus complète du marché**\nAu-delà de la prise de rendez-vous en ligne, CLICKDOC offre de nombreuses autres fonctionnalités telles que :\n˗ un coaching des médecins : audit et conseils à distance, formation sur site aux solutions et services, accompagnement digital\n˗ un télésecrétariat médical\n˗ la téléconsultation entre un patient et son praticien\n˗ l’échange sécurisé de messages et de documents avec les patients telles que les ordonnances suite à une téléconsul",
+            "token_count": 139,
+            "character_count": 902,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "25994d1d98072974_7",
+        "content": "**À propos de CompuGroup Medical SE**\nCompuGroup Medical est l’un des leaders mondiaux de la e-santé. Avec un chiffre d’affaires de plus de 717 millions d’euros, ses logiciels sont conçus pour accompagner toutes les activités médicales et organisationnelles dans les cabinets médicaux, les pharmacies, les laboratoires et les hôpitaux. Ses systèmes d’information, destinés à tous les acteurs impliqués dans le système de santé, et ses Dossiers Patients en ligne contribuent à un système de santé plus sûr et plus efficace. Les services de CompuGroup Medical reposent sur une base client unique de plus d’1 million d’utilisateurs : médecins, dentistes, pharmacies et autres fournisseurs de services au sein des établissements de soins ambulatoires et hospitaliers. Présent dans 19 pays et distribué dans plus de 55 pays à travers le monde, CompuGroup Medical est la société e-santé avec l’une des meilleures couvertures parmi les fournisseurs de services e-santé.",
+        "metadata": {
+            "chunk_id": "25994d1d98072974_7",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "paragraph",
+            "content": "**À propos de CompuGroup Medical SE**\nCompuGroup Medical est l’un des leaders mondiaux de la e-santé. Avec un chiffre d’affaires de plus de 717 millions d’euros, ses logiciels sont conçus pour accompagner toutes les activités médicales et organisationnelles dans les cabinets médicaux, les pharmacies, les laboratoires et les hôpitaux. Ses systèmes d’information, destinés à tous les acteurs impliqués dans le système de santé, et ses Dossiers Patients en ligne contribuent à un système de santé plus",
+            "token_count": 146,
+            "character_count": 962,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4caeb3bdb1968eb1_8",
+        "content": "Environ 5 000 employés hautement qualifiés accompagnent ses clients avec des solutions innovantes pour répondre aux demandes toujours plus croissantes du système de santé.\nActeur historique de la télétransmission des feuilles de soins électroniques, CompuGroup Medical est un partenaire clé des administrations de santé publique. CompuGroup Medical a notamment travaillé avec la Caisse Nationale de l’Assurance Maladie dans le cadre de la mise en en place du Dossier Médical Partagé, aujourd’hui intégré à ses logiciels AxiSanté et HelloDoc.\nRencontrez les équipes CGM sur le stand G71/Paris Healthcare Week\nSalon HIT du 21 au 23 mai 2019, Paris Porte de Versailles — Pavillon 7.",
+        "metadata": {
+            "chunk_id": "4caeb3bdb1968eb1_8",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin"
+            ],
+            "section_title": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "heading_level": 1,
+            "chunk_type": "unstructured",
+            "content": "Environ 5 000 employés hautement qualifiés accompagnent ses clients avec des solutions innovantes pour répondre aux demandes toujours plus croissantes du système de santé.\nActeur historique de la télétransmission des feuilles de soins électroniques, CompuGroup Medical est un partenaire clé des administrations de santé publique. CompuGroup Medical a notamment travaillé avec la Caisse Nationale de l’Assurance Maladie dans le cadre de la mise en en place du Dossier Médical Partagé, aujourd’hui inté",
+            "token_count": 103,
+            "character_count": 679,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ab82ac40ea47ced3",
+        "content": "## IA médicale : les modèles généralistes dépassent OpenEvidence et UpToDate dans un benchmark de Nature Medicine",
+        "metadata": {
+            "chunk_id": "ab82ac40ea47ced3",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "IA médicale : les modèles généralistes dépassent OpenEvidence et UpToDate dans un benchmark de Nature Medicine"
+            ],
+            "section_title": "IA médicale : les modèles généralistes dépassent OpenEvidence et UpToDate dans un benchmark de Nature Medicine",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## IA médicale : les modèles généralistes dépassent OpenEvidence et UpToDate dans un benchmark de Nature Medicine",
+            "token_count": 17,
+            "character_count": 113,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "19fa65e5c7631bef",
+        "content": "## Cegedim : l’État acte l’ampleur de la fuite et précise le risque “données sensibles” pour 164 000 personnes",
+        "metadata": {
+            "chunk_id": "19fa65e5c7631bef",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "Cegedim : l’État acte l’ampleur de la fuite et précise le risque “données sensibles” pour 164 000 personnes"
+            ],
+            "section_title": "Cegedim : l’État acte l’ampleur de la fuite et précise le risque “données sensibles” pour 164 000 personnes",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Cegedim : l’État acte l’ampleur de la fuite et précise le risque “données sensibles” pour 164 000 personnes",
+            "token_count": 19,
+            "character_count": 110,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "85a7e0f23475f606",
+        "content": "## Téléconsultation 2025 : la santé mentale tire l’activité, l’État affine la feuille de route 2026-2028",
+        "metadata": {
+            "chunk_id": "85a7e0f23475f606",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "Téléconsultation 2025 : la santé mentale tire l’activité, l’État affine la feuille de route 2026-2028"
+            ],
+            "section_title": "Téléconsultation 2025 : la santé mentale tire l’activité, l’État affine la feuille de route 2026-2028",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Téléconsultation 2025 : la santé mentale tire l’activité, l’État affine la feuille de route 2026-2028",
+            "token_count": 16,
+            "character_count": 104,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "dd92ba021493db4c",
+        "content": "## Plateforme des données de santé : le choix de Scaleway ouvre la phase opérationnelle de la migration",
+        "metadata": {
+            "chunk_id": "dd92ba021493db4c",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "Plateforme des données de santé : le choix de Scaleway ouvre la phase opérationnelle de la migration"
+            ],
+            "section_title": "Plateforme des données de santé : le choix de Scaleway ouvre la phase opérationnelle de la migration",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Plateforme des données de santé : le choix de Scaleway ouvre la phase opérationnelle de la migration",
+            "token_count": 18,
+            "character_count": 103,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "23210eb225e242b6",
+        "content": "## Doctolib se lance sur le marché du logiciel de gestion de cabinet médical avec une offre « SaaS »",
+        "metadata": {
+            "chunk_id": "23210eb225e242b6",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "Doctolib se lance sur le marché du logiciel de gestion de cabinet médical avec une offre « SaaS »"
+            ],
+            "section_title": "Doctolib se lance sur le marché du logiciel de gestion de cabinet médical avec une offre « SaaS »",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Doctolib se lance sur le marché du logiciel de gestion de cabinet médical avec une offre « SaaS »",
+            "token_count": 20,
+            "character_count": 100,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b8138e5f741bd68c",
+        "content": "## Les Français divisés entre craintes et espoirs par rapport à l’intelligence artificielle en santé",
+        "metadata": {
+            "chunk_id": "b8138e5f741bd68c",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "Les Français divisés entre craintes et espoirs par rapport à l’intelligence artificielle en santé"
+            ],
+            "section_title": "Les Français divisés entre craintes et espoirs par rapport à l’intelligence artificielle en santé",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Les Français divisés entre craintes et espoirs par rapport à l’intelligence artificielle en santé",
+            "token_count": 15,
+            "character_count": 100,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9b003cbee597f761",
+        "content": "## Une caméra et une \\#IA pour assurer la sécurité du dosage des vaccins anti-Covid 19 \\#FrenchTech \\#Covid19",
+        "metadata": {
+            "chunk_id": "9b003cbee597f761",
+            "parent_doc": "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+            "source_url": "https://www.caducee.net/actualite-medicale/14411/lancement-de-clickdoc-la-solution-novatrice-de-prise-de-rendez-vous-en-ligne-avec-un-medecin.html",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points processus achat logiciel prise de rendez-vous médical numérique France",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "frictions dans le parcours d'achat",
+            "heading_path": [
+                "Lancement de CLICKDOC, la solution novatrice de prise de rendez-vous en ligne avec un médecin",
+                "Une caméra et une \\#IA pour assurer la sécurité du dosage des vaccins anti-Covid 19 \\#FrenchTech \\#Covid19"
+            ],
+            "section_title": "Une caméra et une \\#IA pour assurer la sécurité du dosage des vaccins anti-Covid 19 \\#FrenchTech \\#Covid19",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Une caméra et une \\#IA pour assurer la sécurité du dosage des vaccins anti-Covid 19 \\#FrenchTech \\#Covid19",
+            "token_count": 18,
+            "character_count": 109,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:25:17.125075+00:00",
+            "extra": {}
+        }
+    }
+]

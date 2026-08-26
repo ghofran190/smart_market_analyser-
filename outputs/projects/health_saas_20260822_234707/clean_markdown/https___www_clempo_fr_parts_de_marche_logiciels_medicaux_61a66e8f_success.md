@@ -1,0 +1,126 @@
+// classement — juin 2026
+## Quels sont les logiciels médicaux les plus utilisés en France ?
+Voici le logiciel n°1 par spécialité en juin 2026, mesuré en part de feuilles de soins électroniques télétransmises. Cliquez sur une ligne pour ouvrir le classement complet (top 5, évolution mensuelle, données téléchargeables).
+SpécialitéLogiciel n°1ÉditeurPart↗
+Médecins GénéralistesDoctolibDoctolib26,2%→ DentistesLogos\_wLogjia (ex-Imagex)45,9%→ InfirmiersAgathe YOU (E.Motion)CBA Informatique Libérale33,4%→ KinésithérapeutesVegaEpsilog41,3%→ OrthophonistesSoins 2000Logisur'M32,4%→ PharmaciesID. (LGPI)Equasens (ex-Pharmagest)39,9%→ Médecins SpécialistesDoctolibDoctolib16,5%→ OpticiensCosium CenterCosium30,4%→ AudioprothésistesCosium CenterCosium44,4%→ OrthoptistesMedi+4000Cegedim Santé30,7%→ Sages-FemmesMaieuticAppFT Labs24,3%→ Pédicures-PodologuesMedi+4000Cegedim Santé24,6%→ Centres de santéIntellio EditeursOrisha Healthcare France24,3%→ Laboratoires d'analysesHexalisDedalus Healthcare France31,0%→
+Données juin 2026 — Source : GIE SESAM-Vitale. Part = % des feuilles de soins électroniques télétransmises par cette spécialité utilisant ce progiciel sur le mois de référence.
+// éditeurs — panorama 2026
+## Top des éditeurs de logiciels médicaux en France
+Le marché français du logiciel santé est structuré autour d'une quinzaine d'éditeurs majeurs. Certains sont **multi-spécialités** — parfois éclatés en plusieurs marques, comme CompuGroup Medical (Vega, HelloDoc, AxiSanté…) ou Cegedim Santé —, d'autres **généralistes** (Sofia Développement, Doctolib) ou **verticaux mono-spécialité** (Logjia en dentaire, CBA en infirmier libéral, Equasens en pharmacie, Cosium en optique/audio). Voici le panorama 2026, ordonné par poids stratégique sur le marché libéral français.
+### CompuGroup Medical (CGM)
+Le plus gros groupe éditeur en base cumulée (~16 % de tous les télétransmetteurs, devant Cegedim) — souvent sous-estimé car éclaté en plusieurs marques. Leader des kinés (Vega, 42 %), 2ᵉ des orthophonistes (24 %) et orthoptistes (19 %), ~14 % des généralistes et 12 % des IDEL. Groupe allemand ; a racheté Epsilog (Vega) en 2019.
+Progiciels : Vega (Epsilog), HelloDoc & CGM eVITALE (Imagine Editions), AxiSanté, Acteur.fr (Aatlantide)
+### Cegedim Santé
+Présent sur 8 spécialités sur 14 — l'éditeur à la présence la plus large, même si sa base recule depuis 2022.
+Progiciels : Crossway, MonLogicielMedical.com, Medi+4000, Simply-Vitale, Maiia Gestion, MEDICLICK
+### Doctolib
+Leader des médecins généralistes (26 %) et spécialistes (17 %), 3ᵉ chez les kinés (16 %). Croissance la plus rapide du marché, encore +3 pts chez les généralistes au 2e trimestre 2026.
+Progiciels : Doctolib Logiciel (gestion de cabinet intégrée à la prise de RDV)
+### Sofia Développement
+Force majeure chez les infirmiers, kinés, orthophonistes, orthoptistes, pédicures-podologues. ~22 % cumulés en IDEL.
+Progiciels : Albus AIR, Topaze AIR, Orthomax, Televitale, Infimax
+### Equasens (ex-Pharmagest)
+Leader stable du marché pharmacie depuis plus de 20 ans, intégré à un écosystème (groupements Pharmavie, Optipharm…).
+### Logjia
+Groupe né au 1ᵉʳ janvier 2026 de la fusion de Logos\_w, Julie et JULiA (rachetés à Henry Schein One). Il réunit les deux premiers logiciels dentaires (Logos\_w 46 % + Julie 20 %), soit ~66 % du parc de ville.
+Progiciels : Logos\_w, Julie, JULiA
+### CBA Informatique Libérale
+Numéro 1 absolu du marché infirmier libéral (33 %) — l'éditeur historique de l'IDEL, qui se diversifie depuis peu vers les kinés avec Milo.
+Progiciels : Agathe YOU (E.Motion), Agathe (legacy), Milo (kinés)
+### Cosium
+Double leader sur l'optique (30 %) et l'audioprothèse (44 %) — éditeur spécialisé sur le commerce de détail santé.
+Progiciels : Cosium Center
+### Logisur'M
+Premier des orthophonistes (32 %) — a multiplié sa part par 6 en 7 ans grâce à une bascule cloud précoce.
+### Visiodent
+Présent en dentaire (Veasy 4 %) et leader de la nouvelle gamme cloud chez les centres de santé (17 %).
+Progiciels : Veasy, Visiodent Ligne 100/500
+### Dedalus Healthcare
+Leader du marché logiciel laboratoire d'analyses médicales (Hexalis 31 %).
+### Orisha Healthcare France
+Présent sur 4 spécialités (médecins spé, pédicures, centres de santé, audio). Numéro 1 des centres de santé (24 %).
+Progiciels : Intellio, Intellio Editeurs
+### Olaqin
+Acteur transverse chez les médecins (généralistes 7 %, spécialistes 6 %) — a su capter une partie des bascules dans le segment médecins.
+Progiciels : Stellair Integral
+// vue cross-spécialités — base cumulée
+## Qui pèse le plus, tous métiers confondus ?
+La lecture par spécialité masque le poids réel des grands groupes, souvent **éclatés en plusieurs marques**. En agrégeant les praticiens qui télétransmettent sur les 14 spécialités (juin 2026), la hiérarchie change : **CompuGroup Medical** (Vega, HelloDoc, AxiSanté…) devient le 1er groupe éditeur français, devant Cegedim Santé. À noter aussi : le marché grandit presque partout (13 spécialités sur 14 en hausse sur un an, portées par les podologues, opticiens et orthoptistes à +7 %), la pharmacie étant la seule en recul (-1,5 %).
+1. 01CompuGroup Medical (CGM)Vega, HelloDoc, CGM eVITALE, AxiSanté, Acteur.fr15,3 %
+2. 02Cegedim SantéCrossway, Medi+4000, Maiia Gestion, Simply-Vitale13,7 %
+3. 03DoctolibDoctolib (croissance la plus rapide)9,1 %
+4. 04Sofia DéveloppementAlbus AIR, Topaze AIR, Orthomax, Televitale8,0 %
+5. 05CBA Informatique LibéraleAgathe YOU, Milo7,6 %
+6. 06LogjiaLogos\_w, Julie, JULiA6,1 %
+7. 07EquasensID. (LGPI)4,3 %
+8. 08VidalWeda, DrSanté4,0 %
+Part cumulée des télétransmetteurs sur les 14 spécialités couvertes (juin 2026).
+// top logiciels, tous métiers confondus
+1. 01VegaEpsilog (CGM) · kinés, orthophonistes, orthoptistes, infirmiers, podologues11,5 %
+2. 02DoctolibDoctolib · généralistes, spécialistes, kinés9,1 %
+3. 03Agathe YOUCBA · infirmiers (kinés émergent)7,3 %
+4. 04Medi+4000Cegedim Santé · orthoptistes, podologues, kinés, orthophonistes, sages-femmes, infirmiers6,2 %
+5. 05Logos\_wLogjia · dentistes, centres de santé4,3 %
+6. 06Soins 2000Logisur'M · orthophonistes, infirmiers3,9 %
+Part cumulée d'un même progiciel sur toutes les spécialités où il est utilisé.
+**À retenir** — **Vega** (Epsilog, groupe CGM) reste le logiciel n°1 tous métiers confondus (11,5 %, présent chez 5 professions). **Doctolib** est le 2e et le plus rapide en croissance — 12e début 2024, il a dépassé Agathe YOU et Medi+4000 depuis. Le logiciel le plus **transversal** est **DrSanté** (Calimaps, groupe Vidal), utilisé sur 12 des 14 spécialités.
+// 14 marchés — bar chart race 2019→2026
+## Explorez l'évolution de chaque marché en animation
+Cliquez sur une spécialité pour ouvrir la **bar chart race interactive** qui rejoue mois par mois 7 ans de bouleversements concurrentiels — le recul d'AxiSanté, la conquête de Doctolib, la bascule cloud chez les infirmiers, le basculement Julie → Logos\_w en dentaire. Chaque page contient le top 5 détaillé, l'analyse des grandes tendances et le téléchargement gratuit de la donnée brute.
+**Médecins Généralistes** \\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 02 / 14juin 2026\\
+3. 3.CS Trophy Gestion7,0%\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 03 / 14juin 2026\\
+1. 1.Agathe YOU (E.Motion)33,4%\\
+3. 3.Simply-Vitale12,2%\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 04 / 14juin 2026\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 05 / 14juin 2026\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 06 / 14juin 2026\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 07 / 14juin 2026\\
+**Médecins Spécialistes** \\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 08 / 14juin 2026\\
+1. 1.Cosium Center30,4%\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 09 / 14juin 2026\\
+1. 1.Cosium Center44,4%\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 10 / 14juin 2026\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 11 / 14juin 2026\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 12 / 14juin 2026\\
+**Pédicures-Podologues** \\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 13 / 14juin 2026\\
+1. 1.Intellio Editeurs24,3%\\
+3. 3.Galaxie Soins14,4%\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→ // 14 / 14juin 2026\\
+**Laboratoires d'analyses** \\
+3. 3.Autres (non répertoriés)63,0%\\
+▶Voir l'animation 2019→2026\+ télécharger la donnée brute (CSV/XLSX)→
+## Comment sont mesurées les parts de marché ?
+Les parts de marché publiées sur cette page proviennent du **GIE SESAM-Vitale**, l'organisme qui opère la télétransmission des feuilles de soins électroniques (FSE) en France. Chaque mois, le GIE publie le volume de FSE émises par chaque progiciel agréé — par profession de santé.
+Cette mesure est **plus fiable que les chiffres de vente** ou les déclarations d'éditeurs, car elle reflète l'usage réel sur le terrain : un logiciel installé mais non utilisé n'apparaît pas. Elle exclut en revanche les actes non télétransmis (tiers payant intégral, certains actes hospitaliers) et les éditeurs sans agrément SESAM-Vitale (rares en libéral).
+Les données sont retraitées pour : (1) regrouper les versions d'un même produit (ex. : AGATHE et AGATHE YOU), (2) attribuer correctement chaque progiciel à son éditeur actuel après rachat (ex. : Pharmagest → Equasens), (3) consolider les "Autres" (longue traîne d'éditeurs <0,5 %) dans une catégorie agrégée.
+SourceGIE SESAM-VitalePérimètreSanté libérale françaiseMétrique% FSE télétransmisesPériodeJanvier 2019 → Juin 2026GranularitéMensuelleSpécialités14FormatJSON / CSV / XLSXLicenceDonnées publiques GIE
+## Foire aux questions
+Quels sont les logiciels médicaux les plus utilisés en France ?
+En 2026, les logiciels médicaux les plus utilisés en France varient selon la spécialité : Doctolib (26 % des médecins généralistes), Logos\_w (46 % des dentistes), Agathe YOU (33 % des infirmiers libéraux), Vega (41 % des kinés), LGPI / ID. (40 % des pharmacies), Cosium Center (30 % des opticiens), Soins 2000 (32 % des orthophonistes) et Hexalis (31 % des laboratoires d'analyses). Source : GIE SESAM-Vitale, juin 2026.
+Quelles sont les parts de marché des éditeurs de logiciels médicaux en France ?
+Les parts de marché des éditeurs sont mesurées par le pourcentage de feuilles de soins électroniques (FSE) télétransmises via leur progiciel. En 2026, Cegedim Santé est l'éditeur le plus diversifié (Crossway, Medi+4000, Maiia, Simply-Vitale, MonLogicielMedical) ; Doctolib domine sur les médecins ; Vidal France (Weda) couvre généralistes et sages-femmes ; Equasens (LGPI) règne sur les pharmacies ; Logjia (Logos\_w + Julie) sur les dentistes ; CBA (Agathe YOU) sur les infirmiers ; CompuGroup Medical (Vega, via Epsilog) sur les kinésithérapeutes ; Cosium sur l'optique et l'audioprothèse. En base cumulée tous métiers, CompuGroup Medical est d'ailleurs le 1er groupe éditeur, devant Cegedim Santé.
+Quel est le plus gros éditeur de logiciels médicaux en France ?
+En base installée cumulée (praticiens qui télétransmettent, toutes spécialités confondues), le plus gros groupe éditeur français est CompuGroup Medical (CGM) avec environ 15 % des télétransmetteurs — via Vega (Epsilog), HelloDoc, CGM eVITALE et AxiSanté. Il devance Cegedim Santé (~14 % : Crossway, Medi+4000, Maiia Gestion, Simply-Vitale) et Doctolib (~9 %). Le logiciel individuel le plus utilisé reste Vega (Epsilog, groupe CGM), présent chez 5 professions de santé.
+Comment sont calculées les parts de marché des logiciels santé ?
+Les parts de marché sont calculées à partir des feuilles de soins électroniques (FSE SESAM-Vitale) télétransmises chaque mois. C'est l'indicateur le plus fiable car il reflète l'usage réel — pas les ventes ni les déclarations d'éditeurs. Les données sont publiées mensuellement par le GIE SESAM-Vitale et agrégées ici par spécialité.
+À quelle fréquence ces données sont-elles mises à jour ?
+Les données sont mises à jour mensuellement, dès publication des statistiques de télétransmission par le GIE SESAM-Vitale. Chaque page spécialité affiche le mois de référence dans son titre et permet de visualiser l'évolution mois par mois sur 7 ans (2019 → 2026).
+Puis-je télécharger la donnée brute des parts de marché ?
+Oui. Chaque page spécialité propose le téléchargement gratuit de la donnée brute en format CSV et XLSX (mensuel, par éditeur, par progiciel). Le téléchargement nécessite une simple inscription (e-mail) pour permettre le suivi des cas d'usage. La source d'origine reste publique : gie-sesam-vitale.fr.
+Quel est le logiciel médecin généraliste n°1 en France ?
+Doctolib est le logiciel le plus utilisé par les médecins généralistes français en 2026, avec 26,2 % des FSE télétransmises en juin (+3 points sur le 2e trimestre). Il est suivi par Weda (13,4 %, Vidal France), Medistory (10,1 %), HelloDoc (7,6 %) et Stellair Integral (7,2 %).
+Quel est le logiciel pharmacie n°1 en France ?
+ID. (LGPI), édité par Equasens (anciennement Pharmagest), est le logiciel pharmacie le plus utilisé en France en 2026, avec 40 % de parts de marché. Il est suivi de très près par Winpharma (Everys, 37 %), qui a gagné 16 points en 7 ans — l'écart n'est plus que de 3 points.
+Quel est le logiciel dentaire n°1 en France ?
+Logos\_w (groupe Logjia) est le logiciel dentaire le plus utilisé en France en 2026, avec 45,9 % de parts de marché — il a doublé Julie (20,2 % en 2023, désormais 19,7 %) en 2023. Depuis janvier 2026, Logos\_w, Julie et JULiA sont réunis dans un même groupe, Logjia (~66 % du parc dentaire).
+Quel est le logiciel infirmier libéral le plus utilisé ?
+Agathe YOU (gamme E.Motion) édité par CBA Informatique Libérale équipe 33,4 % des infirmiers libéraux français en 2026, devant Albus AIR (Sofia, 17,4 %) et Simply-Vitale (Cegedim, 12,2 %).
+Comment ces données sont-elles utiles pour un éditeur ou un investisseur ?
+Pour un éditeur de logiciel santé, ces données permettent de benchmarker sa position concurrentielle, d'identifier les spécialités où conquérir des parts, et de mesurer l'effet de ses campagnes go-to-market. Pour un investisseur ou un acquéreur, elles donnent une vision objective de la trajectoire d'un éditeur et de sa résilience face à la concurrence (cloud, IA, plateformisation).
+// vous éditez un logiciel santé ?
+## Discutons de votre stratégie go-to-market sur le marché santé français
+Croissance, pricing, positionnement vs Cegedim/Doctolib/Sofia, distribution syndicats/groupements — 30 minutes pour faire le point.

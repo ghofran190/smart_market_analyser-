@@ -1,0 +1,453 @@
+{
+    "supply": {
+        "section_name": "supply",
+        "synthesis": "**Offre & Concurrence – Logiciels de prise de rendez‑vous médicaux (HealthTech – Online Medical Appointment Scheduling) – France**  \n\n---\n\n### 1. Principaux acteurs & positionnement  \n\n| Acteur | Position sur le marché | Principaux indicateurs | Points forts / faibles |\n|--------|------------------------|------------------------|------------------------|\n| **Doctolib** | Leader incontesté | • Parts de marché supérieures à **50 %** chaque année de 2017 à 2022, avec des pics jusqu’à **90 %** (Autorité de la concurrence). <br>• **73 532** professionnels inscrits sur **81 631** actifs. <br>• **96  millions** de rendez‑vous gérés en 2020. <br>• Plus de **42  millions** d’utilisateurs français en 2024. <br>• **300 000** praticiens (source supplémentaire) et **2,5  millions** de créneaux traités quotidiennement. | Interface intuitive, téléconsultation intégrée, conformité RGPD/HDS. <br>Coût élevé : abonnement mensuel **129 €** (ou 139‑149 € + 79 € pour la téléconsultation). Risque de verrouillage et sanctions antitrust. |\n| **Maiia** (Cegedim/Assurance Maladie) | Challenger principal | • Environ **1 640** praticiens inscrits. <br>• Offre complète (prise de RDV, téléconsultation, messagerie sécurisée, réservation téléphonique). | Interopérabilité native avec les SI Cegedim, orientation « équité d’accès ». Tarif « sur devis », moins de visibilité patient que Doctolib. |\n| **Keldoc** | Troisième place en nombre de praticiens | • **1 909** professionnels inscrits. <br>• Synchronisation Google Agenda/iCal, tarification transparente. | Fonctionnalités limitées en téléconsultation et gestion avancée de dossiers. |\n| **Qare** & **Livi** | Acteurs spécialisés téléconsultation | • Parts de marché modestes, mais diversification services (médecins, psychologues, sages‑femmes). | Modèle salarial (praticiens salariés) élimine le coût d’abonnement pour les libéraux. |\n| **MonDocteur / RDVmedicaux** | Acteurs secondaires | • MonDocteur intégré à Doctolib, RDVmedicaux cible les cabinets de ville avec offre simple. | Peu d’impact sur la dynamique globale. |\n\n---\n\n### 2. Parts de marché & dynamique concurrentielle  \n\n- **Doctolib** détient la quasi‑majorité du marché (> 50 % depuis 2017, parfois **90 %**), ce qui crée un effet de réseau très fort : plus de **42 M** de patients utilisent la plateforme, générant un flux continu de nouveaux praticiens.  \n- **Maiia** et **Keldoc** représentent les deux plus gros challengers, avec respectivement **1 640** et **1 909** praticiens, soit moins de **3 %** du total des professionnels actifs.  \n- Les plateformes **Qare** et **Livi** se différencient par la téléconsultation et le modèle salarial, mais leurs parts restent marginales (< 5 %).  \n- La dynamique est marquée par une **consolidation** (ex. acquisition de MonDocteur par Doctolib) et une **pression tarifaire** : le prix moyen du marché se situe autour de **49 € / mois** pour un agenda, contre **129 €** pour Doctolib, incitant les praticiens à rechercher des alternatives moins coûteuses.  \n\n---\n\n### 3. Barrières à l’entrée & différenciation  \n\n| Barrières | Illustration chiffrée |\n|-----------|------------------------|\n| **Effet de réseau** | > 42 M d’utilisateurs → forte visibilité pour les praticiens. |\n| **Conformité réglementaire** | Hébergement en France, conformité RGPD/HDS exigée (Doctolib mise en avant). |\n| **Coûts d’intégration** | Maiia nécessite intégration aux SI Cegedim (coût « sur devis »). |\n| **Tarification** | Modèles variés : abonnement tout‑inclus (Doctolib 139‑149 € + 79 €), abonnement à prix fixe (Keldoc 40 €), commission à l’acte (Medaviz 3 % plafonné à 39 €), modèle salarial (Livi). |\n| **Fonctionnalités différenciatrices** | • Rappels automatiques (SMS/Email). <br>• Gestion sécurisée des DPI (documents patients). <br>• Téléconsultation native (Maiia, Qare, Doctolib). <br>• Modules à la carte (options +10‑25 €/mois). |\n\n**Différenciation clé** : les nouveaux entrants doivent soit offrir un **coût nettement inférieur** (ex. 40‑50 €/mois) avec des modules essentiels, soit proposer une **intégration profonde** aux systèmes hospitaliers (interopérabilité, conformité HDS) pour concurrencer l’effet de réseau de Doctolib. Le modèle **B2B2C** (ex. partenariat avec assurances ou mutuelles) constitue également une voie d’accès, en s’appuyant sur la visibilité patient déjà acquise par les acteurs dominants.  \n\nEn résumé, le marché français de la prise de rendez‑vous médicale en ligne reste fortement concentré autour de Doctolib, avec des challengers modestes mais différenciés par l’intégration SI et la tarification. Les barrières d’entrée (effet de réseau, conformité, coûts d’intégration) exigent une proposition de valeur claire, soit sur le prix, soit sur des fonctionnalités spécialisées (téléconsultation, gestion DPI, modularité).",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.7111,
+            "coverage_score": 0.5,
+            "diversity_score": 0.5754,
+            "composite_score": 0.6206,
+            "details": {
+                "query": "Qui sont les acteurs majeurs du marché de HealthTech - Online Medical Appointment Scheduling Software et quelle est leur position ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.45,
+                    "heuristic_score": 0.9722,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "acteurs majeurs du marché HealthTech - Online Medical Appointment Scheduling Software",
+                        "position de chaque acteur (part de marché, rang)"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "acteurs majeurs du marché HealthTech - Online Medical Appointment Scheduling Software",
+                            "max_similarity": 0.5917,
+                            "score": 0.5,
+                            "best_chunk_id": "c618600791f5320b_7"
+                        },
+                        {
+                            "aspect": "position de chaque acteur (part de marché, rang)",
+                            "max_similarity": 0.4517,
+                            "score": 0.5,
+                            "best_chunk_id": "dae96698596d5048_6"
+                        }
+                    ],
+                    "covered": 0,
+                    "partial": 2,
+                    "uncovered": 0,
+                    "total": 2
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5754,
+                    "min_dissimilarity": 0.3984,
+                    "max_dissimilarity": 0.7185,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3403
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\health_saas_20260822_234707\\agents\\supply_analysis.md"
+    },
+    "macro": {
+        "section_name": "macro",
+        "synthesis": "## Macro‑marché du **logiciel de prise de rendez‑vous médicaux en ligne** (HealthTech – France)\n\n### 1. Taille & dynamique de croissance  \n- Le marché mondial valait **765,9 M $** en 2024 et **880,79 M $** en 2025.  \n- Les prévisions le portent à **2 747 M $** d’ici 2033 (TCAC ≈ 15 %) et à **3 632,91 M $** en 2035 (TCAC = 15 % sur 2026‑2035).  \n- En Europe, la part de marché dépasse **35 %** de la génération mondiale (l’Amérique du Nord représente également +35 %). La France, même si elle reste derrière le Royaume‑Uni et l’Allemagne, apparaît comme un des principaux hubs européens, portés par les acteurs locaux (Doctolib, Maiia, Keldoc).  \n- Au niveau fonctionnel, les solutions **cloud/SaaS** représentent plus de **55 %** des installations, tandis que les applications mobiles atteindront **plus de 30 %** de l’usage total d’ici 2024.  \n- Le comportement des patients confirme l’élan : aux États‑Unis, **plus de 70 %** des patients avaient pris un rendez‑vous en ligne en 2023 contre moins de 40 % cinq ans plus tôt, ce qui rejoint les tendances françaises où **plus de 42 M** de Français utilisent déjà la prise de rendez‑vous en ligne en 2024 (≈ un tiers des prises de rendez‑vous en 2020, soit 96 M).  \n\n### 2. Facteurs macro‑économiques & réglementaires  \n- **Financement public** : le plan « Santé Numérique » du France 2030 a débloqué **1,25 milliard €** de subventions Bpifrance (cumul 5,5 milliards € depuis 2021).  \n- **Investissement privé** : les levées de fonds de la health‑tech ont dépassé **3,1 milliards €** en 2023, témoignant d’un appétit soutenu pour les modèles SaaS scalables.  \n- **Adoption institutionnelle** : 65 % des achats hospitaliers s’effectuent via le mode « hospitalier », ce qui favorise les solutions interopérables (66 % des offres) et les déploiements SaaS. La transition vers le cloud progresse de **+18 %** d’une année sur l’autre en Europe.  \n- **Régulation** : le **RGPD** impose une conformité stricte sur le traitement des données de santé, qui devient un critère de sélection majeur. En France, les plateformes Doctolib, Maiia et KelDoc ont été mandatées pour la gestion des rendez‑vous de la campagne de vaccination 2021, renforçant la légitimité du numérique.  \n- Aux États‑Unis, les exigences **HIPAA** et **MACRA** ont conduit **83 %** du chiffre d’affaires du marché de gestion de cabinet à être réalisé en 2024 via des solutions SaaS, illustrant l’impact des cadres légaux sur l’adoption.  \n\n### 3. Tendances structurantes  \n- **SaaS santé** : le segment SaaS du secteur de la santé enregistre un CAGR de **22,17 %** (2024‑2035), porté par l’intégration de l’IA pour l’analytique patient et les dossiers électroniques de santé (EHR).  \n- **Mobilité** : les applications Android/iOS représentent plus de **30 %** de l’utilisation totale, répondant à la demande d’accès « always‑on » des patients et des praticiens.  \n- **Sécurité** : **45 %** des petites entreprises retardent encore l’adoption à cause des risques cyber, incitant les éditeurs à investir massivement dans des protocoles de chiffrement, authentification forte et certifications ISO/IEC 27001.  \n- **Télémédecine et suivi à distance** : le sous‑segment télémédecine croît à plus de **25 %** de CAGR, générant une synergie avec les plateformes de prise de rendez‑vous (intégration de consultations vidéo, suivi via wearables).  \n- **Expérience patient** : la combinaison de rappels automatiques, de gestion sécurisée des documents médicaux et d’une interface mobile fluide devient le nouveau standard d’expérience, poussant les acteurs à différencier leurs offres par des modules d’IA (triage, suggestions de créneaux) et de conformité RGPD‑by‑design.  \n\n**En synthèse**, le marché français de l’online medical appointment scheduling s’insère dans une dynamique mondiale forte (CAGR ≈ 15 %), soutenue par des financements publics et privés massifs, un cadre réglementaire qui pousse à la conformité et à la sécurisation des données, ainsi que par des évolutions technologiques (SaaS, IA, mobilité). Ces leviers combinés créent un environnement propice à l’émergence de nouveaux acteurs B2C SaaS (et B2B2C) capables de capter une part croissante d’une patientèle de plus en plus « digital‑native ».",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.6674,
+            "coverage_score": 0.5,
+            "diversity_score": 0.5675,
+            "composite_score": 0.5972,
+            "details": {
+                "query": "Quelle est la structure du marché de HealthTech - Online Medical Appointment Scheduling Software en termes de segments, taille et croissance ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.35,
+                    "heuristic_score": 0.9847,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "Structure du marché",
+                        "Segments du marché",
+                        "Taille du marché",
+                        "Taux de croissance du marché"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "Structure du marché",
+                            "max_similarity": 0.4592,
+                            "score": 0.5,
+                            "best_chunk_id": "469f64dc5bceca13_21"
+                        },
+                        {
+                            "aspect": "Segments du marché",
+                            "max_similarity": 0.5026,
+                            "score": 0.5,
+                            "best_chunk_id": "d5b71c04541b2857_17"
+                        },
+                        {
+                            "aspect": "Taille du marché",
+                            "max_similarity": 0.5141,
+                            "score": 0.5,
+                            "best_chunk_id": "bb621c5a1b35e0d8"
+                        },
+                        {
+                            "aspect": "Taux de croissance du marché",
+                            "max_similarity": 0.5766,
+                            "score": 0.5,
+                            "best_chunk_id": "bb621c5a1b35e0d8"
+                        }
+                    ],
+                    "covered": 0,
+                    "partial": 4,
+                    "uncovered": 0,
+                    "total": 4
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5675,
+                    "min_dissimilarity": 0.3506,
+                    "max_dissimilarity": 0.732,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3282
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\health_saas_20260822_234707\\agents\\macro_analysis.md"
+    },
+    "swot": {
+        "section_name": "swot",
+        "synthesis": "## 💪 Forces\n- Le modèle SaaS B2C (et B2B2C) profite d’un marché mondial de planification qui passe de **765,9 M $ en 2024** à **2 747 M $ en 2033** (TCAC ≈ 15 %) ; la scalabilité et les revenus récurrents sont donc très attractifs.  \n- Les cabinets qui utilisent déjà la prise de rendez‑vous en ligne voient leurs revenus augmenter de **23 % en 18 mois**, le temps administratif passer de **2,5 h à 45 min/jour** et le taux de no‑show chuter de **18 % à 8 %**.  \n- En Île‑de‑France, **62 % des patients** utilisent des plateformes de RDV en ligne et **96 %** affirment que cela facilite la prise de rendez‑vous, offrant une base d’utilisateurs solide.  \n- La conformité aux exigences françaises (RGPD, certification HDS, interopérabilité HL7 FHIR, connexion à « Mon Espace Santé ») est déjà validée par **195 professionnels IT de santé**, constituant un différenciateur clé.  \n\n## ⚠️ Faiblesses\n- La domination de Doctolib (> 50 % de parts de marché depuis 2017, avec des pics à 90 %) rend l’acquisition de praticiens et de patients très difficile pour un nouvel entrant.  \n- **45 % des petites structures** retardent l’adoption d’une solution à cause des risques cybersécuritaires, imposant des investissements lourds en certification HDS et audits continus.  \n- Le cadre réglementaire (MDR, RGPD, obligations d’hébergement HDS) augmente les coûts de mise en conformité et les délais de mise sur le marché, nécessitant des ressources juridiques spécialisées.  \n- La notoriété de la marque est encore faible face aux acteurs historiques, ce qui complique la génération de trafic organique et la confiance initiale.  \n\n## 🚀 Opportunités\n- Le marché mondial des logiciels de prise de rendez‑vous en ligne passe de **880,79 M $ en 2025** à **1 012,91 M $ en 2026** et atteindra **3 632,91 M $ d’ici 2035** (TCAC ≈ 15 %), créant une demande immédiate en France.  \n- Le secteur SaaS santé croît à **22,17 % CAGR de 2024 à 2035** et détient déjà **plus de 35 % des parts de marché mondiales en 2024**, offrant un modèle d’abonnement récurrent très attractif.  \n- Les applications mobiles représenteront **plus de 30 % de l’utilisation totale** du marché de la prise de rendez‑vous d’ici 2024, permettant de capter les patients « mobile‑first ».  \n- L’intégration d’IA pour l’analytique et la téléconsultation répond à une demande croissante (plus de **70 % des patients américains** ont déjà pris un RDV en ligne en 2023).  \n- Les investisseurs ont levé **3,1 Mds € en 2023** dans la santé numérique, facilitant l’accès à des fonds pour accélérer le développement et le go‑to‑market.  \n\n## ⚡ Menaces\n- La forte barrière à l’entrée due à Doctolib (> 50 % de parts de marché, effet de réseau puissant) limite la capacité à attirer praticiens et patients.  \n- La concurrence déjà bien implantée (Maiia, Keldoc, Livi, Qare) investit dans des écosystèmes complets (télémédecine, messagerie, gestion documentaire), augmentant la pression sur les prix et les exigences fonctionnelles.  \n- Les cyber‑risques sont élevés : plus de **50 millions de dossiers patients** ont été violés en 2023 et les amendes RGPD peuvent atteindre **20 M € ou 4 % du chiffre d’affaires**, menaçant la réputation et la viabilité financière.  \n- Le respect des normes d’interopérabilité (HL7 FHIR, openEHR) et des nouvelles législations (IA Act, exigences de facturation Factur‑X à partir de septembre 2026) impose des mises à jour techniques rapides sous peine de sanctions ou d’exclusion des programmes publics.  \n- **40 % des petites cliniques** déclarent des difficultés à mettre en place l’authentification multifacteur et le chiffrement, ralentissant la pénétration du marché auprès de ce segment.",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.7948,
+            "coverage_score": 0.5263,
+            "diversity_score": 0.598,
+            "composite_score": 0.6749,
+            "details": {
+                "query": "Quelles sont les opportunités et avantages exploitables à court et moyen terme pour HealthTech - Online Medical Appointment Scheduling Software ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.625,
+                    "heuristic_score": 0.9646,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "opportunités à court terme",
+                        "opportunités à moyen terme",
+                        "avantages à court terme",
+                        "avantages à moyen terme",
+                        "marché de la prise de rendez-vous médicale en ligne",
+                        "tendances technologiques HealthTech",
+                        "réglementations et conformité",
+                        "adoption par les patients",
+                        "adoption par les professionnels de santé",
+                        "efficacité opérationnelle des cabinets",
+                        "réduction des coûts",
+                        "amélioration de la satisfaction patient",
+                        "nouvelles sources de revenus",
+                        "intégration avec dossiers médicaux électroniques",
+                        "scalabilité du logiciel",
+                        "concurrence et différenciation",
+                        "partenariats stratégiques",
+                        "modèles de tarification",
+                        "impact de la télémédecine"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "opportunités à court terme",
+                            "max_similarity": 0.4803,
+                            "score": 0.5,
+                            "best_chunk_id": "b3966270c0110680_17"
+                        },
+                        {
+                            "aspect": "opportunités à moyen terme",
+                            "max_similarity": 0.5166,
+                            "score": 0.5,
+                            "best_chunk_id": "b3966270c0110680_17"
+                        },
+                        {
+                            "aspect": "avantages à court terme",
+                            "max_similarity": 0.4537,
+                            "score": 0.5,
+                            "best_chunk_id": "abf1679f2f038af9_17"
+                        },
+                        {
+                            "aspect": "avantages à moyen terme",
+                            "max_similarity": 0.464,
+                            "score": 0.5,
+                            "best_chunk_id": "abf1679f2f038af9_17"
+                        },
+                        {
+                            "aspect": "marché de la prise de rendez-vous médicale en ligne",
+                            "max_similarity": 0.6677,
+                            "score": 1.0,
+                            "best_chunk_id": "dae96698596d5048_6"
+                        },
+                        {
+                            "aspect": "tendances technologiques HealthTech",
+                            "max_similarity": 0.5235,
+                            "score": 0.5,
+                            "best_chunk_id": "e425eb6d1de69077_7"
+                        },
+                        {
+                            "aspect": "réglementations et conformité",
+                            "max_similarity": 0.4521,
+                            "score": 0.5,
+                            "best_chunk_id": "f065bdf91d16b0ac_21"
+                        },
+                        {
+                            "aspect": "adoption par les patients",
+                            "max_similarity": 0.505,
+                            "score": 0.5,
+                            "best_chunk_id": "59823935921a73b0_15"
+                        },
+                        {
+                            "aspect": "adoption par les professionnels de santé",
+                            "max_similarity": 0.4979,
+                            "score": 0.5,
+                            "best_chunk_id": "59823935921a73b0_15"
+                        },
+                        {
+                            "aspect": "efficacité opérationnelle des cabinets",
+                            "max_similarity": 0.5343,
+                            "score": 0.5,
+                            "best_chunk_id": "3d7ee2e3a524fe8c_6"
+                        },
+                        {
+                            "aspect": "réduction des coûts",
+                            "max_similarity": 0.4529,
+                            "score": 0.5,
+                            "best_chunk_id": "f065bdf91d16b0ac_21"
+                        },
+                        {
+                            "aspect": "amélioration de la satisfaction patient",
+                            "max_similarity": 0.5438,
+                            "score": 0.5,
+                            "best_chunk_id": "abf1679f2f038af9_17"
+                        },
+                        {
+                            "aspect": "nouvelles sources de revenus",
+                            "max_similarity": 0.4793,
+                            "score": 0.5,
+                            "best_chunk_id": "b3966270c0110680_17"
+                        },
+                        {
+                            "aspect": "intégration avec dossiers médicaux électroniques",
+                            "max_similarity": 0.5574,
+                            "score": 0.5,
+                            "best_chunk_id": "3d7ee2e3a524fe8c_6"
+                        },
+                        {
+                            "aspect": "scalabilité du logiciel",
+                            "max_similarity": 0.5216,
+                            "score": 0.5,
+                            "best_chunk_id": "8adf23bc4f032e9f"
+                        },
+                        {
+                            "aspect": "concurrence et différenciation",
+                            "max_similarity": 0.4654,
+                            "score": 0.5,
+                            "best_chunk_id": "ac3841db76781b46_1"
+                        },
+                        {
+                            "aspect": "partenariats stratégiques",
+                            "max_similarity": 0.4796,
+                            "score": 0.5,
+                            "best_chunk_id": "b3966270c0110680_17"
+                        },
+                        {
+                            "aspect": "modèles de tarification",
+                            "max_similarity": 0.5126,
+                            "score": 0.5,
+                            "best_chunk_id": "3d1c2d159c5711b0_19"
+                        },
+                        {
+                            "aspect": "impact de la télémédecine",
+                            "max_similarity": 0.5225,
+                            "score": 0.5,
+                            "best_chunk_id": "e425eb6d1de69077_7"
+                        }
+                    ],
+                    "covered": 1,
+                    "partial": 18,
+                    "uncovered": 0,
+                    "total": 19
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.598,
+                    "min_dissimilarity": 0.3984,
+                    "max_dissimilarity": 0.7402,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.369
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\health_saas_20260822_234707\\agents\\swot_analysis.md"
+    },
+    "demand": {
+        "section_name": "demand",
+        "synthesis": "**Demande & Pain Points – Logiciel de prise de rendez‑vous médicaux en ligne (France, HealthTech)**  \n\n---\n\n### 1. Segments de clientèle  \n\n| Segment | Taille / Adoption | Indicateurs clés |\n|---------|-------------------|------------------|\n| **Patients** (B2C) | > 42 M de Français utilisaient la prise de rendez‑vous en ligne en 2024 ; aux États‑Unis, plus de **70 %** des patients ont déjà réservé en ligne en 2023 (vs < 40 % en 2018). | Forte demande d’accès mobile, rappels automatiques et archivage de documents. |\n| **Cabinets médicaux indépendants** | En 2023, **> 30 000** nouvelles adoptions de solutions de prise de rendez‑vous (croissance la plus rapide). | Priorité à la réduction des appels entrants et à l’amélioration du taux de rendez‑vous honorés. |\n| **Cliniques / Hôpitaux (grandes structures)** | Représentent **plus de 60 %** des déploiements mondiaux ; les solutions cloud représentent **> 55 %** des installations, l’on‑premise ≈ 45 % (principalement chez les grands hôpitaux). | Besoin d’agendas multi‑sites, d’interopérabilité (HL7 FHIR, API) et de conformité RGPD/HDS. |\n| **Établissements de santé ruraux** | Seulement **22 %** des petites structures ont adopté un outil automatisé. | Freins liés à l’infrastructure, aux coûts initiaux et aux compétences numériques. |\n\nLe modèle **B2C SaaS (et B2B2C)** répond à la fois aux attentes des patients (simplicité, disponibilité 24 h/24) et aux exigences des établissements (digitalisation des flux, réduction du no‑show).\n\n---\n\n### 2. Principaux pain points  \n\n| Pain point | Données chiffrées |\n|------------|-------------------|\n| **Sécurité des données** | **45 %** des petites structures citent les risques cybersécuritaires comme obstacle principal (extrait 13). |\n| **Coût et complexité de migration** | Le **coût total de possession sur 5 ans** et la stabilité financière du fournisseur sont des critères décisifs (extrait 7). |\n| **Faible adoption réelle** | Malgré une notoriété de **53 %** (71 % en Île‑de‑France), l’usage effectif n’atteint que **15 %** au niveau national (extrait 5). |\n| **Intégration aux SI existants** | L’intégration et la synchronisation sont la première amélioration attendue par les professionnels (extrait 4). |\n| **Risque de no‑show** | Les rappels automatiques font baisser le taux de no‑show de **3,3 %** à **5,2 %** pour les nouveaux patients, soit une réduction de **30‑40 %** (extrait 9). |\n| **Infrastructure rurale** | Adoption de solutions automatisées seulement **22 %** dans les zones rurales (extrait 2). |\n\nCes frictions expliquent pourquoi les décideurs recherchent des solutions **ergonomiques, sécurisées, interopérables et à coût maîtrisé**.\n\n---\n\n### 3. Critères de décision & disposition à payer  \n\n| Critère | Valeur / Impact chiffré |\n|---------|------------------------|\n| **Conformité RGPD & hébergement HDS** | Exigence de base pour **100 %** des établissements (extraits 1, 11, 8). |\n| **Intégration aux plateformes nationales** (Mon Espace Santé, DMP, API HL7 FHIR) | Décision d’achat conditionnée à la certification ANS (extrait 2). |\n| **Réduction du no‑show** | ROI moyen : **+23 %** de revenus en 18 mois et chute du no‑show de **18 %** à **8 %** (extrait 10). |\n| **Coût total de possession** | Facteur décisif avec la stabilité financière du fournisseur (extrait 7). |\n| **Part de marché / notoriété** | Doctolib détient **> 50 %** du marché français (pouvant atteindre **90 %** entre 2017‑2022) – influence forte sur le choix (extrait 8). |\n| **Disposition à payer** | Les cabinets qui digitalisent voient une hausse de **23 %** de leurs revenus, ce qui justifie un abonnement SaaS premium (≈ €30‑€80 / mois selon la taille) – aucune donnée précise fournie, mais le ROI démontré indique une capacité à investir. |\n\nEn synthèse, les acheteurs français privilégient les solutions qui : (i) garantissent la sécurité et la conformité réglementaire, (ii) s’intègrent sans friction aux systèmes existants, (iii) démontrent un impact mesurable sur le taux de no‑show et le chiffre d’affaires, et (iv) offrent un modèle tarifaire transparent compatible avec le budget des petites structures tout en restant attractif pour les grands établissements. La combinaison de ces critères détermine la **disposition à payer** et crée une opportunité pour des acteurs capables de proposer une alternative sécurisée, interopérable et à coût maîtrisé face à la domination actuelle de Doctolib.",
+        "question_count": 3,
+        "evaluation": {
+            "relevance_score": 0.771,
+            "coverage_score": 0.5833,
+            "diversity_score": 0.5609,
+            "composite_score": 0.6727,
+            "details": {
+                "query": "Comment est la demande actuelle et les segments de clientèle pour HealthTech - Online Medical Appointment Scheduling Software ?",
+                "num_chunks": 20,
+                "weights": {
+                    "relevance": 0.5,
+                    "coverage": 0.3,
+                    "diversity": 0.2
+                },
+                "relevance": {
+                    "llm_score": 0.55,
+                    "heuristic_score": 0.9921,
+                    "weights": {
+                        "llm": 0.5,
+                        "heuristic": 0.5
+                    }
+                },
+                "coverage": {
+                    "aspects": [
+                        "État actuel de la demande pour les logiciels de prise de rendez-vous médicaux en ligne",
+                        "Tendances de croissance du marché HealthTech dans ce segment",
+                        "Taille du marché et volume de transactions",
+                        "Principaux segments de clientèle ciblés",
+                        "Profil démographique des patients utilisateurs",
+                        "Types d'établissements de santé (cliniques, hôpitaux, cabinets) comme clients",
+                        "Segmentation géographique de la demande",
+                        "Niveaux d'adoption selon les régions ou pays",
+                        "Facteurs influençant la demande (réglementation, téléconsultation, etc.)",
+                        "Sensibilité au prix et modèles de tarification préférés",
+                        "Canaux de distribution et de vente les plus efficaces",
+                        "Principaux concurrents et parts de marché"
+                    ],
+                    "coverage_details": [
+                        {
+                            "aspect": "État actuel de la demande pour les logiciels de prise de rendez-vous médicaux en ligne",
+                            "max_similarity": 0.6873,
+                            "score": 1.0,
+                            "best_chunk_id": "bfea8b8aa895652b"
+                        },
+                        {
+                            "aspect": "Tendances de croissance du marché HealthTech dans ce segment",
+                            "max_similarity": 0.5384,
+                            "score": 0.5,
+                            "best_chunk_id": "8adf23bc4f032e9f"
+                        },
+                        {
+                            "aspect": "Taille du marché et volume de transactions",
+                            "max_similarity": 0.6008,
+                            "score": 1.0,
+                            "best_chunk_id": "bb621c5a1b35e0d8"
+                        },
+                        {
+                            "aspect": "Principaux segments de clientèle ciblés",
+                            "max_similarity": 0.5434,
+                            "score": 0.5,
+                            "best_chunk_id": "283465237690bacf"
+                        },
+                        {
+                            "aspect": "Profil démographique des patients utilisateurs",
+                            "max_similarity": 0.5726,
+                            "score": 0.5,
+                            "best_chunk_id": "49a0af5ba7404fac_27"
+                        },
+                        {
+                            "aspect": "Types d'établissements de santé (cliniques, hôpitaux, cabinets) comme clients",
+                            "max_similarity": 0.5921,
+                            "score": 0.5,
+                            "best_chunk_id": "3d7ee2e3a524fe8c_6"
+                        },
+                        {
+                            "aspect": "Segmentation géographique de la demande",
+                            "max_similarity": 0.5552,
+                            "score": 0.5,
+                            "best_chunk_id": "acf7da3b08fed79c_25"
+                        },
+                        {
+                            "aspect": "Niveaux d'adoption selon les régions ou pays",
+                            "max_similarity": 0.503,
+                            "score": 0.5,
+                            "best_chunk_id": "49a0af5ba7404fac_27"
+                        },
+                        {
+                            "aspect": "Facteurs influençant la demande (réglementation, téléconsultation, etc.)",
+                            "max_similarity": 0.5464,
+                            "score": 0.5,
+                            "best_chunk_id": "b1f650ec878cdb53"
+                        },
+                        {
+                            "aspect": "Sensibilité au prix et modèles de tarification préférés",
+                            "max_similarity": 0.4559,
+                            "score": 0.5,
+                            "best_chunk_id": "49a0af5ba7404fac_27"
+                        },
+                        {
+                            "aspect": "Canaux de distribution et de vente les plus efficaces",
+                            "max_similarity": 0.4427,
+                            "score": 0.5,
+                            "best_chunk_id": "acf7da3b08fed79c_25"
+                        },
+                        {
+                            "aspect": "Principaux concurrents et parts de marché",
+                            "max_similarity": 0.4948,
+                            "score": 0.5,
+                            "best_chunk_id": "dae96698596d5048_6"
+                        }
+                    ],
+                    "covered": 2,
+                    "partial": 10,
+                    "uncovered": 0,
+                    "total": 12
+                },
+                "diversity": {
+                    "num_pairs": 190,
+                    "mean_dissimilarity": 0.5609,
+                    "min_dissimilarity": 0.383,
+                    "max_dissimilarity": 0.6903,
+                    "method": "hybrid_lexical_semantic",
+                    "semantic_mean_dissimilarity": 0.3225
+                }
+            }
+        },
+        "retrieval_method": "M4c",
+        "output_path": "outputs\\projects\\health_saas_20260822_234707\\agents\\demand_analysis.md"
+    }
+}

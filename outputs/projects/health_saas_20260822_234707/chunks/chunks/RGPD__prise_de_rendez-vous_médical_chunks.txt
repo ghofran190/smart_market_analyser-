@@ -1,0 +1,667 @@
+
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 713 caractères
+# Tokens: 95
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+FonctionnelFonctionnel Toujours activé
+Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.
+Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’utilisateur.
+Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes.
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 734 caractères
+# Tokens: 101
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.
+Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.
+- Gérer {vendor\_count} fournisseurs
+- En savoir plus sur ces finalités
+AccepterRefuserVoir les préférencesEnregistrer les préférences Voir les préférences
+- POLITIQUE DE CONFIDENTIALITÉ
+!
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Lunettes connectées : ce que la CNIL recommande
+# Titre section: Lunettes connectées : ce que la CNIL recommande
+# Type: h3
+# Taille: 132 caractères
+# Tokens: 20
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Lunettes connectées : ce que la CNIL recommande
+![Illustration of data access vs portability rights in a professional setting]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Portabilité vs droit d’accès : ce que chacun donne
+# Titre section: Portabilité vs droit d’accès : ce que chacun donne
+# Type: h3
+# Taille: 122 caractères
+# Tokens: 18
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Portabilité vs droit d’accès : ce que chacun donne
+![Messagerie professionnelle avec accès de l'employeur aux mails]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Messagerie professionnelle : accès de l’employeur aux mails
+# Titre section: Messagerie professionnelle : accès de l’employeur aux mails
+# Type: h3
+# Taille: 130 caractères
+# Tokens: 18
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Messagerie professionnelle : accès de l’employeur aux mails
+![Calendar representing the GDPR response deadline of one month]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Délai de réponse RGPD : un mois à partir de quand ?
+# Titre section: Délai de réponse RGPD : un mois à partir de quand ?
+# Type: h3
+# Taille: 120 caractères
+# Tokens: 22
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Délai de réponse RGPD : un mois à partir de quand ?
+![Form for data rectification request in compliance with RGPD]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Droit de rectification RGPD : répondre à une demande
+# Titre section: Droit de rectification RGPD : répondre à une demande
+# Type: h3
+# Taille: 137 caractères
+# Tokens: 22
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Droit de rectification RGPD : répondre à une demande
+![Interface d'un ordinateur sur la gestion des données dans un bureau moderne]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Principe d’exactitude RGPD : garder ses donnees a jour
+# Titre section: Principe d’exactitude RGPD : garder ses donnees a jour
+# Type: h3
+# Taille: 134 caractères
+# Tokens: 21
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Principe d’exactitude RGPD : garder ses donnees a jour
+![Classroom in a music school illustrating RGPD data handling for minors]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Droit d’accès du salarié à ses données RH
+# Titre section: Droit d’accès du salarié à ses données RH
+# Type: list
+# Taille: 130 caractères
+# Tokens: 23
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Droit d’accès du salarié à ses données RH
+- phishing ou hameçonnage
+![Agents IA : quand un test devient une vraie intrusion]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Agents IA : quand un test devient une vraie intrusion
+# Titre section: Agents IA : quand un test devient une vraie intrusion
+# Type: h3
+# Taille: 132 caractères
+# Tokens: 23
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Agents IA : quand un test devient une vraie intrusion
+![IA chez les fournisseurs : comment détecter les usages non déclarés ?]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: IA chez les fournisseurs : comment détecter les usages non déclarés ?
+# Titre section: IA chez les fournisseurs : comment détecter les usages non déclarés ?
+# Type: h3
+# Taille: 141 caractères
+# Tokens: 22
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### IA chez les fournisseurs : comment détecter les usages non déclarés ?
+![Agent IA autonome illustrant l'incident OpenAI et Hugging Face]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Agent IA autonome : l’incident OpenAI et Hugging Face révèle une nouvelle menace
+# Titre section: Agent IA autonome : l’incident OpenAI et Hugging Face révèle une nouvelle menace
+# Type: h3
+# Taille: 168 caractères
+# Tokens: 23
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Agent IA autonome : l’incident OpenAI et Hugging Face révèle une nouvelle menace
+![Faille Januscape CVE-2026-53359 dans un environnement de sécurité informatique]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Faille Januscape (CVE-2026-53359) : la crise OVHcloud rappelle vos obligations de sécurité
+# Titre section: Faille Januscape (CVE-2026-53359) : la crise OVHcloud rappelle vos obligations de sécurité
+# Type: h3
+# Taille: 196 caractères
+# Tokens: 28
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Faille Januscape (CVE-2026-53359) : la crise OVHcloud rappelle vos obligations de sécurité
+![Gestion Stratégique des Vulnérabilités : Le Rôle du VOC et l'Unification de la Défense Proactive]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Gestion Stratégique des Vulnérabilités : Le Rôle du VOC et l’Unification de la Défense Proactive
+# Titre section: Gestion Stratégique des Vulnérabilités : Le Rôle du VOC et l’Unification de la Défense Proactive
+# Type: h3
+# Taille: 165 caractères
+# Tokens: 26
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Gestion Stratégique des Vulnérabilités : Le Rôle du VOC et l’Unification de la Défense Proactive
+![Vote électronique : cinq contrôles à mener avant le scrutin]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Vote électronique : cinq contrôles à mener avant le scrutin
+# Titre section: Vote électronique : cinq contrôles à mener avant le scrutin
+# Type: h3
+# Taille: 127 caractères
+# Tokens: 18
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Vote électronique : cinq contrôles à mener avant le scrutin
+![Pseudonymisation in data protection and privacy management]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Pseudonymisation : technique de sécurité et minimisation
+# Titre section: Pseudonymisation : technique de sécurité et minimisation
+# Type: h3
+# Taille: 132 caractères
+# Tokens: 17
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Pseudonymisation : technique de sécurité et minimisation
+![RGPD sécurité privée montrant agents, badges et données collectées]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Phishing et vol de comptes Microsoft 365 : le MFA ne suffit plus à protéger vos données
+# Titre section: Phishing et vol de comptes Microsoft 365 : le MFA ne suffit plus à protéger vos données
+# Type: list
+# Taille: 275 caractères
+# Tokens: 38
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Phishing et vol de comptes Microsoft 365 : le MFA ne suffit plus à protéger vos données
+- Collectivité territoriale
+- Commissaire aux comptes
+- Officines Pharmaceutiques
+![Fingerprinting technique in data protection and RGPD context]()
+![Expert-Comptable Sous-traitant]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: Visites de pré-reprise et de reprise : ce que le décret n° 2026-503 change vraiment pour les SPST et leur DPO
+# Titre section: Visites de pré-reprise et de reprise : ce que le décret n° 2026-503 change vraiment pour les SPST et leur DPO
+# Type: h3
+# Taille: 140 caractères
+# Tokens: 26
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Visites de pré-reprise et de reprise : ce que le décret n° 2026-503 change vraiment pour les SPST et leur DPO
+![IA générative et RGPD]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical
+# Titre section: RGPD : prise de rendez-vous médical
+# Type: h1
+# Taille: 172 caractères
+# Tokens: 31
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+# RGPD : prise de rendez-vous médical
+Par Laurent de Cavel - DPO
+Temps de lecture : 4 minutes
+![RGPD : prise de rendez-vous médical\\
+RGPD : prise de rendez-vous médical]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Préjudice RGPD : quelles preuves conserver en contentieux ?
+# Titre section: Préjudice RGPD : quelles preuves conserver en contentieux ?
+# Type: h3
+# Taille: 538 caractères
+# Tokens: 82
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Préjudice RGPD : quelles preuves conserver en contentieux ?
+Si vous souhaitez utiliser une plateforme de prise de rendez-vous en ligne ou un prestataire de permanence téléphonique dans le cadre de votre activité professionnelle, ce tiers sera susceptible de collecter des informations sur les patients qui prennent rendez-vous, y compris les éventuels motifs de consultation.
+Il est important de vous assurer que ces tiers traitent les données de manière confidentielle et respectent les lois en vigueur sur la protection des données.
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations
+# Titre section: Vos obligations
+# Type: quote
+# Taille: 924 caractères
+# Tokens: 141
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+## Vos obligations
+Lorsque vos patients prennent rendez-vous, des données personnelles » : enregistrement des données strictement nécessaires, utilisation légitime des informations obtenues dans le cadre de la prise de rendez-vous, inscription dans le registre des activités de traitement, limitation des accès, sécurisation du planning et de son contenu, notification à la CNIL en cas de violation des données, etc.
+> - Si la consultation ne nécessite pas de préparation ou de réservation d’outils spécifiques, les motifs de la consultation n’ont pas à être renseignés.
+> - Les données relatives à la prise de rendez-vous peuvent être supprimées lorsqu’elles ne sont plus nécessaires. Cette durée doit être déterminée en fonction de votre activité.
+> - Le prestataire de la prise de rendez-vous est également responsable du traitement des données relatives aux comptes créés par les patients et les professionnels de santé.
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations
+# Titre section: Vos obligations
+# Type: quote
+# Taille: 891 caractères
+# Tokens: 136
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+> - Les droits des patients sont identiques à ceux précédemment évoqués pour les dossiers médicaux au regard de la réglementation en vigueur.
+Il doit donc mettre en place des mesures techniques et organisationnelles pour assurer la sécurité et la confidentialité des données confiées, comme des accès sécurisés, une politique d’habilitation, un chiffrement des données et une protection contre les attaques informatiques. Le prestataire ne peut utiliser les informations sur vos patients que pour accomplir ses missions.
+Vous l’avez compris, il doit être en conformité avec le RGPD
+En cas de non- conformité au RGPD (Règlement général sur la protection des données), les sanctions peuvent être très lourdes. Elles peuvent aller jusqu’à une amende de 20 millions d’euros ou de 4% du chiffre d’affaires annuel mondial de l’entreprise, selon laquelle des sanctions plus lourdes seront imposées.
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations
+# Titre section: Vos obligations
+# Type: list
+# Taille: 588 caractères
+# Tokens: 89
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+D’autres sanctions, telles que des injonctions, des ordonnances de blocage, des obligations de notification, des obligations de rapport d’audit, des obligations de coopération et des obligations de mise en conformité peuvent également être imposées en cas de non- conformité
+- Mise en Place de Rappels de Rendez-vous Médicaux en Conformité avec le RGPD
+- Gestion des SMS de Rappel de Rendez-vous en France : Conformité au RGPD
+Tags: conformité données de santé violation données
+Share on another social media platform
+Article précédent **Etes vous victime d’une application d’espionnage ?
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Laurent de Cavel - DPO
+# Titre section: Laurent de Cavel - DPO
+# Type: h3
+# Taille: 277 caractères
+# Tokens: 51
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Laurent de Cavel - DPO
+DPO EXTERNALISE - Disponible du Lundi au Samedi - Contactez nous au 01 83 64 42 98 ou par mail à contact@dpo-partage.fr DPO PARTAGE est le leader des DPO en données de santé et données sensibles.
+\- Retrouvez-nous sur Google News \- Membre DPO FRANCE
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Related **Articles**
+# Titre section: Related **Articles**
+# Type: h3
+# Taille: 262 caractères
+# Tokens: 37
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Related **Articles**
+Actualités et DPO externalisé
+![Rançongiciel à l'hôpital : les 5 manquements retenus]()
+![Préjudice RGPD : quelles preuves conserver en contentieux ?]()
+![Démarchage téléphonique : comment prouver le consentement dès le 11 août 2026 ?]()
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Procédures pour gérer les demandes des utilisateurs concernant leurs droits en matière de protection des données personnelles
+# Titre section: Procédures pour gérer les demandes des utilisateurs concernant leurs droits en matière de protection des données personnelles
+# Type: h3
+# Taille: 129 caractères
+# Tokens: 18
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Procédures pour gérer les demandes des utilisateurs concernant leurs droits en matière de protection des données personnelles
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Question ?
+# Titre section: Question ?
+# Type: h3
+# Taille: 195 caractères
+# Tokens: 29
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Question ?
+Comment pouvons-nous vous aider ?
+**Être rappelé** Un expert vous rappelle
+**Voir une démo** Découvrez la plateforme DPO SUITE
+**Demander un devis** Recevez une offre personnalisée
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Question ? > Être rappelé
+# Titre section: Être rappelé
+# Type: h4
+# Taille: 127 caractères
+# Tokens: 15
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+#### Être rappelé
+LundiMardiMercrediJeudiVendredi
+Choisissez un créneau préféré
+Vos données sont traitées conformément au RGPD.
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Question ? > Une erreur est survenue
+# Titre section: Une erreur est survenue
+# Type: h4
+# Taille: 229 caractères
+# Tokens: 29
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+#### Une erreur est survenue
+Veuillez réessayer ou nous contacter directement.
+Tapez votre recherche et appuyez sur Entree
+Conformite RGPDExternaliser mon DPOAudit cybersecuriteSe preparer a l'IA ActConformite NIS2Conformite DORA
+
+
+
+================================================================================# Source URL: https://www.dpo-partage.fr/rgpd-prise-de-rendez-vous-medical
+# Document parent: RGPD : prise de rendez-vous médical
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France
+# Angle: aspects réglementaires et sécurité des données
+# Chemin hiérarchique: RGPD : prise de rendez-vous médical > Vos obligations > Articles
+# Titre section: Articles
+# Type: h3
+# Taille: 117 caractères
+# Tokens: 20
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:32:12.817830+00:00
+................................................................................
+
+### Articles
+Newsletter via Brevo - desinscription a tout moment
+© 2026 DPO PARTAGE - Pilote de votre conformité RGPD

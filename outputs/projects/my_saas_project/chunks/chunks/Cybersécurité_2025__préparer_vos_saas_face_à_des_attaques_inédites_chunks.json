@@ -1,0 +1,371 @@
+[
+    {
+        "chunk_id": "ed326b33a22a31b9",
+        "content": "![Logo CyberCare - cybersécurité]()\n- NIS 2 : guide complet de conformité avec checklist\n- Formation Cybersécurité pour Entreprise\n- Firewall Fortinet FortiGate\n- Mailinblack : cybersécurité email\n- Antivirus pour Votre Entreprise\n- Surveillance des Endpoints EDR\nEn 2024, le paysage des menaces envers les SaaS (software-as-a-service) a explosé, entraînant une hausse vertigineuse des attaques et des pertes estimées à 3,5 milliards de dollars. Alors que les cybercriminels ciblent de plus en plus ces services cloud, les entreprises doivent renforcer leurs stratégies de protection. Découvrez les groupes de hackers les plus actifs à surveiller en 2025 et comment mieux sécuriser votre infrastructure SaaS.",
+        "metadata": {
+            "chunk_id": "ed326b33a22a31b9",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "![Logo CyberCare - cybersécurité]()\n- NIS 2 : guide complet de conformité avec checklist\n- Formation Cybersécurité pour Entreprise\n- Firewall Fortinet FortiGate\n- Mailinblack : cybersécurité email\n- Antivirus pour Votre Entreprise\n- Surveillance des Endpoints EDR\nEn 2024, le paysage des menaces envers les SaaS (software-as-a-service) a explosé, entraînant une hausse vertigineuse des attaques et des pertes estimées à 3,5 milliards de dollars. Alors que les cybercriminels ciblent de plus en plus c",
+            "token_count": 104,
+            "character_count": 708,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "803e667d20d49e66",
+        "content": "### Les cibles principales de shinyhunters\nshinyhunters, un collectif de cybercriminels bien connu, a marqué 2024 par une série de brèches remarquables dans les systèmes SaaS d’entreprises comme **Authy**, **Ticketmaster** et **Snowflake**. Exploitant une simple erreur de configuration chez les utilisateurs de Snowflake, le groupe a réussi à voler et publier des données sensibles, provoquant des dommages systémiques. Leur modus operandi n’implique pas de vulnérabilités au niveau des fournisseurs, mais plutôt une exploitation stratégique des lacunes de sécurité chez leurs clients SaaS.",
+        "metadata": {
+            "chunk_id": "803e667d20d49e66",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Shinyhunters : un groupe cybercriminel expert des configurations cloud",
+                "Les cibles principales de shinyhunters"
+            ],
+            "section_title": "Les cibles principales de shinyhunters",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Les cibles principales de shinyhunters\nshinyhunters, un collectif de cybercriminels bien connu, a marqué 2024 par une série de brèches remarquables dans les systèmes SaaS d’entreprises comme **Authy**, **Ticketmaster** et **Snowflake**. Exploitant une simple erreur de configuration chez les utilisateurs de Snowflake, le groupe a réussi à voler et publier des données sensibles, provoquant des dommages systémiques. Leur modus operandi n’implique pas de vulnérabilités au niveau des fournisseurs",
+            "token_count": 82,
+            "character_count": 591,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b30fab35844be41c",
+        "content": "### Leçons et stratégies pour contrer shinyhunters\nLes campagnes de shinyhunters ont exposé des lacunes dans la mise en œuvre de principes fondamentaux tels que l’activation de l’ **authentification multifactorielle (MFA)** et une gestion rigoureuse des **listes d’accès autorisées**. Pour contrer ce type de menace, il est recommandé d’effectuer des audits réguliers des configurations, de faire pivoter les **identifiants** et de protéger les environnements SaaS avec des outils capables d’identifier les mauvais paramètres.",
+        "metadata": {
+            "chunk_id": "b30fab35844be41c",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Shinyhunters : un groupe cybercriminel expert des configurations cloud",
+                "Leçons et stratégies pour contrer shinyhunters"
+            ],
+            "section_title": "Leçons et stratégies pour contrer shinyhunters",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Leçons et stratégies pour contrer shinyhunters\nLes campagnes de shinyhunters ont exposé des lacunes dans la mise en œuvre de principes fondamentaux tels que l’activation de l’ **authentification multifactorielle (MFA)** et une gestion rigoureuse des **listes d’accès autorisées**. Pour contrer ce type de menace, il est recommandé d’effectuer des audits réguliers des configurations, de faire pivoter les **identifiants** et de protéger les environnements SaaS avec des outils capables d’identifi",
+            "token_count": 73,
+            "character_count": 526,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ef7d4b6ee2f9a62d",
+        "content": "### Alphv : les maîtres de la tromperie\nConnu sous le nom de **BlackCat**, alphv a fait parler de lui en 2024 avec une attaque majeure contre Change Healthcare, extorquant la somme astronomique de 22 millions de dollars. Mais ce groupe s’est aussi montré créatif en simulant une saisie par le FBI afin de semer le doute chez les forces de l’ordre et ses affiliés. Cette tentative de distraction a néanmoins engendré des tensions avec ransomwarehub, un affilié déçu par la répartition des butins volés.",
+        "metadata": {
+            "chunk_id": "ef7d4b6ee2f9a62d",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Alphv et ransomhub : un feuilleton entre cybercriminels",
+                "Alphv : les maîtres de la tromperie"
+            ],
+            "section_title": "Alphv : les maîtres de la tromperie",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Alphv : les maîtres de la tromperie\nConnu sous le nom de **BlackCat**, alphv a fait parler de lui en 2024 avec une attaque majeure contre Change Healthcare, extorquant la somme astronomique de 22 millions de dollars. Mais ce groupe s’est aussi montré créatif en simulant une saisie par le FBI afin de semer le doute chez les forces de l’ordre et ses affiliés. Cette tentative de distraction a néanmoins engendré des tensions avec ransomwarehub, un affilié déçu par la répartition des butins volés",
+            "token_count": 85,
+            "character_count": 501,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "10b92039c072acf4",
+        "content": "### Aansomhub : le début d’une ascension\nRansomHub, émergeant d’un conflit avec alphv, n’a pas ralenti sa cadence. En exploitant les failles des intégrations tierces et d’authentification déficiente, ce groupe a ciblé des entreprises comme **Frontier Communications**, mettant en lumière les dangers d’une mauvaise gestion des **identités cloud**. Les revendications autour des données volées ont ajouté à leur notoriété dans le milieu du ransomware.",
+        "metadata": {
+            "chunk_id": "10b92039c072acf4",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Alphv et ransomhub : un feuilleton entre cybercriminels",
+                "Aansomhub : le début d’une ascension"
+            ],
+            "section_title": "Aansomhub : le début d’une ascension",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Aansomhub : le début d’une ascension\nRansomHub, émergeant d’un conflit avec alphv, n’a pas ralenti sa cadence. En exploitant les failles des intégrations tierces et d’authentification déficiente, ce groupe a ciblé des entreprises comme **Frontier Communications**, mettant en lumière les dangers d’une mauvaise gestion des **identités cloud**. Les revendications autour des données volées ont ajouté à leur notoriété dans le milieu du ransomware.",
+            "token_count": 64,
+            "character_count": 450,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f3bfe0f23adb6fc9",
+        "content": "### Prévenir et détecter les ransomware en entreprise\nPour éviter ce type de brèches, il est impératif de surveiller les **fuites d’identifiants** sur le dark web, de centraliser les processus d’authentification avec des outils comme le **single sign-on (SSO)**, et de privilégier des stratégies proactives comme la détection des sessions suspectes via des analyses comportementales (UEBA).",
+        "metadata": {
+            "chunk_id": "f3bfe0f23adb6fc9",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Alphv et ransomhub : un feuilleton entre cybercriminels",
+                "Prévenir et détecter les ransomware en entreprise"
+            ],
+            "section_title": "Prévenir et détecter les ransomware en entreprise",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Prévenir et détecter les ransomware en entreprise\nPour éviter ce type de brèches, il est impératif de surveiller les **fuites d’identifiants** sur le dark web, de centraliser les processus d’authentification avec des outils comme le **single sign-on (SSO)**, et de privilégier des stratégies proactives comme la détection des sessions suspectes via des analyses comportementales (UEBA).",
+            "token_count": 56,
+            "character_count": 390,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d72dc060558bc119",
+        "content": "### lockbit : la persévérance au cœur de l’attaque\nMalgré des efforts considérables de la part des agences comme le FBI avec l’opération Cronos, LockBit continue de cibler des entreprises fintech comme **Evolve Bank & Trust**. Leur méthode repose sur une attaque en chaîne, compromettant les fournisseurs pour toucher des plateformes connexes comme Affirm et Wise. Ils illustrent parfaitement la manière dont les acteurs de la cybersécurité doivent gérer les risques liés à la chaîne d’approvisionnement.",
+        "metadata": {
+            "chunk_id": "d72dc060558bc119",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Lockbit et midnight blizzard : des approches différentes mais tout aussi redoutables",
+                "lockbit : la persévérance au cœur de l’attaque"
+            ],
+            "section_title": "lockbit : la persévérance au cœur de l’attaque",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### lockbit : la persévérance au cœur de l’attaque\nMalgré des efforts considérables de la part des agences comme le FBI avec l’opération Cronos, LockBit continue de cibler des entreprises fintech comme **Evolve Bank & Trust**. Leur méthode repose sur une attaque en chaîne, compromettant les fournisseurs pour toucher des plateformes connexes comme Affirm et Wise. Ils illustrent parfaitement la manière dont les acteurs de la cybersécurité doivent gérer les risques liés à la chaîne d’approvisionnem",
+            "token_count": 76,
+            "character_count": 504,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "60e1f46f60137590",
+        "content": "### midnight blizzard : l’espionnage sophistiqué\nÀ l’opposé des groupes motivés par le gain financier, Midnight Blizzard, identifié comme une APT (Advanced Persistent Threat), travaille dans l’ombre pour des actions d’ **espionnage cybernétique**. En exploitant des failles dans des outils comme **TeamViewer**, ce groupe soutenu par l’État russe reste invisible pendant des mois, compromettant en silence des données critiques. Ce type d’acteur met en évidence l’importance de surveiller les activités suspectes à long terme dans les réseaux.",
+        "metadata": {
+            "chunk_id": "60e1f46f60137590",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Lockbit et midnight blizzard : des approches différentes mais tout aussi redoutables",
+                "midnight blizzard : l’espionnage sophistiqué"
+            ],
+            "section_title": "midnight blizzard : l’espionnage sophistiqué",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### midnight blizzard : l’espionnage sophistiqué\nÀ l’opposé des groupes motivés par le gain financier, Midnight Blizzard, identifié comme une APT (Advanced Persistent Threat), travaille dans l’ombre pour des actions d’ **espionnage cybernétique**. En exploitant des failles dans des outils comme **TeamViewer**, ce groupe soutenu par l’État russe reste invisible pendant des mois, compromettant en silence des données critiques. Ce type d’acteur met en évidence l’importance de surveiller les activit",
+            "token_count": 77,
+            "character_count": 543,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "be2c69058206d0b5",
+        "content": "### adopter une vigilance renforcée face à ces menaces modernes\nL’utilisation de technologies comme les **outils de détection des menaces** et les audits automatisés des configurations SaaS peut minimiser les voies d’attaque, empêchant les acteurs comme Midnight Blizzard de se maintenir dans les systèmes.",
+        "metadata": {
+            "chunk_id": "be2c69058206d0b5",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Lockbit et midnight blizzard : des approches différentes mais tout aussi redoutables",
+                "adopter une vigilance renforcée face à ces menaces modernes"
+            ],
+            "section_title": "adopter une vigilance renforcée face à ces menaces modernes",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### adopter une vigilance renforcée face à ces menaces modernes\nL’utilisation de technologies comme les **outils de détection des menaces** et les audits automatisés des configurations SaaS peut minimiser les voies d’attaque, empêchant les acteurs comme Midnight Blizzard de se maintenir dans les systèmes.",
+            "token_count": 44,
+            "character_count": 306,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4172c6422e47f497",
+        "content": "## La relève et les acteurs en attente de rebond\nAlors que Hellcat, un acteur nouvellement apparu en 2024, prépare des attaques plus agressives pour 2025, Scattered Spider demeure sous surveillance malgré un ralentissement de ses activités suite à une série d’arrestations. Ces groupes rappellent que les menaces évoluent constamment, et même les acteurs « endormis » peuvent redevenir actifs à tout moment.\nEn 2025, les entreprises faisant appel à des services SaaS doivent prioriser les évaluations des risques avec des outils avancés tels qu’un **SSPM (SaaS Security Posture Management)**. Chez CyberCare, nous proposons des solutions complètes pour sécuriser vos infrastructures grâce à des outils de détection proactive et un suivi en temps réel des menaces dans vos systèmes SaaS.",
+        "metadata": {
+            "chunk_id": "4172c6422e47f497",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "La relève et les acteurs en attente de rebond"
+            ],
+            "section_title": "La relève et les acteurs en attente de rebond",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## La relève et les acteurs en attente de rebond\nAlors que Hellcat, un acteur nouvellement apparu en 2024, prépare des attaques plus agressives pour 2025, Scattered Spider demeure sous surveillance malgré un ralentissement de ses activités suite à une série d’arrestations. Ces groupes rappellent que les menaces évoluent constamment, et même les acteurs « endormis » peuvent redevenir actifs à tout moment.\nEn 2025, les entreprises faisant appel à des services SaaS doivent prioriser les évaluations",
+            "token_count": 120,
+            "character_count": 786,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "759a1d0e9c45ac25",
+        "content": "## Publications similaires\n![Hacker numérique avec drapeaux ukrainien et russe en arrière-plan.]()\n![Cadenas numérique et réseau, sécurité cybersécurité.]()",
+        "metadata": {
+            "chunk_id": "759a1d0e9c45ac25",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Publications similaires"
+            ],
+            "section_title": "Publications similaires",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Publications similaires\n![Hacker numérique avec drapeaux ukrainien et russe en arrière-plan.]()\n![Cadenas numérique et réseau, sécurité cybersécurité.]()",
+            "token_count": 18,
+            "character_count": 156,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "692543260880232f",
+        "content": "### Laisser un commentaire Annuler la réponse\nVotre adresse e-mail ne sera pas publiée.Les champs obligatoires sont indiqués avec \\*\nEnregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.\nVeuillez valider le test reCAPTCHA..\nprotection par **reCAPTCHA**\nPrévenez-moi de tous les nouveaux commentaires par e-mail.\nPrévenez-moi de tous les nouveaux articles par e-mail.\n![logo cybercare horizontal blanc]()\nVotre partenaire de confiance en cybersécurité, CyberCare protège ce qui compte le plus pour votre entreprise. Nous veillons sur vos données 24/7, afin que vous puissiez vous concentrer sur votre succès.\nLivre pour apprendre à hacker\n- contact@cybercare-nantes.fr\nPolitiques de confidentialité\nCyberCare @2024 all right reserved\n- ![Français]( \"Passer à Français (Français)\")",
+        "metadata": {
+            "chunk_id": "692543260880232f",
+            "parent_doc": "Cybersécurité 2025 : préparer vos saas face à des attaques inédites",
+            "source_url": "https://cybercare-nantes.fr/cybersecurite-2025-preparer-saas-attaques-inedites",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Publications similaires",
+                "Laisser un commentaire Annuler la réponse"
+            ],
+            "section_title": "Laisser un commentaire Annuler la réponse",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Laisser un commentaire Annuler la réponse\nVotre adresse e-mail ne sera pas publiée.Les champs obligatoires sont indiqués avec \\*\nEnregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.\nVeuillez valider le test reCAPTCHA..\nprotection par **reCAPTCHA**\nPrévenez-moi de tous les nouveaux commentaires par e-mail.\nPrévenez-moi de tous les nouveaux articles par e-mail.\n![logo cybercare horizontal blanc]()\nVotre partenaire de confiance en cybersécurité, CyberCar",
+            "token_count": 115,
+            "character_count": 819,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:51.126862+00:00",
+            "extra": {}
+        }
+    }
+]

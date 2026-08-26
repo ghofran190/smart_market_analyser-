@@ -1,0 +1,353 @@
+[
+    {
+        "chunk_id": "ff7da69eb020dbec",
+        "content": "### Accueil téléphonique\n- Ligne ouverte pendant vos heures ouvrables ou, en option, 24h/24 7j/7\n- Une équipe formée, en CDI et stable (ancienneté moyenne > 8 ans).\n- Guide vocal personnalisé (exemple : « Bonjour, vous êtes avec... les horaires sont... »).\n- Enregistrement des appels à des fins de contrôle qualité, sauf avis contraire de votre part.",
+        "metadata": {
+            "chunk_id": "ff7da69eb020dbec",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos services",
+                "Accueil téléphonique"
+            ],
+            "section_title": "Accueil téléphonique",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Accueil téléphonique\n- Ligne ouverte pendant vos heures ouvrables ou, en option, 24h/24 7j/7\n- Une équipe formée, en CDI et stable (ancienneté moyenne > 8 ans).\n- Guide vocal personnalisé (exemple : « Bonjour, vous êtes avec... les horaires sont... »).\n- Enregistrement des appels à des fins de contrôle qualité, sauf avis contraire de votre part.",
+            "token_count": 59,
+            "character_count": 351,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fbea76edccece607",
+        "content": "### Prise de rendez-vous en ligne\n- Profil personnalisable reprenant les informations essentielles de votre cabinet.\n- Une solution sur mesure selon vos besoins :\n\\- Prise de rendez-vous ouverte à tous ou à vos seuls patients pré-enregistrés, sur tout ou partie des créneaux, sur les créneaux à partir de J+x ou bien jusqu'à J+x,\n\\- Ouverture automatique le jour même de créneau d'urgence, pour tout ou partie des différents types de rendez-vous (avec instructions spécifiques particulières),\n\\- Champ supplémentaire de saisie par le patient (date de naissance, adresse)…\n- Un outil pour éviter les rendez-vous non honorés avec les confirmations et rappels par mail ou SMS.\n- Un référencement internet centré sur votre cabinet ou votre association médicale thématique avec des suggestions pour le/la « booster.\n- Une interactivité avec vos patients avec une messagerie intégrée (activable ou non).\n- Incrustation sur votre site internet.",
+        "metadata": {
+            "chunk_id": "fbea76edccece607",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos services",
+                "Prise de rendez-vous en ligne"
+            ],
+            "section_title": "Prise de rendez-vous en ligne",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Prise de rendez-vous en ligne\n- Profil personnalisable reprenant les informations essentielles de votre cabinet.\n- Une solution sur mesure selon vos besoins :\n\\- Prise de rendez-vous ouverte à tous ou à vos seuls patients pré-enregistrés, sur tout ou partie des créneaux, sur les créneaux à partir de J+x ou bien jusqu'à J+x,\n\\- Ouverture automatique le jour même de créneau d'urgence, pour tout ou partie des différents types de rendez-vous (avec instructions spécifiques particulières),\n\\- Cham",
+            "token_count": 146,
+            "character_count": 937,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "581b96d090ff07ac",
+        "content": "### Téléconsultation\n- Fiable techniquement utilisable avec tous les navigateurs courants.\n- Simple à utiliser car ergonomique et intuitive.\n- Reversement de vos honoraires sous 7 jours.",
+        "metadata": {
+            "chunk_id": "581b96d090ff07ac",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos services",
+                "Téléconsultation"
+            ],
+            "section_title": "Téléconsultation",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Téléconsultation\n- Fiable techniquement utilisable avec tous les navigateurs courants.\n- Simple à utiliser car ergonomique et intuitive.\n- Reversement de vos honoraires sous 7 jours.",
+            "token_count": 27,
+            "character_count": 186,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cee78ffc8db5b173",
+        "content": "### Secrétariat à façon\n- Saisie de courriers, comptes-rendus de consultations et d’examens à distance.",
+        "metadata": {
+            "chunk_id": "cee78ffc8db5b173",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos services",
+                "Secrétariat à façon"
+            ],
+            "section_title": "Secrétariat à façon",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Secrétariat à façon\n- Saisie de courriers, comptes-rendus de consultations et d’examens à distance.",
+            "token_count": 15,
+            "character_count": 103,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cfc269580c15a183",
+        "content": "### Agenda 5\n- Solution « tout en un » : agenda, prise de rendez-vous en ligne, téléconsultation, TPE…).\n- « Full web » : accès depuis une simple connexion internet, depuis tout type d’écran et de format.\n- Agenda médical partagé et interactif (envoi de SMS, document transmis par mail au patient).\n- Paramétrable et personnalisable selon vos besoins :\n\\- Gestion multi-agendas en cas de cabinet partagé, maison de santé pluri-disciplinaire, services de cliniques, hôpital… (vue de tous les agendas sur une seule page, recherche possible de créneau libre sur l’ensemble des agendas, fichier patients partagé…).\n\\- Synchronisation avec Outlook, Google agenda, iCalendar et logiciels métier.",
+        "metadata": {
+            "chunk_id": "cfc269580c15a183",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos outils",
+                "Agenda 5"
+            ],
+            "section_title": "Agenda 5",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Agenda 5\n- Solution « tout en un » : agenda, prise de rendez-vous en ligne, téléconsultation, TPE…).\n- « Full web » : accès depuis une simple connexion internet, depuis tout type d’écran et de format.\n- Agenda médical partagé et interactif (envoi de SMS, document transmis par mail au patient).\n- Paramétrable et personnalisable selon vos besoins :\n\\- Gestion multi-agendas en cas de cabinet partagé, maison de santé pluri-disciplinaire, services de cliniques, hôpital… (vue de tous les agendas s",
+            "token_count": 108,
+            "character_count": 689,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fd3e9bfa8aaf4e59",
+        "content": "### Terminal de paiement (TPE)\n- TPE intégré pour permettre la facturation et le règlement de la téléconsultation.",
+        "metadata": {
+            "chunk_id": "fd3e9bfa8aaf4e59",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos outils",
+                "Terminal de paiement (TPE)"
+            ],
+            "section_title": "Terminal de paiement (TPE)",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Terminal de paiement (TPE)\n- TPE intégré pour permettre la facturation et le règlement de la téléconsultation.",
+            "token_count": 18,
+            "character_count": 114,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "755199645520a116",
+        "content": "### Identité sonore\n- Création de votre identité sonore pour que chaque appel vienne renforcer votre image : guides vocaux et musique d’attente personnalisables.",
+        "metadata": {
+            "chunk_id": "755199645520a116",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos outils",
+                "Identité sonore"
+            ],
+            "section_title": "Identité sonore",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Identité sonore\n- Création de votre identité sonore pour que chaque appel vienne renforcer votre image : guides vocaux et musique d’attente personnalisables.",
+            "token_count": 24,
+            "character_count": 161,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3ab186bf8149fb7a",
+        "content": "### Serveur vocal interactif (SIV)\n- Orienter et diffuser des messages sonores vers la cible définie en personnalisant votre image.\n!Logo Docrendezvous CSRD téléconsultation",
+        "metadata": {
+            "chunk_id": "3ab186bf8149fb7a",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos outils",
+                "Serveur vocal interactif (SIV)"
+            ],
+            "section_title": "Serveur vocal interactif (SIV)",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Serveur vocal interactif (SIV)\n- Orienter et diffuser des messages sonores vers la cible définie en personnalisant votre image.\n!Logo Docrendezvous CSRD téléconsultation",
+            "token_count": 24,
+            "character_count": 173,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b4c04f02b7fc072d",
+        "content": "### DocRendezvous\nprise de rendez-vous médicaux en ligne\n- Profil personnalisable reprenant les informations essentielles de votre cabinet ou de votre association de permanence de soins.\n- Référencement web optimisé grâce à votre présence sur ce site.\n- Gestion personnalisée de vos créneaux de rendez-vous : vous pouvez ouvrir la prise de rendez-vous à tous les patients ou la restreindre uniquement aux vôtres, l’ouvrir sur tout ou partie des créneaux, différencier des types de rendez-vous, insérer des créneaux d’urgence…\n- Aucune cession/transmission des données à un site tiers.\n- Outil financé par des capitaux 100% français.\n- Messagerie privée entre professionnel et patient, possibilité d’envoyer des documents.\n- Pas d’obligation de créer un compte.\n- Possibilité d’effacer l’historique.\n- Pas de conservation des données.",
+        "metadata": {
+            "chunk_id": "b4c04f02b7fc072d",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Nos outils",
+                "DocRendezvous"
+            ],
+            "section_title": "DocRendezvous",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### DocRendezvous\nprise de rendez-vous médicaux en ligne\n- Profil personnalisable reprenant les informations essentielles de votre cabinet ou de votre association de permanence de soins.\n- Référencement web optimisé grâce à votre présence sur ce site.\n- Gestion personnalisée de vos créneaux de rendez-vous : vous pouvez ouvrir la prise de rendez-vous à tous les patients ou la restreindre uniquement aux vôtres, l’ouvrir sur tout ou partie des créneaux, différencier des types de rendez-vous, insére",
+            "token_count": 124,
+            "character_count": 833,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "328ad57c60b8d6a4",
+        "content": "### Agendas, prise de RDV en ligne et rappel, envoi de documents, messagerie patient, téléconsultation, TPE",
+        "metadata": {
+            "chunk_id": "328ad57c60b8d6a4",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Une offre large",
+                "Agendas, prise de RDV en ligne et rappel, envoi de documents, messagerie patient, téléconsultation, TPE"
+            ],
+            "section_title": "Agendas, prise de RDV en ligne et rappel, envoi de documents, messagerie patient, téléconsultation, TPE",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Agendas, prise de RDV en ligne et rappel, envoi de documents, messagerie patient, téléconsultation, TPE",
+            "token_count": 16,
+            "character_count": 107,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ed6442906e2f1b83",
+        "content": "## Le CSRD, c'est...\n**appels traités par mois**\n**rendez-vous pris en ligne**\n**professionnels de santé** **clients**",
+        "metadata": {
+            "chunk_id": "ed6442906e2f1b83",
+            "parent_doc": "Accueil téléphonique | Prise de rendez-vous en ligne | Téléconsultation",
+            "source_url": "https://csrd.fr/professionnels-de-sante",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "adoption téléconsultation et digitalisation prise de rendez-vous santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "trends in teleconsultation integration and digital appointment adoption",
+            "heading_path": [
+                "professionnels de santé",
+                "Le CSRD, c'est..."
+            ],
+            "section_title": "Le CSRD, c'est...",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Le CSRD, c'est...\n**appels traités par mois**\n**rendez-vous pris en ligne**\n**professionnels de santé** **clients**",
+            "token_count": 16,
+            "character_count": 118,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:09:08.795310+00:00",
+            "extra": {}
+        }
+    }
+]

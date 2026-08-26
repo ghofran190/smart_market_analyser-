@@ -1,0 +1,46 @@
+
+
+
+
+================================================================================# Source URL: https://france-biotech.fr/wp-content/uploads/2024/02/RAPPORT_PANORAMA_2023.pdf
+# Document parent: 21 e édition Panorama france healthtech 2023
+# Section: unknown
+# Question: 
+# Query: parts de marché logiciels HealthTech prise de rendez-vous médical France 2023
+# Angle: 
+# Chemin hiérarchique: Scraping Failed
+# Titre section: Scraping Failed
+# Type: list
+# Taille: 304 caractères
+# Tokens: 42
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:30:52.783036+00:00
+................................................................................
+
+# Scraping Failed
+L'URL suivante n'a pas pu être scrapée après 3 tentatives :
+- **Erreur**: Internal Server Error: Failed to scrape. An unexpected error occurred. Please contact help@firecrawl.com for help. Your exception ID is 01a02bd0-0614-732d-8e50-abe5462edb19 - No additional error details provided.
+
+
+
+================================================================================# Source URL: https://france-biotech.fr/wp-content/uploads/2024/02/RAPPORT_PANORAMA_2023.pdf
+# Document parent: 21 e édition Panorama france healthtech 2023
+# Section: unknown
+# Question: 
+# Query: parts de marché logiciels HealthTech prise de rendez-vous médical France 2023
+# Angle: 
+# Chemin hiérarchique: Scraping Failed > Métadonnées
+# Titre section: Métadonnées
+# Type: list
+# Taille: 202 caractères
+# Tokens: 31
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:30:52.783036+00:00
+................................................................................
+
+### Métadonnées
+- Section: Analyse de l'offre et concurrence
+- Question: Qui sont les acteurs majeurs du marché et quelle est leur position ?
+- Angle: analyse quantitative des positions concurrentielles

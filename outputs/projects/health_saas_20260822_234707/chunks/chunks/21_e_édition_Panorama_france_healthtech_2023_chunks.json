@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "484cd46bf0e9781e",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Internal Server Error: Failed to scrape. An unexpected error occurred. Please contact help@firecrawl.com for help. Your exception ID is 01a02bd0-0614-732d-8e50-abe5462edb19 - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "484cd46bf0e9781e",
+            "parent_doc": "21 e édition Panorama france healthtech 2023",
+            "source_url": "https://france-biotech.fr/wp-content/uploads/2024/02/RAPPORT_PANORAMA_2023.pdf",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Internal Server Error: Failed to scrape. An unexpected error occurred. Please contact help@firecrawl.com for help. Your exception ID is 01a02bd0-0614-732d-8e50-abe5462edb19 - No additional error details provided.",
+            "token_count": 42,
+            "character_count": 304,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:52.783036+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "57096ef0936b9cae",
+        "content": "### Métadonnées\n- Section: Analyse de l'offre et concurrence\n- Question: Qui sont les acteurs majeurs du marché et quelle est leur position ?\n- Angle: analyse quantitative des positions concurrentielles",
+        "metadata": {
+            "chunk_id": "57096ef0936b9cae",
+            "parent_doc": "21 e édition Panorama france healthtech 2023",
+            "source_url": "https://france-biotech.fr/wp-content/uploads/2024/02/RAPPORT_PANORAMA_2023.pdf",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse de l'offre et concurrence\n- Question: Qui sont les acteurs majeurs du marché et quelle est leur position ?\n- Angle: analyse quantitative des positions concurrentielles",
+            "token_count": 31,
+            "character_count": 202,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:52.783036+00:00",
+            "extra": {}
+        }
+    }
+]

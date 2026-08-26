@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "ded609550e4ff7fd",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at for increased rate limits or please retry after 12s, resets at Sat Aug 22 2026 12:54:09 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "ded609550e4ff7fd",
+            "parent_doc": "15 meilleurs logiciels de gestion de restaurant en 2026",
+            "source_url": "https://factorial.fr/blog/meilleurs-logiciels-gestion-restaurant",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "impact coûts salariaux et inflation sur adoption logiciels gestion restaurant France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at for increased rate limits or please retry after 12s, resets at Sat Aug 22 2026 12:54:09 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+            "token_count": 61,
+            "character_count": 386,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:53:57.776561+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "02169996020e1954",
+        "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?\n- Angle: labor market and cost pressures",
+        "metadata": {
+            "chunk_id": "02169996020e1954",
+            "parent_doc": "15 meilleurs logiciels de gestion de restaurant en 2026",
+            "source_url": "https://factorial.fr/blog/meilleurs-logiciels-gestion-restaurant",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "impact coûts salariaux et inflation sur adoption logiciels gestion restaurant France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?\n- Angle: labor market and cost pressures",
+            "token_count": 29,
+            "character_count": 201,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:53:57.776561+00:00",
+            "extra": {}
+        }
+    }
+]

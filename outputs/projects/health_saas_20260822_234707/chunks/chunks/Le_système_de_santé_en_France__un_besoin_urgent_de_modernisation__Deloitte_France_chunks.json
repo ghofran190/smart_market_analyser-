@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "59a97be623b615cf",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Payment Required: Failed to scrape. Insufficient credits to perform this request. For more credits, you can upgrade your plan at or try changing the request limit to a lower value. - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "59a97be623b615cf",
+            "parent_doc": "Le système de santé en France : un besoin urgent de modernisation | Deloitte France",
+            "source_url": "https://www.deloitte.com/fr/fr/Industries/life-sciences-health-care/research/systeme-sante-france-besoin-urgent-modernisation.html",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "impact crises sanitaires et politiques publiques sur marché logiciels santé France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Payment Required: Failed to scrape. Insufficient credits to perform this request. For more credits, you can upgrade your plan at or try changing the request limit to a lower value. - No additional error details provided.",
+            "token_count": 52,
+            "character_count": 312,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:40:10.233060+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "45c7a4f3c3a1aaab",
+        "content": "### Métadonnées\n- Question: Quelles menaces externes et risques de marché doivent être anticipés ?\n- Angle: risques macroéconomiques et sectoriels",
+        "metadata": {
+            "chunk_id": "45c7a4f3c3a1aaab",
+            "parent_doc": "Le système de santé en France : un besoin urgent de modernisation | Deloitte France",
+            "source_url": "https://www.deloitte.com/fr/fr/Industries/life-sciences-health-care/research/systeme-sante-france-besoin-urgent-modernisation.html",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "impact crises sanitaires et politiques publiques sur marché logiciels santé France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Question: Quelles menaces externes et risques de marché doivent être anticipés ?\n- Angle: risques macroéconomiques et sectoriels",
+            "token_count": 21,
+            "character_count": 146,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:40:10.233060+00:00",
+            "extra": {}
+        }
+    }
+]

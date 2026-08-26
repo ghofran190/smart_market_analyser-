@@ -1,0 +1,380 @@
+[
+    {
+        "chunk_id": "fb5ee4ebd5725aba_0",
+        "content": "Préférences pour tous les services\nTout accepter Tout refuser\nLes APIs permettent de charger des scripts : géolocalisation, moteurs de recherche, traductions, ...\nEn savoir plus\") \\- Voir le site officiel\")\nServices visant à afficher du contenu web.\nLes gestionnaires de commentaires facilitent le dépôt de vos commentaires et luttent contre le spam.\n- Consentement spécifique aux services Google\nGoogle peut utiliser vos données pour la mesure d'audience, la performance publicitaire ou pour vous proposer des annonces personnalisées.\nLes services de mesure d'audience permettent de générer des statistiques de fréquentation utiles à l'amélioration du site.\nLes régies publicitaires permettent de générer des revenus en commercialisant les espaces publicitaires du site.\nLes réseaux sociaux permettent d'améliorer la convivialité du site et aident à sa promotion via les partages.\nLes services de support vous permettent d'entrer en contact avec l'équipe du site et d'aider à son amélioration.",
+        "metadata": {
+            "chunk_id": "fb5ee4ebd5725aba_0",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Préférences pour tous les services\nTout accepter Tout refuser\nLes APIs permettent de charger des scripts : géolocalisation, moteurs de recherche, traductions, ...\nEn savoir plus\") \\- Voir le site officiel\")\nServices visant à afficher du contenu web.\nLes gestionnaires de commentaires facilitent le dépôt de vos commentaires et luttent contre le spam.\n- Consentement spécifique aux services Google\nGoogle peut utiliser vos données pour la mesure d'audience, la performance publicitaire ou pour vous pr",
+            "token_count": 145,
+            "character_count": 994,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "47b6a0ab380b60e0_1",
+        "content": "Les services de partage de vidéo permettent d'enrichir le site de contenu multimédia et augmentent sa visibilité.",
+        "metadata": {
+            "chunk_id": "47b6a0ab380b60e0_1",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Les services de partage de vidéo permettent d'enrichir le site de contenu multimédia et augmentent sa visibilité.",
+            "token_count": 17,
+            "character_count": 113,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1d0839fdd55ef31d",
+        "content": "# Réglementation en e-santé : L'essentiel à maîtriser\nBien plus qu’un simple passage obligé, maîtriser ces exigences vous permet de protéger les usagers, d’assurer la qualité de vos services, et de garantir l’interopérabilité de vos solutions.\nAdopter une approche proactive face à la réglementation, c’est anticiper les défis, renforcer la confiance des parties prenantes et maximiser l’impact de vos projets.\nParmi les réglementations structurantes du numérique en santé figurent notamment le RGPD, les règlements relatifs aux dispositifs médicaux, ainsi que le AI Act Europe",
+        "metadata": {
+            "chunk_id": "1d0839fdd55ef31d",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser"
+            ],
+            "section_title": "Réglementation en e-santé : L'essentiel à maîtriser",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Réglementation en e-santé : L'essentiel à maîtriser\nBien plus qu’un simple passage obligé, maîtriser ces exigences vous permet de protéger les usagers, d’assurer la qualité de vos services, et de garantir l’interopérabilité de vos solutions.\nAdopter une approche proactive face à la réglementation, c’est anticiper les défis, renforcer la confiance des parties prenantes et maximiser l’impact de vos projets.\nParmi les réglementations structurantes du numérique en santé figurent notamment le RGPD,",
+            "token_count": 84,
+            "character_count": 577,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "801c6c47fa1910c1",
+        "content": "### Fiches pratiques\nAccédez à des fiches pratiques pour saisir l’essentiel de la réglementation en e-santé et identifier les sujets qui impactent vos solutions.",
+        "metadata": {
+            "chunk_id": "801c6c47fa1910c1",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Fiches pratiques"
+            ],
+            "section_title": "Fiches pratiques",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Fiches pratiques\nAccédez à des fiches pratiques pour saisir l’essentiel de la réglementation en e-santé et identifier les sujets qui impactent vos solutions.",
+            "token_count": 24,
+            "character_count": 161,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "644c8c8830240b4e",
+        "content": "### Quelle réglementation appliquer à votre service ?\nRéalisez nos diagnostics pour identifier les réglementations applicables à votre service.",
+        "metadata": {
+            "chunk_id": "644c8c8830240b4e",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Quelle réglementation appliquer à votre service ?"
+            ],
+            "section_title": "Quelle réglementation appliquer à votre service ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Quelle réglementation appliquer à votre service ?\nRéalisez nos diagnostics pour identifier les réglementations applicables à votre service.",
+            "token_count": 19,
+            "character_count": 143,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cf5ff27cfe31b667",
+        "content": "### Le dispositif médical numérique\nNous vous aidons à maîtriser les obligations réglementaires des dispositifs médicaux numériques",
+        "metadata": {
+            "chunk_id": "cf5ff27cfe31b667",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Le dispositif médical numérique"
+            ],
+            "section_title": "Le dispositif médical numérique",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Le dispositif médical numérique\nNous vous aidons à maîtriser les obligations réglementaires des dispositifs médicaux numériques",
+            "token_count": 17,
+            "character_count": 131,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "abf471a284191cdf",
+        "content": "### Innover dans le social et le médico-social\nAnticipez la réglementation pour le secteur médico-social et social.\n**Panorama de la réglementation du numérique en santé**\nPour rappel, selon la CNIL et sont classés selon leur fonctionnalité :",
+        "metadata": {
+            "chunk_id": "abf471a284191cdf",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Innover dans le social et le médico-social"
+            ],
+            "section_title": "Innover dans le social et le médico-social",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Innover dans le social et le médico-social\nAnticipez la réglementation pour le secteur médico-social et social.\n**Panorama de la réglementation du numérique en santé**\nPour rappel, selon la CNIL et sont classés selon leur fonctionnalité :",
+            "token_count": 37,
+            "character_count": 242,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1e9aa1ccf5f28263",
+        "content": "### Le domaine de la sécurité\nOn y retrouve la réglementation liée aux services de connexion sécurisée ( ApCV (Application carte vitale), la réglementation et les services nationaux concernant les répertoires, annuaires et référentiels du domaine médical (ROR, RPPS+,FINESS+), la réglementation concernant l’hébergement des données de santé (HDS), la réglementation concernant l’Identité Nationale de Santé (INS), la réglementation applicable aux dispositifs médicaux…",
+        "metadata": {
+            "chunk_id": "1e9aa1ccf5f28263",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Le domaine de la sécurité"
+            ],
+            "section_title": "Le domaine de la sécurité",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Le domaine de la sécurité\nOn y retrouve la réglementation liée aux services de connexion sécurisée ( ApCV (Application carte vitale), la réglementation et les services nationaux concernant les répertoires, annuaires et référentiels du domaine médical (ROR, RPPS+,FINESS+), la réglementation concernant l’hébergement des données de santé (HDS), la réglementation concernant l’Identité Nationale de Santé (INS), la réglementation applicable aux dispositifs médicaux…",
+            "token_count": 62,
+            "character_count": 468,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d971d1831383f59b",
+        "content": "### Le domaine de l’interopérabilité\nLe domaine de l’interopérabilité se compose du cadre d’interopérabilité des systèmes d’information de sante CI-SIS qui fixe les règles d’une informatique de santé communicante, présente le centre de gestion des terminologies de santé (CGTS) qui distribue gratuitement les ressources sémantiques du secteurs santé-social et enfin le Serveur Multi-Terminologies (SMT) qui est l’outil pour la diffusion et la gestion des terminologies de santé.",
+        "metadata": {
+            "chunk_id": "d971d1831383f59b",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Le domaine de l’interopérabilité"
+            ],
+            "section_title": "Le domaine de l’interopérabilité",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Le domaine de l’interopérabilité\nLe domaine de l’interopérabilité se compose du cadre d’interopérabilité des systèmes d’information de sante CI-SIS qui fixe les règles d’une informatique de santé communicante, présente le centre de gestion des terminologies de santé (CGTS) qui distribue gratuitement les ressources sémantiques du secteurs santé-social et enfin le Serveur Multi-Terminologies (SMT) qui est l’outil pour la diffusion et la gestion des terminologies de santé.",
+            "token_count": 67,
+            "character_count": 478,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "89d05880a21fd594",
+        "content": "### Le domaine des services socles\nRegroupe l’ensemble des services de base comme le dossier médical partagé (DMP) qui est en fait le carnet numérique de santé, la e-Prescription qui consiste à dématérialiser le circuit de l’ordonnance et enfin la messagerie sécurisée de santé professionnels et citoyens (MSSanté).",
+        "metadata": {
+            "chunk_id": "89d05880a21fd594",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Le domaine des services socles"
+            ],
+            "section_title": "Le domaine des services socles",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Le domaine des services socles\nRegroupe l’ensemble des services de base comme le dossier médical partagé (DMP) qui est en fait le carnet numérique de santé, la e-Prescription qui consiste à dématérialiser le circuit de l’ordonnance et enfin la messagerie sécurisée de santé professionnels et citoyens (MSSanté).",
+            "token_count": 48,
+            "character_count": 315,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5523cdaf343ca207_10",
+        "content": "### Le domaine des plateformes numérique\nUn bouquet de service permet aux professionnels de santé d’accéder en un seul point à plusieurs services, le Heath Data Hub qui facilite l’accès aux données de santé pour des projets d’intérêt général innovants sous hautes conditions de sécurité et dans le respect des droits des citoyens, Mon Espace Santé (MES) qui est un espace personnel où les usagers gèrent leurs données de santé.\n**Comment G\\_NIUS peut m’aider à mieux comprendre les sujets de réglementation ?**\nLe **cadre réglementaire** varie en fonction de la nature et de la finalité de votre projet d’innovation (dispositif médical, application numérique, service de soins…), des technologies utilisées pour le traitement et/ou le stockage de données personnelles et ses utilisateurs finaux (professionnels de santé, établissements de soins, grand public…) etc..",
+        "metadata": {
+            "chunk_id": "5523cdaf343ca207_10",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Le domaine des plateformes numérique"
+            ],
+            "section_title": "Le domaine des plateformes numérique",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Le domaine des plateformes numérique\nUn bouquet de service permet aux professionnels de santé d’accéder en un seul point à plusieurs services, le Heath Data Hub qui facilite l’accès aux données de santé pour des projets d’intérêt général innovants sous hautes conditions de sécurité et dans le respect des droits des citoyens, Mon Espace Santé (MES) qui est un espace personnel où les usagers gèrent leurs données de santé.\n**Comment G\\_NIUS peut m’aider à mieux comprendre les sujets de réglemen",
+            "token_count": 131,
+            "character_count": 866,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e173dc0a4a1f8ed1_11",
+        "content": "Le Guichet National de l’Innovation du Numérique en Santé (G\\_NIUS), issu de la feuille de route du numérique en santé de la la Délégation ministérielle au Numérique en Santé (DNS) et opéré par l’Agence du Numérique en Santé (ANS), est un portail de services et contenus afin d’accélérer le virage numérique par le développement de services numériques urbanisés , communicants, interopérables. Notre plateforme vous aide à connaitre et comprendre le cadre légal à respecter pour votre projet numérique, en vous proposant une boite à outils composée d’un diagnostic personnalisé et de fiches pédagogiques, le tout dans le but d’accélérer la mise sur le marché de votre outil numérique en esanté.\nG\\_NIUS accompagne les porteurs de projets en santé numérique dans la compréhension du cadre réglementaire, l’identification des financements et la mise en relation avec l’écosystème, pour accélérer l’innovation en France.",
+        "metadata": {
+            "chunk_id": "e173dc0a4a1f8ed1_11",
+            "parent_doc": "Réglementation Projet de Santé Numérique | G_NIUS",
+            "source_url": "https://gnius.esante.gouv.fr/fr/reglementation",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "impact réglementation RGPD et politiques santé numérique adoption solutions SaaS santé France",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "réglementations et politiques publiques influençant l’adoption",
+            "heading_path": [
+                "Réglementation en e-santé : L'essentiel à maîtriser",
+                "Des services sur-mesure",
+                "Le domaine des plateformes numérique"
+            ],
+            "section_title": "Le domaine des plateformes numérique",
+            "heading_level": 3,
+            "chunk_type": "paragraph",
+            "content": "Le Guichet National de l’Innovation du Numérique en Santé (G\\_NIUS), issu de la feuille de route du numérique en santé de la la Délégation ministérielle au Numérique en Santé (DNS) et opéré par l’Agence du Numérique en Santé (ANS), est un portail de services et contenus afin d’accélérer le virage numérique par le développement de services numériques urbanisés , communicants, interopérables. Notre plateforme vous aide à connaitre et comprendre le cadre légal à respecter pour votre projet numériqu",
+            "token_count": 140,
+            "character_count": 917,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:11:48.520745+00:00",
+            "extra": {}
+        }
+    }
+]

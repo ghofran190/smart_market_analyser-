@@ -1,0 +1,47 @@
+# 9 euros pour accéder plus vite à une téléconsultation : la Cnam condamne, Qare assume
+Désormais prédominantes sur le marché de la téléconsultation, certaines plateformes privées proposent aux patients des « options » payantes et non remboursées pour obtenir un rendez-vous plus rapide. Une pratique condamnée par l’Assurance maladie mais assumée par Qare, société leader de la téléconsultation en France, qui affirme à Medscape édition française qu’il en va de sa survie économique.
+## Le Far West de la téléconsultation
+L’Assurance maladie en a-t-elle vraiment fini avec le Far West de la téléconsultation ? Lors du lancement des assises de la télémédecine, le 27 juin dernier, la Cnam et le ministère de la Santé ont annoncé leur intention de poursuivre l’encadrement de la téléconsultation, secteur dont les sociétés privées sont en passe de devenir un acteur majoritaire. Les plateformes représentaient 47 % des téléconsultations réalisées début 2025 contre 20 % en 2022 (et 1 % en 2020), selon les statistiques de la Cnam. La téléconsultation est devenue l’apanage de sociétés privées qui fait craindre « une médecine standardisée et impersonnelle, éloignée du parcours de soins », rappelait **Marie Daudé,** directrice générale de l'offre de soins (DGOS) au ministère de la Santé lors du lancement des assises.
+## Un agrément et des désagréments
+Le ministère de la Santé a bien mis en place un agrément de révélations du _Canard Enchaîné_, le 2 juillet dernier, faisant état de la mise en place par la société Qare d’un « coupe-file » permettant aux patients d’avoir accès plus rapidement aux consultations à distance. Sur son site Internet, Médecin Direct, autre plateforme agréée, propose également une majoration de 8 euros pour une téléconsultation réalisée le jour-même (15 euros si le RDV a lieu la nuit, les samedis après-midi, dimanches et jours fériés).
+Le ministère de la Santé va prochainement rappeler aux sociétés de téléconsultation l’interdiction de facturer des frais annexes
+## Des frais annexes théoriquement interdits
+Nous ne considérons pas que cette option entraîne un système à double vitesse
+Sylvie Nhansana, CEO de Qare
+Jointe par Medscape édition française, la plateforme Qare, leader sur le marché de la téléconsultation, qui revendique « 10 000 patients par jour et un peu moins de trois millions de patients différents par an », assume la création de ces frais complémentaires proposés au titre d’une option. D’un montant de 9 euros, non pris en charge par l’Assurance maladie, cette option est le plus souvent souscrite par des actifs contraints de prendre un rendez-vous en dehors de leurs horaires de travail. Il leur permet de décrocher une téléconsultation en moins de six heures, délai déjà le plus souvent respecté sans l’option... La société n’a pas voulu communiquer la part de téléconsultations réalisées avec ce « plus ».
+La société Qare empoche 20% du montant des téléconsultations réalisées par ses médecins salariés.
+## Un secteur difficilement viable
+« Nous ne considérons pas que cette option entraîne un système à double vitesse, se défend **Sylvie Nhansana,** CEO de Qare. Son montant n’est pas excessif et les patients disposant de la complémentaire santé solidaire (CSS) ou de l’aide médicale d’état (AME), ne se la voient pas proposer. »
+Le secteur de la téléconsultation ne serait pas aussi lucratif que certains voudraient le croire. Le tarif d’une téléconsultation réalisée par un médecin généraliste demeure fixé à 25 euros (contre 30 euros depuis fin décembre 2024 pour une consultation au cabinet) et les majorations applicables les soirs et week-ends, dont certaines pouvaient atteindre 35 ou 40 euros, ont été ramenées à 5 euros en janvier 2025. La société empoche 20% du montant des téléconsultations réalisées par ses médecins salariés (Qare revendique travailler avec 2500 médecins, dont 80% sont salariés). « Aujourd’hui, Qare n’est pas profitable et tout l’argent qu’on pourrait gagner en termes de chiffre d’affaires est réinvesti dans l’innovation, affirme la CEO Sylvie Nhansana. Il faut que nous arrivions à trouver un modèle économique viable. Nous avons un service support pour les professionnels de santé d’à peu près 50 personnes et d’importants coûts aussi pour garantir le niveau de sécurité. On essaie juste de survivre. » Selon la plateforme en ligne Pappers.
+Les téléconsultations ont jusqu’à présent eu un impact faible sur l’accès aux soins dans les zones d’intervention prioritaire \[…\], mais elles peuvent contribuer à désengorger les services d’urgence et à réaliser des économies significatives
+Indépendamment de cette polémique, les plateformes sont aussi régulièrement mises à l’index au motif qu’elles éloigneraient les patients du parcours de soins. La **Dre Julie Salomon,** directrice médicale de Qare, est persuadée du contraire. « Nous ne détournons pas les patients du parcours de soins. Des personnes qui n’ont pas de médecin traitant ou vivent dans des déserts médicaux vont revenir dans le parcours de soins grâce à la téléconsultation. »
+La Cour des Comptes affirmait, dans un rapport spécifique, publié en avril 2025, que « les téléconsultations ont jusqu’à présent eu un impact faible sur l’accès aux soins dans les zones d’intervention prioritaire », mais « qu’elles peuvent contribuer à désengorger les services d’urgence et à réaliser des économies significatives », évaluées à 113 millions d’euros par an.
+La durée de consultation moyenne sur Qare est de 12 minutes chez les médecins généralistes et de 27 ou 28 minutes chez les psychiatres
+Julie Salomon, directrice médicale de Qare
+## Pas de pression ni de chèques cadeaux
+La plateforme Qare réfute par ailleurs exiger des médecins (à 80% des généralistes) qu’ils accélèrent la cadence, comme l’affirmait le _Canard Enchaîné_. « En période de forte épidémie, de décembre 2024 à février 2025, à un moment où il y avait une forte demande et où nous avions besoin de plus de médecins, nous leur avons demandé de poser plus d’heures pour venir en aide aux patients. C’est tout ce que nous avons fait », certifie Sylvie Nhansana. De même, la CEO garantit que Qare n’offre pas de chèque cadeau aux médecins les plus performants, comme indiqué dans l’article du _Canard_, ni ne pressure les praticiens pour qu’ils soient plus expéditifs. « La durée de consultation moyenne sur Qare est de 12 minutes chez les médecins généralistes et de 27 ou 28 minutes chez les psychiatres. Le chiffre cité dans l’article (un peu moins de 6 minutes, NDLR) est totalement faux », assure Julie Salomon. La durée d’une consultation dépend bien sûr des motifs. « Les médecins sont indépendants et autonomes et nous n’avons pas de droit de regard sur la durée de consultation ni sur leurs prescriptions », précise la directrice médicale de Qare.
+Malgré la polémique estivale, et la condamnation de l’Assurance maladie, le service optionnel pour une téléconsultation en moins de 6 heures est toujours proposé par Qare. Les Assises de la télémédecine permettront peut-être de savoir qui fait la loi.
+## Des Assises censées réguler le secteur
+Les Assises de la télémédecine lancées fin juin par l’Assurance maladie et le ministère de la Santé (DGOS) doivent permettre de fixer d’ici à 2026 une feuille de route pour la télémédecine. Après l’entrée en vigueur de l’agrément ministériel, l’objectif affiché par les autorités est de réguler le secteur, « de limiter les dérives possibles et de s’assurer que cette offre réponde aux exigences en matière de qualité des soins », observe la Cnam. Depuis le 1er janvier 2024, la prescription d’un arrêt de travail en téléconsultation est limitée à trois jours (sauf s’il est prescrit par le médecin traitant). Les Assises de la télémédecine doivent par ailleurs permettre d’aller plus loin sur l’articulation de la téléconsultation avec les parcours de soins dans les territoires, l’accompagnement des personnes vulnérables, les prescriptions réalisées en téléconsultation, etc. Sur la question de la pertinence des actes réalisés en téléconsultation, l’Assurance Maladie a saisi la HAS pour qu’elle se prononce sur la pertinence de la prescription des antibiotiques en téléconsultation.
+_Inscrivez-vous aux_ _newsletters_ _de Medscape :_ _sélectionnez vos choix_
+Crédit photo de Une: © Piotr Adamowicz/Dreamstime
+Medscape Medical News © 2025 WebMD, LLC
+Citer cet article: Gattuso C. 9 euros pour accéder plus vite à une téléconsultation : la Cnam condamne, Qare assume \- Medscape \- 19 novembre 2025.
+### Commenter (1)
+Les commentaires sont limités aux professionnels de la santé. Veuillez vous connecter du forum.
+### TOP PICKS FOR YOU
+- ![Télémédecine : les autorités veulent fixer un cadre clair \\
+Télémédecine : les autorités veulent fixer un cadre clair]()
+- ![Attention aux arrêts de travail prescrits en téléconsultation !\\
+Attention aux arrêts de travail prescrits en téléconsultation !]()
+- ![Les sociétés de téléconsultation désormais sous contrôle\\
+Les sociétés de téléconsultation désormais sous contrôle]()
+### Lectures suggérées
+- Timides coups de pouce en faveur de la télémédecine\\
+- Réforme des astreintes médicales : pourquoi ça coince\\
+- Doctolib se lance dans la téléexpertise gratuite pour ses adhérents\\
+- Le nouveau réseau France santé déplait aux professionnels de santé\\
+- Serena Williams promeut les médicaments à base de GLP-1 pour maigrir et crée la polémique\\
+- Informations professionnelles
+!AI search LogoMedscape AI
+- !Medscape Logo ÉDITIONS

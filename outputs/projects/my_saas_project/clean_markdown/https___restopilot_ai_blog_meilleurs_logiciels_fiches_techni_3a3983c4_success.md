@@ -1,0 +1,105 @@
+!Une restauratrice qui calcule ses marges et son food cost
+_Dernière mise à jour : juin 2026._
+Vos fiches techniques sont le socle de votre rentabilité. Sans elles à jour, vous pilotez à l’aveugle : un food cost qui dérive, une marge brute qui fond, des décisions de carte prises au ressenti plutôt qu’aux chiffres. Ce comparatif recense les solutions de logiciels de fiches techniques de cuisine disponibles sur le marché français en 2026, des tableaux Excel aux SaaS spécialisés dans le pilotage du food cost et l’optimisation de la marge, pour vous aider à choisir l’outil qui correspond vraiment à votre situation.
+> **En 60 secondes.** Un bon logiciel de fiches techniques de cuisine doit recalculer en temps réel votre marge brute quand un prix fournisseur change, gérer les sous-recettes en cascade, et brancher votre mercuriale à vos plats. Sept solutions structurent le marché français en 2026 : Restopilot (gratuit en bêta), Koust, Melba, Inpulse, Yokitup, Ratatool et Adoria. Le bon choix dépend de votre taille, de votre canal (sur place, livraison, restauration collective) et du temps que vous êtes prêt à investir dans la prise en main.
+## Ce qu’une fiche technique doit vraiment faire pour vous
+Avant de comparer les logiciels, posons les bases. Une fiche technique de cuisine professionnelle n’est pas une recette améliorée. C’est un document de gestion qui calcule votre coût de revient par plat, intègre les rendements matière (pertes à l’épluchage, à la cuisson, à la découpe), et vous donne votre marge brute réelle sur chaque ligne de carte.
+En restauration traditionnelle, le food cost cible se situe entre 28 et 32 % du chiffre d’affaires. En restauration rapide, entre 30 et 35 %. Dès que ce ratio dépasse ces seuils, c’est souvent une fiche technique obsolète qui en est responsable : un prix d’achat fournisseur qui a augmenté sans que la fiche ne soit mise à jour, un grammage qui n’a jamais été pesé depuis l’ouverture, une sous-recette dont le coût réel est inconnu. Pour comprendre comment ces ratios se traduisent plat par plat, voir notre dossier sur le coefficient multiplicateur en restauration, quelle est sa marge réelle, et que se passe-t-il sur ma carte entière si ce fournisseur augmente ses prix de 10 % demain ? Le contrôle du coût matière au quotidien et l’analyse de la rentabilité d’un restaurant en un coup d’œil sont les deux promesses minimales qu’un outil sérieux doit tenir.
+## Excel et Google Sheets : l’option zéro euro qui coûte cher
+Soyons directs : Excel et Google Sheets restent les outils les plus utilisés par les restaurateurs français pour gérer leurs fiches techniques. Et au démarrage, ça se comprend. C’est gratuit, tout le monde sait (plus ou moins) s’en servir, et on peut construire un tableau qui calcule un coût de revient basique en quelques heures.
+Le vrai problème commence quand votre carte compte 30 plats, que vous avez des sous-recettes imbriquées (sauce maison, fond de veau, pâte brisée), et que votre grossiste vous envoie un nouveau tarif. Vous devez alors ouvrir chaque fiche manuellement, retrouver la cellule correspondant à l’ingrédient concerné, la modifier, vérifier que les formules n’ont pas sauté, répercuter les changements sur les plats qui utilisent cette sous-recette… Le tout sans jamais être sûr d’avoir tout mis à jour.
+Google Sheets ajoute la collaboration en temps réel, ce qui est utile quand le chef et le gérant travaillent ensemble sur les recettes. Mais les mêmes limitations structurelles demeurent : zéro automatisation sur les mises à jour de prix, aucune connexion possible avec votre mercuriale fournisseur, aucun tableau de bord de rentabilité global.
+En pratique, les restaurateurs qui gèrent leurs fiches sous Excel passent entre 3 et 5 heures par mois à des tâches de mise à jour manuelle qui ne devraient pas exister. Ce n’est pas une question de compétence, c’est simplement que l’outil n’a pas été conçu pour ça.
+**Verdict :** Acceptable pour tester le concept sur 5 à 10 recettes simples. Insuffisant dès que vous pilotez sérieusement votre rentabilité.
+## 1\. Restopilot : Le pilotage de marge en temps réel (gratuit durant la bêta)
+Restopilot est la solution qui a été conçue autour d’un principe simple : une fiche technique qui ne se met pas à jour automatiquement quand vos prix d’achat changent n’est pas une fiche technique, c’est un document d’archive.
+Dès qu’un prix fournisseur est modifié dans la mercuriale, toutes les marges de la carte sont recalculées instantanément. Si votre beurre passe de 4 € à 8 € le kilo (ce qui s’est produit lors des hausses récentes), Restopilot vous affiche immédiatement quels plats sont devenus sous-rentables, de combien votre food cost a progressé sur l’ensemble de la carte, et quel ajustement de prix de vente permettrait de revenir à votre marge cible. Pas besoin d’ouvrir 30 fichiers Excel : la réponse est là, en quelques secondes.
+La gestion des sous-recettes est native et illimitée. Une sauce maison utilisée dans huit plats est créée une seule fois et mise à jour une seule fois. Restopilot la répercute automatiquement sur toutes les fiches qui en dépendent. C’est précisément là que les solutions concurrentes, y compris des outils pourtant reconnus sur le marché, montrent leurs limites : soit elles ne gèrent pas les sous-recettes multi-niveaux, soit elles les gèrent mais sans propagation automatique des coûts.
+Pour découvrir le détail des fonctionnalités, voir la page produit dédiée à notre logiciel de fiches techniques de cuisine sont disponibles.
+**Tarif :** 100 % gratuit durant toute la phase de lancement (bêta).
+### Chiffrez votre plat le plus vendu, dès aujourd’hui.
+Montez votre première fiche technique et découvrez sa marge réelle, pertes incluses. Gratuit pendant la bêta.
+**👉** **Calculer ma marge**
+## 2\. Koust : Solide sur les stocks, plus lourd sur les fiches
+Koust est l’une des références les plus connues du marché CHR français. L’outil couvre un périmètre large : gestion des stocks, approvisionnement, fiches techniques, analyse des ventes, contrôle de gestion. Pour un restaurateur qui veut tout centraliser dans un seul outil, c’est une promesse séduisante.
+Sur les fiches techniques, Koust fait le travail. Les coûts de revient sont calculés, les prix fournisseurs peuvent être mis à jour, les allergènes sont gérés. Pour des établissements qui cherchent avant tout à digitaliser leur gestion de stock avec les fiches techniques comme composante secondaire, Koust est une option cohérente.
+La limite apparaît quand on cherche à faire des fiches techniques le vrai centre de pilotage de la rentabilité. La profondeur de gestion des sous-recettes, la propagation automatique des hausses de prix sur l’ensemble de la carte et la visualisation de l’impact marge en temps réel sont des points où la solution reste moins immédiate que des outils entièrement dédiés à cet usage. Pour un restaurateur indépendant qui veut répondre en 30 secondes à la question «que se passe-t-il sur ma marge si mon grossiste augmente le bœuf de 15 %», Koust demande plus de manipulations que nécessaire.
+**Points forts :** Gestion des stocks complète, large adoption en France, module HACCP disponible.
+**À savoir :** Tarif sur demande, donc potentiellement élevé selon la configuration. Fiches techniques plus orientées stock que pilotage de marge dynamique.
+**Pour qui :** Établissements qui priorisent la gestion des approvisionnements et des stocks sur le pilotage de marge en temps réel.
+## 3\. Melba : L’ERP complet, au prix de la complexité
+Melba se positionne comme un ERP tout-en-un pour la cuisine : fiches techniques, stocks, production, inventaires, traçabilité. La couverture fonctionnelle est large et la solution a bâti une réputation solide, notamment sur le sujet de la traçabilité des produits et de la gestion multi-sites.
+Pour les groupes de restaurants ou les dark kitchens qui ont besoin de standardiser leurs processus sur plusieurs points de vente, Melba apporte une vraie cohérence. L’export des données est propre, les intégrations avec des caisses comme Zelty ou Tiller fonctionnent bien.
+La formule Simple commence à 49 € HT/mois, la formule Premium à 99 € HT/mois, ce qui représente un investissement significatif pour un indépendant. Au-delà du prix, la richesse fonctionnelle de Melba a une contrepartie : une courbe de prise en main plus longue. Un restaurateur seul, sans temps à consacrer à la configuration initiale, risque de se retrouver avec un outil puissant mais sous-exploité.
+**Points forts :** Couverture fonctionnelle très complète, excellent sur le multi-sites, traçabilité fine.
+**À savoir :** Tarif plus élevé, complexité de prise en main, davantage dimensionné pour des structures avec un responsable back-office dédié.
+**Pour qui :** Groupes de restaurants, dark kitchens, structures multi-sites avec ressources dédiées à la gestion.
+## 4\. Inpulse : L’IA pour les chaînes et franchises
+Inpulse a construit son positionnement sur l’intelligence artificielle appliquée à la prévision des matières premières et à la réduction des pertes. Le moteur de prévision analyse l’historique de ventes pour anticiper les besoins matière, ce qui peut effectivement réduire les sur-stocks et les ruptures.
+Pour les chaînes et franchises avec un fort volume transactionnel, la promesse est réelle : les algorithmes prédictifs fonctionnent d’autant mieux que la base de données est alimentée par beaucoup de transactions. Un réseau de vingt restaurants génère suffisamment de données pour que les prévisions d’Inpulse soient fiables et actionnables. C’est typiquement le profil de structure qui cherche un logiciel de prévision des matières premières pour les restaurants à fort volume.
+Pour un restaurant indépendant avec des variations saisonnières peu prévisibles et une carte qui change régulièrement, les modèles prédictifs gagnent moins en précision. Le tarif, disponible uniquement sur demande, constitue un frein supplémentaire pour les indépendants qui veulent évaluer rapidement si l’investissement est justifié.
+**Points forts :** IA prédictive sur les achats, excellent pour les réseaux et franchises, réduction des pertes prouvée.
+**À savoir :** Tarif opaque sur demande, valeur ajoutée de l’IA surtout pertinente pour les structures multi-sites avec fort volume de données.
+**Pour qui :** Chaînes, franchises, dark kitchens à fort volume.
+## 5\. Yokitup : Le généraliste accessible
+Yokitup propose une offre freemium avec une version gratuite qui inclut la gestion des fiches techniques, des allergènes et l’analyse des coûts de revient. C’est une entrée en matière intéressante pour un restaurateur qui débute et veut tester une approche digitale sans engagement financier, autrement dit un logiciel de fiches techniques de cuisine gratuit en première intention.
+La version payante, à 159 € HT/mois, intègre la gestion des pertes, les commandes fournisseurs et les inventaires. Le saut tarifaire entre la version gratuite et l’offre payante est significatif, et la valeur ajoutée doit être clairement identifiée avant de franchir le pas. Yokitup est également reconnu pour ses intégrations avec les plateformes de livraison (Uber Eats, Deliveroo), ce qui en fait un outil cohérent pour les établissements avec un fort canal de commandes en ligne.
+Sur le pur pilotage des fiches techniques et de la marge, Yokitup reste généraliste. La mise à jour automatique des coûts en cas de hausse fournisseur et la visualisation de l’impact sur la rentabilité globale de la carte ne font pas partie des points forts revendiqués par la solution.
+**Points forts :** Version gratuite disponible, intégrations livraison, HACCP intégré.
+**À savoir :** Offre payante à 159 €/mois positionnée plus haut que des solutions aux fonctionnalités similaires ou supérieures sur la partie marge.
+**Pour qui :** Restaurateurs débutants voulant tester le digital, établissements avec fort canal delivery.
+## 6\. Ratatool : Le spécialiste recettes, sans connexion au pilotage
+Ratatool est une solution française dédiée à la gestion des fiches techniques et des coûts matières. La prise en main est rapide, l’interface est claire, et les fonctionnalités de base (calcul du coût de revient, génération de bons de commande, étiquettes nutritionnelles) sont bien exécutées. La formule d’entrée à 29 € HT/mois en fait l’une des options les plus accessibles du marché parmi les logiciels de gestion des recettes pour la restauration.
+C’est un outil correct pour digitaliser ses recettes et sortir d’Excel. Ratatool fait ce qu’il promet sur le calcul des coûts et la standardisation des préparations.
+Ce qui manque, c’est la dimension pilotage dynamique. Ratatool n’est pas connecté à une mécanique de mercuriale en temps réel qui recalcule automatiquement l’ensemble de vos marges dès qu’un prix d’achat évolue. C’est exactement le type de situation (une hausse des huiles de 400 % ou du beurre de 100 % comme celles vécues ces dernières années) qui révèle la différence entre un logiciel de fiches techniques statiques et un vrai outil de pilotage de la rentabilité. Voici notre comparatif des meilleures alternatives à Ratatool pour les restaurateurs français en 2026.
+**Points forts :** Simple à prendre en main, tarif compétitif, étiquettes nutritionnelles, données hébergées en France.
+**À savoir :** Pas de recalcul automatique des marges sur la carte entière lors des hausses fournisseurs.
+**Pour qui :** Restaurateurs qui veulent digitaliser leurs recettes sans nécessité de pilotage financier avancé.
+## 7\. Adoria : La puissance pour la restauration collective
+**Points forts :** Référence incontestée en restauration collective, gestion multi-sites industrialisée, modules achat très complets.
+**À savoir :** Pas adapté aux indépendants ni aux petites chaînes, ticket d’entrée et complexité élevés.
+**Pour qui :** Cuisines centrales, groupes de restauration collective, grandes chaînes avec infrastructure IT dédiée.
+## Méthodologie de comparaison
+Les sources consultées pour chaque éditeur : site officiel, documentation produit publique, tarification affichée quand elle existe, retours d’utilisateurs disponibles sur les annuaires logiciels français. Aucun éditeur n’a sponsorisé ce comparatif. Restopilot est l’outil édité par l’auteur de cet article, ce qui est rappelé explicitement plutôt que dissimulé.
+## Comment choisir le bon logiciel de fiches techniques pour votre restaurant
+La question n’est pas «quel logiciel a le plus de fonctionnalités», c’est «quel outil me permet de savoir, à tout instant, si mes plats sont rentables et ce que chaque hausse fournisseur change à ma marge».
+Si vous êtes un restaurateur indépendant ou gérez quelques établissements, la priorité est la réactivité sur les prix d’achat. Les matières premières ont connu des hausses sans précédent ces dernières années : huiles alimentaires jusqu’à +400 %, beurre +100 %. Dans ce contexte, une fiche technique mise à jour une fois par an n’a plus aucune valeur de pilotage. Il vous faut un outil qui recalcule vos marges en temps réel, dès que la mercuriale change.
+Le second critère est le rapport entre la profondeur fonctionnelle et le temps que vous êtes prêt à consacrer à la prise en main. Un ERP complet comme Melba ou Adoria est puissant, mais nécessite une configuration initiale longue. Restopilot a été conçu pour être opérationnel rapidement, avec des fiches techniques qui s’interconnectent et une mercuriale qui se met à jour sans manipulation manuelle.
+Enfin, vérifiez la connexion à votre caisse. Un logiciel de fiches techniques qui ne parle pas à votre POS vous obligera à des doubles saisies et à des réconciliations manuelles qui font perdre l’avantage du digital. Pour aller plus loin sur le calcul de la marge réelle par plat, consultez aussi notre page dédiée au calcul de marge en restauration
+## Tableau récapitulatif des solutions
+| Solution | Cible principale | Fiches techniques dynamiques | Tarif indicatif |
+| --- | --- | --- | --- |
+| **Restopilot** | Indépendants, petits multi-sites | Oui, recalcul automatique en temps réel | **100 % gratuit** (bêta) |
+| **Koust** | Tous profils, orientation stocks | Oui, orienté stocks | Sur demande |
+| **Melba** | Multi-sites, groupes, dark kitchens | Oui, ERP complet | 49 à 99 € HT/mois |
+| **Inpulse** | Chaînes, franchises à fort volume | Oui, IA prédictive | Sur demande |
+| **Yokitup** | Indépendants, fort canal livraison | Partiel | Gratuit ou 159 € HT/mois |
+| **Ratatool** | Indépendants, recettes statiques | Statique | 29 à 49 € HT/mois |
+| **Adoria** | Restauration collective, cuisines centrales | Oui, industrialisé | Sur devis |
+| **Excel ou Google Sheets** | Tous (au démarrage) | Non, mise à jour manuelle | Gratuit |
+## Foire aux questions sur les logiciels de fiches techniques de cuisine
+### Quel logiciel de fiches techniques de cuisine choisir gratuitement ?
+### Quel logiciel pour le pilotage du food cost en mode SaaS ?
+Tous les outils comparés ici sont disponibles en mode SaaS, accessibles depuis un navigateur sans installation. Pour un pilotage du food cost qui ne se contente pas du calcul mais qui recalcule en temps réel l’impact d’une hausse fournisseur sur l’ensemble de la carte, Restopilot est aujourd’hui la seule solution française à proposer cette mécanique en bêta gratuite. Koust et Melba couvrent ce besoin avec un périmètre plus large (stocks, traçabilité) mais à un tarif plus élevé.
+### Quel logiciel pour la prévision des matières premières dans les restaurants ?
+Inpulse est la référence sur la prévision des matières premières grâce à son moteur d’intelligence artificielle prédictive. La valeur ajoutée est cependant maximale pour les chaînes et franchises avec un fort volume de données. Pour un restaurant indépendant aux variations saisonnières moins prévisibles, la prévision IA gagne moins en précision : un outil de pilotage de marge en temps réel comme Restopilot apporte un meilleur retour sur investissement immédiat.
+### Quel logiciel pour la gestion des recettes en restauration ?
+Tous les outils comparés gèrent les recettes, mais avec des philosophies différentes. Ratatool est le plus accessible pour digitaliser ses recettes en sortant d’Excel (29 € HT/mois). Restopilot va plus loin en connectant les recettes à la mercuriale et en proposant la gestion des sous-recettes en cascade. Melba et Koust intègrent la gestion des recettes dans un ERP plus large incluant stocks et traçabilité. Le choix dépend du périmètre fonctionnel que vous voulez couvrir.
+### Quel logiciel pour analyser la rentabilité d’un restaurant ?
+### Comment optimiser sa marge avec un logiciel de fiches techniques ?
+L’optimisation de la marge passe par trois leviers que tout logiciel sérieux doit activer. Un, mettre à jour automatiquement le coût de revient à chaque variation fournisseur. Deux, identifier les plats qui basculent en zone orange ou rouge dès que ce coût bouge. Trois, simuler l’effet d’un ajustement de prix de vente ou de grammage avant de le passer en cuisine. Les outils statiques (Excel, Ratatool dans sa version d’entrée) couvrent uniquement le premier levier. Les outils dynamiques (Restopilot, Melba, Koust) couvrent les trois.
+### Quel logiciel pour une cuisine centrale ou la restauration collective ?
+Adoria est la référence française incontestée pour le pilotage d’une cuisine centrale ou la gestion de la restauration collective à grande échelle. Pour des structures plus petites (groupes de 5 à 20 restaurants), Melba apporte une bonne alternative avec une mise en œuvre plus rapide. Koust peut convenir pour des petites chaînes avec une orientation stocks-fournisseurs forte.
+## Ce qu’il faut retenir sur ce comparatif
+Son tarif 100 % gratuit durant toute la phase de lancement en fait un outil qui vous permet de tester un logiciel complet de gestion de fiches techniques de cuisine en toute tranquillité.
+Les solutions alternatives (Koust, Melba, Inpulse) couvrent des besoins complémentaires mais s’adressent à des structures différentes ou à des tarifications significativement plus élevées. Excel et Google Sheets restent inadaptés à un pilotage sérieux de la rentabilité dès lors que la carte dépasse quelques recettes simples.
+## Sources et références
+- Restopilot · Logiciel de fiches techniques et pilotage de marge en bêta gratuite
+- Koust · Logiciel de gestion CHR (stocks, fiches techniques, HACCP)
+- Melba · ERP cuisine et restauration multi-sites
+- Inpulse · Prévision IA des achats et réduction des pertes pour la restauration
+- Yokitup · Gestion fiches techniques et intégrations livraison
+- Ratatool · Logiciel de fiches techniques et coûts matières en France
+- Adoria · Solution de gestion pour la restauration collective et les cuisines centrales
+- UMIH · Union des métiers et des industries de l’hôtellerie (référentiel ratios CHR)
+_Article rédigé par Laurent Carbonnet pour maîtriser le coût de revient de mon futur restaurant. L’outil est en bêta gratuite._

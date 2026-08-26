@@ -1,0 +1,250 @@
+
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 668 caractères
+# Tokens: 104
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+Lancé en 2021 avec un investissement historique de 2 milliards d’euros, le programme Ségur numérique transforme la manière dont les données de santé sont partagées entre professionnels et usagers en France. Cette initiative, portée par la Délégation au numérique en santé (DNS), s’inscrit dans une stratégie nationale visant à faire du numérique un levier majeur d’amélioration des soins.
+Lors du 11ᵉ Comité de suivi (COSUI) tenu le 10 décembre 2024, les acteurs de l’écosystème — pouvoirs publics, professionnels de santé, industriels et associations — ont dressé un bilan des avancées et défini les priorités pour 2025. Voici les faits marquants de ce point d’étape.
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Mon espace santé : une adoption croissante chez les patients et les professionnels**
+# Titre section: **Mon espace santé : une adoption croissante chez les patients et les professionnels**
+# Type: list
+# Taille: 777 caractères
+# Tokens: 118
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+## **Mon espace santé : une adoption croissante chez les patients et les professionnels**
+Le carnet de santé numérique **Mon espace santé** s’impose progressivement comme un outil incontournable :
+- **Une adoption accélérée** : près d’un Français sur quatre utilise déjà Mon espace santé, avec une moyenne de 600 000 nouvelles activations mensuelles en 2024.
+- **Un enrichissement continu** : en octobre, plus de 30 millions de documents médicaux ont été partagés, bien que la grève des biologistes ait temporairement ralenti les flux en novembre.
+- **Des usages prometteurs chez les professionnels** : les premiers retours confirment que l’accès à l’historique médical améliore la prise en charge des patients. Tous les utilisateurs pilotes prévoient de poursuivre leur usage.
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Mon espace santé : une adoption croissante chez les patients et les professionnels** > **Des avancées concrètes grâce à la vague 2 du Ségur numérique**
+# Titre section: **Des avancées concrètes grâce à la vague 2 du Ségur numérique**
+# Type: h3
+# Taille: 698 caractères
+# Tokens: 113
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### **Des avancées concrètes grâce à la vague 2 du Ségur numérique**
+La vague 2, entamée en 2024, vise à équiper davantage de professionnels et d’établissements de logiciels compatibles avec Mon espace santé :
+1. **À l’hôpital** : Tous les éditeurs sont engagés, et la première solution a déjà été référencée.
+2. **En imagerie médicale** : Les travaux pour les logiciels de gestion des images (RIS et Drimbox) sont finalisés, avec des arrêtés prévus début 2025.
+3. **En médecine de ville** : Le déploiement des solutions pour les prescripteurs et les officines sera intensifié en 2025.
+Des mécanismes de suivi terrain et des phases de test rigoureuses garantiront la qualité des logiciels déployés.
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Mon espace santé : une adoption croissante chez les patients et les professionnels** > **Les défis à relever pour 2025**
+# Titre section: **Les défis à relever pour 2025**
+# Type: list
+# Taille: 733 caractères
+# Tokens: 101
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### **Les défis à relever pour 2025**
+Pour généraliser l’utilisation de Mon espace santé, plusieurs défis doivent encore être relevés :
+- **Sécuriser l’identification électronique** : L’adoption de moyens d’identification à double facteur sera essentielle, notamment grâce aux financements « Hospiconnect ».
+- **Encourager les usages** : Les programmes HOP’EN 2 et ESMS numérique accompagneront les établissements hospitaliers et médico-sociaux. En ville, 20 000 médecins bénéficient déjà des financements pour l’envoi des volets de synthèse médicale.
+Par ailleurs, la démarche « Sentinelle » continuera d’apporter des réponses concrètes aux problématiques terrain, telles que la gestion des consentements et des documents sensibles.
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Mon espace santé : une adoption croissante chez les patients et les professionnels** > **Un programme aux impacts transformateurs**
+# Titre section: **Un programme aux impacts transformateurs**
+# Type: list
+# Taille: 433 caractères
+# Tokens: 60
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### **Un programme aux impacts transformateurs**
+Au-delà des avancées techniques, le Ségur numérique redéfinit le cadre des politiques publiques de santé :
+- **Infrastructures partagées** : Le modèle d’État-plateforme permet une co-construction impliquant patients, professionnels et industriels.
+- **Mise à jour des logiciels** : Une intervention directe de l’État garantit des outils à jour, alignés sur les exigences du programme.
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Un futur prometteur pour la santé numérique**
+# Titre section: **Un futur prometteur pour la santé numérique**
+# Type: h2
+# Taille: 599 caractères
+# Tokens: 84
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+## **Un futur prometteur pour la santé numérique**
+En 2025, le Ségur numérique s’apprête à franchir de nouvelles étapes décisives. Grâce à une coordination renforcée et à des investissements stratégiques, l’ambition de généraliser un partage fluide et sécurisé des données de santé devient réalité.
+Les professionnels et patients sont invités à découvrir les ressources disponibles sur esante.gouv.fr/segur pour rester informés des évolutions et opportunités offertes par ce programme.
+![Photo de Clémence Minota]()Clémence MinotaDernière mise à jour : 31 décembre 2024
+![Photo de Clémence Minota]()
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Un futur prometteur pour la santé numérique** > Clémence Minota
+# Titre section: Clémence Minota
+# Type: h3
+# Taille: 301 caractères
+# Tokens: 44
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### Clémence Minota
+Je suis rédactrice spécialisée en santé et innovation, passionnée par l'impact des technologies sur l'évolution des soins médicaux. Mon expertise consiste à décrypter les dernières avancées du secteur et à fournir des contenus clairs et pertinents pour les professionnels de santé.
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Un futur prometteur pour la santé numérique** > Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie
+# Titre section: Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie
+# Type: h3
+# Taille: 112 caractères
+# Tokens: 16
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Un futur prometteur pour la santé numérique** > SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques
+# Titre section: SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques
+# Type: h3
+# Taille: 104 caractères
+# Tokens: 19
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Un futur prometteur pour la santé numérique** > Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026
+# Titre section: Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026
+# Type: h3
+# Taille: 188 caractères
+# Tokens: 30
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### Don d’organe en France : Engagement, une culture du don et réticences et réalités en 2026
+![France 2030, programme national de soutien à l’innovation en santé et aux biotechnologies]()
+
+
+
+================================================================================# Source URL: https://www.medtechfrance.fr/actualites/vie-de-la-profession/le-segur-numerique-des-avancees-significatives-vers-un-partage-fluide-et-securise-des-donnees-de-sante
+# Document parent: Ségur du numérique : le bilan 2024 et les perspectives pour 2025
+# Section: Analyse SWOT
+# Question: Quelles menaces externes et risques de marché doivent être anticipés ?
+# Query: barrières adoption logiciels santé numérique patients professionnels France 2024
+# Angle: risques liés à l’adoption utilisateur
+# Chemin hiérarchique: **Un futur prometteur pour la santé numérique** > France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?
+# Titre section: France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?
+# Type: h3
+# Taille: 346 caractères
+# Tokens: 53
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:36:02.706637+00:00
+................................................................................
+
+### France 2030 : et si le vrai frein à l’innovation en santé, c’était l’achat public ?
+Bouton retour en haut de la page
+toute l'actualité sur l'innovation médicale
+Une fois par mois, recevez l’essentiel de l’innovation en santé, sans spam ni surplus.
+Une newsletter totalement gratuite
+Recaptcha requires verification.
+protected by **reCAPTCHA**

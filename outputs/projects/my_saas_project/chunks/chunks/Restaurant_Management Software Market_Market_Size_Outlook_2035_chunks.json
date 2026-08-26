@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "8f4a51baa097c57f",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at for increased rate limits or please retry after 15s, resets at Sat Aug 22 2026 12:51:00 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "8f4a51baa097c57f",
+            "parent_doc": "Restaurant Management Software Market Market Size, Outlook 2035",
+            "source_url": "https://www.marketresearchfuture.com/reports/restaurant-management-software-market-26588",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "segmentation marché SaaS gestion restaurant France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Rate Limit Exceeded: Failed to scrape. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at for increased rate limits or please retry after 15s, resets at Sat Aug 22 2026 12:51:00 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+            "token_count": 61,
+            "character_count": 386,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:46.706799+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "db4bf6773b469ee5",
+        "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?\n- Angle: market segmentation by customer type and software features",
+        "metadata": {
+            "chunk_id": "db4bf6773b469ee5",
+            "parent_doc": "Restaurant Management Software Market Market Size, Outlook 2035",
+            "source_url": "https://www.marketresearchfuture.com/reports/restaurant-management-software-market-26588",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "segmentation marché SaaS gestion restaurant France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?\n- Angle: market segmentation by customer type and software features",
+            "token_count": 35,
+            "character_count": 220,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:46.706799+00:00",
+            "extra": {}
+        }
+    }
+]

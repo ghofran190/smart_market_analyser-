@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "6c6c64f0d51ae991",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "6c6c64f0d51ae991",
+            "parent_doc": "AI is rapidly becoming part of restaurant technology, but turning innovation into measurable operational value remains a challenge.",
+            "source_url": "https://www.linkedin.com/posts/pernollet_ai-is-rapidly-becoming-part-of-restaurant-activity-7480886040271032321-nDeI",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "operational challenges and technology strengths in AI-powered restaurant management SaaS France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.",
+            "token_count": 63,
+            "character_count": 363,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:09:02.917474+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "837cd27848c4c442",
+        "content": "### Métadonnées\n- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?\n- Angle: technology and operational internal factors",
+        "metadata": {
+            "chunk_id": "837cd27848c4c442",
+            "parent_doc": "AI is rapidly becoming part of restaurant technology, but turning innovation into measurable operational value remains a challenge.",
+            "source_url": "https://www.linkedin.com/posts/pernollet_ai-is-rapidly-becoming-part-of-restaurant-activity-7480886040271032321-nDeI",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "operational challenges and technology strengths in AI-powered restaurant management SaaS France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?\n- Angle: technology and operational internal factors",
+            "token_count": 24,
+            "character_count": 177,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:09:02.917474+00:00",
+            "extra": {}
+        }
+    }
+]

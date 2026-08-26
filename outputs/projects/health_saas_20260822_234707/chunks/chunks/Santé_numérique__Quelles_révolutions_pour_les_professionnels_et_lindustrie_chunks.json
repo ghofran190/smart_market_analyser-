@@ -1,0 +1,307 @@
+[
+    {
+        "chunk_id": "6a572d05c836edd4",
+        "content": "La transformation numérique du secteur de la santé s’accélère à un rythme inédit. En 2024, l’essor des technologies connectées, de l’intelligence artificielle et des nouvelles plateformes de santé redessine profondément le paysage médical. **Selon le rapport Digital Health Trends 2024 publié par IQVIA** Toutes ne sont pas soumises aux mêmes exigences en termes de validation clinique et de protection des données. Le défi des prochaines années sera d’harmoniser ces pratiques pour garantir la fiabilité des outils proposés aux patients.",
+        "metadata": {
+            "chunk_id": "6a572d05c836edd4",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "La transformation numérique du secteur de la santé s’accélère à un rythme inédit. En 2024, l’essor des technologies connectées, de l’intelligence artificielle et des nouvelles plateformes de santé redessine profondément le paysage médical. **Selon le rapport Digital Health Trends 2024 publié par IQVIA** Toutes ne sont pas soumises aux mêmes exigences en termes de validation clinique et de protection des données. Le défi des prochaines années sera d’harmoniser ces pratiques pour garantir la fiabi",
+            "token_count": 79,
+            "character_count": 538,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "85d73395f7498cb2_1",
+        "content": "## Réglementation et cybersécurité : des enjeux stratégiques\nL’accélération de la numérisation du secteur médical s’accompagne de risques accrus en matière de cybersécurité. En 2023, plusieurs hôpitaux et laboratoires ont été victimes de cyberattaques, mettant en péril la confidentialité des données de millions de patients. Face à cette menace grandissante, la réglementation se renforce. En Europe, le règlement DORA (Digital Operational Resilience Act) impose désormais des standards stricts en matière de cybersécurité aux entreprises du secteur. L’objectif est clair : protéger les infrastructures critiques et garantir l’intégrité des données médicales.\nParallèlement, l’encadrement des dispositifs numériques se précise. Aux États-Unis, la FDA renforce ses critères d’évaluation pour les solutions de santé numériques, tandis qu’en Europe, la mise en œuvre du Règlement sur les Dispositifs Médicaux (MDR) impose une validation clinique plus stricte aux fabricants de logiciels médicaux.",
+        "metadata": {
+            "chunk_id": "85d73395f7498cb2_1",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "Réglementation et cybersécurité : des enjeux stratégiques"
+            ],
+            "section_title": "Réglementation et cybersécurité : des enjeux stratégiques",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Réglementation et cybersécurité : des enjeux stratégiques\nL’accélération de la numérisation du secteur médical s’accompagne de risques accrus en matière de cybersécurité. En 2023, plusieurs hôpitaux et laboratoires ont été victimes de cyberattaques, mettant en péril la confidentialité des données de millions de patients. Face à cette menace grandissante, la réglementation se renforce. En Europe, le règlement DORA (Digital Operational Resilience Act) impose désormais des standards stricts en m",
+            "token_count": 136,
+            "character_count": 994,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "93d95824121970c1_2",
+        "content": "Ces évolutions visent à garantir la sécurité des patients tout en favorisant l’innovation responsable.",
+        "metadata": {
+            "chunk_id": "93d95824121970c1_2",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "Réglementation et cybersécurité : des enjeux stratégiques"
+            ],
+            "section_title": "Réglementation et cybersécurité : des enjeux stratégiques",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Ces évolutions visent à garantir la sécurité des patients tout en favorisant l’innovation responsable.",
+            "token_count": 14,
+            "character_count": 102,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0185e31029261078_3",
+        "content": "## L’avenir de la santé numérique : vers une médecine plus prédictive et préventive\nAu-delà des innovations technologiques, la véritable révolution réside dans le changement de paradigme qu’elles induisent. La médecine devient de plus en plus prédictive et préventive, s’appuyant sur l’analyse massive de données pour anticiper les pathologies avant même l’apparition des symptômes. Grâce aux avancées en génomique et en biomarqueurs numériques, il est désormais possible d’identifier les patients à risque et d’adapter les prises en charge en conséquence.\nCette approche proactive ouvre la voie à une personnalisation accrue des traitements, avec des thérapies ciblées basées sur le profil génétique et les habitudes de vie des patients. Mais elle pose également des questions éthiques et sociétales : jusqu’où aller dans l’exploitation des données de santé ? Comment préserver l’équilibre entre innovation et protection de la vie privée ?",
+        "metadata": {
+            "chunk_id": "0185e31029261078_3",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive"
+            ],
+            "section_title": "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## L’avenir de la santé numérique : vers une médecine plus prédictive et préventive\nAu-delà des innovations technologiques, la véritable révolution réside dans le changement de paradigme qu’elles induisent. La médecine devient de plus en plus prédictive et préventive, s’appuyant sur l’analyse massive de données pour anticiper les pathologies avant même l’apparition des symptômes. Grâce aux avancées en génomique et en biomarqueurs numériques, il est désormais possible d’identifier les patients à ",
+            "token_count": 139,
+            "character_count": 940,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "164c67d43f8410e3_4",
+        "content": "L’édition 2024 du rapport _Digital Health Trends_ met en lumière des transformations majeures qui redéfinissent l’écosystème médical. L’intelligence artificielle, les applications de santé et les dispositifs connectés offrent des perspectives inédites pour améliorer la qualité des soins et l’expérience des patients. Toutefois, ces avancées s’accompagnent de défis réglementaires, éthiques et sécuritaires qui nécessitent une vigilance accrue. Pour les acteurs de la MedTech, l’enjeu est de trouver un équilibre entre innovation et responsabilité, afin d’exploiter tout le potentiel du numérique au service d’une santé plus efficace, accessible et humaine.\nDispositif médical Donnée Intelligence artificielle Logiciel Réalité virtuelle santé numérique Start-up\n![Photo de Clémence Minota]()Clémence MinotaDernière mise à jour : 17 février 2025\n!",
+        "metadata": {
+            "chunk_id": "164c67d43f8410e3_4",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive"
+            ],
+            "section_title": "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "L’édition 2024 du rapport _Digital Health Trends_ met en lumière des transformations majeures qui redéfinissent l’écosystème médical. L’intelligence artificielle, les applications de santé et les dispositifs connectés offrent des perspectives inédites pour améliorer la qualité des soins et l’expérience des patients. Toutefois, ces avancées s’accompagnent de défis réglementaires, éthiques et sécuritaires qui nécessitent une vigilance accrue. Pour les acteurs de la MedTech, l’enjeu est de trouver ",
+            "token_count": 112,
+            "character_count": 846,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7a4b1f3fa8aeb9d3",
+        "content": "### Clémence Minota\nJe suis rédactrice spécialisée en santé et innovation, passionnée par l'impact des technologies sur l'évolution des soins médicaux. Mon expertise consiste à décrypter les dernières avancées du secteur et à fournir des contenus clairs et pertinents pour les professionnels de santé.",
+        "metadata": {
+            "chunk_id": "7a4b1f3fa8aeb9d3",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+                "Clémence Minota"
+            ],
+            "section_title": "Clémence Minota",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Clémence Minota\nJe suis rédactrice spécialisée en santé et innovation, passionnée par l'impact des technologies sur l'évolution des soins médicaux. Mon expertise consiste à décrypter les dernières avancées du secteur et à fournir des contenus clairs et pertinents pour les professionnels de santé.",
+            "token_count": 44,
+            "character_count": 301,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "03a91cf2ee7fe755",
+        "content": "### Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie",
+        "metadata": {
+            "chunk_id": "03a91cf2ee7fe755",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+                "Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie"
+            ],
+            "section_title": "Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cancer de la prostate : une nouvelle alternative moins invasive désormais remboursée par l’Assurance Maladie",
+            "token_count": 16,
+            "character_count": 112,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5dccb660391e9008",
+        "content": "### Bruxless : une start-up française veut enfin s’attaquer à la cause du bruxisme, et plus seulement à ses conséquences",
+        "metadata": {
+            "chunk_id": "5dccb660391e9008",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+                "Bruxless : une start-up française veut enfin s’attaquer à la cause du bruxisme, et plus seulement à ses conséquences"
+            ],
+            "section_title": "Bruxless : une start-up française veut enfin s’attaquer à la cause du bruxisme, et plus seulement à ses conséquences",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Bruxless : une start-up française veut enfin s’attaquer à la cause du bruxisme, et plus seulement à ses conséquences",
+            "token_count": 20,
+            "character_count": 120,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "900d9d0ddbfcbd70",
+        "content": "### SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques",
+        "metadata": {
+            "chunk_id": "900d9d0ddbfcbd70",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+                "SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques"
+            ],
+            "section_title": "SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### SOS Aorte : au CHU de Nantes, une filière dédiée pour réduire les délais face aux urgences aortiques",
+            "token_count": 19,
+            "character_count": 104,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3186c345855a268e",
+        "content": "### Askleia : cette biotech française veut réduire drastiquement le coût de production des biomédicaments\nBouton retour en haut de la page\ntoute l'actualité sur l'innovation médicale\nUne fois par mois, recevez l’essentiel de l’innovation en santé, sans spam ni surplus.\nUne newsletter totalement gratuite\nRecaptcha requires verification.\nprotected by **reCAPTCHA**",
+        "metadata": {
+            "chunk_id": "3186c345855a268e",
+            "parent_doc": "Santé numérique : Quelles révolutions pour les professionnels et l'industrie ?",
+            "source_url": "https://www.medtechfrance.fr/vie-de-la-profession/les-tendances-de-la-sante-numerique-quelles-revolutions-pour-les-professionnels-et-lindustrie",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "facteurs socio-économiques adoption digitalisation santé patients France 2024",
+            "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+            "angle": "facteurs socio-économiques et comportement des patients",
+            "heading_path": [
+                "L’avenir de la santé numérique : vers une médecine plus prédictive et préventive",
+                "Askleia : cette biotech française veut réduire drastiquement le coût de production des biomédicaments"
+            ],
+            "section_title": "Askleia : cette biotech française veut réduire drastiquement le coût de production des biomédicaments",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Askleia : cette biotech française veut réduire drastiquement le coût de production des biomédicaments\nBouton retour en haut de la page\ntoute l'actualité sur l'innovation médicale\nUne fois par mois, recevez l’essentiel de l’innovation en santé, sans spam ni surplus.\nUne newsletter totalement gratuite\nRecaptcha requires verification.\nprotected by **reCAPTCHA**",
+            "token_count": 51,
+            "character_count": 364,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:14:36.599908+00:00",
+            "extra": {}
+        }
+    }
+]

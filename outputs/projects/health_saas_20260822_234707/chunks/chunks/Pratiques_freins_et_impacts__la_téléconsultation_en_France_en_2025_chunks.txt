@@ -1,0 +1,569 @@
+
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025
+# Titre section: Pratiques, freins et impacts : état de la téléconsultation en France en 2025
+# Type: h1
+# Taille: 937 caractères
+# Tokens: 140
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+# Pratiques, freins et impacts : état de la téléconsultation en France en 2025
+Contenu validé par L'équipe de rédaction MEDADOM
+L’accès aux soins en France connaît depuis plusieurs années une tension croissante, marquée par **l’augmentation des déserts médicaux**, la difficulté à obtenir un rendez-vous en présentiel et la saturation des services d’urgences pour des pathologies de faible gravité. Dans ce contexte, la téléconsultation s’est progressivement installée comme une modalité de prise en charge courante. Afin d’en mesurer l’usage réel, la perception et les impacts organisationnels,
+**MEDADOM a commandité une nouvelle enquête IFOP 2025** menée auprès d’un échantillon représentatif de la population française. Cette étude, qui constitue le cœur de cet article, offre un éclairage inédit : **29 % des Français ont déjà eu recours à la téléconsultation** et **38 % des non-utilisateurs se déclarent prêts à franchir le pas**.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025
+# Titre section: Pratiques, freins et impacts : état de la téléconsultation en France en 2025
+# Type: paragraph
+# Taille: 535 caractères
+# Tokens: 75
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+Les résultats montrent un recours porté par **la rapidité d’accès** et la difficulté d’obtenir un rendez-vous physique, ainsi qu’un effet significatif sur la désaturation des urgences : **21 % des usagers indiquent avoir évité un passage aux urgences** grâce à la téléconsultation. Dans cet écosystème associant plateformes numériques, applications mobiles et dispositifs territoriaux, **MEDADOM occupe une place structurante** en combinant une application accessible à tous et un vaste réseau national de cabines et bornes connectées.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Adoption de la téléconsultation en France : tendances et profils d’usage** > **Taux d’adoption : 29 % d’utilisateurs, évolution depuis 2020**
+# Titre section: **Taux d’adoption : 29 % d’utilisateurs, évolution depuis 2020**
+# Type: h3
+# Taille: 743 caractères
+# Tokens: 107
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Taux d’adoption : 29 % d’utilisateurs, évolution depuis 2020**
+Selon l’étude IFOP 2025, **29 % des Français ont déjà eu recours à une téléconsultation**, dont 11 % à plusieurs reprises. Ce niveau d’adoption témoigne d’une progression régulière depuis 2020, période durant laquelle la pandémie a constitué un catalyseur décisif. Si l’usage s’est stabilisé depuis, il s’est surtout **normalisé**, passant d’un recours exceptionnel à une modalité courante de prise en charge, en particulier pour les soins non programmés. Par ailleurs, **38 % des non-utilisateurs déclarent envisager d’y recourir**, ce qui montre un potentiel d’extension encore significatif.
+!38 % des non-utilisateurs déclarent envisager de recourir à la téléconsultation
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Adoption de la téléconsultation en France : tendances et profils d’usage** > **Profil sociodémographique des usagers : âge, emploi, zones rurales/urbaines**
+# Titre section: **Profil sociodémographique des usagers : âge, emploi, zones rurales/urbaines**
+# Type: h3
+# Taille: 809 caractères
+# Tokens: 107
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Profil sociodémographique des usagers : âge, emploi, zones rurales/urbaines**
+Les usages se structurent selon des dynamiques sociodémographiques précises. Les actifs, confrontés à des contraintes de temps et de mobilité, constituent une part importante des utilisateurs. Les jeunes adultes, plus familiers des services dématérialisés, sont également surreprésentés. À l’inverse, les personnes âgées y recourent davantage via des **dispositifs installés en pharmacie ou en établissement public**, ce qui souligne l’importance des solutions hybrides proposées par certains acteurs du marché. Enfin, les zones rurales — particulièrement touchées par les déserts médicaux — présentent des niveaux d’utilisation en croissance, reflétant un recours pragmatique pour pallier l’absence de médecine de proximité.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Adoption de la téléconsultation en France : tendances et profils d’usage** > **Motivations : rapidité (82 %), impossibilité d’obtenir un RDV (76 %), indisponibilité du médecin traitant**
+# Titre section: **Motivations : rapidité (82 %), impossibilité d’obtenir un RDV (76 %), indisponibilité du médecin traitant**
+# Type: h3
+# Taille: 805 caractères
+# Tokens: 110
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Motivations : rapidité (82 %), impossibilité d’obtenir un RDV (76 %), indisponibilité du médecin traitant**
+La première raison invoquée par les utilisateurs est **la rapidité d’accès au soin** (82 %), suivie par **l’impossibilité d’obtenir un rendez-vous en présentiel** (76 %). Plus de la moitié des répondants (56 %) indiquent que leur **médecin traitant était indisponible** au moment du besoin. Ces motivations traduisent les tensions structurelles du système de santé : délais prolongés, disponibilité limitée des professionnels, accès difficile dans certains territoires. La téléconsultation apparaît ainsi comme une solution de **substitution fonctionnelle**, particulièrement adaptée au soin non programmé.
+!Les raisons de choisir la téléconsultation plutôt que la consultation en présentiel
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Adoption de la téléconsultation en France : tendances et profils d’usage** > **Les Français ne perçoivent plus la téléconsultation comme un “accélérateur d’arrêts maladie”**
+# Titre section: **Les Français ne perçoivent plus la téléconsultation comme un “accélérateur d’arrêts maladie”**
+# Type: h3
+# Taille: 826 caractères
+# Tokens: 122
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Les Français ne perçoivent plus la téléconsultation comme un “accélérateur d’arrêts maladie”**
+Alors que la téléconsultation a longtemps été critiquée pour sa supposée facilité à obtenir un arrêt de travail, les chiffres racontent aujourd’hui une tout autre histoire. **Seuls 20 %** des répondants estiment qu’il est plus simple d’obtenir un arrêt via téléconsultation — soit une **baisse de 12 points par rapport à 2024**. À l’inverse, une très large majorité ( **80 %**) considère désormais que ce n’est pas le cas.
+Cette évolution s’explique par les **réglementations successives** mises en place pour encadrer strictement les arrêts délivrés à distance : limitation à **3 jours maximum**, **non renouvelables**, contrôle renforcé par l’Assurance maladie et vérification systématique de la cohérence du motif médical.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Adoption de la téléconsultation en France : tendances et profils d’usage** > **Les Français ne perçoivent plus la téléconsultation comme un “accélérateur d’arrêts maladie”**
+# Titre section: **Les Français ne perçoivent plus la téléconsultation comme un “accélérateur d’arrêts maladie”**
+# Type: paragraph
+# Taille: 405 caractères
+# Tokens: 62
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+🔒 **À noter que MEDADOM appliquait déjà ces garde-fous avant même leur généralisation au niveau national**, ce qui contribue à sécuriser la pratique et à garantir sa conformité.
+Ces mesures ont clairement modifié la perception du public, qui ne voit plus la téléconsultation comme un moyen détourné d’obtenir un arrêt, mais comme un **outil de soins légitime**, réservé aux situations réellement adaptées.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Adoption de la téléconsultation en France : tendances et profils d’usage** > **Analyse comparative internationale : position de la France vs OCDE**
+# Titre section: **Analyse comparative internationale : position de la France vs OCDE**
+# Type: h3
+# Taille: 914 caractères
+# Tokens: 124
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Analyse comparative internationale : position de la France vs OCDE**
+Comparée à d’autres pays de l’OCDE, la France présente un **niveau d’adoption intermédiaire**. Certains pays nordiques ou anglo-saxons ont intégré la téléconsultation de manière plus précoce et systémique, notamment grâce à une digitalisation avancée des parcours de soins. À l’inverse, la France bénéficie d’un réseau dense de professionnels de santé, ce qui a historiquement limité le recours au numérique. La dynamique actuelle montre toutefois un **alignement progressif** avec les tendances internationales, la téléconsultation devenant un levier reconnu pour améliorer l’accès au soin, réduire la pression sur les urgences et renforcer la continuité médicale. Dans cette perspective, la France s’oriente vers un modèle **hybride**, combinant consultations en présentiel, téléconsultations via application et dispositifs territoriaux.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **La téléconsultation comme réponse aux besoins non programmés** > **Nature des pathologies prises en charge : infections bénignes, douleurs, ORL, infections urinaires**
+# Titre section: **Nature des pathologies prises en charge : infections bénignes, douleurs, ORL, infections urinaires**
+# Type: h3
+# Taille: 940 caractères
+# Tokens: 135
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Nature des pathologies prises en charge : infections bénignes, douleurs, ORL, infections urinaires**
+Les données de l’étude IFOP confirment que la téléconsultation est principalement mobilisée pour des **pathologies bénignes et non vitales**, relevant du champ du soin non programmé. Les motifs les plus fréquents incluent les **syndromes grippaux et rhumes** (25 %), la **fièvre** (24 %), les **diarrhées et vomissements** (22 %), les **otites** (19 %), les **cystites et infections urinaires** (19 %) ainsi que les **allergies** (19 %). Ces motifs correspondent aux situations où la prise en charge nécessite une évaluation médicale rapide, mais pas systématiquement un examen clinique approfondi. La téléconsultation s’inscrit ainsi comme une modalité efficace pour orienter, rassurer et initier un traitement lorsque cela est pertinent.
+!Les types de pathologies pour lesquelles la téléconsultation a évité un passage aux urgences
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **La téléconsultation comme réponse aux besoins non programmés** > **Influence sur les urgences : 21 % des usagers déclarent avoir évité un passage aux urgences.**
+# Titre section: **Influence sur les urgences : 21 % des usagers déclarent avoir évité un passage aux urgences.**
+# Type: h3
+# Taille: 872 caractères
+# Tokens: 131
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Influence sur les urgences : 21 % des usagers déclarent avoir évité un passage aux urgences.**
+Un résultat majeur de l’étude IFOP concerne l’impact sur les urgences : **21 % des utilisateurs estiment que la téléconsultation leur a évité un passage aux urgences**. Rapporté à la population générale, cela représente **6 % des Français**. Or, une part significative des passages aux urgences concerne des situations de faible gravité, souvent liées à une impossibilité d’obtenir un rendez-vous rapide auprès d’un médecin de ville. En absorbant une fraction de cette demande, la téléconsultation contribue à **réduire la pression sur les services d’urgences**, permettant à ces derniers de se concentrer sur les situations réellement critiques. Ce déplacement de flux constitue l’un des effets les plus structurants de la téléconsultation dans l’organisation des soins.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **La téléconsultation comme réponse aux besoins non programmés** > **Efficience médico-économique : coût moyen d’une téléconsultation (25 €) vs passage aux urgences (215 €)**
+# Titre section: **Efficience médico-économique : coût moyen d’une téléconsultation (25 €) vs passage aux urgences (215 €)**
+# Type: h3
+# Taille: 866 caractères
+# Tokens: 125
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Efficience médico-économique : coût moyen d’une téléconsultation (25 €) vs passage aux urgences (215 €)**
+Au-delà de l’impact organisationnel, la téléconsultation présente un **avantage économique significatif**. Selon les données reprises dans l’étude, le coût moyen pour l’Assurance Maladie d’une téléconsultation s’élève à **25 €**, contre **215 €** pour un passage aux urgences de faible gravité. La différence est ainsi d’un facteur d’environ **1 à 9**, en faveur de la téléconsultation. L’Inspection générale des finances et la Cour des comptes estiment qu’un recours accru à ce mode de prise en charge pourrait générer **plus de 100 millions d’euros d’économies annuelles**, tout en améliorant la pertinence des soins. Cette efficience renforce l’intérêt des pouvoirs publics pour l’intégration durable de la téléconsultation dans les parcours de soins.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **La téléconsultation comme réponse aux besoins non programmés** > **Les dispositifs hybrides (cabines, bornes, consoles) : accessibilité renforcée pour les territoires sous-dotés**
+# Titre section: **Les dispositifs hybrides (cabines, bornes, consoles) : accessibilité renforcée pour les territoires sous-dotés**
+# Type: h3
+# Taille: 762 caractères
+# Tokens: 98
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Les dispositifs hybrides (cabines, bornes, consoles) : accessibilité renforcée pour les territoires sous-dotés**
+Si les applications et plateformes numériques constituent le principal canal d’accès, le développement de **dispositifs hybrides** — cabines, bornes et consoles connectées — joue un rôle déterminant pour les publics peu familiers du numérique ou résidant dans des zones dépourvues de médecins. Installés en pharmacies, centres de santé, établissements publics ou commerces de proximité, ces dispositifs permettent d’effectuer une téléconsultation avec assistance locale et instruments connectés (stéthoscope, otoscope, etc.). Leur présence dans des territoires sous-dotés contribue à **réduire les inégalités géographiques d’accès aux soins**.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **La téléconsultation comme réponse aux besoins non programmés** > **Les dispositifs hybrides (cabines, bornes, consoles) : accessibilité renforcée pour les territoires sous-dotés**
+# Titre section: **Les dispositifs hybrides (cabines, bornes, consoles) : accessibilité renforcée pour les territoires sous-dotés**
+# Type: paragraph
+# Taille: 276 caractères
+# Tokens: 40
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+Le déploiement massif opéré par certains acteurs du marché, dont MEDADOM avec **plus de 6 000 dispositifs installés**, illustre l’importance de ces solutions dans la structuration d’un modèle de soins hybride, combinant technologie, proximité et continuité de prise en charge.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Les acteurs de téléconsultation : notoriété, usages et perception** > **Un écosystème de la téléconsultation en recomposition**
+# Titre section: **Un écosystème de la téléconsultation en recomposition**
+# Type: h3
+# Taille: 989 caractères
+# Tokens: 134
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Un écosystème de la téléconsultation en recomposition**
+Le paysage français de la téléconsultation rassemble des acteurs aux positionnements distincts.
+– **Doctolib**, entreprise franco-allemande, conserve une place centrale grâce à son rôle historique dans la prise de rendez-vous et à son extension vers la téléconsultation.
+– **Qare**, plateforme désormais intégrée à un groupe britannique, propose une offre **multi-professionnelle** (médecins, psychologues, sages-femmes), ce qui la distingue par une logique de diversification des services.
+– **Maiia** et **Livi** occupent un segment plus spécialisé dans le numérique pur.
+– **MEDADOM**, acteur 100 % français, se différencie nettement par son modèle hybride : une application mobile, une plateforme web et un **maillage national de dispositifs connectés** en pharmacie et dans les établissements publics.
+Cette diversité reflète un marché en structuration, où les approches nationales, hybrides ou internationales coexistent.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Les acteurs de téléconsultation : notoriété, usages et perception** > **Perception des usages : des modèles différenciés selon les attentes des patients**
+# Titre section: **Perception des usages : des modèles différenciés selon les attentes des patients**
+# Type: h3
+# Taille: 732 caractères
+# Tokens: 103
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Perception des usages : des modèles différenciés selon les attentes des patients**
+Les Français perçoivent les différences entre acteurs :
+– Qare est identifié comme une **plateforme multi-professionnelle**, adaptée à des besoins variés incluant psychologie et suivi paramédical.
+– Doctolib reste avant tout perçu comme un outil de gestion des rendez-vous, auquel se greffe une fonctionnalité de téléconsultation.
+– **MEDADOM se distingue par sa spécialisation en médecine générale**, positionnement cohérent avec les besoins du soin non programmé et la prise en charge rapide des pathologies courantes.
+Cette segmentation des usages illustre une structuration progressive du marché autour de modèles lisibles et différenciés.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Le rôle spécifique de MEDADOM dans l’écosystème français** > **Un maillage territorial unique : 6 000 dispositifs connectés**
+# Titre section: **Un maillage territorial unique : 6 000 dispositifs connectés**
+# Type: h3
+# Taille: 243 caractères
+# Tokens: 36
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Un maillage territorial unique : 6 000 dispositifs connectés**
+MEDADOM déploie le réseau physique le plus dense du secteur, permettant un accès immédiat à la téléconsultation dans les zones sous-dotées, rurales ou éloignées du numérique.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Le rôle spécifique de MEDADOM dans l’écosystème français** > **Une expertise forte en médecine générale**
+# Titre section: **Une expertise forte en médecine générale**
+# Type: h3
+# Taille: 241 caractères
+# Tokens: 36
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Une expertise forte en médecine générale**
+En se concentrant sur la **prise en charge de médecine générale**, MEDADOM répond directement aux besoins du soin non programmé, principale demande exprimée par les patients dans l’étude IFOP.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Le rôle spécifique de MEDADOM dans l’écosystème français** > **Plus de 10 millions de téléconsultations réalisées**
+# Titre section: **Plus de 10 millions de téléconsultations réalisées**
+# Type: h3
+# Taille: 176 caractères
+# Tokens: 24
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Plus de 10 millions de téléconsultations réalisées**
+Ce volume d’activité témoigne d’une maturité opérationnelle élevée et d’une connaissance fine des besoins du terrain.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Le rôle spécifique de MEDADOM dans l’écosystème français** > **Un acteur français, souverain et ancré dans les territoires**
+# Titre section: **Un acteur français, souverain et ancré dans les territoires**
+# Type: h3
+# Taille: 457 caractères
+# Tokens: 61
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Un acteur français, souverain et ancré dans les territoires**
+Dans un marché où plusieurs acteurs relèvent de groupes internationaux, MEDADOM demeure **entièrement français**, facilitant la coopération avec les acteurs publics, les collectivités et les professionnels de proximité. Son modèle hybride — application + dispositifs physiques — favorise une **continuité du parcours de soins**, évitant un usage opportuniste et renforçant l’accessibilité.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Perspectives et leviers d’amélioration** > **Structuration d’un parcours de soins hybride**
+# Titre section: **Structuration d’un parcours de soins hybride**
+# Type: h3
+# Taille: 332 caractères
+# Tokens: 46
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Structuration d’un parcours de soins hybride**
+L’avenir de la téléconsultation repose sur l’articulation entre **médecine de ville, plateformes de téléconsultation et dispositifs territoriaux**. Le défi consiste à intégrer la téléconsultation comme un segment à part entière du parcours de soins, en appui du médecin traitant.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Perspectives et leviers d’amélioration** > **Augmentation de la notoriété des acteurs agréés**
+# Titre section: **Augmentation de la notoriété des acteurs agréés**
+# Type: h3
+# Taille: 646 caractères
+# Tokens: 91
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### **Augmentation de la notoriété des acteurs agréés**
+Pour garantir une équité d’accès, il est nécessaire de renforcer la visibilité des acteurs agréés auprès du public, notamment de ceux disposant d’un maillage territorial comme MEDADOM. Une meilleure identification des services disponibles contribue à réduire les inégalités géographiques.
+**Développement des usages spécialisés**
+Au-delà de la médecine générale, la téléconsultation ouvre la voie à des usages spécialisés :
+– suivi des maladies chroniques,
+– prévention et dépistage.
+Ces domaines constituent des leviers pour améliorer la prise en charge des pathologies à forte prévalence.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Intégration dans les politiques publiques**
+# Titre section: **Intégration dans les politiques publiques**
+# Type: h2
+# Taille: 414 caractères
+# Tokens: 58
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+## **Intégration dans les politiques publiques**
+La téléconsultation pourrait jouer un rôle accru dans les **plans nationaux d’accès aux soins**, les stratégies régionales de santé ou les dispositifs de lutte contre les déserts médicaux. Les solutions hybrides — en particulier celles reposant sur des dispositifs physiques — constituent un levier opérationnel pour les collectivités et les établissements publics.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Ce qu’il faut retenir de cette étude IFOP**
+# Titre section: **Ce qu’il faut retenir de cette étude IFOP**
+# Type: h2
+# Taille: 903 caractères
+# Tokens: 127
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+## **Ce qu’il faut retenir de cette étude IFOP**
+L’étude IFOP conduite pour MEDADOM offre un éclairage précieux sur l’évolution des usages et des attentes en matière de téléconsultation en France. Plusieurs enseignements structurants ressortent nettement.
+**Premièrement**, la téléconsultation est désormais **bien installée dans les pratiques**, avec 29 % d’utilisateurs et un fort potentiel d’adoption chez les non-utilisateurs. Ce n’est plus un recours exceptionnel, mais un outil structurant du soin non programmé, plébiscité pour sa rapidité et sa capacité à répondre à l’indisponibilité de la médecine présentielle.
+**Deuxièmement**, la téléconsultation joue un rôle tangible dans **la désaturation des urgences**, 21 % des usagers déclarant qu’elle leur a évité un passage aux urgences. Cet impact, couplé à un coût bien inférieur pour l’assurance maladie, confirme son intérêt médico-économique.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Ce qu’il faut retenir de cette étude IFOP**
+# Titre section: **Ce qu’il faut retenir de cette étude IFOP**
+# Type: paragraph
+# Taille: 719 caractères
+# Tokens: 95
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+**Troisièmement**, l’écosystème français est en pleine structuration, avec une différenciation accrue entre acteurs. Les solutions **territorialisées, souveraines et spécialisées en médecine générale**, comme MEDADOM, répondent à des besoins concrets d’accessibilité, particulièrement dans les zones sous-dotées. Leur maillage physique et leur modèle hybride renforcent la continuité des soins et contribuent à réduire les inégalités.
+Au final, cette étude confirme que la téléconsultation n’est pas seulement une alternative : elle constitue l’un des leviers les plus prometteurs pour moderniser l’organisation des soins, améliorer l’accès à la médecine générale et soutenir la résilience du système de santé français.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Ce qu’il faut retenir de cette étude IFOP**
+# Titre section: **Ce qu’il faut retenir de cette étude IFOP**
+# Type: paragraph
+# Taille: 999 caractères
+# Tokens: 141
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+_Sources et méthodologie :__L’étude IFOP a été réalisée pour MEDADOM du 28 au 29 octobre 2025 auprès d’un_ **_échantillon national représentatif de 1 000 personnes âgées de 18 ans et plus_** _, constitué selon la méthode des_ **_quotas_** _(sexe, âge, profession, région, catégorie d’agglomération). Les entretiens ont été conduits en_ **_auto-administration en ligne_** _, garantissant l’anonymat et la spontanéité des réponses. Les données reposent sur des questions fermées, semi-ouvertes et ouvertes portant sur les usages, perceptions et motifs de recours à la téléconsultation. Les résultats ont été redressés afin d’assurer leur représentativité statistique. L’étude intègre également des questions spécifiques sur la connaissance des acteurs du marché, les impacts perçus sur les parcours de soins et l’expérience déclarée en matière de recours aux urgences. Cette méthodologie rigoureuse permet de disposer d’un éclairage fiable et actualisé sur les pratiques de téléconsultation en France.
+
+
+
+================================================================================# Source URL: https://info.medadom.com/blog/pratiques-freins-et-impacts-etat-de-la-teleconsultation-en-france-en-2025
+# Document parent: Pratiques, freins et impacts : la téléconsultation en France en 2025
+# Section: Analyse macro marché et tendances
+# Question: Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?
+# Query: adoption téléconsultation et digitalisation prise de rendez-vous santé France
+# Angle: trends in teleconsultation integration and digital appointment adoption
+# Chemin hiérarchique: Pratiques, freins et impacts : état de la téléconsultation en France en 2025 > **Ce qu’il faut retenir de cette étude IFOP** > Articles similaires
+# Titre section: Articles similaires
+# Type: h3
+# Taille: 281 caractères
+# Tokens: 37
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:07:48.821318+00:00
+................................................................................
+
+### Articles similaires
+![MEDADOM renouvelle son agrément de société de téléconsultation\\
+**MEDADOM renouvelle son agrément de société de téléconsultation**\\
+![Téléconsultation à Noël : consulter pendant les fêtes ?\\
+**Téléconsultation à Noël : consulter pendant les fêtes ?**\\

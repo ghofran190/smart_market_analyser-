@@ -1,0 +1,136 @@
+---
+url: https://www.imislyon.com/actualites/quel-est-le-marche-de-la-healthtech-en-france
+title: Quel est le marché de la HealthTech en France ? | imis
+section: Analyse macro marché et tendances
+angle: growth trends and forecasts
+question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+query: tendances croissance marché HealthTech logiciel gestion rendez-vous médicaux France 2023-2028
+scraped_at: 2026-08-22T22:56:52.800449+00:00
+scraping_duration_seconds: 22.09
+attempts: 1
+status: success
+---
+
+[Aller au contenu principal](https://www.imislyon.com/actualites/quel-est-le-marche-de-la-healthtech-en-france#main-content)
+
+![](https://www.imislyon.com/sites/imis/files/igs/2022-01/image_sous_header.png)
+
+# Quel est le marché de la HealthTech en France ?
+
+[#SANTE](https://www.imislyon.com/actualites?categorie=31)
+
+[#INDUSTRIE PHARMACEUTIQUE](https://www.imislyon.com/actualites?categorie=30)
+
+[#INTERNATIONAL](https://www.imislyon.com/actualites?categorie=24)
+
+[#RECHERCHE](https://www.imislyon.com/actualites?categorie=23)
+
+[#TECHNOLOGIE](https://www.imislyon.com/actualites?categorie=20)
+
+Ed Tech, Beauty Tech, Sport Tech… En 2021, les start-up de la French Tech se sont multipliées et ont levé plus de 2,3 milliards d’euros, soit plus du double de l’année précédente. Le secteur de la santé ne déroge pas à la règle et n’a de cesse de développer de nouvelles solutions et outils, notamment grâce à une innovation technologique forte. L’IMIS fait le point sur un secteur en plein essor : la HealthTech.
+
+![IMIS_IMG_SITE_IGS](https://www.imislyon.com/sites/imis/files/igs/2022-10/IMIS_IMG_SITE_1130X340.jpg)
+
+## Qu’est-ce que la HealthTech ?
+
+La HealthTech, que l’on appelle aussi parfois Digital Health, rassemble l’ensemble des entreprises, généralement des start-up, qui développent des solutions pour le secteur de la santé en s’appuyant sur les nouvelles technologies.
+
+Très vaste, la HealthTech englobe notamment tout ce qui touche à **l’innovation en matière de santé**, depuis l’amélioration de **la prise en charge des patients**, la prévention grâce à l’intelligence artificielle ou la **digitalisation de l’ensemble des données de santé**. Chaque innovation est mise au service d’un seul but : **améliorer l’expérience des patients** en matière de prise en charge santé tout en simplifiant la pratique quotidienne des professionnels de santé.
+
+### Des branches d’innovation spécialisées
+
+Si la HealthTech est particulièrement prolifique avec de nombreuses nouvelles entreprises créées chaque année, les acteurs se sont organisés autour de **3 pôles d’activités principales** :
+
+- **La MedTech**, contraction de médecine et technologie, regroupe les **innovations destinées à l’environnement de soin**, des autotests aux dispositifs de diagnostic médicaux. L’OMS décrit cette branche comme « l'application de connaissances et de compétences organisées sous la forme d'appareils, de médicaments, de vaccins, de procédures et de systèmes développés pour résoudre un problème de santé et améliorer la qualité de vie. »
+- **La BioTech** regroupe l’ensemble des innovations qui mêlent **nouvelles technologies et biologie**, à la croisée des secteurs de l’industrie, de l’environnement et bien sûr de la santé. Parmi les applications concrètes de la BioTechnologie, on trouve notamment des avancées en génétique, en immunologie ou encore dans le domaine des maladies orphelines.
+- **L’e-santé ou la santé connectée** englobe les entreprises qui proposent de nouveaux outils au service de **la transition numérique dans le secteur de la santé**. Parmi les exemples les plus connus ? La célèbre plateforme Doctolib, qui référence les professionnels de santé et proposent un parcours patient complet, de la prise de rendez-vous à l’envoi de documents confidentiels en passant par la consultation en ligne.
+
+## Que représente le marché de la HealthTech en France ?
+
+### Petites entreprises... grandes innovations !
+
+Voir
+
+La HealthTech et ses trois branches cumulées comptent environ **2 000 entreprises en France**. D’après le **Panorama France HealthTech** paru en 2021, les TPE, c’est-à-dire ayant de moins de 10 salariés, représentent environ **50% des entreprises de la filière**. Implantées principalement dans les régions économiques dynamiques (Ile-de-France, Occitanie, Auvergne-Rhône-Alpes), les entreprises se répartissent entre les différentes branches : 1 100 MedTechs, 750 BioTechs et environ 200 start-up d’e-santé.
+
+### Un marché d’emplois qualifiés prometteur
+
+Voir
+
+Le secteur de la HealthTech a beaucoup gagné en **attractivité auprès des travailleurs qualifiés**, jusqu’à rassembler aujourd’hui plus de **10 000 collaborateurs** et même 50 000 si l’on compte les emplois indirects. Selon le Panorama France HealthTech, les postes qui demandent une haute qualification se répartissent entre **la recherche et le développement** (38% des travailleurs) et **la production** (20% des travailleurs). Le reste des collaborateurs se répartit entre toutes **les fonctions supports, notamment le marketing et la communication**. D’ici 2030, la filière prévoit une réelle explosion de la demande d’emplois qualifiés avec plus de **130 000 postes potentiellement à pourvoir**.
+
+Parmi les secteurs des nouvelles technologies, la HealthTech est **l’un des plus paritaires**, avec 47% des emplois occupés par une femme et 53% par un homme.
+
+### Un écosystème économique en plein essor
+
+Voir
+
+En 2019, la HealthTech française cumulait un **chiffre d’affaires de 800 millions d’euros (environ 2,2 millions par entreprise)** soit plus du double d’il y 5 ans. Le développement de la filière est soutenu par des investissements records, grâce à **des levées de fonds dont le montant cumulé s’élève à 2,3 milliards d’euros en 2021**. Le Panorama France HealthTech révèle par ailleurs que les entreprises de HealthTech sont les premières à avoir réussi à lever plus de 100 millions d’euros. Fort de ces investissements massifs, le secteur fait face à de belles perspectives, avec **un chiffre d’affaires prévisionnel de 40 milliards d’euros d’ici 2030**.
+
+## Quel avenir pour la HealthTech ?
+
+### Une forte ambition malgré les contraintes légales
+
+Voir
+
+Malgré une forte ambition du secteur et un **investissement massif de l’Etat** avec plus de 1,2 milliard d’euros en 2021, la HealthTech est encore confrontée à certaines difficultés qui freinent son développement à l’international. Ainsi, selon le Panorama France HealthTech, seules 10% des entreprises déclarent avoir bénéficié d’un avis des autorités de santé françaises sur **leur stratégie de développement et leur mise sur le marché**. Cette opacité du marché de la santé, combinée à une **évolution constante des régulations**, explique la tendance des start-up de la filière à s’expatrier, notamment aux Etats-Unis et en Asie.
+
+La complexité des lois françaises n’a cependant pas effrayé l’ensemble des acteurs du secteur puisque la HealthTech « Made in France » est le **deuxième vivier d’innovation en Europe**, juste après le Royaume-Uni. Le président de l’association BioTech, Franck Mouthon, déclarait par ailleurs dans Le Monde du 16 février 2022 que la filière avait franchi un cap en 2021 et assurait que la France avait **une carte très forte à jouer dans l’innovation et la santé**.
+
+### 3 start-up innovantes à suivre
+
+Voir
+
+Parmi les acteurs de la très active HealthTech, 3 entreprises sont un parfait exemple des solutions que peut apporter la combinaison de l’innovation en matière de santé et des nouvelles technologies. Zoom sur **3 start-up innovantes** à ne pas perdre de vue pendant les prochaines années :
+
+- **Implicity**. Créée en 2016 par Arnaud Rosier, cardiologue et chercheur en intelligence artificielle et David Perlmutter, ingénieur et entrepreneur, cette start-up compile les données récoltées par une plateforme de télésurveillance cardiaque et, grâce à un algorithme prédictif d’intelligence artificielle, parvient à **prédire les anomalies cardiaques chez les patients traités**. Cette solution qui révolutionne la pratique de la cardiologie est déjà déployée dans **plus de 80 hôpitaux et centres médicaux**, traitant ainsi environ 60 000 patients. Si elle est « Made in France », Implicity compte également des bureaux en Allemagne et aux États-Unis.
+- **Invivox**. Comment favoriser les échanges et l’apprentissage entre les professionnels de santé ? C’est la question que s’est posée cette start-up de la e-santé qui leur propose désormais de **se former « en compagnonnage »**, c’est-à-dire les uns aux côtés des autres. Grâce à cette plateforme qui liste les **opportunités d’échanges disponibles**, les professionnels de santé ont ainsi accès des formations partout dans le monde, dans **des hôpitaux et des établissements de renommée internationale**. En 2022, Invivox compte **5 000 formations accessibles** par **200 000 professionnels de santé** connectés au sein de **75 pays**.
+- **Medadom**. Face à la **désertification médicale** et à la **saturation des services d’urgences**, les fondateurs de cette start-up ont voulu proposer une autre solution aux patients que le renoncement aux soins. Ainsi est née Medadom, une plateforme **proposant une consultation avec un médecin généraliste en 10 minutes, 7j/7**. Créée en 2027, Medadom a déjà permis de réaliser plus de **500 000 téléconsultations**. La jeune pousse a également installé des cabines médicales et des bornes connectées, environ 1 600, sur tout le territoire français.
+
+Si les **possibilités d’innovation** vont de pair avec les **avancées technologiques** des prochaines années, la HealthTech n’a pas fini de proposer de **nouvelles solutions pour améliorer l’expérience santé des patients**, que cela soit à travers de nouveaux dispositifs de prise en charge, des médicaments plus performants ou d’outils de diagnostic intelligents. C’est pour **accompagner la croissance de ce secteur prometteur** que l’IMIS forme chaque année en alternance des experts du marketing de la santé ou des affaires règlementaires.
+
+## PARTAGER
+
+[Facebook](https://www.imislyon.com/#facebook) [X](https://www.imislyon.com/#x) [LinkedIn](https://www.imislyon.com/#linkedin) [Email](https://www.imislyon.com/#email) [Print](https://www.imislyon.com/#print)
+
+### Nos dossiers
+
+[![ISB_ANNONCE_IMIS_SLIDER_SITE_JUIN_26 (1).jpg](https://www.imislyon.com/sites/imis/files/igs/2026-06/ISB_ANNONCE_IMIS_SLIDER_SITE_JUIN_26%20%281%29.jpg)](https://www.imislyon.com/actualites/en-septembre-2026-imis-rejoint-igensia-school-business)
+
+[En septembre 2026, IMIS rejoint IGENSIA School of Business](https://www.imislyon.com/actualites/en-septembre-2026-imis-rejoint-igensia-school-business)
+
+[![imis-actu-label-LUCIE-header](https://www.imislyon.com/sites/imis/files/igs/2025-07/imis-actu-label-LUCIE-header.jpg)](https://www.imislyon.com/actualites/groupe-igensia-education-obtient-le-label-lucie-26000)
+
+[Le Groupe IGENSIA Education obtient le label LUCIE 26000 : une reconnaissance majeure pour son engagement RSE](https://www.imislyon.com/actualites/groupe-igensia-education-obtient-le-label-lucie-26000)
+
+[Tous nos dossiers](https://www.imislyon.com/actualites)
+
+### Nos dossiers    Voir
+
+[![ISB_ANNONCE_IMIS_SLIDER_SITE_JUIN_26 (1).jpg](https://www.imislyon.com/sites/imis/files/igs/2026-06/ISB_ANNONCE_IMIS_SLIDER_SITE_JUIN_26%20%281%29.jpg)](https://www.imislyon.com/actualites/en-septembre-2026-imis-rejoint-igensia-school-business)
+
+[En septembre 2026, IMIS rejoint IGENSIA School of Business](https://www.imislyon.com/actualites/en-septembre-2026-imis-rejoint-igensia-school-business)
+
+[![imis-actu-label-LUCIE-header](https://www.imislyon.com/sites/imis/files/igs/2025-07/imis-actu-label-LUCIE-header.jpg)](https://www.imislyon.com/actualites/groupe-igensia-education-obtient-le-label-lucie-26000)
+
+[Le Groupe IGENSIA Education obtient le label LUCIE 26000 : une reconnaissance majeure pour son engagement RSE](https://www.imislyon.com/actualites/groupe-igensia-education-obtient-le-label-lucie-26000)
+
+[Back to top](https://www.imislyon.com/actualites/quel-est-le-marche-de-la-healthtech-en-france#back-to-top)
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://www.imislyon.com/actualites/quel-est-le-marche-de-la-healthtech-en-france#addtoany "Show all")
+
+A2A
+
+Envoyer un message
+
+![Accroche d'attention du chat](https://embed.tawk.to/_s/v4/assets/images/attention-grabbers/168-br.svg)

@@ -1,0 +1,82 @@
+Contactez le service commercial Contactez l'assistance technique Connexion
+# Obligation de facturation électronique en France
+Préparez-vous à la mise en place obligatoire de la facturation électronique en France et assurez une transition en douceur vers le modèle de conformité CTC français grâce à ONESOURCE Pagero.
+## Respectez les exigences en matière de facturation électronique en France
+La France s'attaque à son déficit de TVA grâce à un nouveau modèle de contrôle des transactions qui rend obsolètes les documents papier et les fichiers PDF. Toutes les entreprises devront échanger des factures électroniques conformes via des PA certifiés qui partagent les données avec les autorités fiscales. En tant que premier PDP accrédité en France, Thomson Reuters ONESOURCE Pagero est prêt à vous accompagner dans votre transition.
+#### Facturation électronique automatisée pour les comptes fournisseurs et les comptes clients
+En tant que Plateforme Agréée(PA), ONESOURCE Pagero crée un lien sécurisé entre votre système ERP et l'infrastructure nationale française de facturation électronique et clients deviennent plus rapides, plus précis et entièrement numériques, tout en restant conformes à la réglementation française en matière de facturation et de reporting électroniques.
+Découvrez la facturation électronique
+#### Suivre les soumissions aux autorités françaises
+Lorsque les données de facturation sont soumises, nous gérons l'ensemble du processus d'approbation auprès des autorités françaises. Vous recevrez des notifications claires vous indiquant si votre facture est acceptée ou si elle doit être corrigée, ce qui vous laissera le temps de régler tout problème avant qu'il n'ait une incidence sur le paiement.
+Notre tableau de bord de suivi dédié offre une visibilité complète sur :
+- Les mises à jour du statut des documents
+- Les confirmations d'approbation
+Cette transparence réduit les litiges et garantit la conformité de votre entreprise, quel que soit le nombre de changements réglementaires à venir.
+Explore e-invoicing compliance
+#### Formatage et validation des factures
+À compter du 1er septembre 2026, toutes les entreprises françaises devront être en mesure de recevoir des factures électroniques, tandis que les grandes et moyennes entreprises seront soumises à des obligations supplémentaires en matière d'émission de factures électroniques et de déclaration d'informations spécifiques sur les transactions et les paiements.
+ONESOURCE Pagero propose des solutions de conformité complètes adaptées à ces exigences. Pour les processus de comptabilité fournisseurs, nous transformons les factures entrantes en formats structurés tels que UBL 2.1 et facilitons leur transmission sécurisée directement vers votre système de comptabilité fournisseurs. Du côté des comptes clients, la plateforme ONESOURCE Pagero garantit que les factures sortantes sont méticuleusement validées et formatées conformément aux normes réglementaires françaises
+#### Données détaillées et analyses
+Obtenez des informations en temps réel sur vos processus AP et AR grâce à ONESOURCE Pagero Analytics. Suivez les transactions, détectez les anomalies et optimisez votre trésorerie grâce à des rapports détaillés et à un contrôle de conformité adaptés au paysage réglementaire français.
+Voir la démo interactive des analyses
+## Les avantages de la solution de conformité française ONESOURCE Pagero
+##### Couverture complète du mandat
+Une solution unifiée pour les transactions B2B, B2G et B2C nationales, ainsi que pour la déclaration électronique.
+##### Expertise reconnue en matière de conformité
+Restez à l'avant-garde des exigences en constante évolution grâce à un leader européen reconnu par IDC dans le domaine de la facturation électronique conforme.
+##### Automatisation bien intégrée
+Nous nous connectons directement à vos systèmes existants, minimisant ainsi les perturbations tout en automatisant les flux de documents.
+##### Une solution globale
+Avec une couverture réglementaire dans plus de 80 pays, nous vous aidons à vous conformer à la réglementation en France et bien au-delà.
+## Approfondissez vos connaissances sur l'obligation française en matière de facturation électronique
+### Guide d'expert : les 5 meilleures façons de se préparer à l'obligation de facturation électronique en France
+La mise en place obligatoire de la facturation électronique et du reporting électronique entre entreprises (B2B) à l'échelle nationale en France est en cours, avec une entrée en vigueur prévue à partir de 2026. Téléchargez notre guide sur la facturation électronique obligatoire en France pour découvrir les 5 meilleures façons de préparer votre entreprise et obtenir des conseils d'experts sur les mesures à prendre.
+### Webinaire à la demande : Facturation électronique : France et autres marchés européens
+Rejoignez KPMG France et Thomson Reuters pour découvrir les nouvelles obligations en matière de facturation électronique en France et sur d'autres marchés européens. La discussion portera sur la phase pilote en France et la transformation des processus dans le cadre de la mise en conformité avec la réglementation européenne.
+### Blog : Guide de la facturation électronique en France – Chorus Pro, PPF, PA et OD
+Découvrez les dates importantes, les obligations et les meilleures pratiques concernant la connexion au portail public de facturation et le recours à un prestataire de services certifié (PA) lorsque vous exercez votre activité en France ou que vous traitez avec des entreprises françaises.
+## Suivre les changements réglementaires en France
+Consultez notre page Atlas réglementaire pour la France afin d'accéder aux dernières mises à jour et aux calendriers de mise en œuvre.
+France establishes further regulations to finalize e-invoicing obligations
+France raises 2026 VAT thresholds and recodifies tax law
+No further delay to e-Invoicing mandate – DGFiP publishes official go-live guide
+Voir toutes les ressources
+## Les étapes importantes du mandat français
+### FAQ sur l'obligation de facturation électronique en France
+#### Qu'est-ce que la facturation électronique ?
+La facturation électronique (e-facturation) est l'échange numérique d'informations de facturation directement entre les systèmes logiciels d'un fournisseur et d'un acheteur. Contrairement aux factures PDF envoyées par e-mail, les véritables factures électroniques sont des documents numériques structurés qui peuvent être traités automatiquement sans saisie manuelle des données.
+Les factures électroniques contiennent généralement des formats de données standardisés qui incluent toutes les informations essentielles : détails de la transaction, conditions de paiement, calculs fiscaux et informations sur l'acheteur/le vendeur, le tout présenté sous une forme que les ordinateurs peuvent instantanément comprendre et traiter.
+Selon le cadre français, seuls les formats de données structurés sont considérés comme des factures électroniques valables à des fins fiscales. L'administration fiscale française (DGFIP) a approuvé plusieurs formats qui fonctionnent via son portail public de facturation et des plateformes privées, notamment UBL 2.1, UN/CEFACT CII et Factur-X, auxquels Peppol BIS et EDIFACT ont été ajoutés par la suite. La conclusion ? D'ici 2027, les factures papier traditionnelles et les simples fichiers PDF ne seront plus acceptés. Vous aurez besoin de ces formats structurés et lisibles par machine, conformes à la norme européenne, pour faire des affaires en France.
+Pour en savoir plus sur les avantages de la facturation électronique, cliquez ici et les entreprises de taille intermédiaire (< 5 000 ETP, chiffre d'affaires < 1,5 milliard d'euros) devront être en mesure d'émettre des factures électroniques à compter du 1er septembre 2026.
+Pour les petites et moyennes entreprises (< 250 ETP, chiffre d'affaires < 50 millions d'euros), l'émission de factures électroniques sera obligatoire à partir du 1er septembre 2027.
+Vous trouverez des informations importantes, les dates et les obligations dans notre article ic i.
+#### Ai-je besoin d'un prestataire de services certifié (PA) ?
+Oui. La DGFiP a annoncé que la plateforme publique de facturation (PPF) se limiterait à la collecte de données, les entreprises devant faire appel à un prestataire de services agréé (PA). Les PDP seront chargés de faciliter la transmission entre acheteurs et fournisseurs et de gérer la déclaration électronique des transactions à la PPF.
+Cette évolution voit la France s'orienter vers un modèle de facturation électronique pure à 5 angles. Restez informé des dernières annonces ici en France ?
+Oui, le statut PA (Plateforme Agréé) de Thomson Reuters (anciennement Pagero) a été approuvé par la DGFiP (Direction générale des finances publiques) française, qui reconnaît la sécurité et la qualité de ses services de facturation électronique. Depuis 2016, nous sommes un fournisseur engagé en France, œuvrant à la mise en place d'une infrastructure de facturation électronique évolutive.
+#### Qu'est-ce que le modèle à 5 angles ?
+Le modèle à 5 angles est l'approche française de la facturation électronique obligatoire qui crée un écosystème réunissant cinq acteurs clés travaillant ensemble pour garantir la conformité des échanges de factures et des déclarations.
+Dans ce modèle, les cinq « angles » sont les suivants :
+1. **Fournisseur** — L'entreprise qui envoie la facture.
+2. **Partenaire Agréé du fournisseur** — Le partenaire certifié qui gère les besoins du fournisseur en matière de facturation électronique.
+3. **Portail public (PPF)** — La plateforme centrale du gouvernement français pour l'enregistrement des factures et la déclaration fiscale.
+4. **Partenaire Agréé du client** — Le partenaire certifié qui gère la réception des factures électroniques du client.
+5. **Client** — L'entreprise qui reçoit la facture
+Cette structure permet aux entreprises de travailler avec leurs fournisseurs de plateformes certifiés préférés tout en garantissant que toutes les transactions passent par la plateforme centrale du gouvernement pour assurer la visibilité et la conformité fiscales.
+Pour en savoir plus, consultez notre Guide de la facturation électronique en France est le portail centralisé français pour la gestion de la facturation électronique dans le secteur public. ONESOURCE Pagero est connecté à Chorus Pro et lui envoie des factures électroniques depuis 2016. Nous fournissons un point d'accès unique au système via Peppol pour recevoir les factures électroniques et envoyer les statuts du cycle de vie des factures pour le compte de Chorus Pro.
+#### Qui doit se préparer à l'obligation de facturation électronique en France ?
+Toutes les entreprises françaises doivent se préparer à mettre en place dès que possible des systèmes de facturation et de déclaration électroniques. Cette mesure sera obligatoire pour toutes les entreprises à compter du 1er septembre 2027. Consultez notre guide d'une page sur la réglementation française pour connaître les préparatifs que nous recommandons.
+#### Comment ONESOURCE Pagero peut-il m'aider si mon entreprise opère dans plusieurs pays ?
+La rationalisation de la conformité transfrontalière est notre spécialité.
+Nous aidons les entreprises multinationales à naviguer dans le réseau complexe des réglementations en matière de facturation électronique dans différents pays grâce à :
+- Une **gestion de la conformité sans heurts** dans plus de 80 pays, avec des mises à jour continues à mesure que la législation évolue, afin que vous soyez toujours en avance sur les exigences
+- **Une solution centralisée** qui s'intègre à vos systèmes et gère tous vos besoins en matière de documents électroniques, quel que soit leur emplacement, éliminant ainsi le besoin de multiples solutions régionales
+- La **mise en forme et la validation du contenu** qui convertissent automatiquement vos documents pour répondre aux exigences spécifiques de chaque pays
+- Une **architecture évolutive** qui s'adapte à la croissance de votre entreprise, que vous vous développiez sur un seul nouveau marché ou sur vingt
+Beaucoup de nos clients ont commencé leurs activités dans quelques pays seulement et se sont depuis développés à l'échelle mondiale sans avoir à mettre en place de nouveaux systèmes : notre plateforme s'adapte simplement à leur croissance.
+Avec ONESOURCE Pagero pour plus de détails.
+#### Quel est le niveau de sécurité de la solution ONESOURCE Pagero ?
+Les solutions ONESOURCE Pagero garantissent une sécurité optimale grâce à plusieurs niveaux de protection. Vos données sont protégées par des protocoles complets de protection des données et cryptées tant pendant leur transfert que lorsqu'elles sont stockées. Nous sommes entièrement conformes au RGPD et respectons les réglementations strictes en matière de confidentialité des données sur les marchés mondiaux. Les services cloud d'ONESOURCE Pagero sont certifiés ISO 27001 et Pagero Online est également certifié 27701, ce qui prouve le niveau élevé des pratiques d'ONESOURCE Pagero en matière de sécurité de l'information et de confidentialité des données. Pour en savoir plus sur notre approche en matière de sécurité de l'information, cliquez iciEntreprise ($501MM or more revenue)Gouvernement – FédéralGouvernement - État et LocalAutre
+Pays \*États-UnisRoyaume-UniCanadaAustralieAllemagneFrance\-\-\-----------AfghanistanAfrique du SudAlbanieAlgérieAllemagneAndorreAngolaAnguillaAntarctiqueAntigua-et-BarbudaArabie saouditeArgentineArménieArubaAustralieAutricheAzerbaïdjanBahamasBahreïnBangladeshBarbadeBelgiqueBelizeBéninBermudesBhoutanBiélorussieBolivieBosnie-HerzégovineBotswanaBrésilBruneiBulgarieBurkina FasoBurundiCambodgeCamerounCanadaCap-VertChiliChineChypreColombieComoresCongo-BrazzavilleCongo-KinshasaCorée du NordCorée du SudCosta RicaCôte d’IvoireCroatieCubaCuraçaoDanemarkDjiboutiDominiqueÉgypteÉmirats arabes unisÉquateurÉrythréeEspagneEstonieEswatiniÉtat de la Cité du VaticanÉtats-UnisÉthiopieFidjiFinlandeFranceGabonGambieGéorgieGéorgie du Sud-et-les Îles Sandwich du SudGhanaGibraltarGrèceGrenadeGroenlandGuadeloupeGuamGuatemalaGuerneseyGuinéeGuinée équatorialeGuinée-BissauGuyanaGuyane françaiseHaïtiHondurasHongrieÎle BouvetÎle ChristmasÎle de ManÎle NorfolkÎles ÅlandÎles CaïmansÎles CocosÎles CookÎles FéroéÎles Heard-et-MacDonaldÎles MalouinesÎles Mariannes du NordÎles MarshallÎles mineures éloignées des États-UnisÎles PitcairnÎles SalomonÎles Turques-et-CaïquesÎles Vierges britanniquesÎles Vierges des États-UnisIndeIndonésieIrakIranIrlandeIslandeIsraëlItalieJamaïqueJaponJerseyJordanieKazakhstanKenyaKirghizstanKiribatiKosovoKoweïtLa RéunionLaosLesothoLettonieLibanLiberiaLibyeLiechtensteinLituanieLuxembourgMacédoine du NordMadagascarMalaisieMalawiMaldivesMaliMalteMarocMartiniqueMauriceMauritanieMayotteMexiqueMicronésieMoldavieMonacoMongolieMonténégroMontserratMozambiqueMyanmar (Birmanie)NamibieNauruNépalNicaraguaNigerNigeriaNiueNorvègeNouvelle-CalédonieNouvelle-ZélandeOmanOugandaOuzbékistanPakistanPalaosPanamaPapouasie-Nouvelle-GuinéeParaguayPays-BasPays-Bas caribéensPérouPhilippinesPolognePolynésie françaisePorto RicoPortugalQatarR.A.S. chinoise de Hong KongR.A.S. chinoise de MacaoRépublique centrafricaineRépublique dominicaineRoumanieRoyaume-UniRussieRwandaSahara occidentalSaint-BarthélemySaint-Christophe-et-NiévèsSaint-MarinSaint-MartinSaint-Martin (partie néerlandaise)Saint-Pierre-et-MiquelonSaint-Vincent-et-les GrenadinesSainte-HélèneSainte-LucieSalvadorSamoaSamoa américainesSao Tomé-et-PrincipeSénégalSerbieSeychellesSierra LeoneSingapourSlovaquieSlovénieSomalieSoudanSoudan du SudSri LankaSuèdeSuisseSurinameSvalbard et Jan MayenSyrieTadjikistanTaïwanTanzanieTchadTchéquieTerres australes françaisesTerritoire britannique de l’océan IndienTerritoires palestiniensThaïlandeTimor orientalTogoTokelauTongaTrinité-et-TobagoTunisieTurkménistanTurquieTuvaluUkraineUruguayVanuatuVenezuelaViêt NamWallis-et-FutunaYémenZambieZimbabwe
+Oui, je souhaite recevoir des emails concernant les solutions, événements et analyses commerciales de Thomson Reuters. Je peux me désabonner à tout moment.
+En soumettant ce formulaire, vous acceptez que Thomson Reuters vous contactent en lien avec cette demande et/ou pour vous envoyer les documents demandés. Des informations sur la manière dont nous traitons vos données personnelles se trouvent dans la Déclaration de confidentialité de Thomson Reuters.

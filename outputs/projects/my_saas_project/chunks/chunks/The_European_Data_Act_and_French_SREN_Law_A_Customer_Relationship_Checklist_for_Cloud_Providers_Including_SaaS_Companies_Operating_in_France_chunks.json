@@ -1,0 +1,500 @@
+[
+    {
+        "chunk_id": "99bdf1bb89f48ba4",
+        "content": "3. The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+        "metadata": {
+            "chunk_id": "99bdf1bb89f48ba4",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "3. The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "token_count": 22,
+            "character_count": 146,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "28e6f8831ec58b15_1",
+        "content": "# The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France\n12 minute read \\| June.25.2024\n_For more information about France’s SREN law, see our update that provides five key takeaways for businesses._\nTwo new laws impose an array of obligations and restrictions on cloud providers in France.\nFirst, the European Parliament passed the Data Act in December 2023, a wide-ranging law that seeks to make it easier to share and circulate data to increase competitiveness and innovation and to switch between cloud providers. The Data Act harmonized rules in Europe on fair access to and use of data. The relevant provisions take effect in September 2025.\nThen, in May 2024, a law took effect in France that imposes similar obligations on data processing – before similar portions of the Data Act take effect.",
+        "metadata": {
+            "chunk_id": "28e6f8831ec58b15_1",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France"
+            ],
+            "section_title": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France\n12 minute read \\| June.25.2024\n_For more information about France’s SREN law, see our update that provides five key takeaways for businesses._\nTwo new laws impose an array of obligations and restrictions on cloud providers in France.\nFirst, the European Parliament passed the Data Act in December 2023, a wide-ranging law that seeks to make it easier to ",
+            "token_count": 145,
+            "character_count": 890,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cd266374798e5d43_2",
+        "content": "As a result, cloud providers that offer services in France cannot wait for the Data Act requirements to kick in – they must comply now with the French law, known as the SREN law ( _Loi Visant à Sécuriser et à Réguler l’Espace Numérique_).\nHow will these laws affect cloud providers in France? What should a company do to comply? Consult the table below to find out – and peruse our Q&A section below providing further background and guidance to help companies navigate the complexities of these legal frameworks.\n**Checklist for Cloud Providers**\n1. Reconsidering Commercial Practices\n2. Complying with Transparency Obligations\n3. Reviewing Contractual Terms\n5. Reconsidering Obstacles to Changing Cloud Providers\n**A Deeper Dive: Key Questions and Answers About the Data Act and the SREN Law**\n1. Who do the laws affect?\n2. What are goals of the law?\n3. What do we mean by “cloud providers?”\n4. When do relevant provisions of the laws take effect?\n5. What are key obligations the law imposes?\n6.",
+        "metadata": {
+            "chunk_id": "cd266374798e5d43_2",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France"
+            ],
+            "section_title": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "heading_level": 1,
+            "chunk_type": "unstructured",
+            "content": "As a result, cloud providers that offer services in France cannot wait for the Data Act requirements to kick in – they must comply now with the French law, known as the SREN law ( _Loi Visant à Sécuriser et à Réguler l’Espace Numérique_).\nHow will these laws affect cloud providers in France? What should a company do to comply? Consult the table below to find out – and peruse our Q&A section below providing further background and guidance to help companies navigate the complexities of these legal",
+            "token_count": 168,
+            "character_count": 996,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8c8b5eb930bc0397_3",
+        "content": "## Checklist for Cloud Providers\nThe following checklist will help cloud providers assess what they need to do concerning relationships with customers under these new regulations. We have noted whether there is an obligation under the Data Act without any France-specific provision and/or SREN law provisions that are unique to the provision of services in France.\n| **Topic** | **Considerations** | **Data Law** |\n| **1\\. Reconsidering Commercial Practices** | **Are open-ended cloud credits offered to the cloud provider’s customers? Are these credits granted in exchange of an exclusivity commitment?** Companies that offer cloud credits should reconsider this practice. The SREN law (Article 26) prohibits cloud providers from granting open-ended cloud credits and cloud credits granted subject to a condition of exclusivity. A supplementary regulation is expected to define a maximum period of validity for each category of cloud credits.; | SREN law provisions.",
+        "metadata": {
+            "chunk_id": "8c8b5eb930bc0397_3",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Checklist for Cloud Providers\nThe following checklist will help cloud providers assess what they need to do concerning relationships with customers under these new regulations. We have noted whether there is an obligation under the Data Act without any France-specific provision and/or SREN law provisions that are unique to the provision of services in France.\n| **Topic** | **Considerations** | **Data Law** |\n| **1\\. Reconsidering Commercial Practices** | **Are open-ended cloud credits offered",
+            "token_count": 144,
+            "character_count": 967,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1f55f22c9adf8ab7_4",
+        "content": "|\n| **Are open-ended cloud credits offered to the cloud provider’s customers? Are these credits granted in exchange of an exclusivity commitment?** Companies that offer cloud credits should reconsider this practice. The SREN law (Article 26) prohibits cloud providers from granting open-ended cloud credits and cloud credits granted subject to a condition of exclusivity. A supplementary regulation is expected to define a maximum period of validity for each category of cloud credits. | SREN law provisions. |\n| **Are conditional sales included in the cloud provider’s practices/contracts?** Cloud providers whose practices include conditional sales should make sure that does not constitute an unfair commercial practice. The SREN law (Article 26) prohibits providers from making the sale of a product/service conditional upon the simultaneous conclusion of a contract to provide cloud services, where this constitutes an unfair commercial practice under French law. | SREN law provisions.",
+        "metadata": {
+            "chunk_id": "1f55f22c9adf8ab7_4",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "|\n| **Are open-ended cloud credits offered to the cloud provider’s customers? Are these credits granted in exchange of an exclusivity commitment?** Companies that offer cloud credits should reconsider this practice. The SREN law (Article 26) prohibits cloud providers from granting open-ended cloud credits and cloud credits granted subject to a condition of exclusivity. A supplementary regulation is expected to define a maximum period of validity for each category of cloud credits. | SREN law pro",
+            "token_count": 145,
+            "character_count": 991,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "772a954a2d969ac3_5",
+        "content": "|\n| If software is provided as part of the cloud providers’ services (as opposed to IaaS or PaaS), are the pricing/functional terms different compared with when provided through a third-party service? It’s important to justify any difference in pricing/functional terms. The SREN law (Article 26) says cloud providers that also provide software may not provide software to a customer through a third-party cloud provider on pricing and functional terms that differ significantly from those under which the cloud provider provides the same software through its own cloud service if such differences are not justified (“ _autopréférence_”). | SREN law provisions. |\n| **Does the cloud provider’s website contain information concerning the location of the infrastructure used to provide services and measures taken to prevent access to or transfer of data conflicting with EU law? Is information provided on environmental considerations?",
+        "metadata": {
+            "chunk_id": "772a954a2d969ac3_5",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "|\n| If software is provided as part of the cloud providers’ services (as opposed to IaaS or PaaS), are the pricing/functional terms different compared with when provided through a third-party service? It’s important to justify any difference in pricing/functional terms. The SREN law (Article 26) says cloud providers that also provide software may not provide software to a customer through a third-party cloud provider on pricing and functional terms that differ significantly from those under whic",
+            "token_count": 141,
+            "character_count": 934,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "beba68797dc5a8c3_6",
+        "content": "**Cloud providers should add this information to their websites if it is not already there.The Data Act (article 28(1)) requires cloud providers to disclose on their websites:- Details on the jurisdiction with laws and regulations governing the information and communication technology (ICT) infrastructure used for data processing.- A description of the technical, organizational and contractual measures adopted to prevent international governmental access to or transfer of non-personal data held in the EU if that would conflict with EU law or the national law of the relevant Member State.Customer contracts must also refer to the websites where this information is provided.The SREN law (Article 33) provides a similar obligation. It also requires cloud providers to include information on their websites about the environmental footprint of the services, including carbon footprint, water consumption and energy consumption.",
+        "metadata": {
+            "chunk_id": "beba68797dc5a8c3_6",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "**Cloud providers should add this information to their websites if it is not already there.The Data Act (article 28(1)) requires cloud providers to disclose on their websites:- Details on the jurisdiction with laws and regulations governing the information and communication technology (ICT) infrastructure used for data processing.- A description of the technical, organizational and contractual measures adopted to prevent international governmental access to or transfer of non-personal data held ",
+            "token_count": 134,
+            "character_count": 931,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c2473b75f403f35b_7",
+        "content": "| Obligations imposed under the Data Act and France-specific provisions under the SREN law. |\n| **3\\. Reviewing Contractual Terms** | **Do customer contracts contain the rights of the customer and obligations of the cloud provider in relation to switching cloud providers?** Companies should ensure that customer contracts include this information. The Data Act (Article 25) grants rights to customers in relation to switching cloud providers within a given timeline. The Data Act also requires companies to provide information on switching charges, exportable data and their full erasure. These rights, obligations and associated information must be provided in a contract that shall be made available to the customer before signing in a way that allows the customer to store and reproduce it. The SREN law (Article 27) contains the same requirement.",
+        "metadata": {
+            "chunk_id": "c2473b75f403f35b_7",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "| Obligations imposed under the Data Act and France-specific provisions under the SREN law. |\n| **3\\. Reviewing Contractual Terms** | **Do customer contracts contain the rights of the customer and obligations of the cloud provider in relation to switching cloud providers?** Companies should ensure that customer contracts include this information. The Data Act (Article 25) grants rights to customers in relation to switching cloud providers within a given timeline. The Data Act also requires compa",
+            "token_count": 131,
+            "character_count": 851,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f492d4cbe6da9cfe_8",
+        "content": "It adds that, for contracts already in force when the SREN law took effect, providers shall inform customers of the nature and amount of the data transfer charges and switching charges. | Obligations imposed under the Data Act and France-specific provisions under the SREN law. |\n| **4\\. Product Adaptations** | **Are processes in place to help customers achieve functional equivalence when switching provider?** Cloud providers will need to adapt processes if they provide services limited to infrastructural elements (servers, networks, virtual resources) The Data Act (Article 30(1)) requires cloud providers to take all reasonable measures so the customer, after switching cloud providers, achieves functional equivalence in using the new cloud provider’s service. Cloud providers must facilitate switching by providing capabilities, information, documentation, technical support and, where appropriate, necessary tools.",
+        "metadata": {
+            "chunk_id": "f492d4cbe6da9cfe_8",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "It adds that, for contracts already in force when the SREN law took effect, providers shall inform customers of the nature and amount of the data transfer charges and switching charges. | Obligations imposed under the Data Act and France-specific provisions under the SREN law. |\n| **4\\. Product Adaptations** | **Are processes in place to help customers achieve functional equivalence when switching provider?** Cloud providers will need to adapt processes if they provide services limited to infras",
+            "token_count": 130,
+            "character_count": 924,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2c4bd98c39a8edcf_9",
+        "content": "If services provided by the cloud provider are not limited to infrastructural elements, customers must receive information to facilitate the switching process. The Data Act ( Article 30(2)) requires cloud providers to make available open interfaces with information to facilitate switching (Article 30(2)) and ensure compatibility with interoperability standards when these standards are published. In the absence of harmonized standards, cloud providers should, at the request of the customer, export all exportable data in a structured, commonly used and machine-readable format. The SREN law includes interoperability and portability requirements that are not yet specified._Exemptions apply to services that mainly consist of features or components that are custom-built or developed for the specific needs of a customer and pre-release versions._ | Obligations imposed under the Data Act and France-specific provisions under the SREN law. |\n| **5\\.",
+        "metadata": {
+            "chunk_id": "2c4bd98c39a8edcf_9",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "If services provided by the cloud provider are not limited to infrastructural elements, customers must receive information to facilitate the switching process. The Data Act ( Article 30(2)) requires cloud providers to make available open interfaces with information to facilitate switching (Article 30(2)) and ensure compatibility with interoperability standards when these standards are published. In the absence of harmonized standards, cloud providers should, at the request of the customer, expor",
+            "token_count": 136,
+            "character_count": 953,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "73e4ec2b3ec707bb_10",
+        "content": "Reconsidering Obstacles to Changing Cloud Provider** | **Do contractual and operational practices create obstacles that restrict the ability of customers to easily change cloud providers?**The Data Act (Article 23) prohibits cloud providers from imposing obstacles that inhibit customers from:- Terminating the agreement after switching.- Concluding new contracts with a different provider covering the same services.- Porting customer’s data to a different provider or an on-premises infrastructure.- Achieving functional equivalence in the use of a new provider.- Unbundling cloud services that do not provide access to the operating services or software stored or deployed on infrastructural elements from services that provide access to such operating services or software.Cloud providers need to cooperate to make the switching process effective, enable the timely transfer of data and maintain the continuity of the cloud service (Article 27).",
+        "metadata": {
+            "chunk_id": "73e4ec2b3ec707bb_10",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "Checklist for Cloud Providers"
+            ],
+            "section_title": "Checklist for Cloud Providers",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Reconsidering Obstacles to Changing Cloud Provider** | **Do contractual and operational practices create obstacles that restrict the ability of customers to easily change cloud providers?**The Data Act (Article 23) prohibits cloud providers from imposing obstacles that inhibit customers from:- Terminating the agreement after switching.- Concluding new contracts with a different provider covering the same services.- Porting customer’s data to a different provider or an on-premises infrastructure.",
+            "token_count": 133,
+            "character_count": 949,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c6f31b8199c29226",
+        "content": "### Who do the laws affect?\nBoth laws appear to target software providers that make products available in the cloud.\n- The Data Act refers to SaaS as one of the three fundamental data processing models. The EU Commission also refers to SaaS as a data processing service in online guidance, including this one implements provisions of the Data Act relating to providing data processing services before the Data Act provisions take effect.",
+        "metadata": {
+            "chunk_id": "c6f31b8199c29226",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "A Deeper Dive: Key Questions and Answers About the Data Act and the SREN Law",
+                "Who do the laws affect?"
+            ],
+            "section_title": "Who do the laws affect?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Who do the laws affect?\nBoth laws appear to target software providers that make products available in the cloud.\n- The Data Act refers to SaaS as one of the three fundamental data processing models. The EU Commission also refers to SaaS as a data processing service in online guidance, including this one implements provisions of the Data Act relating to providing data processing services before the Data Act provisions take effect.",
+            "token_count": 73,
+            "character_count": 437,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4d30d82e705be094",
+        "content": "### What do we mean by “cloud providers?”\n- The Data Act defines a “data processing service” as “a digital service that is provided to a customer and that enables ubiquitous and on-demand network access to a shared pool of configurable, scalable and elastic computing resources of a centralized, distributed or highly distributed nature that can be rapidly provisioned and released with minimal management effort or service provider interaction.”\n- The SREN law defines a “cloud computing service” the same way.\n- This overview refers to “data processing services” and “cloud computing services” as “cloud providers.”",
+        "metadata": {
+            "chunk_id": "4d30d82e705be094",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "A Deeper Dive: Key Questions and Answers About the Data Act and the SREN Law",
+                "What do we mean by “cloud providers?”"
+            ],
+            "section_title": "What do we mean by “cloud providers?”",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### What do we mean by “cloud providers?”\n- The Data Act defines a “data processing service” as “a digital service that is provided to a customer and that enables ubiquitous and on-demand network access to a shared pool of configurable, scalable and elastic computing resources of a centralized, distributed or highly distributed nature that can be rapidly provisioned and released with minimal management effort or service provider interaction.”\n- The SREN law defines a “cloud computing service” th",
+            "token_count": 96,
+            "character_count": 617,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d39f615e0bb20635",
+        "content": "### When do relevant provisions of the laws take effect?\n- The relevant portions of the Data Act take effect on 12 September 2025.\n- The SREN law applies as of 21 May 2024.\n- Some provisions of the SREN law concerning cloud providers anticipate Data Act requirements. Those provisions will apply to companies doing business in France from now through 12 January 2027.",
+        "metadata": {
+            "chunk_id": "d39f615e0bb20635",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "A Deeper Dive: Key Questions and Answers About the Data Act and the SREN Law",
+                "When do relevant provisions of the laws take effect?"
+            ],
+            "section_title": "When do relevant provisions of the laws take effect?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### When do relevant provisions of the laws take effect?\n- The relevant portions of the Data Act take effect on 12 September 2025.\n- The SREN law applies as of 21 May 2024.\n- Some provisions of the SREN law concerning cloud providers anticipate Data Act requirements. Those provisions will apply to companies doing business in France from now through 12 January 2027.",
+            "token_count": 64,
+            "character_count": 367,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "20979c7934578359",
+        "content": "### What are key obligations the law imposes?\n- The rights and obligations under the Data Act include an obligation to inform, share data and provide data in standard formats; incentives for investing in data; a public entity’s right to access data and measures meant to facilitate data portability and rebalance micro-, small- and medium-sized enterprises.\n- The SREN law contains obligations and restrictions similar to those in the Data Act plus a few others. The SREN law provisions that do not overlap with the Data Act will continue to apply after 12 January 2027.",
+        "metadata": {
+            "chunk_id": "20979c7934578359",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "A Deeper Dive: Key Questions and Answers About the Data Act and the SREN Law",
+                "What are key obligations the law imposes?"
+            ],
+            "section_title": "What are key obligations the law imposes?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### What are key obligations the law imposes?\n- The rights and obligations under the Data Act include an obligation to inform, share data and provide data in standard formats; incentives for investing in data; a public entity’s right to access data and measures meant to facilitate data portability and rebalance micro-, small- and medium-sized enterprises.\n- The SREN law contains obligations and restrictions similar to those in the Data Act plus a few others. The SREN law provisions that do not o",
+            "token_count": 95,
+            "character_count": 570,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "82f30531719e5292",
+        "content": "### Are any cloud providers exempt?\nCloud providers are exempt from some obligations imposed by both laws when the services provided:\n- Mainly consist of features or components that are custom-built or developed for the specific needs of a customer.\nIf an exemption applies, the service provider will need to mention this in its customer agreements. These exemptions are identified in the table above.\n_If you have questions about this update, reach out to_ _Julia Apostle_ _._",
+        "metadata": {
+            "chunk_id": "82f30531719e5292",
+            "parent_doc": "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+            "source_url": "https://www.orrick.com/en/Insights/2024/06/A-Customer-Relationship-Checklist-for-Cloud-Providers-Including-SaaS-Companies-Operating-in-France",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "réglementation protection données SaaS restauration France 2024 risques légaux",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+            "heading_path": [
+                "The European Data Act and French SREN Law: A Customer Relationship Checklist for Cloud Providers, Including SaaS Companies, Operating in France",
+                "A Deeper Dive: Key Questions and Answers About the Data Act and the SREN Law",
+                "Are any cloud providers exempt?"
+            ],
+            "section_title": "Are any cloud providers exempt?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Are any cloud providers exempt?\nCloud providers are exempt from some obligations imposed by both laws when the services provided:\n- Mainly consist of features or components that are custom-built or developed for the specific needs of a customer.\nIf an exemption applies, the service provider will need to mention this in its customer agreements. These exemptions are identified in the table above.\n_If you have questions about this update, reach out to_ _Julia Apostle_ _._",
+            "token_count": 77,
+            "character_count": 477,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:02:01.114258+00:00",
+            "extra": {}
+        }
+    }
+]

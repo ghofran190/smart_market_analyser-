@@ -1,0 +1,32 @@
+# 5 Forces de Porter - Le marché de la restauration
+## Résumé du document
+Les restaurateurs répondent avant tout à un besoin physiologique : la nécessité de manger. Toutefois, ce besoin étant désormais comblé pour une grande majorité de la population, les clients ont peu à peu réclamé des solutions de repas plus élaborées, ce qui a abouti aujourd'hui à un marché colossal et à une activité économique à part entière.
+## Sommaire
+1. Le marché de la restauration
+2. La concurrence intra-sectorielle
+3. Le pouvoir de négociation des fournisseurs
+4. Le pouvoir de négociation des clients
+5. La menace de nouveaux entrants
+6. Les produits de substitution
+Accédez gratuitement au plan de ce document en vous connectant.
+## Extraits
+\[...\] Enfin, les acteurs de la restauration traditionnelle sont en concurrence avec les acteurs de la restauration collective (Sodexo, Elior, etc.) qui sont implantés dans les entreprises, les universités, les hôpitaux ou les écoles et qui concurrencent donc en partie les restaurateurs indépendants. Le pouvoir de négociation des fournisseurs Globalement, le pouvoir de négociation des fournisseurs varie énormément selon le type d'acteurs concernés. D'abord, les petites structures indépendantes sont particulièrement sujettes aux variations de prix de leurs fournisseurs (Metro, Sysco, etc.) et ne sont pas réellement en mesure d'imposer leurs tarifs. Ils sont donc tributaires de l'évolution des prix en amont de la filière (du côté des industriels par exemple). \[...\]
+\[...\] Finalement, le pouvoir de négociation des fournisseurs ne répond pas à une logique de segments (restauration traditionnelle, rapide et collective) mais plutôt de taille. Les grands groupes du secteur seront davantage capables d'obtenir des tarifs avantageux auprès de leurs fournisseurs, à l'inverse des acteurs indépendants qui ne commandent pas des volumes suffisamment importants pour réclamer des baisses tarifaires. Le pouvoir de négociation des clients Dans la restauration, le pouvoir de négociation des clients est grand. S'il existe bien un domaine où " le client est roi il s'agit de la restauration. \[...\]
+\[...\] Ces jeunes poussent et attirent une clientèle jeune et branchée qui privilégie ces nouveaux établissements aux acteurs traditionnels du marché. Les produits de substitution La restauration est concurrencée par toutes les autres solutions d'alimentation existantes. Première d'entre elles et plus importante : la grande distribution. Premier lieu d'alimentation des Français (qui couvrent environ les deux tiers de leurs repas), le marché de la grande distribution représente environ 190 MdEuro en France, soit plus de 4x plus que celui de la restauration. \[...\]
+\[...\] Surtout, les restaurants traditionnels doivent faire face à l'émergence de nouveaux acteurs, notamment dans les grandes villes. Il s'agit d'établissements davantage connectés, communiquant mieux sur les réseaux sociaux ou encore positionnés sur des segments porteurs (comme le véganisme, le bio, etc.). Ces jeunes poussent et attirent une clientèle jeune et branchée qui se privilégie ces nouveaux établissements aux acteurs de la restauration traditionnelle. Dans le même temps, les acteurs traditionnels du marché sont concurrencés par les majors de la restauration rapide (McDonald's, Burger King, O'Tacos, etc.). \[...\]
+\[...\] De nombreux consommateurs qui ne souhaitaient également plus sortir de chez eux par peur d'attraper le virus ont opté, à court terme, pour les produits proposés par la grande distribution (et aussi en livraison). Les autres solutions alimentaires de vente au détail (marché de plein air, petits commerces) concurrencent aussi les restaurateurs. En outre, la restauration est également concurrencée par les spécialistes des repas traiteurs (certaines boucheries, boulangeries ou autres indépendantes) qui livrent de plus en plus leurs produits au domicile des Français. Ces solutions séduisent les consommateurs en quête de praticité et de solution d'alimentation de qualité. Enfin, la présence de food trucks constitue une forme de concurrence pour les restaurateurs. \[...\]
+## Thèmes abordés
+Analyse PORTER, marché de la restauration, restaurateurs, besoin physiologique, nécessité de manger, clients, solutions de repas, chiffre d'affaires de la restauration, crise sanitaire, revenus, livraison de repas à domicile, digitalisation de leur activité, restauration traditionnelle, restauration rapide, restauration collective, concurrence intra-sectorielle, rayonnement touristique, concurrence acharnée, zones à forte densité urbaine, centres-villes, régions touristiques, réseaux sociaux, segments porteurs, McDonald's, Burger King, lieux stratégiques, budgets publicité, pouvoir de négociation des fournisseurs, petites structures indépendantes, tarifs avantageux, pouvoir de négociation des clients, Tripadvisor, systèmes d'avis, emplacement, clientèle régulière, réputation, bad buzz, scandale alimentaire, boycotter, menace de nouveaux entrants, idées innovantes, véganisme, produits de substitution, grande distribution, livraison, vente au détail, marché de plein air, petits commerces, spécialistes, repas traiteurs, food trucks
+AutoTaille du documentTaille de la pagePleine page50050000%
+Commandez une rédaction : Étude de cas en Marketing de la restauration sur mesure
+Vous aimeriez une version plus récente de ce document ?Contactez-nous !
+- Analyse stratégique du marché des jeux vidéo : SWOT, PESTEL, Porter, BCG, et stratégie RH - Visiocom
+- Les entreprises de cosmétiques en quête de naturel - Stratégie de marque et marketing digital chez Aroma-Zone
+- Analyses PESTEL, SWOT, Porter et mix marketing - Lush Cosmetics
+- Analyse marketing de Playmobil
+- Projet de Chef-d'oeuvre - Carnet des cocktails
+- Bar : création du Bloody Orange - Baccalauréat professionnel commercialisation et services en restauration
+- Organisation d'un service d'une grande table - Baccalauréat professionnel commercialisation et services en restauration
+- Gérer les réclamations et les objections éventuelles - Baccalauréat professionnel commercialisation et services en restauration
+- Le service inclus a-t-il un impact négatif sur la qualité du service offert aux clients ? - Article académique
+Voir tous les documents en marketing de la restauration ›

@@ -1,0 +1,621 @@
+[
+    {
+        "chunk_id": "77cb6f12d7ea9a1a_0",
+        "content": "# 🖥️Logiciel médical\n_Trente ans qu'ils promettent de vous faire gagner du temps. Vous êtes toujours là à 20h._\nLe logiciel médical — ou LGC (Logiciel de Gestion de Cabinet) — est devenu le système nerveux central du cabinet : dossier patient, prescription, facturation, télétransmission. Changer d'outil ressemble moins à une mise à jour qu'à un déménagement — des mois de transition, des données à migrer, une équipe à reformer.\nLe problème n'est pas le manque de fonctionnalités — c'est souvent l'inverse. Les éditeurs empilent les modules, la plupart des médecins n'en utilisent qu'une fraction. L'ergonomie, elle, peine parfois à suivre : interfaces vieillissantes, flux de travail des années 2000, interopérabilité encore trop rare.\n_Trois questions avant de signer : la migration de vos données est-elle incluse et garantie ? L'outil est-il certifié HAS et compatible Mon Espace Santé ? Peut-on y connecter appareils médicaux, agenda externe, IA scribe ?",
+        "metadata": {
+            "chunk_id": "77cb6f12d7ea9a1a_0",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical"
+            ],
+            "section_title": "🖥️Logiciel médical",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# 🖥️Logiciel médical\n_Trente ans qu'ils promettent de vous faire gagner du temps. Vous êtes toujours là à 20h._\nLe logiciel médical — ou LGC (Logiciel de Gestion de Cabinet) — est devenu le système nerveux central du cabinet : dossier patient, prescription, facturation, télétransmission. Changer d'outil ressemble moins à une mise à jour qu'à un déménagement — des mois de transition, des données à migrer, une équipe à reformer.\nLe problème n'est pas le manque de fonctionnalités — c'est souvent l'",
+            "token_count": 150,
+            "character_count": 961,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "daa3c127ebf54874",
+        "content": "### Premiocare\nJeune LGC avec dossier patient construit autour d'une \"ligne de vie\", assez différenciante et agréable à utiliser. A voir si cela suffit pour se faire sa place !",
+        "metadata": {
+            "chunk_id": "daa3c127ebf54874",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Premiocare"
+            ],
+            "section_title": "Premiocare",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Premiocare\nJeune LGC avec dossier patient construit autour d'une \"ligne de vie\", assez différenciante et agréable à utiliser. A voir si cela suffit pour se faire sa place !",
+            "token_count": 30,
+            "character_count": 176,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "388b7c1734b17c2a",
+        "content": "### Medimust\nPas en ligne, mais complet, robuste, et avec toutes les labellisations et fonctionnalités possibles. Toujours un… must ?",
+        "metadata": {
+            "chunk_id": "388b7c1734b17c2a",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Medimust"
+            ],
+            "section_title": "Medimust",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Medimust\nPas en ligne, mais complet, robuste, et avec toutes les labellisations et fonctionnalités possibles. Toujours un… must ?",
+            "token_count": 20,
+            "character_count": 133,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "da8b0429df1d6ca9",
+        "content": "### DrSanté\nDesign simple avec beau potentiel d’efficacité, mais difficilement personnalisable. Accès à distance, mais pas dans le cloud.",
+        "metadata": {
+            "chunk_id": "da8b0429df1d6ca9",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "DrSanté"
+            ],
+            "section_title": "DrSanté",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### DrSanté\nDesign simple avec beau potentiel d’efficacité, mais difficilement personnalisable. Accès à distance, mais pas dans le cloud.",
+            "token_count": 19,
+            "character_count": 137,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e382d726f06f24d0",
+        "content": "### XMED\nXMED est un OVNI : logiciel porté par une association au début des années 2000, toujours valeureux (et qui passe le Ségur en 2024 !), mais qui souffre de son manque d'évolution. Racheté par Olaqin en 2025.",
+        "metadata": {
+            "chunk_id": "e382d726f06f24d0",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "XMED"
+            ],
+            "section_title": "XMED",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### XMED\nXMED est un OVNI : logiciel porté par une association au début des années 2000, toujours valeureux (et qui passe le Ségur en 2024 !), mais qui souffre de son manque d'évolution. Racheté par Olaqin en 2025.",
+            "token_count": 39,
+            "character_count": 214,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a70a1ae72acc6e96",
+        "content": "### MEDILINK\nGros potentiel notamment en pluriprofessionnalité, mais quelques problèmes de fiabilité.",
+        "metadata": {
+            "chunk_id": "a70a1ae72acc6e96",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "MEDILINK"
+            ],
+            "section_title": "MEDILINK",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### MEDILINK\nGros potentiel notamment en pluriprofessionnalité, mais quelques problèmes de fiabilité.",
+            "token_count": 12,
+            "character_count": 101,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c3fd77409ed69f9a",
+        "content": "### easy-care\nAprès un lâchage en rase campagne par Orisha, easy-care est bien repris en mains par sa maison-mère Calimed et propose désormais un logiciel bien assemblé avec un soupçon d'IA dedans.",
+        "metadata": {
+            "chunk_id": "c3fd77409ed69f9a",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "easy-care"
+            ],
+            "section_title": "easy-care",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### easy-care\nAprès un lâchage en rase campagne par Orisha, easy-care est bien repris en mains par sa maison-mère Calimed et propose désormais un logiciel bien assemblé avec un soupçon d'IA dedans.",
+            "token_count": 32,
+            "character_count": 197,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8b1bdd583554c832",
+        "content": "### Med'Oc\nSolution pas aussi régionale que son nom le suggère, mais surtout orientée spécialistes et MMGs.",
+        "metadata": {
+            "chunk_id": "8b1bdd583554c832",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Med'Oc"
+            ],
+            "section_title": "Med'Oc",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Med'Oc\nSolution pas aussi régionale que son nom le suggère, mais surtout orientée spécialistes et MMGs.",
+            "token_count": 17,
+            "character_count": 107,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7cc13c3dcd82dec8",
+        "content": "### Weda\nUn logiciel avec tant de possibilités qu’on aurait aimé une meilleure ergonomie pour pouvoir les utiliser.",
+        "metadata": {
+            "chunk_id": "7cc13c3dcd82dec8",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Weda"
+            ],
+            "section_title": "Weda",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Weda\nUn logiciel avec tant de possibilités qu’on aurait aimé une meilleure ergonomie pour pouvoir les utiliser.",
+            "token_count": 18,
+            "character_count": 115,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6250c6caaf445ef4",
+        "content": "### Acteur.fr\nPlutôt axé centres de santé, mais également présent en libéral. Racheté par Compugroup Medical (CGM) en 2021, on espère pour le meilleur.",
+        "metadata": {
+            "chunk_id": "6250c6caaf445ef4",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Acteur.fr"
+            ],
+            "section_title": "Acteur.fr",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Acteur.fr\nPlutôt axé centres de santé, mais également présent en libéral. Racheté par Compugroup Medical (CGM) en 2021, on espère pour le meilleur.",
+            "token_count": 24,
+            "character_count": 151,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "befbc8da244429d7",
+        "content": "### Follow\nRécent et efficace, mais aujourd'hui surtout pour les spécialistes, voire pour les chirurgiens et anesthésistes.",
+        "metadata": {
+            "chunk_id": "befbc8da244429d7",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Follow"
+            ],
+            "section_title": "Follow",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Follow\nRécent et efficace, mais aujourd'hui surtout pour les spécialistes, voire pour les chirurgiens et anesthésistes.",
+            "token_count": 17,
+            "character_count": 123,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7b7986d3d84f048c",
+        "content": "### HelloDoc\nLogiciel fonctionnel mais interface vieillissante, avec un coût augmenté trop régulièrement ces dernières années.\n!AxiSanté 5 - AxiSanté en ligne",
+        "metadata": {
+            "chunk_id": "7b7986d3d84f048c",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "HelloDoc"
+            ],
+            "section_title": "HelloDoc",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### HelloDoc\nLogiciel fonctionnel mais interface vieillissante, avec un coût augmenté trop régulièrement ces dernières années.\n!AxiSanté 5 - AxiSanté en ligne",
+            "token_count": 22,
+            "character_count": 158,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "684e051992014854",
+        "content": "### AxiSanté 5\nUn logiciel sérieux et complet, mais surtout très lourd. Cela doit être difficile de tout bien faire quand on veut tout faire.",
+        "metadata": {
+            "chunk_id": "684e051992014854",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "AxiSanté 5"
+            ],
+            "section_title": "AxiSanté 5",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### AxiSanté 5\nUn logiciel sérieux et complet, mais surtout très lourd. Cela doit être difficile de tout bien faire quand on veut tout faire.",
+            "token_count": 25,
+            "character_count": 141,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d55b3d7aec6a0120",
+        "content": "### MedicaWin\nUn logiciel métier mettant en avant la rapidité de la prescription, mais qui ne passera pas le Ségur. A vous de voir...",
+        "metadata": {
+            "chunk_id": "d55b3d7aec6a0120",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "MedicaWin"
+            ],
+            "section_title": "MedicaWin",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### MedicaWin\nUn logiciel métier mettant en avant la rapidité de la prescription, mais qui ne passera pas le Ségur. A vous de voir...",
+            "token_count": 24,
+            "character_count": 133,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7527460714c44fbc",
+        "content": "### Maiia Médecin\nLogiciel de gestion de cabinet (LGC) de Cegedim avec agenda en ligne, téléconsultation, gestion des RDV et assistant IA. Référencé Ségur, hébergé en France.",
+        "metadata": {
+            "chunk_id": "7527460714c44fbc",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Maiia Médecin"
+            ],
+            "section_title": "Maiia Médecin",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Maiia Médecin\nLogiciel de gestion de cabinet (LGC) de Cegedim avec agenda en ligne, téléconsultation, gestion des RDV et assistant IA. Référencé Ségur, hébergé en France.",
+            "token_count": 27,
+            "character_count": 174,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2cf6265c0efd7736",
+        "content": "### Desmos Médecin\nLGC en ligne référencé Ségur, développé par Juxta (devenu Orisha Healthcare), avec dossier médical, facturation, télétransmission et gestion d'agenda. Utilisé par environ 8 000 pros de santé, surtout en centres de santé pluridisciplinaires.",
+        "metadata": {
+            "chunk_id": "2cf6265c0efd7736",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Desmos Médecin"
+            ],
+            "section_title": "Desmos Médecin",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Desmos Médecin\nLGC en ligne référencé Ségur, développé par Juxta (devenu Orisha Healthcare), avec dossier médical, facturation, télétransmission et gestion d'agenda. Utilisé par environ 8 000 pros de santé, surtout en centres de santé pluridisciplinaires.",
+            "token_count": 36,
+            "character_count": 259,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "92ef02e8efa1d851",
+        "content": "### HyperMed\nLogiciel de gestion de cabinet médical proposant dossier patient, prescription électronique et accès sécurisé aux données. Labelisé Ségur, utilisé en médecine générale et pluridisciplinaire, avec plus de 30 ans d'ancienneté.",
+        "metadata": {
+            "chunk_id": "92ef02e8efa1d851",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "HyperMed"
+            ],
+            "section_title": "HyperMed",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### HyperMed\nLogiciel de gestion de cabinet médical proposant dossier patient, prescription électronique et accès sécurisé aux données. Labelisé Ségur, utilisé en médecine générale et pluridisciplinaire, avec plus de 30 ans d'ancienneté.",
+            "token_count": 32,
+            "character_count": 237,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "80dcb52b393e85f6",
+        "content": "### Instamed\nLogiciel métier avec espace patient sécurisé hébergé en France, assez méconnu. A tort ?",
+        "metadata": {
+            "chunk_id": "80dcb52b393e85f6",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Instamed"
+            ],
+            "section_title": "Instamed",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Instamed\nLogiciel métier avec espace patient sécurisé hébergé en France, assez méconnu. A tort ?",
+            "token_count": 16,
+            "character_count": 100,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6c096d63d2396992",
+        "content": "### Libellia\nLogiciel de gestion de cabinet nouvelle génération par CompuGroup Medical France, conçu pour simplifier la gestion quotidienne des dossiers patients, prescriptions et facturation avec une interface épurée.",
+        "metadata": {
+            "chunk_id": "6c096d63d2396992",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Libellia"
+            ],
+            "section_title": "Libellia",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Libellia\nLogiciel de gestion de cabinet nouvelle génération par CompuGroup Medical France, conçu pour simplifier la gestion quotidienne des dossiers patients, prescriptions et facturation avec une interface épurée.",
+            "token_count": 29,
+            "character_count": 218,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "957dd020bf4cba22",
+        "content": "### Semble\nLogiciel de dossier patient et gestion de cabinet pour médecins libéraux en pratique privée, disponible en UK et France. Conçu pour les structures de toutes tailles, de l'individuel aux groupes multi-sites.",
+        "metadata": {
+            "chunk_id": "957dd020bf4cba22",
+            "parent_doc": "Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins",
+            "source_url": "https://www.100000medecins.org/solutions",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "user reviews and satisfaction",
+            "heading_path": [
+                "🖥️Logiciel médical",
+                "Semble"
+            ],
+            "section_title": "Semble",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Semble\nLogiciel de dossier patient et gestion de cabinet pour médecins libéraux en pratique privée, disponible en UK et France. Conçu pour les structures de toutes tailles, de l'individuel aux groupes multi-sites.",
+            "token_count": 33,
+            "character_count": 217,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:44.210509+00:00",
+            "extra": {}
+        }
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "5902d212a63f75bd",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Payment Required: Failed to scrape. Insufficient credits to perform this request. For more credits, you can upgrade your plan at or try changing the request limit to a lower value. - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "5902d212a63f75bd",
+            "parent_doc": "Logiciel cabinet médical : le guide complet - Timed",
+            "source_url": "https://www.timed.fr/logiciel-cabinet-medical-guide-complet",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "forces et faiblesses internes logiciels de prise de rendez-vous médical en ligne France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Payment Required: Failed to scrape. Insufficient credits to perform this request. For more credits, you can upgrade your plan at or try changing the request limit to a lower value. - No additional error details provided.",
+            "token_count": 52,
+            "character_count": 312,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:41:04.930792+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "63499bbc80821601",
+        "content": "### Métadonnées\n- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?\n- Angle: internal strengths and weaknesses in French online medical appointment software",
+        "metadata": {
+            "chunk_id": "63499bbc80821601",
+            "parent_doc": "Logiciel cabinet médical : le guide complet - Timed",
+            "source_url": "https://www.timed.fr/logiciel-cabinet-medical-guide-complet",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "forces et faiblesses internes logiciels de prise de rendez-vous médical en ligne France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?\n- Angle: internal strengths and weaknesses in French online medical appointment software",
+            "token_count": 29,
+            "character_count": 213,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:41:04.930792+00:00",
+            "extra": {}
+        }
+    }
+]

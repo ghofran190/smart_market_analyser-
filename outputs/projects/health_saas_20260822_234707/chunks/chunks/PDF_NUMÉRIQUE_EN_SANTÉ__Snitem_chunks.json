@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "dbd4ede2db2bed97",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Request Timeout: Failed to scrape as the request timed out. The scrape operation timed out before completing. This happens when a page takes too long to load, render, or process. Possible causes: (1) The website is slow or unresponsive, (2) The page has heavy JavaScript that takes time to execute, (3) The page is very large or has many resources to load, (4) Network latency is high. To fix this, try increasing the timeout parameter in your scrape request, or if using actions, ensure your selectors are correct and the page is ready before actions are executed. - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "dbd4ede2db2bed97",
+            "parent_doc": "[PDF] NUMÉRIQUE EN SANTÉ | Snitem",
+            "source_url": "https://www.snitem.fr/wp-content/uploads/2025/10/Numerique-en-sante-Snitem-octobre-2025.pdf",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Request Timeout: Failed to scrape as the request timed out. The scrape operation timed out before completing. This happens when a page takes too long to load, render, or process. Possible causes: (1) The website is slow or unresponsive, (2) The page has heavy JavaScript that takes time to execute, (3) The page is very large or has many resources to load, (4) Network latency is high. To fix this, try incre",
+            "token_count": 119,
+            "character_count": 697,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:39:19.505659+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a63c4ba89a96e3fe",
+        "content": "### Métadonnées\n- Question: Quelles menaces externes et risques de marché doivent être anticipés ?\n- Angle: risques liés à l’adoption utilisateur",
+        "metadata": {
+            "chunk_id": "a63c4ba89a96e3fe",
+            "parent_doc": "[PDF] NUMÉRIQUE EN SANTÉ | Snitem",
+            "source_url": "https://www.snitem.fr/wp-content/uploads/2025/10/Numerique-en-sante-Snitem-octobre-2025.pdf",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "barrières adoption logiciels santé numérique patients professionnels France 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Question: Quelles menaces externes et risques de marché doivent être anticipés ?\n- Angle: risques liés à l’adoption utilisateur",
+            "token_count": 22,
+            "character_count": 145,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:39:19.505659+00:00",
+            "extra": {}
+        }
+    }
+]

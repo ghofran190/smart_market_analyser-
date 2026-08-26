@@ -1,0 +1,12 @@
+{
+    "name": "healthtech_sant_20260823_004234",
+    "count": 2728,
+    "metadata": {
+        "hnsw:space": "cosine",
+        "embedding_dimension": 1024
+    },
+    "embedding_model": "BGE-M3",
+    "embedding_dimension": 1024,
+    "total_added": 2728,
+    "collection_name": "healthtech_sant_20260823_004234"
+}

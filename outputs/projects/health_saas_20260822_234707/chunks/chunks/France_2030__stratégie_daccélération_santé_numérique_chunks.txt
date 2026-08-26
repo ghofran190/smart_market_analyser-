@@ -1,0 +1,204 @@
+
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique
+# Titre section: France 2030 : stratégie d'accélération santé numérique
+# Type: h1
+# Taille: 760 caractères
+# Tokens: 104
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+# France 2030 : stratégie d'accélération santé numérique
+La stratégie d’accélération santé numérique a vocation à favoriser l’émergence en France de solutions innovantes de santé numérique, accompagnées de propositions de valeurs médico-économiques fortes pour conquérir un marché de la e-santé en pleine croissance au niveau mondial.
+Il s’agit de **faire de la France un leader sur l’innovation en e-santé**. Les actions portées par cette stratégie d’accélération santé numérique visent à favoriser l’émergence, en France, de solutions innovantes, appuyées par des approches scientifiques pluridisciplinaires novatrices et des propositions de modèles médico-économiques ambitieux, pour conquérir un marché de la e-santé en pleine croissance au niveau mondial.
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Les objectifs de la stratégie d'accélération santé numérique de France 2030
+# Titre section: Les objectifs de la stratégie d'accélération santé numérique de France 2030
+# Type: list
+# Taille: 702 caractères
+# Tokens: 102
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+## Les objectifs de la stratégie d'accélération santé numérique de France 2030
+Dans une démarche de mobilisation de l’ensemble des parties prenantes de la filière santé numérique, cette stratégie d’accélération volontariste a notamment pour objectifs de :
+- encourager la transition d’une médecine curative, en silos, vers une approche plus préventive, plus prédictive et plus personnalisée ;
+- favoriser l’émergence d’un écosystème important de l’e-santé en France, capable de s’imposer sur un marché mondial compétitif ;
+- traiter de manière sécurisée et éthique la donnée de santé, sans dépendre entièrement de quelques acteurs soumis à une réglementation moins protectrice des données personnelles.
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Les moyens de la stratégie santé numérique
+# Titre section: Les moyens de la stratégie santé numérique
+# Type: list
+# Taille: 767 caractères
+# Tokens: 116
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+## Les moyens de la stratégie santé numérique
+- Consacrer **81 millions d'euros à la formation** de l’ensemble des acteurs de la filières santé numérique.
+- Investir **60 millions d'euros dans des Programmes et équipements prioritaires de recherche** (PEPR).
+- Dédier **20 millions d'euros par an à** **l’appel à projets** pour l’évaluation du bénéfice médical et / ou économique des dispositifs médicaux numériques ou à base d’intelligence artificielle.
+- Créer **30 tiers lieux d’expérimentation d’ici 2025** pour un budget de 63 millions d'euros.
+- Investir **95 millions d'euros pour soutenir l’excellence de la filière de l’imagerie** en France.
+- Renforcer de **50 millions d'euros les aides à l’innovation ciblées** sur les nouveaux usages numériques en santé.
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Les défis du système de santé français
+# Titre section: Les défis du système de santé français
+# Type: h2
+# Taille: 926 caractères
+# Tokens: 133
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+## Les défis du système de santé français
+Le système de santé français est confronté à d’importants défis comme le vieillissement de la population, le développement des maladies chroniques, la sous-densification médicale, questionnant un modèle médico-économique qui doit se renouveler.
+Parallèlement à ces enjeux, **l’apparition de nouvelles technologies bouleverse les secteurs économiques**, affectant l’ensemble de la chaîne de valeur des filières concernées. Le constat est particulièrement vrai pour le secteur de la santé où le numérique est au cœur de la révolution. Il est également porteur d’une ambition forte pour inventer une réponse efficace aux défis du secteur et accélérer la bascule vers une **médecine dite****« 5P »****: personnalisée, préventive, prédictive, participative et des preuves**.
+Cette transformation du numérique en santé doit être opérée au bénéfice de la population générale et des patients.
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Les défis du système de santé français
+# Titre section: Les défis du système de santé français
+# Type: paragraph
+# Taille: 202 caractères
+# Tokens: 30
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+Il s’agit en particulier d’améliorer la qualité de vie, l’organisation des soins et de prévenir l’aggravation des inégalités d’accès aux soins par l’ajout d’une fracture numérique à la fracture sociale.
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Positionner la France en leader mondial de la santé numérique
+# Titre section: Positionner la France en leader mondial de la santé numérique
+# Type: h2
+# Taille: 811 caractères
+# Tokens: 133
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+## Positionner la France en leader mondial de la santé numérique
+Au niveau mondial, cette transformation numérique du secteur de la santé est en pleine accélération, avec une croissance attendue du marché de la e-santé entre 2019 et 2023 de l’ordre de 160 %, d'une valeur totale de 90 milliards de dollars en 2019 et évalué à 235 milliards de dollars en 2023.
+**La France doit se positionner comme un leader mondial du secteur.** Pour cela, elle doit rattraper son retardqui s’explique par un déficit d’investissements dans les infrastructures numériques, la complexité de systèmes créés en silo, un manque d’acceptabilité et de confiance dans le numérique, tant par le grand public que par les professionnels, et une carence de formation des professionnels de la santé et des ingénieurs aux enjeux de la santé.
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Ceci pourrait vous intéresser > Appel à projets pour accélérer le développement d’équipements numériques et de centres de données plus durables
+# Titre section: Appel à projets pour accélérer le développement d’équipements numériques et de centres de données plus durables
+# Type: h3
+# Taille: 338 caractères
+# Tokens: 51
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+### Appel à projets pour accélérer le développement d’équipements numériques et de centres de données plus durables
+Cet appel à projets vise à répondre aux enjeux environnementaux liés au déploiement des centres de données et accélérer l’économie circulaire dans le secteur des équipements numériques.
+Du 20 juillet 2026au 9 décembre 2027
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Ceci pourrait vous intéresser > France 2030 : le Gouvernement lance un appel à projets pour accélérer le développement d'équipements numériques et de centres de données plus durables
+# Titre section: France 2030 : le Gouvernement lance un appel à projets pour accélérer le développement d'équipements numériques et de centres de données plus durables
+# Type: list
+# Taille: 187 caractères
+# Tokens: 28
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+### France 2030 : le Gouvernement lance un appel à projets pour accélérer le développement d'équipements numériques et de centres de données plus durables
+- Accompagnement des entreprises
+
+
+
+================================================================================# Source URL: https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-10
+# Document parent: France 2030 : stratégie d'accélération santé numérique
+# Section: Analyse macro marché et tendances
+# Question: Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?
+# Query: facteurs socio-économiques adoption digitalisation santé patients France 2024
+# Angle: facteurs socio-économiques et comportement des patients
+# Chemin hiérarchique: France 2030 : stratégie d'accélération santé numérique > Ceci pourrait vous intéresser > Défi Flagships - Sous-systèmes innovants pour la robotique et les équipements intelligents
+# Titre section: Défi Flagships - Sous-systèmes innovants pour la robotique et les équipements intelligents
+# Type: h3
+# Taille: 605 caractères
+# Tokens: 91
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:13:42.214698+00:00
+................................................................................
+
+### Défi Flagships - Sous-systèmes innovants pour la robotique et les équipements intelligents
+Cet appel à projets France 2030 vise à créer une nouvelle dynamique de co-développements entre acteurs émergents et grands acteurs afin d’accélérer le développement, l’industrialisation et la commercialisation de sous-systèmes avancés et souverains pour des solutions en robotique, drones et machines
+Du 9 juillet 2026au 6 avril 2027
+« Les Thémas » est une collection qui vise à apporter une analyse économique et un éclairage synthétique sur les politiques publiques relevant du champ de compétence de la DGE.

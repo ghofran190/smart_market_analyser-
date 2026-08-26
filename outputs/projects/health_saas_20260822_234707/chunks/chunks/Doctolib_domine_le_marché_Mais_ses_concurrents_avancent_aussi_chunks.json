@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "c7a5f9ff32b4937c",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "c7a5f9ff32b4937c",
+            "parent_doc": "Doctolib domine le marché. Mais ses concurrents avancent aussi.",
+            "source_url": "https://fr.linkedin.com/posts/kamel-meziani-739781148_doctolib-domine-le-march%25C3%25A9-mais-ses-concurrents-activity-7472163571443994624-SGtj",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.",
+            "token_count": 63,
+            "character_count": 363,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T22:59:08.215829+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0e37a7926932ba22",
+        "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?\n- Angle: competitive landscape and market shares",
+        "metadata": {
+            "chunk_id": "0e37a7926932ba22",
+            "parent_doc": "Doctolib domine le marché. Mais ses concurrents avancent aussi.",
+            "source_url": "https://fr.linkedin.com/posts/kamel-meziani-739781148_doctolib-domine-le-march%25C3%25A9-mais-ses-concurrents-activity-7472163571443994624-SGtj",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?\n- Angle: competitive landscape and market shares",
+            "token_count": 32,
+            "character_count": 201,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T22:59:08.215829+00:00",
+            "extra": {}
+        }
+    }
+]

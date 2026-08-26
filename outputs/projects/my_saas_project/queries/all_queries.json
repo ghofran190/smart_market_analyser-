@@ -1,0 +1,317 @@
+{
+    "macro": {
+        "section": "Analyse macro marché et tendances",
+        "question_queries": [
+            {
+                "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+                "queries": [
+                    {
+                        "query": "taille marché SaaS RMS restauration indépendante France 2024",
+                        "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "croissance marché SaaS restauration France tendances 2023-2027",
+                        "angle": "market growth and forecast trends for hospitality SaaS in France",
+                        "relevance_score": 0.96
+                    },
+                    {
+                        "query": "segmentation marché SaaS gestion restaurant France 2024",
+                        "angle": "market segmentation by customer type and software features",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "digitalisation restaurants indépendants France adoption logiciels gestion 2024",
+                        "angle": "adoption trends and competitive landscape in digital restaurant management software",
+                        "relevance_score": 0.93
+                    }
+                ]
+            },
+            {
+                "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+                "queries": [
+                    {
+                        "query": "tendances technologiques SaaS gestion restaurant France 2024 intelligence artificielle automatisation",
+                        "angle": "technological trends in Hospitality SaaS",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "réglementations numériques restauration France 2024 conformité GDPR facturation électronique",
+                        "angle": "regulatory trends impacting digital restaurant solutions",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "impact intelligence artificielle gestion commandes réservations restaurants indépendants France",
+                        "angle": "AI and analytics adoption in restaurant operations",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "digitalisation restaurants indépendants France tendances adoption logiciels SaaS 2024",
+                        "angle": "market adoption and customer preferences for digital tools",
+                        "relevance_score": 0.88
+                    }
+                ]
+            },
+            {
+                "question": "Quels facteurs macro-économiques influencent l'adoption des solutions dans ce secteur ?",
+                "queries": [
+                    {
+                        "query": "facteurs macroéconomiques adoption solutions SaaS restauration France 2024",
+                        "angle": "economic environment impact",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "impact coûts salariaux et inflation sur adoption logiciels gestion restaurant France",
+                        "angle": "labor market and cost pressures",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "digitalisation secteur restauration France tendances et subventions 2024",
+                        "angle": "government incentives and digital trends",
+                        "relevance_score": 0.9
+                    }
+                ]
+            }
+        ]
+    },
+    "demand": {
+        "section": "Analyse de la demande et pain points",
+        "question_queries": [
+            {
+                "question": "Comment est la demande actuelle et les segments de clientèle ?",
+                "queries": [
+                    {
+                        "query": "pain points propriétaires restaurants indépendants France gestion commandes réservations stocks",
+                        "angle": "customer pain points and operational challenges",
+                        "relevance_score": 0.96
+                    },
+                    {
+                        "query": "taille et croissance marché SaaS gestion restaurant indépendants France 2024",
+                        "angle": "market size and growth",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "segments clients restauration indépendante France digitalisation gestion opérationnelle",
+                        "angle": "customer segmentation by digital adoption and restaurant type",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "tendances adoption SaaS restauration France 2024 analyse besoins clients indépendants",
+                        "angle": "trends in SaaS adoption and evolving customer needs",
+                        "relevance_score": 0.92
+                    }
+                ]
+            },
+            {
+                "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+                "queries": [
+                    {
+                        "query": "besoins et pain points gestion restaurant indépendant France 2024",
+                        "angle": "client needs and pain points",
+                        "relevance_score": 0.98
+                    },
+                    {
+                        "query": "obstacles adoption logiciel SaaS restauration indépendante France",
+                        "angle": "barriers to SaaS adoption",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "avis utilisateurs plateformes SaaS gestion restaurant France",
+                        "angle": "user feedback and frustrations on competitors",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "digitalisation restauration indépendante France étude marché 2024",
+                        "angle": "market research on digital transformation adoption",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+                "queries": [
+                    {
+                        "query": "avis utilisateurs logiciels gestion restaurant indépendants France 2024",
+                        "angle": "customer reviews and feedback",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "facteurs décision choix logiciel SaaS gestion restaurant France",
+                        "angle": "decision-making criteria and selection factors",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "pain points et besoins non satisfaits solutions RMS restaurants indépendants France",
+                        "angle": "customer pain points and unmet needs",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "comparatif solutions SaaS gestion restaurant PME France 2024 guide achat",
+                        "angle": "comparative studies and buyer guides",
+                        "relevance_score": 0.9
+                    }
+                ]
+            }
+        ]
+    },
+    "supply": {
+        "section": "Analyse de l'offre et concurrence",
+        "question_queries": [
+            {
+                "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+                "queries": [
+                    {
+                        "query": "principaux acteurs marché SaaS gestion restaurant France 2024",
+                        "angle": "market players overview",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "rapport analyse concurrence solutions RMS SaaS restauration indépendants France",
+                        "angle": "market analysis and competitive positioning",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "avis utilisateurs plateformes SaaS gestion restaurant indépendants France 2024",
+                        "angle": "user reviews and competitor strengths",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "actualités financement et partenariats acteurs SaaS restauration France 2024",
+                        "angle": "industry news and strategic positioning",
+                        "relevance_score": 0.88
+                    }
+                ]
+            },
+            {
+                "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+                "queries": [
+                    {
+                        "query": "analyse comparative forces faiblesses TouchBistro Lightspeed Square Tiller Zenchef marché SaaS restauration France 2024",
+                        "angle": "competitive feature comparison in French market",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "rapport marché SaaS restauration France 2024 analyse concurrence innovation",
+                        "angle": "market report on competition and innovation trends",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "avis utilisateurs solutions SaaS gestion restaurant indépendants France 2024",
+                        "angle": "user reviews and pain points from French restaurateurs",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "intelligence artificielle SaaS gestion restaurant comparaison fonctionnalités France",
+                        "angle": "AI and advanced analytics features in French restaurant SaaS",
+                        "relevance_score": 0.88
+                    }
+                ]
+            },
+            {
+                "question": "Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?",
+                "queries": [
+                    {
+                        "query": "modèles de pricing SaaS gestion restaurant indépendants France 2024",
+                        "angle": "modèles de tarification spécifiques au marché français",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "stratégies de différenciation logiciels RMS pour restaurants indépendants France",
+                        "angle": "stratégies de différenciation produit et fonctionnalités clés",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "comparatif offres TouchBistro Lightspeed Square Tiller Zenchef France 2024",
+                        "angle": "analyse concurrentielle des offres et pricing des principaux acteurs",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "attentes restaurateurs indépendants France pricing SaaS gestion restaurant",
+                        "angle": "préférences clients et attentes sur le pricing et différenciation",
+                        "relevance_score": 0.9
+                    }
+                ]
+            }
+        ]
+    },
+    "swot": {
+        "section": "Analyse SWOT",
+        "question_queries": [
+            {
+                "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+                "queries": [
+                    {
+                        "query": "tendances marché SaaS restauration France 2024 opportunités croissance",
+                        "angle": "market trends and growth opportunities",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "impact intelligence artificielle gestion restaurant SaaS France avantages compétitifs",
+                        "angle": "technological innovation and AI advantages",
+                        "relevance_score": 0.93
+                    },
+                    {
+                        "query": "besoins non satisfaits restaurants indépendants France digitalisation gestion opérationnelle",
+                        "angle": "customer pain points and unmet needs",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+                        "angle": "competitor analysis for opportunity identification",
+                        "relevance_score": 0.9
+                    }
+                ]
+            },
+            {
+                "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+                "queries": [
+                    {
+                        "query": "analyse concurrence SaaS gestion restaurant France 2024 menaces externes",
+                        "angle": "competitive threats in French restaurant SaaS market",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "réglementation protection données SaaS restauration France 2024 risques légaux",
+                        "angle": "regulatory and data privacy risks for SaaS in French hospitality",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "cybersécurité risques plateformes SaaS restauration France 2024",
+                        "angle": "technological and cybersecurity risks in hospitality SaaS",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "impact économique digitalisation restaurants indépendants France 2024 risques marché",
+                        "angle": "macroeconomic and market adoption risks for digital restaurant solutions",
+                        "relevance_score": 0.88
+                    }
+                ]
+            },
+            {
+                "question": "Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?",
+                "queries": [
+                    {
+                        "query": "forces et faiblesses des plateformes SaaS de gestion de restaurant en France 2024",
+                        "angle": "internal strengths and weaknesses analysis in French market",
+                        "relevance_score": 0.95
+                    },
+                    {
+                        "query": "comparative analysis of Hospitality SaaS competitors strengths and weaknesses France",
+                        "angle": "competitive benchmarking of internal capabilities",
+                        "relevance_score": 0.92
+                    },
+                    {
+                        "query": "user reviews and pain points of restaurant management SaaS platforms France 2024",
+                        "angle": "customer feedback and usability weaknesses",
+                        "relevance_score": 0.9
+                    },
+                    {
+                        "query": "operational challenges and technology strengths in AI-powered restaurant management SaaS France",
+                        "angle": "technology and operational internal factors",
+                        "relevance_score": 0.9
+                    }
+                ]
+            }
+        ]
+    }
+}

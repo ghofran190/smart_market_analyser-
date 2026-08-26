@@ -1,0 +1,63 @@
+[
+    {
+        "chunk_id": "4b956631f3b9eed2",
+        "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Payment Required: Failed to scrape. Insufficient credits to perform this request. For more credits, you can upgrade your plan at or try changing the request limit to a lower value. - No additional error details provided.",
+        "metadata": {
+            "chunk_id": "4b956631f3b9eed2",
+            "parent_doc": "Les forces et faiblesses du système de santé français face aux cyberattaques - Acteurs Publics",
+            "source_url": "https://acteurspublics.fr/articles/les-forces-et-faiblesses-du-systeme-de-sante-francais-face-aux-cyberattaques",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "contraintes techniques et réglementaires impactant forces et faiblesses internes logiciels santé France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed"
+            ],
+            "section_title": "Scraping Failed",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Scraping Failed\nL'URL suivante n'a pas pu être scrapée après 3 tentatives :\n- **Erreur**: Payment Required: Failed to scrape. Insufficient credits to perform this request. For more credits, you can upgrade your plan at or try changing the request limit to a lower value. - No additional error details provided.",
+            "token_count": 52,
+            "character_count": 312,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:42:12.819037+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6767d0e3a79ab652",
+        "content": "### Métadonnées\n- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?\n- Angle: technical and regulatory constraints affecting internal strengths and weaknesses in French health software",
+        "metadata": {
+            "chunk_id": "6767d0e3a79ab652",
+            "parent_doc": "Les forces et faiblesses du système de santé français face aux cyberattaques - Acteurs Publics",
+            "source_url": "https://acteurspublics.fr/articles/les-forces-et-faiblesses-du-systeme-de-sante-francais-face-aux-cyberattaques",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "contraintes techniques et réglementaires impactant forces et faiblesses internes logiciels santé France",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?\n- Angle: technical and regulatory constraints affecting internal strengths and weaknesses in French health software",
+            "token_count": 32,
+            "character_count": 240,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:42:12.819037+00:00",
+            "extra": {}
+        }
+    }
+]

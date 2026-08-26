@@ -1,0 +1,439 @@
+[
+    {
+        "chunk_id": "dbff49050bf23d2b",
+        "content": "Prendre RDV avec un médecin en ligne : comment faire ?Zoé F.2026-07-13T14:02:52+00:00",
+        "metadata": {
+            "chunk_id": "dbff49050bf23d2b",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Prendre RDV avec un médecin en ligne : comment faire ?Zoé F.2026-07-13T14:02:52+00:00",
+            "token_count": 12,
+            "character_count": 85,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e0d8b2acd02c2318_1",
+        "content": "# Prendre RDV avec un médecin en ligne : comment faire ?\nContenu validé par la Direction médicale de Qare\\\\\nBesoin d'un avis médical ?]()\nObtenez rapidement un avis médical par téléconsultation – 7j/7 de 6h à minuit, avec ou sans RDV. Consultation remboursable\\*.\nDémarrer ma téléconsultation\nL’essentiel en 30 secondes\nLa **téléconsultation médicale en ligne** permet d’obtenir un rendez-vous avec un médecin à distance, via une plateforme agréée, sans déplacement.\n- La téléconsultation est **remboursée par l’Assurance Maladie** au même titre qu’une consultation en cabinet, selon **l’Assurance Maladie (Ameli.fr)**.\n- Le tarif de base d’une téléconsultation avec un médecin généraliste de secteur 1 est de **25 €**, remboursé à **70 %** par la **Sécurité Sociale**.\n- La prise de rendez-vous en ligne est disponible **7 jours sur 7**, avec des créneaux souvent accessibles sous **moins de 24 heures**.",
+        "metadata": {
+            "chunk_id": "e0d8b2acd02c2318_1",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?"
+            ],
+            "section_title": "Prendre RDV avec un médecin en ligne : comment faire ?",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Prendre RDV avec un médecin en ligne : comment faire ?\nContenu validé par la Direction médicale de Qare\\\\\nBesoin d'un avis médical ?]()\nObtenez rapidement un avis médical par téléconsultation – 7j/7 de 6h à minuit, avec ou sans RDV. Consultation remboursable\\*.\nDémarrer ma téléconsultation\nL’essentiel en 30 secondes\nLa **téléconsultation médicale en ligne** permet d’obtenir un rendez-vous avec un médecin à distance, via une plateforme agréée, sans déplacement.\n- La téléconsultation est **rembo",
+            "token_count": 139,
+            "character_count": 905,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7b34547e0849dbbe_2",
+        "content": "- Le médecin consulté doit être inscrit au **Conseil National de l’Ordre des Médecins** pour que la consultation soit valide et remboursable ( **HAS**).\n- Une **ordonnance numérique** peut être délivrée à l’issue de la téléconsultation, transmissible directement en pharmacie ( **ANSM**).\n**Le conseil clé :** Vérifiez que la plateforme choisie garantit la consultation avec un médecin diplômé en France avant de prendre votre rendez-vous en ligne.\nInformations vérifiées en **2026** — Sources : **HAS**, **Ameli.fr**, **ANSM**, **Sécurité Sociale**\nVous avez besoin de consulter un médecin rapidement mais vous ne pouvez pas vous déplacer ? Vous êtes loin de chez votre médecin habituel ou celui-ci n’est pas disponible ? Vous pouvez prendre rendez-vous avec des médecins en ligne en téléconsultation. L’équipe de Qare vous explique comment ça marche.",
+        "metadata": {
+            "chunk_id": "7b34547e0849dbbe_2",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?"
+            ],
+            "section_title": "Prendre RDV avec un médecin en ligne : comment faire ?",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "- Le médecin consulté doit être inscrit au **Conseil National de l’Ordre des Médecins** pour que la consultation soit valide et remboursable ( **HAS**).\n- Une **ordonnance numérique** peut être délivrée à l’issue de la téléconsultation, transmissible directement en pharmacie ( **ANSM**).\n**Le conseil clé :** Vérifiez que la plateforme choisie garantit la consultation avec un médecin diplômé en France avant de prendre votre rendez-vous en ligne.\nInformations vérifiées en **2026** — Sources : **HA",
+            "token_count": 128,
+            "character_count": 852,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "64d3604d0b577d25_3",
+        "content": "Par ailleurs, la téléconsultation médecin généraliste permet d’obtenir un diagnostic, une ordonnance ou un arrêt de travail sans se déplacer, disponible 7 jours sur 7.\n**Sommaire de l'article**\n1. Comment prendre RDV avec son médecin en ligne ?\n2. Quel site pour prendre RDV avec un médecin ?\n4. Références scientifiques et recommandations officielles\n!",
+        "metadata": {
+            "chunk_id": "64d3604d0b577d25_3",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?"
+            ],
+            "section_title": "Prendre RDV avec un médecin en ligne : comment faire ?",
+            "heading_level": 1,
+            "chunk_type": "unstructured",
+            "content": "Par ailleurs, la téléconsultation médecin généraliste permet d’obtenir un diagnostic, une ordonnance ou un arrêt de travail sans se déplacer, disponible 7 jours sur 7.\n**Sommaire de l'article**\n1. Comment prendre RDV avec son médecin en ligne ?\n2. Quel site pour prendre RDV avec un médecin ?\n4. Références scientifiques et recommandations officielles\n!",
+            "token_count": 55,
+            "character_count": 353,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a640d199baf76f9e",
+        "content": "## Comment prendre RDV avec son médecin en ligne ?\nSur Qare, vous pouvez rechercher des **médecins et professionnels de santé** et programmer un rendez-vous en ligne en quelques clics. Si vous avez besoin de consulter rapidement, vous pouvez trouver des médecins disponibles **en téléconsultation** dans les minutes qui suivent, ou bien, planifier un rendez-vous pour plus tard, à la date et à l’heure qui vous arrange **7J/7 de 6h à 23h**.",
+        "metadata": {
+            "chunk_id": "a640d199baf76f9e",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Comment prendre RDV avec son médecin en ligne ?"
+            ],
+            "section_title": "Comment prendre RDV avec son médecin en ligne ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Comment prendre RDV avec son médecin en ligne ?\nSur Qare, vous pouvez rechercher des **médecins et professionnels de santé** et programmer un rendez-vous en ligne en quelques clics. Si vous avez besoin de consulter rapidement, vous pouvez trouver des médecins disponibles **en téléconsultation** dans les minutes qui suivent, ou bien, planifier un rendez-vous pour plus tard, à la date et à l’heure qui vous arrange **7J/7 de 6h à 23h**.",
+            "token_count": 72,
+            "character_count": 440,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f7645b7538b72370_5",
+        "content": "### Comment prendre RDV en téléconsultation ?\nLe service de Qare vous permet de prendre rendez-vous avec des médecins en ligne pour des **consultations en vidéo**. Pour prendre rendez-vous avec un médecin en ligne, en visio, vous devez d’abord vous rendre sur le site Qare.fr ou sur l’application mobile. Voici les différentes étapes pour **programmer un rendez-vous** :\n1. **recherchez un médecin** ou une spécialité dans la barre de recherche ;\n2. **sélectionnez le créneau** qui vous convient sur l’agenda du praticien ;\n3. **confirmez** et créez votre compte ;\n4. **connectez-vous** 10 minutes avant l’heure de la consultation et patientez en salle d’attente virtuelle.\nEssayez la téléconsultation avec Qare\nConsultez des médecins **depuis chez vous 7J/7** avec possibilité de recevoir une ordonnance, si nécessaire.",
+        "metadata": {
+            "chunk_id": "f7645b7538b72370_5",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Comment prendre RDV avec son médecin en ligne ?",
+                "Comment prendre RDV en téléconsultation ?"
+            ],
+            "section_title": "Comment prendre RDV en téléconsultation ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Comment prendre RDV en téléconsultation ?\nLe service de Qare vous permet de prendre rendez-vous avec des médecins en ligne pour des **consultations en vidéo**. Pour prendre rendez-vous avec un médecin en ligne, en visio, vous devez d’abord vous rendre sur le site Qare.fr ou sur l’application mobile. Voici les différentes étapes pour **programmer un rendez-vous** :\n1. **recherchez un médecin** ou une spécialité dans la barre de recherche ;\n2. **sélectionnez le créneau** qui vous convient sur ",
+            "token_count": 125,
+            "character_count": 820,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f642c6cc2e242bf5_6",
+        "content": "Prendre RDV ( **Pris en charge** par l’Assurance Maladie)\n**Bon à savoir** : il est recommandé de privilégier la téléconsultation en cas de covid-19 ou de symptômes associés à l’infection, pour éviter le risque de contamination. Ces téléconsultations sont **prises en charge comme au cabinet** par l’Assurance Maladie.\n!",
+        "metadata": {
+            "chunk_id": "f642c6cc2e242bf5_6",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Comment prendre RDV avec son médecin en ligne ?",
+                "Comment prendre RDV en téléconsultation ?"
+            ],
+            "section_title": "Comment prendre RDV en téléconsultation ?",
+            "heading_level": 3,
+            "chunk_type": "paragraph",
+            "content": "Prendre RDV ( **Pris en charge** par l’Assurance Maladie)\n**Bon à savoir** : il est recommandé de privilégier la téléconsultation en cas de covid-19 ou de symptômes associés à l’infection, pour éviter le risque de contamination. Ces téléconsultations sont **prises en charge comme au cabinet** par l’Assurance Maladie.\n!",
+            "token_count": 49,
+            "character_count": 320,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e4d87f6294a0ac85",
+        "content": "### Peut-on prendre RDV avec un médecin généraliste en ligne ?\nSi vous avez besoin de voir un médecin généraliste, notamment en cas d’ absence de remplaçant quand votre médecin n’est pas là, vous pouvez tout à fait le faire sur Qare. Des médecins généralistes sont **disponibles 7J/7** souvent en moins de 10 minutes, et ce de 6h à 23h. Vous pouvez ainsi faire face aux imprévus du quotidien et consulter un médecin en toutes circonstances.\nSachez qu’il est également possible de prévoir des rendez-vous médicaux ou non-médicaux et de téléconsulter des **pédiatres, des gynécologues, des dermatologues, des psychiatres**, des psychologues, des ophtalmologues, et bien plus encore. En tout, plus de 50 spécialités sont accessibles à travers la solution de consultation en ligne de Qare.",
+        "metadata": {
+            "chunk_id": "e4d87f6294a0ac85",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Comment prendre RDV avec son médecin en ligne ?",
+                "Peut-on prendre RDV avec un médecin généraliste en ligne ?"
+            ],
+            "section_title": "Peut-on prendre RDV avec un médecin généraliste en ligne ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Peut-on prendre RDV avec un médecin généraliste en ligne ?\nSi vous avez besoin de voir un médecin généraliste, notamment en cas d’ absence de remplaçant quand votre médecin n’est pas là, vous pouvez tout à fait le faire sur Qare. Des médecins généralistes sont **disponibles 7J/7** souvent en moins de 10 minutes, et ce de 6h à 23h. Vous pouvez ainsi faire face aux imprévus du quotidien et consulter un médecin en toutes circonstances.\nSachez qu’il est également possible de prévoir des rendez-v",
+            "token_count": 125,
+            "character_count": 785,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6eb1af486cfd80eb",
+        "content": "## Quel site pour prendre RDV avec un médecin ?\nPour prendre rendez-vous avec un médecin en ligne, en vidéo, vous pouvez utiliser la solution de Qare. Vous pouvez prendre rendez-vous et consulter des médecins en ligne **sans vous déplacer** que vous soyez en France ou ailleurs, au Maroc ou en Belgique. Le **service en ligne de Qare** est disponible pour la prise de rendez-vous avec des médecins **à travers toute la France**, à Paris, à Angers, au Mans, à Mâcon ou à Beauvais, du moment que vous avez connexion internet.\nQare n’est pas la seule solution qui permette de prendre rendez-vous avec un médecin. Il existe aussi différentes **solutions d’agenda en ligne** comme **Maiia, Doctolib, Ubiclic** ou encore **Docavenue**. Par exemple, avec Maiia, vous pouvez prendre rendez-vous avec un docteur en vidéo ou bien en cabinet. Le site internet des Pages Jaunes propose également un service de prise de rendez-vous en ligne avec des médecins.",
+        "metadata": {
+            "chunk_id": "6eb1af486cfd80eb",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Quel site pour prendre RDV avec un médecin ?"
+            ],
+            "section_title": "Quel site pour prendre RDV avec un médecin ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Quel site pour prendre RDV avec un médecin ?\nPour prendre rendez-vous avec un médecin en ligne, en vidéo, vous pouvez utiliser la solution de Qare. Vous pouvez prendre rendez-vous et consulter des médecins en ligne **sans vous déplacer** que vous soyez en France ou ailleurs, au Maroc ou en Belgique. Le **service en ligne de Qare** est disponible pour la prise de rendez-vous avec des médecins **à travers toute la France**, à Paris, à Angers, au Mans, à Mâcon ou à Beauvais, du moment que vous a",
+            "token_count": 156,
+            "character_count": 946,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0736e04f28148e76",
+        "content": "### Prendre RDV avec SOS médecin en ligne\nSi vous avez besoin de consulter un médecin rapidement en présentiel et que votre médecin n’est pas disponible, vous pouvez aussi contacter SOS médecins. Vous devez vous rendre sur leur site et créer un compte pour faire votre **réservation en ligne**. Le service est accessible 7J/7 et 24h/24. Vous pouvez faire une demande pour qu’ **un médecin vienne chez vous** ou demander à faire une consultation dans les locaux de SOS médecins. Vous pouvez également faire appel à une **maison médicale de garde** pour consulter un médecin près de chez vous.\nSi vous avez un motif de consultation adapté à la **téléconsultation**, nous vous conseillons de consulter un médecin à distance en vidéo. Vous évitez de vous déplacer et vous pouvez trouver un médecin disponible en urgence ( **Remboursé** par l’Assurance Maladie)",
+        "metadata": {
+            "chunk_id": "0736e04f28148e76",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Quel site pour prendre RDV avec un médecin ?",
+                "Prendre RDV avec SOS médecin en ligne"
+            ],
+            "section_title": "Prendre RDV avec SOS médecin en ligne",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Prendre RDV avec SOS médecin en ligne\nSi vous avez besoin de consulter un médecin rapidement en présentiel et que votre médecin n’est pas disponible, vous pouvez aussi contacter SOS médecins. Vous devez vous rendre sur leur site et créer un compte pour faire votre **réservation en ligne**. Le service est accessible 7J/7 et 24h/24. Vous pouvez faire une demande pour qu’ **un médecin vienne chez vous** ou demander à faire une consultation dans les locaux de SOS médecins. Vous pouvez également ",
+            "token_count": 140,
+            "character_count": 856,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4524a9d073b8215a",
+        "content": "### Médecin en ligne : quel site pour consulter depuis l’Outre-Mer ?\nVous vivez en Guadeloupe, en Martinique ou encore en Guyane et avez besoin de prendre rendez-vous en ligne avec un médecin ? Vous pouvez également utiliser le service de Qare. Avec ses plages **horaires élargies** (6h – 23h pour la France métropolitaine), vous pouvez trouver un médecin disponible jusqu’à très tard selon votre fuseau horaire.",
+        "metadata": {
+            "chunk_id": "4524a9d073b8215a",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Quel site pour prendre RDV avec un médecin ?",
+                "Médecin en ligne : quel site pour consulter depuis l’Outre-Mer ?"
+            ],
+            "section_title": "Médecin en ligne : quel site pour consulter depuis l’Outre-Mer ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Médecin en ligne : quel site pour consulter depuis l’Outre-Mer ?\nVous vivez en Guadeloupe, en Martinique ou encore en Guyane et avez besoin de prendre rendez-vous en ligne avec un médecin ? Vous pouvez également utiliser le service de Qare. Avec ses plages **horaires élargies** (6h – 23h pour la France métropolitaine), vous pouvez trouver un médecin disponible jusqu’à très tard selon votre fuseau horaire.",
+            "token_count": 67,
+            "character_count": 412,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "93a0ee202899ed99",
+        "content": "### Comment recevoir une ordonnance en ligne ?\nPour recevoir une ordonnance sans avoir à vous déplacer en cabinet, vous pouvez téléconsulter un médecin sur Qare. Si nécessaire, vous **recevrez une ordonnance** et pourrez la télécharger via votre espace personnel. Prendre RDV",
+        "metadata": {
+            "chunk_id": "93a0ee202899ed99",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Foire aux questions",
+                "Comment recevoir une ordonnance en ligne ?"
+            ],
+            "section_title": "Comment recevoir une ordonnance en ligne ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Comment recevoir une ordonnance en ligne ?\nPour recevoir une ordonnance sans avoir à vous déplacer en cabinet, vous pouvez téléconsulter un médecin sur Qare. Si nécessaire, vous **recevrez une ordonnance** et pourrez la télécharger via votre espace personnel. Prendre RDV",
+            "token_count": 42,
+            "character_count": 275,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4ad04b9c88355ba8",
+        "content": "## Références scientifiques et recommandations officielles\n- HAS – Téléconsultation et téléexpertise : la HAS publie ses recommandations – Voir la recommandation (2019)\n- Ameli – La téléconsultation médicale – Voir la recommandation (2024)\n**Partager cet article sur les réseaux sociaux :**\n- Rhume : causes, symptômes et traitements\n- Angine : causes, symptômes et traitements\n- Mal de gorge : causes et traitements pour le soulager\n- Nez bouché : que faire pour soigner une congestion nasale ?\n- Dépression : comprendre et traiter le trouble dépressif\n- Burn-out : les signes de l’épuisement professionnel\n- **Tarifs et remboursements**\nDonnées de santé sécurisées\nQare n’est pas un service d’urgence, pour toute urgence, appelez le 112 (numéro d’urgence européen)",
+        "metadata": {
+            "chunk_id": "4ad04b9c88355ba8",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Références scientifiques et recommandations officielles"
+            ],
+            "section_title": "Références scientifiques et recommandations officielles",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Références scientifiques et recommandations officielles\n- HAS – Téléconsultation et téléexpertise : la HAS publie ses recommandations – Voir la recommandation (2019)\n- Ameli – La téléconsultation médicale – Voir la recommandation (2024)\n**Partager cet article sur les réseaux sociaux :**\n- Rhume : causes, symptômes et traitements\n- Angine : causes, symptômes et traitements\n- Mal de gorge : causes et traitements pour le soulager\n- Nez bouché : que faire pour soigner une congestion nasale ?\n- Dé",
+            "token_count": 119,
+            "character_count": 766,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9c96732823f19d98",
+        "content": "#### Téléconsultation\n- Le guide de la téléconsultation\n- Consulter un médecin en ligne\n- Renouvellement d’ordonnance\n- Obtenir un certificat médical\n- Prix d’une consultation médicale\n- Obtenir une ordonnance médicale",
+        "metadata": {
+            "chunk_id": "9c96732823f19d98",
+            "parent_doc": "RDV médecin en ligne : prendre RDV avec un professionnel",
+            "source_url": "https://www.qare.fr/sante/medecin-en-ligne/rdv",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "besoins patients et professionnels santé prise de rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "besoins utilisateurs finaux",
+            "heading_path": [
+                "Prendre RDV avec un médecin en ligne : comment faire ?",
+                "Références scientifiques et recommandations officielles",
+                "Téléconsultation"
+            ],
+            "section_title": "Téléconsultation",
+            "heading_level": 4,
+            "chunk_type": "list",
+            "content": "#### Téléconsultation\n- Le guide de la téléconsultation\n- Consulter un médecin en ligne\n- Renouvellement d’ordonnance\n- Obtenir un certificat médical\n- Prix d’une consultation médicale\n- Obtenir une ordonnance médicale",
+            "token_count": 32,
+            "character_count": 218,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:23:28.605094+00:00",
+            "extra": {}
+        }
+    }
+]

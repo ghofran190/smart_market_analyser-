@@ -1,0 +1,406 @@
+[
+    {
+        "chunk_id": "87f093a87bcfa9ed",
+        "content": "!Gérante de restaurant analysant ses ventes et son organisation dans une salle vide!Gérante de restaurant analysant ses ventes et son organisation dans une salle vide",
+        "metadata": {
+            "chunk_id": "87f093a87bcfa9ed",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "!Gérante de restaurant analysant ses ventes et son organisation dans une salle vide!Gérante de restaurant analysant ses ventes et son organisation dans une salle vide",
+            "token_count": 25,
+            "character_count": 166,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3a3eab93e2d4c6df",
+        "content": "# Analyse SWOT d’un restaurant : exemple concret et actions\nConstruisez le SWOT d’un restaurant avec un cas chiffré : forces, faiblesses, opportunités, menaces, preuves à réunir et actions prioritaires.\n**Ce SWOT de restaurant repose sur un établissement fictif de 54 places afin de montrer comment relier les quatre quadrants à des données et à des décisions.** Les chiffres du cas sont pédagogiques ; ils ne décrivent ni une moyenne du secteur ni un restaurant réel.\n- 3Matrice SWOT du restaurant\n- 4Comment prouver les forces et faiblesses ?\n- 5Opportunités : formuler un changement externe\n- 6Menaces : éviter les listes génériques\n- 7Trois options issues de la matrice\n- 8Plan de mesure sur huit semaines\n**Mise à jour du 21 août 2026 :** la page distingue désormais le contexte sectoriel publié par l’Insee du cas pratique fictif. Elle ne présente plus des généralités comme des faits universels.",
+        "metadata": {
+            "chunk_id": "3a3eab93e2d4c6df",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions"
+            ],
+            "section_title": "Analyse SWOT d’un restaurant : exemple concret et actions",
+            "heading_level": 1,
+            "chunk_type": "list",
+            "content": "# Analyse SWOT d’un restaurant : exemple concret et actions\nConstruisez le SWOT d’un restaurant avec un cas chiffré : forces, faiblesses, opportunités, menaces, preuves à réunir et actions prioritaires.\n**Ce SWOT de restaurant repose sur un établissement fictif de 54 places afin de montrer comment relier les quatre quadrants à des données et à des décisions.** Les chiffres du cas sont pédagogiques ; ils ne décrivent ni une moyenne du secteur ni un restaurant réel.\n- 3Matrice SWOT du restaurant\n-",
+            "token_count": 149,
+            "character_count": 902,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3b0b73039aaea849",
+        "content": "## À retenir\n| Question | Réponse courte |\n| Périmètre | Restaurant indépendant de 54 places, zone urbaine, horizon douze mois. |\n| Données critiques | Ticket moyen, marge matière, remplissage par service, masse salariale, avis et récurrence. |\n| Risque fréquent | Confondre une hausse de chiffre d’affaires avec une amélioration de rentabilité. |\n| Sortie utile | Trois tests : offre du midi, réservation directe et réduction du gaspillage. |",
+        "metadata": {
+            "chunk_id": "3b0b73039aaea849",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "À retenir"
+            ],
+            "section_title": "À retenir",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## À retenir\n| Question | Réponse courte |\n| Périmètre | Restaurant indépendant de 54 places, zone urbaine, horizon douze mois. |\n| Données critiques | Ticket moyen, marge matière, remplissage par service, masse salariale, avis et récurrence. |\n| Risque fréquent | Confondre une hausse de chiffre d’affaires avec une amélioration de rentabilité. |\n| Sortie utile | Trois tests : offre du midi, réservation directe et réduction du gaspillage. |",
+            "token_count": 73,
+            "character_count": 443,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "18f27e818b657708",
+        "content": "## Le cas utilisé\nLe restaurant fictif réalise un service du midi et un service du soir, ferme deux jours par semaine et dépend fortement des réservations issues de plateformes. Le ticket moyen est de 31 €, le taux de remplissage moyen de 82 % le vendredi et le samedi soir, mais de 46 % au déjeuner en semaine. La marge matière varie fortement selon les plats.\nCes hypothèses servent à apprendre la méthode. Pour votre établissement, réunissez vos données comme indiqué dans préparer une analyse SWOT",
+        "metadata": {
+            "chunk_id": "18f27e818b657708",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Le cas utilisé"
+            ],
+            "section_title": "Le cas utilisé",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Le cas utilisé\nLe restaurant fictif réalise un service du midi et un service du soir, ferme deux jours par semaine et dépend fortement des réservations issues de plateformes. Le ticket moyen est de 31 €, le taux de remplissage moyen de 82 % le vendredi et le samedi soir, mais de 46 % au déjeuner en semaine. La marge matière varie fortement selon les plats.\nCes hypothèses servent à apprendre la méthode. Pour votre établissement, réunissez vos données comme indiqué dans préparer une analyse SWO",
+            "token_count": 87,
+            "character_count": 501,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7df5ca3b3a5a2b5e",
+        "content": "## Matrice SWOT du restaurant\n| Bonne occupation les soirs fortsCarte courte et cuisine maîtriséeAvis clients mentionnant régulièrement l’accueilFichier de clients ayant réservé en direct | Faible remplissage le midiDépendance aux plateformesMarge par plat mal suivieDeux postes clés sans remplacement formé |\n| Opportunités | Menaces |\n| Bureaux à proximité recherchant une formule rapideRéservation et fidélisation directesPrécommande pour groupesValorisation des invendus maîtrisables | Hausse des coûts alimentaires et énergétiquesPénurie ou rotation du personnelNouveaux concepts concurrents dans la zoneAvis négatifs amplifiés par les plateformes |",
+        "metadata": {
+            "chunk_id": "7df5ca3b3a5a2b5e",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Matrice SWOT du restaurant"
+            ],
+            "section_title": "Matrice SWOT du restaurant",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Matrice SWOT du restaurant\n| Bonne occupation les soirs fortsCarte courte et cuisine maîtriséeAvis clients mentionnant régulièrement l’accueilFichier de clients ayant réservé en direct | Faible remplissage le midiDépendance aux plateformesMarge par plat mal suivieDeux postes clés sans remplacement formé |\n| Opportunités | Menaces |\n| Bureaux à proximité recherchant une formule rapideRéservation et fidélisation directesPrécommande pour groupesValorisation des invendus maîtrisables | Hausse des",
+            "token_count": 85,
+            "character_count": 654,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "073028f3333ffa49",
+        "content": "## Comment prouver les forces et faiblesses ?\n| Facteur | Preuve | Comparaison |\n| Occupation forte | Couverts disponibles et servis par créneau | Même jour sur douze mois |\n| Accueil apprécié | Thèmes des avis et enquête après visite | Concurrents locaux comparables |\n| Dépendance plateforme | Part des réservations et commissions | Part directe et coût par canal |\n| Marge mal suivie | Fiches techniques incomplètes | Coût réel contre prix de vente |\nLe nombre d’avis ou le chiffre d’affaires brut ne suffit pas. Une force doit soutenir l’objectif. Un restaurant complet le samedi mais déficitaire au déjeuner doit analyser ces créneaux séparément.",
+        "metadata": {
+            "chunk_id": "073028f3333ffa49",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Comment prouver les forces et faiblesses ?"
+            ],
+            "section_title": "Comment prouver les forces et faiblesses ?",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Comment prouver les forces et faiblesses ?\n| Facteur | Preuve | Comparaison |\n| Occupation forte | Couverts disponibles et servis par créneau | Même jour sur douze mois |\n| Accueil apprécié | Thèmes des avis et enquête après visite | Concurrents locaux comparables |\n| Dépendance plateforme | Part des réservations et commissions | Part directe et coût par canal |\n| Marge mal suivie | Fiches techniques incomplètes | Coût réel contre prix de vente |\nLe nombre d’avis ou le chiffre d’affaires brut",
+            "token_count": 111,
+            "character_count": 651,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "287961b5700c95e3",
+        "content": "## Menaces : éviter les listes génériques\nLire Aussi :Guide complet sur la réglementation des massages bien-être : tout ce que vous devez savoir",
+        "metadata": {
+            "chunk_id": "287961b5700c95e3",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Menaces : éviter les listes génériques"
+            ],
+            "section_title": "Menaces : éviter les listes génériques",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Menaces : éviter les listes génériques\nLire Aussi :Guide complet sur la réglementation des massages bien-être : tout ce que vous devez savoir",
+            "token_count": 24,
+            "character_count": 144,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "30979ac8fd55bf93",
+        "content": "## Trois options issues de la matrice\n1. **Tester une formule midi :** trois plats à marge connue, promesse de service en quarante-cinq minutes, test sur quatre semaines auprès des bureaux proches.\n2. **Développer la réservation directe :** demander l’accord de contact, proposer un avantage non financier et mesurer la part de clients qui reviennent sans plateforme.\n3. **Réduire le gaspillage :** suivre ventes, pertes et marge par plat, puis retirer ou ajuster les références instables.\nCes actions associent plusieurs quadrants. La méthode TOWS permet de comparer leur impact, leur coût et leur risque avant de lancer.",
+        "metadata": {
+            "chunk_id": "30979ac8fd55bf93",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Trois options issues de la matrice"
+            ],
+            "section_title": "Trois options issues de la matrice",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Trois options issues de la matrice\n1. **Tester une formule midi :** trois plats à marge connue, promesse de service en quarante-cinq minutes, test sur quatre semaines auprès des bureaux proches.\n2. **Développer la réservation directe :** demander l’accord de contact, proposer un avantage non financier et mesurer la part de clients qui reviennent sans plateforme.\n3. **Réduire le gaspillage :** suivre ventes, pertes et marge par plat, puis retirer ou ajuster les références instables.\nCes action",
+            "token_count": 97,
+            "character_count": 622,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "dfe4c64b68355000",
+        "content": "## Plan de mesure sur huit semaines\n| Test | Indicateur principal | Garde-fou |\n| Formule midi | Marge par heure de service | Temps d’attente et satisfaction |\n| Réservation directe | Part des retours directs | Taux d’annulation |\n| Carte et pertes | Marge matière nette | Variété et avis clients |\nUtilisez le guide complet de l’analyse SWOT pour votre propre établissement et l’ atelier en sept étapes si vous associez cuisine, salle et gestion. L’exemple IKEA montre pourquoi une matrice mondiale ne peut pas être transposée à une activité locale.",
+        "metadata": {
+            "chunk_id": "dfe4c64b68355000",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Plan de mesure sur huit semaines"
+            ],
+            "section_title": "Plan de mesure sur huit semaines",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Plan de mesure sur huit semaines\n| Test | Indicateur principal | Garde-fou |\n| Formule midi | Marge par heure de service | Temps d’attente et satisfaction |\n| Réservation directe | Part des retours directs | Taux d’annulation |\n| Carte et pertes | Marge matière nette | Variété et avis clients |\nUtilisez le guide complet de l’analyse SWOT pour votre propre établissement et l’ atelier en sept étapes si vous associez cuisine, salle et gestion. L’exemple IKEA montre pourquoi une matrice mondiale ",
+            "token_count": 96,
+            "character_count": 550,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4a3eedf6b14d8d80",
+        "content": "### Un SWOT remplace-t-il le business plan d’un restaurant ?\nNon. Il synthétise des facteurs stratégiques mais ne calcule ni investissement, ni seuil de rentabilité, ni trésorerie.",
+        "metadata": {
+            "chunk_id": "4a3eedf6b14d8d80",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Questions fréquentes",
+                "Un SWOT remplace-t-il le business plan d’un restaurant ?"
+            ],
+            "section_title": "Un SWOT remplace-t-il le business plan d’un restaurant ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Un SWOT remplace-t-il le business plan d’un restaurant ?\nNon. Il synthétise des facteurs stratégiques mais ne calcule ni investissement, ni seuil de rentabilité, ni trésorerie.",
+            "token_count": 27,
+            "character_count": 180,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f19b144ff57a6cbe",
+        "content": "### Faut-il analyser chaque concurrent ?\nConcentrez-vous sur les établissements qui répondent à la même occasion, dans la même zone, avec une proposition comparable.",
+        "metadata": {
+            "chunk_id": "f19b144ff57a6cbe",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Questions fréquentes",
+                "Faut-il analyser chaque concurrent ?"
+            ],
+            "section_title": "Faut-il analyser chaque concurrent ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Faut-il analyser chaque concurrent ?\nConcentrez-vous sur les établissements qui répondent à la même occasion, dans la même zone, avec une proposition comparable.",
+            "token_count": 24,
+            "character_count": 165,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c5310c496c53ba9b",
+        "content": "### À quelle fréquence refaire le SWOT ?\nAprès un changement majeur d’offre, de coûts, de zone, d’équipe ou de concurrence, et lors de la revue annuelle.",
+        "metadata": {
+            "chunk_id": "c5310c496c53ba9b",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Questions fréquentes",
+                "À quelle fréquence refaire le SWOT ?"
+            ],
+            "section_title": "À quelle fréquence refaire le SWOT ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### À quelle fréquence refaire le SWOT ?\nAprès un changement majeur d’offre, de coûts, de zone, d’équipe ou de concurrence, et lors de la revue annuelle.",
+            "token_count": 27,
+            "character_count": 153,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "011002ad1d790ba8",
+        "content": "## Sources utilisées\n- Insee — indice mensuel de chiffre d’affaires des restaurants\n- Bpifrance Création — méthode SWOT\nLire Aussi :Contrat pajemploi : tout ce que vous devez savoir pour embaucher une assistante maternelle\nVoir également les articles relatifs à ce sujet :\nNantir son fonds de commerce : Tout ce que vous devez savoir !\nAnalyse SWOT de Microsoft en 2026 : matrice commentée",
+        "metadata": {
+            "chunk_id": "011002ad1d790ba8",
+            "parent_doc": "Analyse SWOT d'un restaurant : Forces, faiblesses, opportunités et menaces",
+            "source_url": "https://pharrell.fr/analyse-swot-restaurant-forces-faiblesses-opportunites-menaces.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "analyse concurrents SaaS gestion restaurant France forces faiblesses opportunités",
+            "question": "Quelles sont les opportunités et avantages exploitables à court et moyen terme ?",
+            "angle": "competitor analysis for opportunity identification",
+            "heading_path": [
+                "Analyse SWOT d’un restaurant : exemple concret et actions",
+                "Sources utilisées"
+            ],
+            "section_title": "Sources utilisées",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Sources utilisées\n- Insee — indice mensuel de chiffre d’affaires des restaurants\n- Bpifrance Création — méthode SWOT\nLire Aussi :Contrat pajemploi : tout ce que vous devez savoir pour embaucher une assistante maternelle\nVoir également les articles relatifs à ce sujet :\nNantir son fonds de commerce : Tout ce que vous devez savoir !\nAnalyse SWOT de Microsoft en 2026 : matrice commentée",
+            "token_count": 66,
+            "character_count": 389,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:00:47.261442+00:00",
+            "extra": {}
+        }
+    }
+]

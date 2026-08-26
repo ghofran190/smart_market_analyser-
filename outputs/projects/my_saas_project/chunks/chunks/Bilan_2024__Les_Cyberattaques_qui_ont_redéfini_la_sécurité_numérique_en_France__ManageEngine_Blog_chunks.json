@@ -1,0 +1,496 @@
+[
+    {
+        "chunk_id": "5fb737aaffc882d1",
+        "content": "Accueil/ Blog / General / Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+        "metadata": {
+            "chunk_id": "5fb737aaffc882d1",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Accueil/ Blog / General / Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+            "token_count": 18,
+            "character_count": 105,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7d56c33bb36e977e",
+        "content": "# Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France\n!Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France\nEn 2024, la France a été le théâtre de multiples cyberattaques de grande envergure, ciblant à la fois des entreprises, des infrastructures critiques et des institutions culturelles. Ces incidents ont mis en évidence la vulnérabilité croissante des systèmes numériques face à des menaces sophistiquées et diversifiées, telles que les ransomwares, les attaques DDoS et les brèches de données sensibles. Ce blog retrace les principales cyberattaques mois par mois, offrant une analyse de leur impact sur les organisations concernées et les leçons à en tirer pour renforcer la cybersécurité à l'avenir.",
+        "metadata": {
+            "chunk_id": "7d56c33bb36e977e",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France"
+            ],
+            "section_title": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France\n!Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France\nEn 2024, la France a été le théâtre de multiples cyberattaques de grande envergure, ciblant à la fois des entreprises, des infrastructures critiques et des institutions culturelles. Ces incidents ont mis en évidence la vulnérabilité croissante des systèmes numériques face à des menaces sophistiquées et diversifiées, telles que les rans",
+            "token_count": 117,
+            "character_count": 761,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4707ebafebc77261",
+        "content": "### Cyberattaques en janvier\nEn janvier 2024, EDF (Électricité de France) a subi une attaque ransomware où les hackers ont exploité une vulnérabilité dans un logiciel tiers pour déployer un malware, entraînant l’encryptage de données sensibles et une interruption temporaire des services. Cet incident souligne la vulnérabilité croissante des infrastructures critiques face aux cybermenaces et l'importance de renforcer la cybersécurité dans les secteurs essentiels. Il met également en évidence les risques liés aux logiciels tiers, un point d'entrée majeur pour les attaquants, et l'urgence de mettre en place des mesures de sécurité proactives.",
+        "metadata": {
+            "chunk_id": "4707ebafebc77261",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en janvier"
+            ],
+            "section_title": "Cyberattaques en janvier",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en janvier\nEn janvier 2024, EDF (Électricité de France) a subi une attaque ransomware où les hackers ont exploité une vulnérabilité dans un logiciel tiers pour déployer un malware, entraînant l’encryptage de données sensibles et une interruption temporaire des services. Cet incident souligne la vulnérabilité croissante des infrastructures critiques face aux cybermenaces et l'importance de renforcer la cybersécurité dans les secteurs essentiels. Il met également en évidence les ",
+            "token_count": 93,
+            "character_count": 647,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "43ac6375a2873e0c",
+        "content": "### Cyberattaques en février\nEn février 2024, la France a subi la plus grande cyberattaque de son histoire, ciblant les assureurs santé Viamedis et Almerys. Plus de 33 millions de Français ont vu leurs données personnelles exposées, notamment des informations telles que les numéros de sécurité sociale. Bien que les informations bancaires et médicales n'aient pas été touchées, l'attaque a été menée par hameçonnage. Les autorités conseillent aux personnes affectées de contacter leurs assureurs pour prendre des mesures de sécurité.",
+        "metadata": {
+            "chunk_id": "43ac6375a2873e0c",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en février"
+            ],
+            "section_title": "Cyberattaques en février",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en février\nEn février 2024, la France a subi la plus grande cyberattaque de son histoire, ciblant les assureurs santé Viamedis et Almerys. Plus de 33 millions de Français ont vu leurs données personnelles exposées, notamment des informations telles que les numéros de sécurité sociale. Bien que les informations bancaires et médicales n'aient pas été touchées, l'attaque a été menée par hameçonnage. Les autorités conseillent aux personnes affectées de contacter leurs assureurs pou",
+            "token_count": 80,
+            "character_count": 534,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "df2f1746fe2be6f4",
+        "content": "### Cyberattaques en mars\nEn mars 2024, France Travail, l'agence nationale pour l'emploi en France anciennement connue sous le nom de Pôle Emploi, a subi une cyberattaque qui a compromis les données personnelles de près de 43 millions de personnes.\nLes informations exposées incluaient les noms complets, dates et lieux de naissance, numéros de sécurité sociale, identifiants France Travail, adresses e-mail et postales, ainsi que les numéros de téléphone. Cependant, les mots de passe et les informations bancaires n’ont pas été affectés.\nL’attaque s’est déroulée entre le 6 février et le 5 mars 2024. Les personnes concernées ont été invitées à rester vigilantes face à d’éventuelles tentatives d’hameçonnage, de fraude ou de vol d’identité.",
+        "metadata": {
+            "chunk_id": "df2f1746fe2be6f4",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en mars"
+            ],
+            "section_title": "Cyberattaques en mars",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en mars\nEn mars 2024, France Travail, l'agence nationale pour l'emploi en France anciennement connue sous le nom de Pôle Emploi, a subi une cyberattaque qui a compromis les données personnelles de près de 43 millions de personnes.\nLes informations exposées incluaient les noms complets, dates et lieux de naissance, numéros de sécurité sociale, identifiants France Travail, adresses e-mail et postales, ainsi que les numéros de téléphone. Cependant, les mots de passe et les informa",
+            "token_count": 114,
+            "character_count": 743,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e6d95f629d72229c",
+        "content": "### Cyberattaques en avril\nL'avril 2024, l’hôpital Simone Veil de Cannes a été victime d’une cyberattaque menée par le groupe LockBit, entraînant le vol de 61 Go de données. Les pirates ont exigé une rançon sous peine de publier les données, ce qu’ils ont fait le 1er mai après expiration de l’ultimatum. Cette attaque a gravement perturbé les services médicaux : consultations non urgentes et interventions chirurgicales ont été reportées, et l’hôpital a dû utiliser des méthodes manuelles pour assurer ses opérations. La publication de données sensibles des patients et du personnel soulève des risques de vol d’identité et de fraude, illustrant les vulnérabilités des établissements de santé face aux cybermenaces.",
+        "metadata": {
+            "chunk_id": "e6d95f629d72229c",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en avril"
+            ],
+            "section_title": "Cyberattaques en avril",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en avril\nL'avril 2024, l’hôpital Simone Veil de Cannes a été victime d’une cyberattaque menée par le groupe LockBit, entraînant le vol de 61 Go de données. Les pirates ont exigé une rançon sous peine de publier les données, ce qu’ils ont fait le 1er mai après expiration de l’ultimatum. Cette attaque a gravement perturbé les services médicaux : consultations non urgentes et interventions chirurgicales ont été reportées, et l’hôpital a dû utiliser des méthodes manuelles pour assu",
+            "token_count": 111,
+            "character_count": 717,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "7db307824079dd6c",
+        "content": "### Cyberattaques en mai\nEn mai 2024, la Nouvelle-Calédonie a subi une cyberattaque majeure ciblant son principal fournisseur d’accès Internet. L’attaque, caractérisée par un afflux de trafic provenant d’adresses IP russes présumées, a perturbé le réseau local peu après l’annonce de la visite du président Emmanuel Macron. Bien que décrite initialement comme « inédite », cette attaque a mis en lumière la vulnérabilité de l’infrastructure numérique de l’archipel, qui repose sur un point d’entrée unique. Ce contexte souligne l’urgence de renforcer les mesures de cybersécurité pour protéger les infrastructures critiques.",
+        "metadata": {
+            "chunk_id": "7db307824079dd6c",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en mai"
+            ],
+            "section_title": "Cyberattaques en mai",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en mai\nEn mai 2024, la Nouvelle-Calédonie a subi une cyberattaque majeure ciblant son principal fournisseur d’accès Internet. L’attaque, caractérisée par un afflux de trafic provenant d’adresses IP russes présumées, a perturbé le réseau local peu après l’annonce de la visite du président Emmanuel Macron. Bien que décrite initialement comme « inédite », cette attaque a mis en lumière la vulnérabilité de l’infrastructure numérique de l’archipel, qui repose sur un point d’entrée u",
+            "token_count": 90,
+            "character_count": 624,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "454f9e210760bfdb",
+        "content": "### Cyberattaques en juin\nLe juin 2024, une cyberattaque par déni de service distribué (DDoS) a ciblé 14 sites gouvernementaux français, dont ceux de la Police Nationale, de Légifrance, de l'INSEE, du Service Public, ainsi que des Ministères de l'Écologie et de la Culture.Cette attaque, attribuée au groupe de hackers russes NoName057(16), a entraîné l'indisponibilité de ces sites pendant environ 48 heures.Les attaques DDoS visent à surcharger les serveurs en envoyant un volume massif de requêtes, les rendant ainsi inaccessibles. Cette offensive s'inscrit dans le cadre du projet DDoSia, initié par NoName057(16) pour mener des attaques DDoS contre les pays opposés à l'invasion russe en Ukraine. Des incidents similaires s'étaient déjà produits en mars 2024, où une trentaine de sous-domaines de \".gouv.fr\" avaient été ciblés.",
+        "metadata": {
+            "chunk_id": "454f9e210760bfdb",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en juin"
+            ],
+            "section_title": "Cyberattaques en juin",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en juin\nLe juin 2024, une cyberattaque par déni de service distribué (DDoS) a ciblé 14 sites gouvernementaux français, dont ceux de la Police Nationale, de Légifrance, de l'INSEE, du Service Public, ainsi que des Ministères de l'Écologie et de la Culture.Cette attaque, attribuée au groupe de hackers russes NoName057(16), a entraîné l'indisponibilité de ces sites pendant environ 48 heures.Les attaques DDoS visent à surcharger les serveurs en envoyant un volume massif de requêtes",
+            "token_count": 125,
+            "character_count": 832,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "661762c7eb75dee0",
+        "content": "### Cyberattaques en juillet\nMi-juillet 2024, une cyberattaque indirecte liée à une mise à jour défectueuse de CrowdStrike a provoqué des plantages généralisés des systèmes Windows, notamment des erreurs BSOD (écran bleu de la mort). Cette mise à jour a créé un conflit au niveau du noyau, en raison d'un fichier défectueux dans le répertoire du système, entraînant des redémarrages automatiques des systèmes affectés. La cyberattaque a perturbé les opérations de nombreuses entreprises, tandis que les utilisateurs ont perdu l'accès à leurs systèmes et données. Les équipes de support informatique ont été submergées par les demandes d'assistance.",
+        "metadata": {
+            "chunk_id": "661762c7eb75dee0",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en juillet"
+            ],
+            "section_title": "Cyberattaques en juillet",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en juillet\nMi-juillet 2024, une cyberattaque indirecte liée à une mise à jour défectueuse de CrowdStrike a provoqué des plantages généralisés des systèmes Windows, notamment des erreurs BSOD (écran bleu de la mort). Cette mise à jour a créé un conflit au niveau du noyau, en raison d'un fichier défectueux dans le répertoire du système, entraînant des redémarrages automatiques des systèmes affectés. La cyberattaque a perturbé les opérations de nombreuses entreprises, tandis que l",
+            "token_count": 97,
+            "character_count": 648,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0a155b71dd392991",
+        "content": "### Cyberattaques en août\nEn août 2024, la Réunion des Musées Nationaux (RMN) par ransomware. L'attaque a affecté le système informatique central des musées, mais n'a pas perturbé leurs opérations, notamment celles du Louvre et du Château de Versailles. Bien que l'incident ait touché les données financières, les musées eux-mêmes ont continué de fonctionner normalement. Une enquête a été ouverte pour déterminer les responsables et l'ampleur des dommages.",
+        "metadata": {
+            "chunk_id": "0a155b71dd392991",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en août"
+            ],
+            "section_title": "Cyberattaques en août",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en août\nEn août 2024, la Réunion des Musées Nationaux (RMN) par ransomware. L'attaque a affecté le système informatique central des musées, mais n'a pas perturbé leurs opérations, notamment celles du Louvre et du Château de Versailles. Bien que l'incident ait touché les données financières, les musées eux-mêmes ont continué de fonctionner normalement. Une enquête a été ouverte pour déterminer les responsables et l'ampleur des dommages.",
+            "token_count": 68,
+            "character_count": 457,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "265edfa8a1832a54",
+        "content": "### Cyberattaques en septembre\nEn septembre 2024, l'Agence France-Presse (AFP), l'une des plus anciennes agences de presse au monde, a subi une cyberattaque ciblant ses systèmes informatiques. L'incident a affecté une partie de son service de diffusion aux clients, mais les opérations de l'agence, y compris la couverture de l'actualité mondiale, ont continué sans interruption. Les équipes techniques de l'AFP, en collaboration avec l'Agence nationale de la sécurité des systèmes d'information (ANSSI), ont rapidement pris en charge l'incident. Les autorités françaises ont été informées, et une enquête est en cours pour déterminer l'origine et les motivations de l'attaque. L'AFP a également notifié les autorités françaises d'une éventuelle violation de données suite à l'attaque. Cet incident souligne la vulnérabilité des agences de presse aux cyberattaques, mettant en évidence la nécessité de renforcer la cybersécurité pour protéger les infrastructures critiques de l'information.",
+        "metadata": {
+            "chunk_id": "265edfa8a1832a54",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Cyberattaques en septembre"
+            ],
+            "section_title": "Cyberattaques en septembre",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cyberattaques en septembre\nEn septembre 2024, l'Agence France-Presse (AFP), l'une des plus anciennes agences de presse au monde, a subi une cyberattaque ciblant ses systèmes informatiques. L'incident a affecté une partie de son service de diffusion aux clients, mais les opérations de l'agence, y compris la couverture de l'actualité mondiale, ont continué sans interruption. Les équipes techniques de l'AFP, en collaboration avec l'Agence nationale de la sécurité des systèmes d'information (ANS",
+            "token_count": 140,
+            "character_count": 990,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ce67ef27e926dd51",
+        "content": "### Menaces numériques en octobre\nEn octobre 2024, Free a déposé plainte après avoir été victime d'une cyberattaque affectant les données personnelles de ses abonnés. Bien que l'ampleur exacte de l'incident demeure inconnue, des informations sensibles telles que les identifiants et mots de passe ont été compromises. L'opérateur n'a pas révélé le nombre exact de clients impactés, mais l'attaque soulève des inquiétudes sur la sécurité des données personnelles et la protection des utilisateurs face à ce type de menace croissante.",
+        "metadata": {
+            "chunk_id": "ce67ef27e926dd51",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Menaces numériques en octobre"
+            ],
+            "section_title": "Menaces numériques en octobre",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Menaces numériques en octobre\nEn octobre 2024, Free a déposé plainte après avoir été victime d'une cyberattaque affectant les données personnelles de ses abonnés. Bien que l'ampleur exacte de l'incident demeure inconnue, des informations sensibles telles que les identifiants et mots de passe ont été compromises. L'opérateur n'a pas révélé le nombre exact de clients impactés, mais l'attaque soulève des inquiétudes sur la sécurité des données personnelles et la protection des utilisateurs face",
+            "token_count": 80,
+            "character_count": 532,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a4c00ac7bac2e180",
+        "content": "### Menaces numériques en novembre\nEn novembre 2024, Schneider Electric a subi une cyberattaque menée par le groupe Hellcat, qui a compromis plus de 40 Go de données via le système Atlassian Jira. Les informations volées incluent des projets, des enregistrements d'utilisateurs et des plugins. Hellcat a exigé une rançon de 125 000 USD, initialement présentée comme une demande humoristique de baguettes, avant de préciser un paiement en Monero. Schneider Electric a mobilisé son équipe de réponse aux incidents et assuré que ses produits restent opérationnels.",
+        "metadata": {
+            "chunk_id": "a4c00ac7bac2e180",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Menaces numériques en novembre"
+            ],
+            "section_title": "Menaces numériques en novembre",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Menaces numériques en novembre\nEn novembre 2024, Schneider Electric a subi une cyberattaque menée par le groupe Hellcat, qui a compromis plus de 40 Go de données via le système Atlassian Jira. Les informations volées incluent des projets, des enregistrements d'utilisateurs et des plugins. Hellcat a exigé une rançon de 125 000 USD, initialement présentée comme une demande humoristique de baguettes, avant de préciser un paiement en Monero. Schneider Electric a mobilisé son équipe de réponse au",
+            "token_count": 86,
+            "character_count": 561,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e9637868ee34bb37",
+        "content": "### Menaces numériques en décembre\nLe décembre 2024, le Groupe LDLC a été victime d’une cyberattaque ciblant son infrastructure informatique. Dès la détection de l’incident, des mesures de sécurité ont été rapidement mises en œuvre pour contenir l’attaque et protéger les données sensibles des clients et partenaires. Le groupe collabore avec des experts en cybersécurité pour analyser l’ampleur de l’incident et renforcer ses systèmes. Une enquête approfondie est en cours, et LDLC s’engage à communiquer régulièrement sur les évolutions et les éventuelles implications de cet incident.",
+        "metadata": {
+            "chunk_id": "e9637868ee34bb37",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Menaces numériques en décembre"
+            ],
+            "section_title": "Menaces numériques en décembre",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Menaces numériques en décembre\nLe décembre 2024, le Groupe LDLC a été victime d’une cyberattaque ciblant son infrastructure informatique. Dès la détection de l’incident, des mesures de sécurité ont été rapidement mises en œuvre pour contenir l’attaque et protéger les données sensibles des clients et partenaires. Le groupe collabore avec des experts en cybersécurité pour analyser l’ampleur de l’incident et renforcer ses systèmes. Une enquête approfondie est en cours, et LDLC s’engage à commun",
+            "token_count": 86,
+            "character_count": 587,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fcae42ed1ef953f4",
+        "content": "### Conclusion\nL’année 2024 a mis en évidence des failles critiques dans les systèmes numériques français, soulignant l’urgence de renforcer les infrastructures de cybersécurité et d’améliorer la gestion des risques. Ces attaques rappellent l’importance de la résilience et de l’anticipation pour protéger les données et les infrastructures face à un paysage numérique de plus en plus menaçant.",
+        "metadata": {
+            "chunk_id": "fcae42ed1ef953f4",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Conclusion"
+            ],
+            "section_title": "Conclusion",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Conclusion\nL’année 2024 a mis en évidence des failles critiques dans les systèmes numériques français, soulignant l’urgence de renforcer les infrastructures de cybersécurité et d’améliorer la gestion des risques. Ces attaques rappellent l’importance de la résilience et de l’anticipation pour protéger les données et les infrastructures face à un paysage numérique de plus en plus menaçant.",
+            "token_count": 57,
+            "character_count": 394,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "53f7a6f165855b1c",
+        "content": "### Laisser un commentaire Annuler reply\nVotre adresse e-mail ne sera pas publiée.Les champs obligatoires sont indiqués avec\\*\nLangueAnglaisLatamBrazilFrançaisDutchAllemandIndonesianItalianTurkishSwedishThaiVietnam (Vietnamese)\nLe code langue du commentaire.\nEn envoyant ce formulaire, vous acceptez le traitement des données à caractère personnel conformément à notre Politique de confidentialité.",
+        "metadata": {
+            "chunk_id": "53f7a6f165855b1c",
+            "parent_doc": "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France | ManageEngine Blog",
+            "source_url": "https://www.manageengine.com/fr/blog/general/bilan-2024-les-cyberattaques-qui-ont-redefini-la-securite-numerique-en-france.html",
+            "section": "Analyse SWOT",
+            "doc_title": "",
+            "query_context": "cybersécurité risques plateformes SaaS restauration France 2024",
+            "question": "Quelles menaces externes et risques de marché doivent être anticipés ?",
+            "angle": "technological and cybersecurity risks in hospitality SaaS",
+            "heading_path": [
+                "Bilan 2024 : Les Cyberattaques qui ont redéfini la sécurité numérique en France",
+                "Laisser un commentaire Annuler reply"
+            ],
+            "section_title": "Laisser un commentaire Annuler reply",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Laisser un commentaire Annuler reply\nVotre adresse e-mail ne sera pas publiée.Les champs obligatoires sont indiqués avec\\*\nLangueAnglaisLatamBrazilFrançaisDutchAllemandIndonesianItalianTurkishSwedishThaiVietnam (Vietnamese)\nLe code langue du commentaire.\nEn envoyant ce formulaire, vous acceptez le traitement des données à caractère personnel conformément à notre Politique de confidentialité.",
+            "token_count": 44,
+            "character_count": 398,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T13:03:37.670818+00:00",
+            "extra": {}
+        }
+    }
+]

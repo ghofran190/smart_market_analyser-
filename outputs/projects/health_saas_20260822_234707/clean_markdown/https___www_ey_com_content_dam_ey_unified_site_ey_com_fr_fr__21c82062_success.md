@@ -1,0 +1,1383 @@
+biotech medtech e-santé IA
+LES ENTREPRENEURS DE LA HEALTHTECH
+La santé est plus que jamais un enjeu
+stratégique, et notre capacité collective à innover
+et à structurer un écosystème compétitif sera
+déterminante pour l’avenir de la filière
+’année 2024 a confirmé la vitalité
+et la résilience du secteur HealthlTech en France, avec une filière qui
+ne cesse d’évoluer malgré un environnement économique et financier incertain.
+Aujourd’hui, près de 2 700 entrepri-
+Aujourd’hui, près de 2 700 entreprises innovantes en santé, regroupant biotechs, medtechs et acteurs de la santé
+numérique, façonnent les avancées
+médicales de demain et structurent une
+filière qui emploie 75 600 personnes.
+Avec un chiffre d’affaires global en
+hausse de 21 % et des investissements
+en R&D atteignant 1,4 milliard d’euros
+(+ 10 % par rapport à 2022), l’innovation
+demeure au cœur de notre dynamique
+collective. Cet élan est porté par une
+volonté commune : accélérer l’innovation au service des patients et leur offrir des traitements
+tion au service des patients et leur offrir des traitements
+toujours plus efficaces, personnalisés et accessibles.
+Pourtant, plusieurs défis demeurent. Si le taux de
+création d’entreprises reste soutenu, nous observons
+aussi une hausse des défaillances. La question du financement, pierre angulaire de notre écosystème, reste donc
+Bpifrance joue un rôle majeur pour le financement et
+L’impact du contexte économique est également
+perceptible sur l’emploi, avec une légère baisse des
+effectifs en 2024. Pourtant, les perspectives restent
+positives : 83 % des entreprises envisagent de recruter
+en 2025, avec 2 000 nouveaux emplois prévus, notamment en R&D, en production et en marketing. Le crédit
+d’impôt recherche (CIR) et le statut de Jeune Entreprise
+Innovante (JEI) jouent un rôle déterminant dans cette
+dynamique. Près de 86 % des entreprises bénéficient du
+CIR, qui représente en moyenne entre 10 et 20 % de leurs
+dépenses d’exploitation. La filière gagne en maturité, la
+moitié des entreprises sont au stade de commercialisation et les deux tiers visent les marchés internationaux. Il
+est donc plus que jamais essentiel de soutenir et d’accompagner les acteurs dans
+leur déploiement à l’international et dans
+leurs phases de « scale-up ». L’essor des
+technologies numériques et de l’intelligence artificielle dans la santé ouvre également de nouvelles perspectives. Avec
+environ 450 entreprises de santé numé-
+rique recensées en 2024, dont 76 % déjà en
+phase de commercialisation, l’innovation
+en IA est désormais un levier stratégique.
+L’année 2024 a aussi été marquée par
+une dynamique positive en matière de
+partenariats. Après un ralentissement
+en 2023, les alliances stratégiques ont
+fortement repris, atteignant un montant record de 100 Mds$ en Europe. La
+France se positionne désormais comme
+le quatrième pays européen en nombre d’opérations,
+avec 60 accords signés par des entreprises biopharmaceutiques françaises pour une valeur de 16 Mds$.
+« ACCÉLÉRER LE DÉVELOPPEMENT DES
+HEALTHTECHS, SOURCES DE CROISSANCE
+ÉCONOMIQUE DURABLE, DE CRÉATION D’EMPLOIS
+ET DE SOUVERAINETÉ, AFIN DE FACILITER AVEC
+LES PATIENTS L’ACCÈS AUX PRODUITS ET
+SERVICES INNOVANTS EN SANTÉ. »
+Face à ces évolutions, la mission de France Biotech
+reste inchangée : accélérer le développement des healthtechs, sources de croissance économique durable, de
+création d’emplois et de souveraineté, afin de faciliter
+avec les patients l’accès aux produits et services innovants en santé. La santé est plus que jamais un enjeu stratégique, et notre capacité collective à innover et à structurer un écosystème compétitif sera déterminante pour
+Je tiens à remercier nos partenaires – Banque Popu-
+# Sommaire
+**l’essentiel** La filière HealthTech en 2024 **4**
+## LES ENTREPRISES HEALTHTECH EN FRANCE
+Entreprises, créations, maturité, valeur économique et profils des entrepreneurs **10** **13** Immobilier. Des besoins variables en fonction des typologies d’entreprises **14** Focus sur les entreprises de biotechnologie **15** Une filière fortement pourvoyeuse d’emplois **18** La R&D, l’un des atouts majeurs des entreprises de healthtech **19** Focus sur la propriété intellectuelle **21** Focus sur les entreprise de biotechnologie **23** Focus sur les entreprises de medtech et diagnostic **26** Focus sur les sociétés de santé numérique et d’IA **28** Focus sur les TechBios : les sociétés utilisant de l’IA pour accélérer la R&D **29** ENTRETIEN. David Del Bourgo, Directeur Général de WhiteLab Genomics **30** Une filière tournée vers l’international **32** Les préoccupations des entrepreneurs
+## Zoom avec Howden
+**Les entreprises Biotech et Medtech face aux Risques Cyber : 33** une nouvelle approche
+## Les partenariats en santé
+Focus sur les partenariats en Europe **36** **38** Focus sur les partenariats en France **41** ENTRETIEN. Pierre-Emmanuel Gerard, Fondateur et PDG de Biomunex **42** ENTRETIEN. Arnaud Lesegretain, Directeur général d’Orano Med
+## SOUTIEN ET ACCOMPAGNEMENT DE LՎTAT
+Bpifrance, acteur clé de l’innovation en santé **44** **45** Bpifrance opérateur clé de France 2030 **49** FOCUS 2024 Sur les projets adressant la prévention **50** La santé mentale, cause nationale 2025 **51** Les enjeux de l’industrialisation en santé **52** FOCUS 2024 Sur le financement de l’Industrialisation en santé **53** Aperçu du financement des thérapies **54** Les enjeux du secteur de la biothérapie et la bioproduction **55** Les enjeux du secteur des maladies infectieuses **56** Les enjeux du secteur des dispositifs médicaux **57** Les enjeux du secteur des dispositifs médicaux numériques **59** Les défis du secteur de la santé pour 2025 **60** ENTRETIEN. Paul-François Fournier, Directeur Exécutif, Direction Innovation bpifrance
+## LE FINANCEMENT DE LA HEALTHTECH EN FRANCE ET à L’INTERNATIONAL
+## 4.1 MONDE - 2024 renoue avec les niveaux de l’avant Covid. Par EY 62
+**65 4.2 EURO PE-Un dynamisme qui cache des situations contrastées d’un pays à l’autre. Par EY** **71** ENTRETIEN. Aneta Sottil et Raphaël Wisniewski, Associés, Andera Life Sciences **72 4.3 FRANCE-L’attentisme. Par EY** **75** ENTRETIEN. Arnaud Mascarell, CEO cofondateur de FineHeart, fleuron de la cardiologie française **76** La santé financière des entreprises de HealthTech françaises en 2024 **78** Le CIR, CICo et le statut de la JEI, des dispositifs essentiels pour la filière **80** ENTRETIEN. Paul Bravetti, CEO de Brenus Pharma **81 4.4 EURO PE-ÉDITO. Alexis Janin, directeur des activités de cotation PME & ETI France, Euronext** **82** REGARDS CROISÉS : Christophe Douat (Medincell), Mehdi Chelbi (Biper Therapeutics) et Sébastien Malafosse (Edmond de Rothschild Asset Management). Par Euronext **87** Focus sur le marché boursier **88** Focus sur les programmes d’accompagnement
+**Annexes** Partenaires Comité de pilotage Contributeurs France Biotech, un collectif engagé de plus Pôles de compétitivité santé de 700 entreprises membres Sociétés participantes à l’étude
+Panorama 2024 france bio tech la filière h ealth
+Créations et liquidations
+de sociétés de biotechnologie
+Un taux de création d’entreprises qui demeure fort
+malgré davantage de défaillances d’entreprises
+Le Crédit Impôt Recherche (CIR)
+et le statut de la JEI sont des
+sociétés de biotechnologie
+Une filière qui poursuit son développement notamment à l’international
+PART D'ENTREPRISES POSSÉDANT
+86 s sociétés bénéficient du CIR.
+et le statut de la JEI sont des Il représente en moyenne 10 à 20% des dépenses
+dispositifs essentiels pour la filière
+57 s sociétés sont éligibles au statut de la JEI
+Une activité partenariale en hausse en France et en Europe
+> 2100 partenariats stratégiques conclus entre 2020
+Après des années record en 2020 et 2021, suivi d’une et 2024.
+baisse en 2023, les partenariats sont en hausse en 2024
+pour un montant record total de 100 Mds$.
+Sur le continent européen, le Royaume-Uni se classe
+au 1er rang (22 % des opérations), suivi de l’Allemagne et
+La France se situe à la 4e place en Europe en nombre
+d’opérations (13 % des accords).
+Après une baisse du nombre de transactions en 2023,
+2024 est synonyme de reprise avec une soixantaine
+d’accords signés par les acteurs biotechnologiques et
+pharma françaises pour une valeur de 16 Mds$.
+Les montants des paiements initiaux (upfront) sont en
+Les petites molécules ont dominé les accords réalisés
+en 2024 (7 des 12 plus grandes opérations signées),
+suivi des anticorps mono et bi-clonaux et des vaccins.
+Des volontés de rapprochement en augmentation :
+Des volontés de rapprochement en augmentation : 48 % des HealthTech considère le M&A comme
+stratégie d’exit privilégiée.
+Le co-développement et les stratégies de licensing
+acteur clé de l’innovation en santé,
+Un soutien maintenu de lՎtat pour la filière HealthTech
+Les financements à l’innovation ont été fortement
+tirés par les dispositifs médicaux. Ainsi, 2024 a permis
+d’accélérer le financement du déploiement d’outils
+innovants utilisant l’IA pour la mise en qualité
+des données massives et l’interopérabilité,
+le développement de solutions d’optimisation
+de parcours de soin et de gestion de flux au service de
+l’efficience de notre système de soin. Les dispositifs
+médicaux sont également tirés par l’IA avec de
+nombreux projets sur les thématiques robotique
+médicale, implantable et imagerie médicale.
+Deux nouvelles thématiques sont mises en avant
+En 2024, 682 M€ d’aides ont été attribués sur
+le secteur de la santé via Bpifrance, incluant les aides
+mises en place par les directions régionales. De plus,
+2 nouveaux AAP ont été lancés sur des thématiques
+clés, la santé mentale et la prévention.
+concevoir de nouveaux médicaments et mesurer
+l’impact des traitements, ainsi que sur le déploiement
+Aussi, France 2030 a continué à travailler sur
+Sur les investissements, 531 M€ ont été investis
+dont 102 M€ en fonds propres investis au capital des
+sociétés de HealthTech, 300 M€ dans les
+investissements de fonds HealthTech et 129 M€ en
+capital développement en 2024.
+Enfin, Bpifrance a élargi son champ d’intervention
+l’industrialisation sur toutes les thématiques avec
+62 M€ d’aide en 2024 sous 3 angles : 1) le renforcement
+des capacités de production de médicaments
+essentiels (20 nouveaux médicaments essentiels),
+2) la structuration des filières de la santé avec le
+financement des sous-traitants et 3) l’industrialisation
+des innovations par des starts-ups industrielles.
+# L’ ess e nt i e l
+## carte deS régionS de l’échantillon en 2024
+#### (en nombre d’entreprises répondantes)
+de 1 à 10 de 11 à 39**- 5** vs. 2023 de 40 à 99 100 et + **Hauts-**
+### - 14 vs. 2023
+### - 7 vs. 2023 - 1 vs. 2023
+**Normandie** **Île-de-Grand Est**
+## 7 France 24
+**61** **Pays** **de la Loire Centre** **Val-de-Loire**
+### + 16 vs. 2023 45 Bourgogne
+## 11Franche-Comté 17
+### - 4 vs. 2023 + 8 vs. 2023
+**Nouvelle** **Auvergne+ 4** vs. 2023
+### + 6 vs. 2023
+**Aquitaine** **Rhône-Alpes**
+## 35 77
+### + 4 vs. 2023Provence-
+**Occitanie** **Alpes-Côte d’Azur**
+## 38 24
+### - 4 vs. 2023- 4 vs. 2023
+#### Ile de
+#### La Réunion
+### + 1 vs. 2023
+Source : France Biotech, 516 sociétés, décembre 2024
+**Les HealthTech sont présentes sur l’ensemble du territoire** (+ 4 sociétés). Le Grand Ouest qui comprend les régions français avec une forte concentration de startups en Ile-Bretagne, Pays de la Loire et Centre Val-de-Loire consti- **de-France. Première région en termes de répondants, elle** tue également un bassin entrepreneurial dynamique avec un représente plus d’un quart du panel d’entreprises (26 %). peu moins d’un quart de l’échantillon. La Bretagne se range La région Auvergne Rhône-Alpes conserve sa deu-désormais à la 3e position au niveau national suivie de près xième place au niveau national avec 15 % des entreprises par les Hauts-de-France et les Pays-de-Loire.
+Panorama 2024 france biotech
+Typologies des entreprises étudiées
+| TYPOLOGIES DES ENTREPRISES ÉTUDIÉES | 2024 | | 2023 |
+| --- | --- | --- | --- |
+| Biotech | 33% | $\rightarrow$ | +1pt |
+| Medtech | 24% | $\rightarrow$ | idem |
+| Santé numérique, IA | 24% | $\rightarrow$ | +1pt |
+| CRO / CDMO | 11% | $\rightarrow$ | +1pt |
+| Diagnostic | 4% | $\downarrow$ | -1pt |
+| Biocleantech / Biotech agro | 2% | $\rightarrow$ | +1pt |
+| Autre | 2% | $\downarrow$ | -3pts |
+Source : France Biotech, 504 sociétés, décembre 2024
+La majorité des entreprises de l’étude sont des entreprises
+de biotechnologie (33 %), tandis que près d’un quart déve
+loppe des dispositifs médicaux (medtech : 24 %) et un autre
+Source : France Biotech, 506 sociétés, décembre 2024
+Près de la moitié des entreprises de HealthTech sont des
+bénéficient ou ont bénéficié d’un accompagnement par une pépinière ou un incubateur.
+sont membres d’un pôle de compétitivité.
+évolution du chiffre d’affaires des entreprises de HealthTech 2019-2023
+Le chiffre d’affaires a augmen
+### Les entreprises françaises de HealthTech
+**immobilier : deS beS oin S variableS en fonction deS tyP ologie S d’entreP ri SeS**
+Prix, accessibilité et dynamique de l’écosystème local sont les critères les plus
+importants pour une implantation sur un territoire. Les besoins les plus forts en
+##### immobilier concernent majoritairement les biotech.
+# 833 m 5 %
+##### s urface moyenne des locaux ont dû changer de région
+##### des entreprises pour répondre à leurs
+##### de Health T ech. besoins immobiliers.
+# 24 % 19 % des Health T ech
+##### des Health T ech rencontrent
+##### ont des besoins immobiliers.
+##### des difficultés à trouver des locaux.
+#### Quels sont vos besoins Typologie de laboratoire
+##### la plus adaptée
+#### prioritaires ?
+##### Bureaux64 %
+##### Laboratoires53 % Laboratoires humides L2
+##### Unité de production/bioproduction22 %
+##### Laboratoires humides L1
+##### 11 % Stockage
+##### 8 % Atelier29 %
+##### Dry lab
+##### 14 % Autre
+Source : France Biotech, 118 répondants, réponses multiples, janvier 2025 Source : France Biotech, 411 répondants, janvier 2025
+#### Quels sont vos critères les plus importants
+##### Typologie d’offre
+#### dans le choix d’une structure immobilière ?
+##### All inclusive (accès mutualisé
+##### Prix 30 %
+à un parc d’équipements **Accessibilité (transports en commun, parking…) 27 %** et services associés)
+##### Dynamique de l’écosystème local 19 % Location nue
+à aménager **12 % Accès à des équipements de laboratoires** **Laboratoire** **Flexibilité** **10 % pré-aménagé**
+##### 1 % Offre d’animation
+sans équipements **1 % Autre** **26 %**
+Source : France Biotech, 447 répondants, janvier 2025 Source : France Biotech, 411 répondants, janvier 2025
+**1/4 des entreprise** s de HealthTech rencontre des **difficul-**L2 et L1 que dry lab et une préférence pour des locations **tés pour trouver des locaux** en France. L **es besoins priori-**« all inclusive » ou locations à nue, comparé aux laboratoires **taires se situent** à la fois pour des bureaux et des labora**-**pré-aménagés et sans équipements. **toires avec un besoin plus fort pour des laboratoires de type** Pour choisir leur lieu d’implantation, les entreprises **pri-**
+Panorama 2024 france bio tech
+Les entreprises HealthTech de l’étude comptent près de 14 000 emplois directs,
+représentant 75 000 emplois pour la filière au total. La dynamique de recrutement,
+l’ e mploi de l a fil iè re He a lthTech fr a nça is e
+au sein des sociétés du panel
+dans son ensemble : 51 TPE
+La parité homme/femme est
+presque parfaite au sein des équipes
+Source : France Biotech, 484 sociétés, janvier 2024
+DIREC28 collaborateurs en moyenne TS
+Source : France Biotech, 504 sociétés, janvier 2025
+dû LICENCIER en 2024 comptent RECRUTER
+(les ¾ en R&D, production et marketing)
+Nombre d’emplois directs des entreprises de l’étude
+Avez-vous recruté de nouveaux collaborateurs en 2024
+Source : France Biotech, 495 sociétés, janvier 2025
+L’année 2024 a été marquée par un environnement politique,
+52 % des entreprises comptent
+recruter des alternants et apprentis en 2025
+financier et fiscal plus incertain ; néanmoins
+Anticipez-vous des difficultés pour recruter des collaborateurs en 2025 ?
+Types de postes où les difficultés de recrutement sont les plus fortes
+Les entreprises françaises de HealthTech
+Les investissements en R&D sont en hausse depuis 2 ans,
+témoignant de la vitalité du secteur HealthTech en matière
+de recherche et d’innovation. Après une très forte aug
+Modèles d’activités des entreprises
+Les sociétés développant uniquement
+des services sont rares, la quasi-tota-
+Source : France Biotech, uniquement481 sociétés, janvier 2025
+Domaines d’activités des entreprises
+Source : France Biotech, 470 sociétés, question à réponses multiples, décembre 2024
+Logiciels / Santé numérique
+Matériels et réactifs / Équipements (recherche)
+Sur la propriété intellectuelle
+DÉPÔTS DE BREVETS PAR LES SOCIÉTÉS DE HEALTHTECH
+Sur leS entreP ri SeS de biotechnologie
+La filière comptabilisait plus de 800 entreprises de biotechnologie en santé en 2024.
+L’oncologie, la neurologie et l’infectiologie demeurent les domaines de prédilection des
+Les entreprises de biotechnologie françaises adressent des
+pathologies et indications variées. Toutefois, la moitié des
+produits du pipeline se concentre sur trois aires thérapeu
+Sur leS entreP ri SeS de medtech
+Le secteur français des dispositifs médicaux se distingue par sa richesse et sa diversité,
+couvrant un large éventail d’aires thérapeutiques, avec une forte représentation dans
+secteur medtech et diagnostic
+*Snitem, « Panorama 2023 de la filière industrielle des dispositifs médicaux en France »
+Top 10 des domaines thérapeutiques
+La filière des dispositifs est très diversifiée avec plus d’une vingtaine de
+14 % Enregistrement / Marquage CE
+35 % Produit commercialisé
+Source : France Biotech, 104 sociétés, décembre 2024
+en développement (% de produits
+Gastrologie/Entéro/Hépatologie
+Quelles sont vos 3 principales difficultés concernant le MDR ? (% d’entreprises)
+Comment fluidifier le processus de certification ? (% d’entreprises)
+Source : France Biotech, 130 sociétés, réponses multiples, décembre 2024
+Près des trois-quarts des entreprises de medtech et dia
+gnostic sont concernées par le MDR ; parmi celles qui ne
+En 2024, seulement 24 % des entreprises du secteur des dispositifs médicaux concernées sont parvenues à certifier leurs produits les plus importants selon les exigences du nouveau règlement MDR, bien que ce chiffre témoigne d'une progression de 4 points par rapport à 2023. La principale raison (89 % des entreprises) était la difficulté de finalisation de leurs dossiers, soulignant la complexité de certification.
+En ce qui concerne le temps nécessaire pour obtenir le marquage CE, environ la moitié des entreprises se situe entre 6 et 12 mois (de la soumission initiale du dossier à la certification). Cependant, pour 38 %, la certification prend plus d'un an. Ces retards prolongés freinent l'innovation et l'accès des dispositifs médicaux au marché, compromettant parfois la viabilité économique des projets.
+le sont pas, on trouve essentiellement des sous-traitants
+Parmi les pistes d'amélioration, un peu plus de la moitié plaide en faveur d'un système fast track pour accélérer la certification des dispositifs innovants, tandis que 48 % recommandent un encadrement des coûts et des délais. La simplification de la préparation des dossiers réglementaires fait également partie des pistes les plus citées. Ces mesures, si elles étaient mises en œuvre, pourraient non seulement fluidifier le processus, mais aussi stimuler l'innovation et renforcer la compétitivité des acteurs français dans un marché européen de plus en plus exigeant, en particulier pour les PME.
+La majorité des produits et solutions développés par les
+typologie de produits et sont en hausse.
+Avec l’arrivée dans le droit commun de la télésurveil
+sociétés d’e-santé sont à destination des systèmes de soins
+et des professionnels de santé (41
+Modèles d’affaires et de financement ciblés (%
+Achat industriel (pharma, medtech...)
+Remboursement assurance maladie
+Achat professionnel libéral
+Source : France Biotech, 130 sociétés, janvier 2025
+Quel modèle commercial ciblez-vous ? (% d’entreprises)
+tes se tourne vers des achats industriels. La prise en charge par l'assurance maladie ou par les mutuelles, bien que visés
+des entreprises est en diminution au
+par environ un quart des entreprises, est en dimmation, au profit de l'achat libéral reflétant la progression des DM à usage professionnels.
+Domaines d’applications (% de produits
+Source : France Biotech, 125 sociétés, janvier 2025
+Accélérer le développement de thérapies innovantes, réduire
+leurs coûts et augmenter leurs chances de succès grâce
+à des modèles de prédiction et de simulation avancés.
+Pouvez-vous nous expliquer
+WhiteLab Genomics est une entreprise
+spécialisée dans l’intelligence artificielle appliquée à la médecine génomique. Nous développons une plateforme d’intelligence artificielle dédiée
+aux thérapies ADN et ARN, des traitements, révolutionnaires, capables
+de corriger ou restaurer l’expression
+des gènes défectueux à l’origine de
+nombreuses maladies graves, comme
+l’amyotrophie spinale, d’autres maladies fréquentes y compris les cancers.
+Notre mission est d’accélérer le dé-
+veloppement de ces thérapies, de ré-
+duire leurs coûts et d’augmenter leurs
+chances de succès grâce à des modèles
+de prédiction et de simulation avancés.
+Ces outils permettent de concevoir des
+molécules plus efficaces et plus sûres,
+tout en raccourcissant les délais de
+mise sur le marché. En combinant IA
+et médecine génomique, nous voulons
+transformer l’accès à des traitements
+innovants capables de sauver des vies.
+Vous avez signé des accords de
+partenariats avec des acteurs
+académiques et pharmaceutiques ?
+Nous collaborons avec des partenaires
+de premier plan dans le secteur pharmaceutique et biotechnologique. Avec
+Sanofi, nous travaillons sur des projets liés à la dégénérescence maculaire
+liée à l’âge et sur les podocytopathies
+héréditaires (maladies rénales). Nous
+collaborons également avec l’Institut
+Imagine à Paris sur des maladies gé-
+Structure des protéines avec Brian et Yann.
+BIO. David Del Bourgo est PDG et
+co-fondateur de WhiteLab Genomics
+(WLG). Avant de fonder WLG, David a dirigé
+des équipes d’opérations commerciales, de
+marketing, d’applications, de services
+internes et de support client dans des
+sociétés de biotechnologie génomique et
+de dispositifs médicaux en France et à
+l’étranger. Ainsi, David a travaillé 7 ans chez
+GE Healthcare à différents postes
+(ingénieur et marketing) et 4 ans chez
+Genomic Vision au poste de directeur des
+activités marketing et commercial. David
+est titulaire d’un MBA de l’Université de
+Chicago Booth School of Business et d’un
+Master of Science en génie biomédical de
+l’Université de Technologie de Compiègne.
+Vous avez été à l’initiative de
+la première réunion de la filière
+« Techbio » en novembre 2024. Quels
+sont les enjeux de cette filière ?
+La filière TechBio est en pleine expan-
+nétiques complexes et avec l’Université de Nantes, qui dispose d’un centre
+de recherche en génétique de pointe.
+Dans le domaine de l’oncologie,
+nous avons un partenariat avec Debiopharm, une société suisse spécialisée
+dans le traitement des cancers, et avec
+Siren Biotechnology aux États-Unis,
+sur des thérapies géniques pour le
+glioblastome, un cancer cérébral très
+agressif. Enfin, nous travaillons aussi
+avec l’Institut de la Vision à Paris sur
+des maladies rétiniennes graves. Ces
+collaborations démontrent notre volonté d’intégrer notre expertise en IA
+dans des projets d’envergure au béné-
+Fondée en 2019 et soutenue par Y-Combinator,
+une société de financement précoce de startups,
+la société WHITELAB GENOMICS est à la
+convergence des sciences informatiques et de
+la biologie, faisant figure de pionnière dans le
+développement accéléré de médicaments
+génomiques. En recourant à sa technologie
+exclusive, WhiteLab Genomics analyse des
+données biologiques complexes en s’appuyant
+sur l’IA afin de réduire considérablement les
+délais de développement et de limiter les
+risques associés. WhiteLab Genomics fait partie
+du prestigieux programme French Tech 2030
+soutenu par le gouvernement français et a
+récemment rejoint le Bayer Co.La à Cambridge,
+Massachussetts, et le Technology Network de
+Ginkgo Bioworks, posant ainsi des jalons
+majeurs dans son expansion internationale.
+sion et représente une nouvelle approche dans la découverte de médicaments par l’IA générative, avec une
+vingtaine d’entreprises spécialisées
+dans des domaines variés, tels que
+les petites molécules, les anticorps
+monoclonaux ou encore les jumeaux
+numériques pour les essais cliniques.
+Nous avons lancé une initiative pour
+structurer cette filière, avec trois objectifs principaux : définir les enjeux
+prioritaires, cartographier les acteurs
+et améliorer la lisibilité de l’écosystème.
+Cette dynamique vise à renforcer la
+compétitivité internationale des entreprises françaises, à attirer des investissements et à encourager des collaborations entre les acteurs académiques,
+industriels et technologiques. Nous
+croyons fermement que cette structuration jouera un rôle clé dans l’avenir de la biotechnologie en France. n
+Les dispositifs dérogatoires d’accès au marché
+Envisagez-vous d’avoir recours à un dispositif d’accès précoce ?
+Source : France Biotech, 491 sociétés, janvier 2025
+Dispositifs d’accès précoces envisagés
+télésurveillance Source : France Biotech, 176 sociétés, janvier 2025
+En 2024, une entreprise sur trois envisa
+geait d’avoir recours à un dispositif d’ac-
+Part d’entreprises possédant une
+Répartition des filiales HealthTech
+Source : France Biotech, 108 sociétés, janvier 2025 leS P réoccu P at i o n S de
+Le financement demeure la première préoccupation des entrepreneurs en 2024
+et s’impose à nouveau comme un enjeu majeur. Les stratégies de rapprochement
+Classement des plus grandes préoccupations des entrepreneurs
+Source : France Biotech, 485 sociétés, janvier 2025
+Zoom sur les préoccupations
+| Financement, levées de fonds | #1 | #1 | #1 |
+| Réussite R&amp;D/clinique | #2 | #3 | |
+| Développement de partenariats industriels | #3 | | |
+| Contraintes réglementaires | | #2 | |
+| Accès au marché et au remboursement | | | #2 |
+| Développement commercial | | | #3 |
+Source : France Biotech, 421 sociétés, janvier 2025
+Stratégies d’exit ou de développement envisagées
+En 2024, le financement reste la principale préoccupa
+tion des entrepreneurs de la HealthTech, avec
+position pour les entreprises de numérique en santé.
+avec industriel du secteur jusqu’au marché
+Développement jusqu’au marché
+LES PARTENARIATS EN SANTÉ
+Chloé Evans, France Biotech
+Marie Meier, France Biotech leS PartenariatS en Santé en france
+Les cinq dernières années ont été dynamiques pour l’industrie biopharmaceutique
+européenne en matière de partenariats, 2020 et 2021 ayant été des années records.
+Après une baisse des opérations en 2023, 2024 témoigne d’un rebond avec près de
+100 Mds$ de valeur atteints cette année. La France se situe à la 4 place en Europe
+tandis que l’oncologie est présente dans un tiers des accords.
+focuS Sur les partenariats en Europe
+évolution des partenariats en santé entre 2020 et 2024 en Europe
+L’année 2024 a été synonyme de reprise, tant en nombre
+d’accords qu’en montants. Ainsi, plus de 350 accords de
+licensing et de collaborations R&D ont été menés pour
+près de 100 milliards de dollars, un record en 5 ans. Parmi
+les plus grosses opérations réalisées en 2024, les trois premières (en valeur potentielle) ont été menées par le laboratoire Novartis. L’accord le plus important de l’année a
+Enfin, en février 2024, PTC Therapeutics, biotech spé-
+cialisée dans les maladies rares, signe un accord de licence
+et de collaboration avec le géant suisse, cette fois pour une
+petite molécule de phase II visant la maladie de Huntington.
+L’accord d’une valeur totale de 2,9 Mds$ inclue un paiement
+initial record d’un 1 Md$.
+Nombre d’opérationslesquelles ceux-ci ont
+Principales aires thérapeutiques concernées par les partenariats
+en France et en Europe entre 2020 et 2024
+| | EUROPE | | | FRANCE | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| AIRES THÉRAPEUTIQUES | % d'accords | Valeur totale moyenne(M$) | Paiement initial moyen(M$) | % d'accords | Valeur totale moyenne(M$) | Paiement initial moyen(M$) |
+| Oncologie | 34% | 862 | 68 | 29% | 1078 | 56 |
+| Maladies infectieuses | 12% | 305 | 104 | 12% | 374 | 204 |
+| Neurologie | 11% | 738 | 77 | 10% | 339 | 30 |
+| Maladies auto-immunes/immunologie | 8% | 633 | 87 | 10% | 1344 | 116 |
+| Endocrinologie | 6% | 386 | 62 | 7% | 154 | 16 |
+| Cardiovasculaire | 5% | 653 | 167 | 5% | 48 | 9 |
+| Ophtalmologie | 4% | 330 | 113 | 7% | 201 | 9 |
+| Métabolisme | 4% | 778 | 74 | 6% | 566 | 42 |
+Sources : France Biotech, Biomedtracker (2025)
+L’o n c o l o g i e e s t p ré s e n t e d a n s 1 / 3 d e s p a r t e n a -
+riats de type licensing et collaborations R&D au
+niveau européen et dans la majorité des accords
+menés par des acteurs français. Cette aire thé-
+rapeutique est également la plus valorisée dans
+les partenariats français et européens.
+Les tendances partenariales au niveau national reflètent
+une dynamique similaire à celles observées au niveau
+européen. Ainsi, depuis 2020, les montants totaux des
+accords sont en augmentation, une croissance reflétée
+par un CAGR de 24 % pour la période 2020-2024. Après
+une baisse importante du nombre d’opérations en 2023,
+l’année 2024 est synonyme de reprise pour le secteur avec
+une soixantaine de partenariats signés par les entreprises
+pharmaceutiques et biotechnologiques françaises.
+Sur les partenariats en France
+Principaux partenariats en 2024 impliquants des biotech françaises
+| DATE DE LACÇORD | DESCRIPTION | ENTREPRISE CONCÉDANTE (LICENCIEUR) | ENTREPRISE LIÇENCIE | PAYS PARTENAIRE | VALEUR TEAU (MS) | (MS) | AIRE THERAPEUTIQUE | PHASE | TECHNOLOGIE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 23 Avr. 2024 | Vertex et Treefrog Therapeutics annoncent un accord de licence et une collaboration pour optimiser la production des therapies cellulaires de Vertec contre le diâle de type. | TreeFrog | VERTEX | USA | 780 | 25 | Métabolisme/ endocrinologie | NA | Thérape cellulaire |
+| 23 Avr. 2024 | Abbie et OSE Immunotherapeutics conucent un accord mondial de licence et de développement pour un anticorp monoclonal destiné au traitement de l'inflammation chronique. | OSE | abbiev | USA | 713 | 48 | Maladies auto-immunes/ immunologue | Preclinique | Anticorps monoclonal |
+| 03 Dé. 2024 | Jpson et Bionunex concluent un accord exclusif de licence mondiale pour un activateur de cellules MAIT en immuno-oncologie. | BIONUNEX | IPSEN | France | 610 | NA | Oncologie | Preclinique | Anticorps biopécifique |
+| 06 Jun. 2024 | Sionhoi conclut un accord d'option avec Cilcare pour le traitement de la perte auditive. | Sionhoi | SHIONOGI | Japan | 451 | 16 | ORL / Dentaire | I Preclinique | Petite moleculе |
+| 11 Apr. 2024 | Harmony Biosciences conclut un accord exclusif avec Biogjet pour développer et commercialiser le PH-1116. | bioprojet | PARMROYAL | USA | 393 | 26 | Neurologie | Preclinique | Petite moleculе |
+| 31 Jan. 2024 | Kioti et Théa concluent un accord pour développer et commercialiser le HQ-301 pour les maladies rétiniennes héridières. | Théa | KIORA | USA | 301 | 16 | Ophthalmologie | II | Petite moleculе |
+| 20 Jun. 2024 | Biophytie accords à Blanver pour le BIODIEn en Amérique latine. | Biophytis | BLANVER | Brésil | 116 | NA | Endocrinien, Malades infectées, Metabolique | II | Petite moleculе |
+| 08 Feb. 2024 | Nicoe et Kowa concluent un accord pour developpement à la commercialisation du NXC 470 au japon. | nicox | Kource | Japan | 33 | 3 | Ophthalmologie | III | Petite moleculе |
+| 01 Oct. 2024 | Vainela et LimmaTech concluent un partenariat stratégique pour accélérer le development du candidat vaccin tetravalent contre la shigella. | Vainela | valneva | Suisse | 11 | II | Maladies infectées | II | Vaccin |
+| 12 Jul. 2024 | Edward Lifertie conucent un accord avec Affluent pour la technologie de la médecine intérieure cardiaque, avec participation au capital et une option d'acquirement Kephalops. | affluent MEDICAL | Edhauel Lifertie | USA | 5 | 5 | Cardiovasculaire | NA | Dispositif médical |
+| 25 Nov. 2024 | Eton Pharmaceuticals acuisent les droits américains du Angidja d&#x27;AMTek pour le diâle néonat. | AMTeK | eton | USA | 2 | NA | Métabolisme | Approuvé | Petite moleculе |
+| 17 Dec. 2024 | Theraneux et Exelix concluent un accord de licence pour commercialiser le Theranexus X01 pour deux troubles neurologiques rares. | Theraneux | Exelitis | Espagne | NC | 2 | Neurologie | Preclinique | Petite moleculе |
+NC : non communiqué ; NA : non applicable
+Arnaud Lesegretain, Directeur général d’Orano Med
+Devenir un acteur incontournable de l’alphathérapie
+ciblée en proposant des traitements révolutionnaires
+aux patients souffrant de cancers
+Pouvez-vous nous expliquer votre
+Notre approche, appelée l’alphathéra-
+Notre approche, appelée l’alphathérapie ciblée, est une forme avancée de
+radiothérapie interne vectorisée. Elle
+combine la capacité des molécules
+biologiques à cibler les cellules cancéreuses avec le pouvoir destructeurs
+des isotopes émetteurs alpha. Nous
+développons une nouvelle génération
+de thérapies ciblées au plomb-212, un
+isotope qui peut être combiné avec
+une large palette de vecteurs pour dé-
+truire efficacement les cellules tumorales tout en limitant la toxicité aux
+organes sains. L’alphathérapie ciblée,
+ouvre des perspectives prometteuses,
+notamment pour les patients en impasse thérapeutique.
+Notre candidat médicament le
+plus avancé, AlphaMedix, est en fin
+de phase II. Cette alphathérapie ciblée au plomb-212 est conçue pour
+traiter les tumeurs neuroendocrines,
+des cancers rares, qui se développent
+principalement dans le système gastro-intestinal et le pancréas, mais aussi
+dans des organes comme les poumons,
+le thymus, et plus rarement dans les
+ovaires, le cœur ou la prostate.
+Vous avez passé un accord de
+partenariat avec Sanofi pour la
+commercialisation d’AlphaMedix ?
+En septembre 2024, Sanofi a acquis
+les droits pour la commercialisation
+d’AlphaMedix au niveau mondial.
+Orano Med se chargera de la production grâce à sa plateforme industrielle
+mondiale actuellement en construction, dont le site ATEF (Advanced
+Thorium Extraction Facility) à Bessines sur Gartempe, en Haute Vienne,
+constitue l’un des éléments clés. La
+construction de cette plateforme industrielle s’inscrit dans la stratégie
+d’accélération « biothérapie-bioproduction » du plan France 2030 qui vise
+ORANO MED, filiale du groupe Orano, est une
+société de biotechnologie au stade clinique qui
+développe une nouvelle génération de thérapies
+ciblées contre le cancer en utilisant les
+propriétés uniques du plomb-212 (212Pb), un
+radioisotope générateur de rayonnements
+alpha et au potentiel de destruction des cellules
+cancéreuses très prometteur. Orano Med se
+distingue notamment par son engagement
+à développer un portefeuille diversifié
+de thérapies internes vectorisées, tout en
+garantissant un approvisionnement fiable grâce
+à une chaîne de production entièrement
+intégrée et à un accès quasi illimité à la matière
+première. AlphaMedix, son traitement le plus
+avancé contre les tumeurs GEP-NET encore
+en développement, a reçu en 2024 la première
+désignation de « Breakthrough Therapy » de
+la FDA pour une alphathérapie ciblée. Orano
+Med dispose d’installations de production de
+212Pb, de laboratoires et de centres de R&D en
+France et aux États-Unis.
+à développer et à produire en France
+de nouvelles biothérapies notamment
+En parallèle, Sanofi est rentré au
+capital des activités de biotechnologies d’Orano Med avec un investissement de 300 M€ représentant 15,6 %
+du capital. Cette alliance stratégique
+reflète une ambition commune : accé-
+lérer l’accès des patients à ces thérapies de pointe.
+Quelles sont vos prochaines
+Notre priorité immédiate est de fina-
+Notre priorité immédiate est de finaliser les étapes cliniques et réglementaires d’AlphaMedix pour lequel nous
+avons obtenu la première désignation de Breakthrough Therapy de la
+FDA pour une alphathérapie ciblée. À
+moyen terme, notre objectif est de lancer les esssais cliniques jusqu’à trois
+nouveaux médicaments d’ici 18 mois
+et de renforcer nos capacités industrielles, notamment sur nos sites à
+Valenciennes et Indianapolis, pour
+répondre à une demande mondiale
+croissante. Nous prévoyons aussi de
+recruter de nouveaux talents pour accompagner cette croissance et continuer à innover pour offrir des solutions aux patients atteints de cancersn
+bPifrance oPérateur clé de france 2030
+France 2030, un plan majeur pour répondre
+aux grands enjeux via les technologies
+Le volet dirigé est piloté par l’AIS (Agence d’Innovation en Santé) en collaboration avec l’ensemble
+rance 2030 est un plan de transition économique et écologique piloté par le Secrétariat
+fgénéral pour l’investissement pour le compte
+du Premier ministre. Il est mis en œuvre par les opé-
+rateurs de l’état: l’Agence de la transition écologique
+(ADEME), l’Agence nationale de la recherche (ANR), la
+Caisse des Dépôts et Bpifrance qui est l’opérateur principal. Les objectifs transversaux sont de consacrer 50 %
+des dépenses à la décarbonation de l’économie et 50 %
+à des acteurs émergents, porteurs d’innovation sans
+dépenses défavorables à l’environnement.
+Projets innovants en santé
+France 2030, structuré autour de 10 objectifs et
+5 leviers, s’intègre à l’architecture du Plan d’investissement d’avenir 4 (PIA4), et comprend un volet dirigé composé de 22 stratégies d’accélération et un volet
+structurel orienté vers les acteurs de l’enseignement,
+de la recherche et de l’innovation (I-Lab, I-Nov, I-Demo,
+Première Usine). Le volet dirigé santé s’organise autour
+des maladies infectieuses émergentes, de la biothérapie et la bioproduction (AAP Innovation en biothérapies
+et bioproduction), de la santé numérique (AAP évaluation médico-économique, AAP Entrepôt de données de
+santé, … ), du Plan dispositifs médicaux avec les Grands
+Défis et de la nouvelle SA Prévention.
+déjà accompagnés sur tout
+le territoire via Bpifrance
+du comité interministériel. L’AIS, créée il y a deux ans,
+s’est engagée sur 12 travaux prioritaires (cf: sa feuille de
+route, publiée en novembre 2023). Ils soutiennent les
+objectifs du plan Innovation Santé 2030, volet santé de
+France 2030, de faire de la France un pays souverain
+France 2030, via les financements (innovation et
+industrialisation) et l’accompagnement des entreprises
+(Lauréats FT2030, Diag, Accélérateurs), a contribué à
+ces objectifs en 2024 dans la continuité de 2023.
+L’année 2025 pour l’AIS et le plan France 2030 sera
+une année avec de nombreux challenges : transformer
+le système de santé vers un modèle plus prédictif et
+personnalisé et apporter des produits et des solutions thérapeutiques qui ont un impact sur la vie
+des patients, mais aussi sur l’organisation des soins
+et l’efficience du système de santé.
+### soutien et accompagnement de l’état
+# Synthèse des aides* par zone géographique et par typologie d’acteurs en 2024
+**répartition des financements de l’innovation**** de 1 à 9
+#### DOM-TOM
+##### de 10 à 19
+##### M€ 1,9
+**Ile-de-France 50** de 20 à 39 **7** **Hauts-de-** 40 et +
+## 255 M€228
+#### 29,2 M€
+**10** **Normandie 60** **Grand-Est**
+#### 9 M€
+##### Bretagne 41,8 M€
+#### 7 M€
+**Guadeloupe** **Pays Centre** **de la Loire Val-de-Loire Bourgogne 26** **Franche-conté**
+#### 30,2 M€ 8,3 M€ 33,6 M€
+**21Martinique** **Nouvelle Auvergne-** **119** **Aquitaine Rhône-Alpes** **24**
+#### 33,9 M€124,3 M€
+##### 36 Mayotte
+##### Occitanie Provence-Alpes-
+#### 61,2 M€
+##### Côte d’Azur
+#### 46,8 M€
+##### Île de la Réunion
+*Chiffres calculés pour les aides sur la base des dossiers décidés en 2024 uniquement sur les AAP nationaux et les aides à l’innovation en réseau| ** Le projet est localisé par rapport à la localisation du chef de file pour les projets collaboratifs.
+##### Aide par typologie de bénéficiaires
+En 2024, 77 % des bénéficiaires sont des PME*** pour 75 % des aides.
+CHU / IHU / /GCS **34 M€**
+ÉTABLISSEMENTS DE RECHERCHE **66 M€** Montant total de l’aide (M€). **96** Nombre de bénéficiaires. GRANDES ENTREPRISES **65 M€***** La taille des entreprises est déterminée en respectant la définition européenne. **43**
+##### MOYENNES ENTREPRISES 136 M€
+##### PETITES ENTREPRISES 378 M€
+## soutien et accompagnement de l’état
+# L a prévention, un enjeu national et un des axes prioritaires de Bpifrance
+##### Prévention Primaire Prévention Secondaire Prévention Tertiaire
+##### Promouvoir des Faciliter le dépistage précoce Proposer des activités
+##### comportements favorables de maladie adaptées et une
+Solutions qui permettent de détecter **à la santé télésurveillance optimisée** Solutions qui encouragent/favorisent une maladie à un stade asymptoma Solution de promotion des activités- des comportements permettant de tique ou préclinique. adaptées et de surveillance de l’état
+i.e. tests détectant des biomarqueurs prévenir l’apparition de maladies ou de santé de patients pour une prise en
+précoces, croisement de données qui améliorent le bien-être. charge personnalisée.
+i.e. réduire la consommation d’alcool, i.e. activité physique adaptée ; médicales, ect.
+favoriser l’activité physique ou **Lutter contre l’installation** dispositifs médicaux connectés ; mentale, ect. **de maladies en les détectant tôt.** applications de suivi patient-médecin, **Inciter les citoyens à prendre** etc. **en charge leur santé. Limiter l’installation Sécuriser la prise en charge et** **ou l’impact de facteurs limiter les hospitalisations évitables.** **Optimiser les approches de risques** **préventives populationnelles** Solutions qui permettent la gestion **Anticiper les complications**
+des facteurs de risques avant la mise **de pathologies chroniques** Solutions permettant de cibler et opti- miser les interventions en prévention Solutions se basant sur les données en place d’une pathologie ou sympto- au sein de la population. médicales pour identifier les signes de matologie.
+i.e. améliorer la couverture vaccinale, i.e. gestion du stress, prise en charge
+dégradation de l’état de santé.
+limiter les infections nosocomiales, de l’HTA, préparation à i.e. scores de risques pathologiques, ect. l’accouchement, ect.scores de prédictions, ect. **Adresser les bonnes personnes Empêcher l’évolution vers un état Améliorer l’espérance** **avec les bons moyens. pathologique. et la qualité de vie des patients.**
+**Exemples** **d’entreprises** **soutenues**
+# sur les projets adressant la prévention
+En 2024, 55 projets adressant des thématiques de prévention ont été financés pour un total de 25,3 M€.
+**55 projets de** Répartition entre Cette filière s’est structurée **Type de prévention** prévention financés les **aides régionales** avec le lancement de la **Stra-**adressé en 2024 **et tégie d’Accélération « Innova-nationales** par les projets
+Aides **tion en Prévention », coordon-** **12** **Nationales** **5** Prévention née par l’AIS, ayant pour but
+#### 1 4 Primaire de promouvoir et soutenir le 2 1 1
+##### développement de solutions au
+### 47 %
+### 29service de la prévention. Avec
+Prévention notamment le lancement d’un **Secondaire** **appel à projets pour démon-** **trer la valeur en vie réelle des**
+Aides Prévention **dispositifs innovants en pré-** **Régionales Tertiaire vention opéré par Bpifrance.**
+P anorama 2024 france bio tech
+aPerçu du financement deS théraPieS
+Sur les biothérapies, des premiers projets sur les vaccins à ARN ont été financés.
+biologique et chimique (NRBC)
+Un retour des molécules chimiques et des
+peptides dans les pipelines des biotech fran-
+çaises avec 96 projets en cours et 57 M€
+d’aide avec un focus fort sur les maladies neurodégénératives et sur l’oncologie.
+Projets financés par indication en 2024 leS enjeux du Secteur de la biothéraPie
+sur le financement des biothérapies
+Développement des Techbio (solution à
+base d’IA et organoïdes pour accélérer le
+développement des biothérapies).
+Nouvelle tendance cette année sur la biologie synthétique, les exosomes et l’ARNm.
+Le secteur de l’oncologie et les mala dies
+rares sont les plus représentés.
+LES TYPES DE BIOTHÉRAPIES DÉVELOPPÉES (en nombres)
+Plateformes d’optimisation
+de la bioproduction avec notamment de la microfluidique.
+Nouvelles lignées cellulaires,
+Les tendances technologiques / innovation
+Risques du Biosecure Act aux
+USA qui pourrait bannir les produits
+biologiques fabriqués par Wuxi.
+Les CDMO essaient de se struc-
+Les CDMO essaient de se structurer pour proposer des lots commerciaux.
+#### soutien et accompagnement de l’état
+## Les tendances technologiques / innovation
+Les projets soutenus, dans le virus (Virus de Lassa, Influenza). liées à démontrer l’efficacité de leur domaine de la thérapie ou de la vacci-Deux projets dans le do mai ne NRBC solution dans des modèles animaux nation, concernent quasi-exclusive-ont également été soutenus, ce qui (infectés avec le pathogène d’intérêt), ment des biothérapies (anticorps dénote un intérêt grandissant pour notamment chez les primates non monoclonaux, fragment d’anticorps ces sujets. humains dont les coûts ont très forte- Outre les difficultés propres au polyclonaux, vaccin vivant atténué ou ment augmenté ces dernières années. modèle économique et l’absence d’in-Malgré ces difficultés, on observe vaccin VLP). vestisseurs, les porteurs de projets toujours la création d’entreprises dans À noter que des nouveaux antibio- sont confrontés à des problématiques le domaine des MIE, de l’antibiorésis-tiques sont en développement mais à réglementaires (réglementation sur les tance et des maladies tropicales négli-des stades amont. Les indications et pathogènes microorganismes et toxines (MOT) res gées, en atteste le nombre de dossiers- ciblés par les solutions développées treignant l’utilisation de pathogènes sur ces thématiques présentés chaque concernent à la fois des bac téries pouvant présenter un risque pour la année lors du concours i-Lab et des (Tuberculose multi-résistante) et des santé publi aides deeptech. que) ainsi que des difficultés
+##### Exemples de nouveaux projets et de success stories
+##### Osivax. Lauréat de Fabentech. Lauréat de plusieurs AAP,
+plusieurs AAP, développe est spécialisée dans le développement d’anticorps des candidats vaccins universels conçus polyclonaux à larges spectres, employables en tant que traitements pour fournir une protection contre les virus d’urgence en cas de future épidémie. La biotech lyonnaise est la qui mute rapidement, en commençant par la première entreprise à profiter du dispositif de financement européen grippe et en s’étendant rapidement à d’autres HERA Invest, avec un financement de 20 M € pour développer des domaines tels que le sarbécovirus, le HPV. contre-mesures médicales efficaces.
+##### Vaccin Anticorps polyclonaux
+**leS enjeux du S ecteur de S di SP oS itif S médicaux** Financement **des dispositifs médicaux en 2024**
+**ORL** **Ophtalmologie** **TYPES** **206** **DE PROJETS FINANCÉS**
+### M€222
+**247** **DM d’équipement43 % Montant PA**
+#### RT ENA P IRES ROJE TS
+##### DM Diagnostic in vitro22 % d’ AEndocrinologie ide
+##### 17 % DM à usage individuel
+##### 11 % DMI et DMIA
+##### 7 % Vasculaire Autre
+##### 23LES INDIC AT IONS T HÉRAPEUTIQUES (en M€)
+##### 15 14
+#### AAP Diagnostic DM
+**33** **13** **Orthopédie / TMSM€** **Neurologie8 6** **5** **60 entreprises** **4 d’aides par** **89 projets le Plan DM** **Cardiologie** **4,4 M€ d’aide** **Oncologie**
+Panorama 2024 france bio tech bpifrance
+Les DM Implantables et Implantables
+Actifs sont toujours très présents, signe de
+l’expertise multi-technologique française, de
+l’attractivité du secteur pour les investissements et les activités de fusion & acquisition.
+Tendance DMI : orthopédie et mammaires
+Tendance DMIA : cardiologie ; soutien aux
+Notablement des Innovations matériaux
+et prothèses externes pour l’audition.
+Projets ambitieux en ophtalmologie et
+Fort soutien à l’assistance chirurgicale avec une dizaine de projets en robotique chirurgicale même en l’absence
+d’AAP spécifique, et de projets de Réalité
+De nombreux projets en imagerie, axe
+stratégique France 2030 : des ruptures
+technologiques en ophtalmologie subcellulaire et imagerie X spectrale; le l’imagerie mobile (UltraSons, IRM, RX).
+Filière ultra-sons toujours dynamique
+La moitié des projets destinés à l’oncologie.
+Forte tendance de projets
+Exemples de nouveaux projets et de success stories
+- Relocalisation de la production de DM
+• Soutien aux DM stratégiques et aux innovations de procédés
+leS enjeux du Secteur deS dm numériqueS
+soutien et accompagnement de l’état
+accessible les biothérapies aux systèmes de santé/patients.
+les maladies infectieuses
+Travailler sur les problématiques réglementaires
+(réglementation sur les microorganismes et toxines -
+MOT) restreignant l’utilisation de pathogènes pouvant
+présenter un risque pour la santé publique.
+Démontrer l’efficacité de leur solution dans des
+modèles animaux (infectés avec le pathogène d’intérêt),
+notamment chez les primates non humains dont les coûts
+ont fortement augmenté ces dernières années.
+tions constitue un défi qui sera renforcé en 2025 par l’accompagnement sur mesure aussi bien financier qu’extra-financier sur les enjeux réglementaires et l’accès au marché.
+Amplifier les capacités de production en France
+des sous-traitants également pourvoyeurs d’innovations
+technologiques dans les process et permettant d’augmenter l’impact économique fort sur le territoire à long terme.
+Poursuivre les efforts visant à la sobriété énergé-
+tique dans la mise en place des procédés des innovations
+de santé en développement.
+Soutenir les initiatives de modernisation des
+lignes de production et/ou des innovations dans les
+procédés de fabrication comme la recherche de nouvelles voies de synthèse chimique ou de passage en procédés de production en flux continu dans le but d’augmenter les rendements de production, tout en réduisant
+les impacts environnementaux.
+Paul-François Fournier, Directeur Exécutif, Direction Innovation bpifrance
+Bpifrance a élargi son champ d’intervention avec
+un travail de fond pour appuyer la transformation
+des pratiques dans l’achat public d’innovations.
+L’intelligence artificielle (IA)
+joue un rôle de plus en plus important dans le secteur médical, repré-
+sentant environ 20 % des projets financés. Elle stimule l’innovation dans
+divers domaines, notamment l’imagerie médicale, la robotique médicale et
+le diagnostic in vitro. L’IA a créé un
+flow constructif de projets qui sont en
+train de changer la donne en matière
+d’efficience du système de soins, optimisation des parcours de soins, de
+gestion des flux et de thérapies digitales. En 2024, deux nouveaux appels
+à projets (AAP) France 2030 ont été
+lancés, axés sur la prévention et la
+santé mentale, mettant l’accent sur
+les outils numériques. De plus, l’IA
+révolutionne le développement de
+nouvelles thérapies grâce aux Tech-
+Pouvez-vous nous dire quelles sont
+Depuis 2021, 3 Mds€ de financement
+rie médicale, la robotique médicale et La réindustrialisation de la
+le diagnostic in vitro. L’IA a créé un France s’accentue encore avec le
+flow constructif de projets qui sont en financement de la relocalisation de
+train de changer la donne en matière 20 nouveaux médicaments essentiels
+en 2024. Les financements sont égaletimisation des parcours de soins, de ment orientés sur le renforcement de
+la chaîne de valeur pour permettre à
+tales. En 2024, deux nouveaux appels nos HealthTech de produire en France.
+à projets (AAP) France 2030 ont été Dans le domaine de l’accompa-
+BIO. Ancien élève de polytechnique et diplômé de
+Telecom ParisTech, Paul-François Fournier rejoint
+le groupe France Telecom Orange en 1994 comme
+ingénieur d’affaires et travaille pendant sept ans dans
+le développement des services en entreprise. En 2001,
+il devient directeur du Business haut débit de Wanadoo
+où il assure le décollage en France des offres ADSL.
+Il participe également à l’activité du groupe sur le plan
+international en tant que membre du Comité Exécutif
+du Groupe Wanadoo. Il mène ainsi des projets stratégiques
+comme le lancement de la Livebox et de la voix sur IP
+en partenariat avec Inventel et Netcentrex, des startups
+françaises. Puis, il prend la direction de l’exécutif du
+Technocentre d’Orange dès 2011, où il est en charge
+de l’innovation produits. Il a favorisé des méthodes
+d’organisation plus régionales et décentralisées comme
+le montre la création des Technocentres d’Amman et
+d’Abidjan. Depuis avril 2013, il est le directeur exécutif
+de la direction Innovation de Bpifrance.
+Financement de la HEALTHTECH
+(la biotech Cinclus Pharma et la medtech NanoEcho).
+Le financement secondaire par les marchés financiers
+Si les introductions en Bourse peinent encore à retrouver un élan sur ce secteur, les sociétés déjà cotées du secteur ont pu, elles, bénéficier du soutien des marchés financiers : à eux seuls, les financements secondaires représentent davantage que les montants levés en tours
+suit la même dynamique que les tours privés : en hausse de
+caPital riSque Un retour en force
+Les sociétés américaines se financent à hauteur de 24,9 Mds€ (vs.15,8 Mds€ en 2023 soit une hausse de 58 %) et les sociétés européennes à hauteur de 8,2 Mds€ (vs.5,1 Mds€ en 2023 soit une hausse de 60 %).
+Outre-Atlantique, le nombre d'operations dans le secteur des biotechnologies augmente de 9 % entre 2023 et 2024. La hausse des financements s'explique à la fois par un effet volume, mais principalement par un montant moyen par opération plus important. Ce dernier est de 53 M€ en 2024, versus 36 M€ en 2023 (et donc plus proche des niveaux de 2022 à 51 M€) boosté notamment par la série A record d'1 Md$ levé par la biotechnologie Xaira Therapeutics. Comme mentionné en introduction, les investisseurs sont prêts à parier gros sur les percées de l'IA dans le domaine de la recherche thérapeutique. Deuxième plus grosse opération : Mirador Therapeutics se lance aussi avec 400 M $ (365 M € ) pour financer ses recherches en immunologie.
+trimestre avant de s’introduire en Bourse en juin 2024
+niveau, surpassant légèrement les niveaux records (pour un montant quasi équivalent), puis Freenome
+de 2021. Il progresse au global de 59
+Les investissements en capital-risque se sont également multipliés pour les biotechnologies européennes puisque les investisseurs ont continué d'investir à un niveau supérieur en 2024, à hauteur de 4,2 Mds€ (contre 3,6 Mds€ en 2023). Le secteur des biotechnologies a connu des levées de fonds significatives avec onze levées de plus de 100 M€ (vs. 6 en 2023) réparties assez inégalement en Europe avec trois pays particulièrement dynamiques : le Royaume-Uni, la Suisse et l'Al-
+Historique des levées de fonds
+en capital-risque réalisées
+Sociétés européennes Sociétés américaines
+Ce sont les introductions en bourse («
+américaines du secteur de la santé qui permettent d’ob-
+principales IPOs (Initial Public Offering) sur le Nasdaq sont des sociétés de biotechnologies se reposant beaucoup sur l'IA ou le traitement de données : Tempus IA (410 M$
+soit 380 M €), CG Oncology
+peutics (367 M$). Si les socie
+un regain par ce type de fir
+ment parce que leur nombre
+2023 était en croissance uni
+Cette tendance est en lien av
+américains qui ont connu da
+sur 2024. Si ce dynamisme e
+restent assez loin des année
+(380 M$), et Kyverna Theratés américaines connaissent ancement, c'est principale est plus important (alors que euement par un effet volume). c la réouverture des marchésantage d'IPOs tous secteurs et encourageant, les volumes 2019-2021.
+américaines du secteur de la santé qui permettent d’observer un regain d’activité, comparé à 2023. Le niveau des
+En Europe, le bon niveau des opérations de refinancement s'est maintu en 2024, faisant suite à des données cliniques positives. Les refinancements les plus significatifs pour les sociétés européennes concernent Sartorius Stedim Biotech (France), puis Zealand Pharma (Danemark) pour un montant atteignant le milliard de dollars après sursouscription (933 Mds€), avec un pipeline de plus de 10 produits et 2 mises sur le marché, et Bicycle Therapeutics (UK) pour 511 M€.
+e uro Pe : un dynamiSme qui cache deS
+es sociétés européennes ont levé en 2024, tous
+types de financement confondus, 14,7
+*Royaume-Uni, Suisse, France, Allemagne, Suède, Pays-Bas, Belgique
+Opérations de capital-risque* par pays de 2022 à 2024 (
+* Analyse incluant uniquement les opérations valorisées. Sources : EY, Dealroom
+2024 renoue avec des tours d’une taille plus conséquente
+(> 30 M€), et l’on compte deux fois plus de levées supérieures
+à 100 M€ (14 vs. 7 en 2023). Ces levées les plus importantes
+Opérations de REFINANCEMENT par pays de 2022 à 2024 (
+Sources : EY, Euronext, Dealroom
+103 sociétés financées · 49 M€ Ticket moyen / pays · GRAND TOTAL : 5 039 M€
+Arnaud Mascarell, CEO cofondateur de FineHeart,
+fleuron de la cardiologie française
+Notre ambition est de transformer la prise en charge
+de l’insuffisance cardiaque sévère avec FlowMaker,
+notre solution moins invasive et plus efficace
+d’implantation des dispositifs
+médicaux cardiaques, pouvez-vous
+nous expliquer, pourquoi ?
+FineHeart est une Medtech en phase
+clinique, qui révolutionne la cardiologie avec des solutions innovantes pour
+l’insuffisance cardiaque sévère. Notre
+produit phare, le FlowMaker, combine
+les atouts d’un pacemaker et d’une assistance cardiaque conventionnelle.
+Contrairement aux dispositifs mé-
+dicaux traditionnels nécessitant une
+chirurgie lourde, le FlowMaker s’implante en 90 minutes, à cœur battant,
+directement dans le ventricule gauche.
+Notre technologie réduit les risques
+d’infection et vise à améliorer la qualité de vie des patients car elle est totalement implantable et sans câbles externes, grâce à un système breveté de
+transfert d’énergie transcutané (TET).
+Elle permet également d’intervenir à
+un stade plus précoce de la maladie, ralentissant sa progression et diminuant
+le recours aux greffes. Notre ambition
+est de transformer la prise en charge de
+l’insuffisance cardiaque avec une solution moins invasive et plus efficace.
+Notre solution unique d’alimentation sans fil pourrait bénéficier à
+Vous êtes un acteur engagé dans
+la transformation de la filière des
+dispositifs médicaux implantables
+en Europe, pouvez-vous nous en
+dire plus sur votre engagement ?
+Notre technologie s’inscrit dans une
+initiative plus large visant à développer des dispositifs médicaux innovants. Dans ce contexte, FineHeart
+joue un rôle clé dans la structuration
+de la filière des dispositifs médicaux
+implantables en Europe. Nous prenons part à des projets stratégiques
+comme Tech for Cure et les Projets
+Importants d’Intérêt Européen
+Commun (PIEEC), qui ont pour objectif de renforcer la souveraineté
+Notre solution unique d’alimen-
+BIO. CEO et cofondateur de FineHeart,
+Arnaud Mascarell est un entrepreneur
+visionnaire avec une expérience de plus
+de 20 ans dans l’industrie des dispositifs
+médicaux. Il a débuté sa carrière chez
+Medtronic, avant de cofonder FineHeart
+en 2010. Sous sa direction, la société a
+développé le FlowMaker, une révolution
+dans le traitement de l’insuffisance
+cardiaque sévère. Arnaud Mascarell est
+également administrateur du pôle
+de compétitivité ALLISNA et s’implique
+activement dans la structuration de
+la filière européenne des dispositifs
+Nous réalisons actuellement une
+étude européenne de faisabilité
+pour valider l’efficacité et la sécurité
+du FlowMaker. Démarrée en République tchèque, elle devrait inclure
+une dizaine de patients, notamment
+en France, en 2025. L’étude pivot, qui
+inclura une cinquantaine de patients,
+est prévue en 2026 avec pour objectif d’obtenir le marquage CE et une
+commercialisation en Europe en 2028.
+le développement clinique
+de FlowMarker ? quelles sont vos
+FineHeart, Medtech bordelaise en phase
+clinique, développe le FlowMaker®, un
+dispositif qui pourrait traiter 200 000 patients
+atteints d’insuffisance cardiaque sévère
+chaque année. Fondée par Arnaud Mascarell
+et des experts de renommée mondiale en
+cardiologie et électro-physiologistes, dont
+le Dr. Stéphane Garrigue, inventeur du
+FlowMaker et le Dr. Philippe Ritter, coinventeur de la resynchronisation cardiaque
+(CRT), FlowMaker cible dans un premier temps
+les 50 000 patients les plus sévères, éligibles à
+une assistance cardiaque, mais non traités par
+les Dispositifs d’Assistance Ventriculaire
+Gauche (DAVG) actuels. Ce premier marché
+est estimé à plus de 5 milliards de dollars.
+La société est soutenue par des investisseurs
+publics, privés et l’Union Européenne (EIC).
+Par ailleurs, nous finalisons une le-
+Par ailleurs, nous finalisons une levée de fonds d’une cinquantaine de
+millions d’euros, soutenue par l’European Innovation Council (l’EIC) à
+hauteur de 15 millions d’euros. Ce financement nous permettra de poursuivre les essais cliniques, de soutenir
+notre recherche et développement et
+l’industrialisation de FlowMaker et de
+préparer notre entrée sur le marché.
+Une partie des fonds sera dédiée
+à l’aménagement de notre nouveau
+site de production en construction
+près de Bordeaux, pour produire les
+lots nécessaires aux essais cliniques
+et à la commercialisation.
+Enfin, une part sera consacrée à l’in- la Santé financière deS entreP
+En 2024, les start-ups et PME du secteur HealthTech ont fait face à un environnement
+macroéconomique et national complexe et la majorité des sociétés se sentait
+quelques Chiffres sur le financement
+Date de la dernière levée de fonds
+L’année 2024 a été marquée par un contexte
+politique, fiscal et financier plus incertain, avec
+Source : France Biotech, 475 sociétés, janvier 2025
+Anticipez-vous des difficultés pour refinancer votre société ?
+### financement de la healthech
+# 3. F rance
+## le cir, cic o et le Statut de la jei,
+## de S di SP oS itif S eSS entielS Pour la filière
+Le Crédit Impôt Recherche (CIR) et le statut de la Jeune Entreprise Innovante (JEI) sont des dispositifs incontournables et essentiels pour la filière ; le CICo gagne en notoriété mais demeure peu utilisé.
+#### Utilisez-vous le CIR ? Avez-vous rencontré des difficultés dans l’obtention de votre dernier CIR
+#### (2023) ? OUI
+##### 95 % en Biotech
+##### 86 % en Medtech
+### 14 %
+#### NON71 % en Santé 19 %
+##### numérique / IA
+Source : France Biotech, 424 sociétés, janvier 2025
+Source : France Biotech, 476 sociétés, janvier 2025
+*Considérez-vous satisfaisant le***Le Crédit d’Impôt Recherche (CIR)*délai de remboursement ?*est un dispositif incontournable** pour
+la filière HealthTech, 86 % des entre- prises en bénéficiant. La grande majo- rité des sociétés (81 %) ne rencontre
+### 52 %
+### 56 %
+### 61 %pas de difficultés pour l’obtenir.
+En revanche, la satisfaction vis-
+#### OUI OUI OUI
+à-vis des délais de remboursement a
+#### NON NON NON
+diminué en l’espace de deux ans, avec 52 % seulement considérant ces délais comme satisfaisants en 2024.
+### 48 % 44 % 39 % Source : France Biotech, 365 sociétés, janvier 2025
+#### Quelle part des dépenses d’exploitation totales de l’année le CIR (% d’entreprises) représente-t-il ?
+### 25 % 35 % 20 % 20 %
+##### Moins Entre Entre Plus
+##### 10 % de 10 et 20 % 20 et 30 % 30de %
+Source : France Biotech, 260 sociétés, janvier 2025
+Paul Bravetti, CEO de Brenus Pharma
+Notre objectif est de révolutionner la conception,
+la fabrication et l’accès aux vaccins thérapeutiques
+cers du pancréas et du foie.
+Une partie des fonds sera également investie dans le renforcement
+des capacités en IA et en modélisation
+biologique, afin d’accélérer l’identifi-
+Brenus Pharma vient de lever 22 M€
+en septembre 2024, pouvez-vous
+nous dire comment ces fonds sont/
+Cette levée, réalisée dans un contexte
+5 ans est inférieure à 12 %.
+L’essai multicentrique inclura près
+de 90 patients dans une dizaine de
+centres en France, Belgique et aux
+États-Unis, en partenariat avec des
+institutions de renom comme Johns
+Hopkins. Les premiers résultats de
+sécurité et d’efficacité sont attendus
+dès 2026. Parallèlement, des travaux
+sont en cours pour élargir le champ
+d’application du STC-1010 aux cancers du pancréas et du foie.
+Une partie des fonds sera égale-
+BIO. Paul est dirigeant de Brenus Pharma
+depuis 2020, il a rapidement positionné
+l’entreprise comme un acteur clé de la
+biotech française en la poussant à franchir
+des étapes importantes. Docteur en
+pharmacie, diplômé d’HEC Paris, et fort de
+son expérience internationale dans des
+grands groupes pharmaceutiques, il
+incarne un leadership fédérateur
+connectant start-ups, centres d’excellence
+et décideurs publics et industriels pour
+faire avancer l’innovation thérapeutique et
+Pouvez-vous nous en dire plus sur
+votre plateforme technologique ?
+Une des causes majeures de la progression du cancer est la capacité qu’ont
+les cellules tumorales à se modifier
+pour échapper à la surveillance du
+En ce sens, notre technologie repro-
+cation de nouvelles cibles thérapeutiques.
+Brenus Pharma, biotech de la Région AURA,
+est à la pointe des traitements de nouvelle
+génération contre le cancer. Son innovation
+mobilise le système immunitaire pour
+anticiper les progressions et rechutes des
+tumeurs solides. Cette technologie conçoit,
+pour une indication donnée, des vaccins prêts
+à l’emploi et caractérisés grâce aux dernières
+Lauréate du prix « Biotech » lors des Trophées
+Health-Tech de France Biotech en 2024 ;
+Brenus lance en 2025 les premiers essais
+cliniques de son candidat phare contre le
+cancer colorectal en France, Belgique et USA.
+Alzeeb, et al., Front. Oncol., July 2024.
+Ghost Cells = SGC) pour exprimer des
+signatures de résistances spécifiques
+à l’indication ciblée. Ces signatures
+sont validées par les dernières technologies multiomics, croisées avec
+des données patients. A la fin, ces SGC
+présentent près de 150 cibles d’intérêt
+pour éduquer précisément le système
+La production « off-the-shelf » stan-
+Le potentiel de combinaison est
+important pour ce type de vaccins.
+Le STC-1010 a montré une efficacité
+préclinique en monothérapie dans
+des tumeurs résistantes , mais pourrait être associé à des inhibiteurs des
+checkpoints immunitaires pour augmenter leur efficacité dans les tumeurs
+froides. Le potentiel de cette technologie est illimité, ce qui ouvre des perspectives de collaborations stratégiques
+Brenus souhaite en effet offrir un
+#### Financement de la healthech
+### 4.E urope
+#### De nouvelles mesures en faveur des augmentations de capital
+#### et des introductions en bourse
+La Loi Attractivité et le Listing Act ont apporté **Introduction de droits de votes multiples** les mesures phares suivantes : **dans le cadre des IPOs, pour une durée** **Simplification des augmentations de capital :** de 10 + 5 ans extensibles afin de renforcer Suppression de l’encadrement de la décote; la stabilité actionnariale. Création d’un nouveau type d’augmentation Enfin CDC Croissance a lancé un fonds de capital réservée à des personnes **de fonds de 500 millions d’euros pour**
+# Actualiténommément désignées; accompagner les PME & ETI cotées ou
+Les plafonds pour les placements privés et candidates à la cotation. les augmentations de capital liées aux apports Les fonds bénéficiaires intègreront l’étude en nature ont été relevés respectivement de systématique d’une participation aux IPO 20 % à 30 % et de 10 % à 20 % du capital par an. et augmentations de capital.
+## REGARDS CROISÉS
+Deux entrepreneurs de la HealthTech, Christophe Douat (Medincell) et Mehdi **Chelbi (Biper Therapeutics) ainsi qu’un investisseur, Sébastien Malafosse**
+# Entretiens(Edmond de Rothschild Asset Management), nous font part de leurs visions
+respectives du marché, de l’environnement économique, des attentes des investisseurs et de leurs objectifs stratégiques.
+##### Pouvez-vous nous présenter brièvement votre société, ses
+##### principaux produits et aires thérapeutiques ?
+**Medincell est une société Christophe Douat : Nous développons des médica**- pharmaceutique qui a créé une technologie d’administration ments injectables à action prolongée dans de nombreux des médicaments par injection domaines thérapeutiques. Nos traitements innovants sous-cutanée permettant un meilleur respect des visent à garantir le respect des prescriptions médicales, un traitements. Elle est cotée enjeu majeur, mais aussi améliorer l’efficacité et l’accessi- **Christophe** à la bourse de Paris. **Douat,** bilité des médicaments, et à réduire leur empreinte envi- CEO de Medincell ronnementale. Grâce à notre technologie BEPO®, nous pouvons contrôler la libération d’un médicament à un
+Financement de la healthech
+d’investisseurs institutionnels, tant en France qu’à l’international. 2024 a été une année faste pour Medincell,
+2024 a été une année particulièrement remplie pour vous.
+C.D. : A moyen et long terme, le potentiel est énorme.
+ternational. 2024 a été une année faste pour Medincell,
+nous avons atteint de nouveaux paliers de valorisation
+uels sont vos objectifs stratégiques pour 2025 et au-delà ?
+A moyen et long terme, le potentiel est énorme.
+En 2025 et au- delà, nous allons suivre la montée en puis
+sance des ventes de UZEDY. C’est important parce que ces
+Comment pensez-vous que le financement des entreprises
+Management est une société
+Quels sont vos principaux critères pour identifier et évaluer les entreprises biotech/medtech dans lesquelles vous
+Sébastien Malafosse : Notre critère prioritaire est l’inno
+(taux d’intérêt, inflation, situation politique) ?
+S.M. : L’industrie Healthtech a connu une phas e d’eu
+indépendante dédiée à l’activité
+d’investissement, attentive
+aux évolutions du monde afin
+luer les entreprises biotech/medtech dans lesquelles vous
+investissez ? Existe-t-il un projet ou une technologie en
+Healthtech a été impacté par l’environnement économique
+Comment décririez-vous l’évolution du financement des
+: Notre critère prioritaire est l’inno- sociétés Healthtech cotées en 2024 ?
+vation. Nous privilégions les sociétés les plus novatrices,
+S.M. : Après une période d’euphorie en 2020
+M.C. : Très clairement, le programme nous a permis de
+nous familiariser avec les opportunités (et les contraintes)
+Cela a nourri notre réflexion et nous a permis d'avancer sur notre equity story, en considérant la cotation comme une option très sérieuse pour financer le développement de notre portefeuille de candidates médicaments. Nous avons également tiré des enseignements
+Très clairement, le programme nous a permis de Nous sommes à quelques mois de l’entrée en phases cli
+liées à l’IPO. Tout d’abord, il a démystifié certaines idées
+Oready a-t-il structuré votre Où en êtes-vous dans le développement de votre produit
+réflexion stratégique et quelles compétences concrètes principal, et quels jalons clés prévoyez-vous dans les 12 à
+ou outils en avez-vous retirés ?
+- De terminer la Phase 1 d'escalade de dose afin de générer les premières données cliniques de tolérabilité et d'efficacité préliminaire d'ici 18 mois.
+concrets sur l'organisation interne, en accélérant la mise en place d'outils de reporting financier.
+- De déposer notre dossier de désignation de médicament orphelin en Europe et aux États-Unis dans une indication précise, dans un horizon de 12 mois.
+Enfin, j'ai acquis davantage d'assurance sur les voies de financement et le processus d'IPO, ce qui me permet d'être plus convaincant auprès des investisseurs et financeurs potentiels.
+- De soumettre une demande d'autorisation d'étude clinique aux États-Unis (IND) dans le même horizon,
+“Le programme IPOready nous a
+permis de nous familiariser avec
+Avez-vous bénéficié de la communauté européenne des
+J’ai pu en bénéficier lors de l’événement de fin d’année.
+M.C. : La cotation offre de nombreux avantages :
+les opportunités (et les contraintes)
+Quelle est votre stratégie de financement
+actuelle, et comment anticipez-vous
+M.C. : Nous venons de clôturer un
+- Une structuration plus rigoureuse de l'entreprise, favorisant son développement.
+- Une liberté d'action accrue pour la société, permettant d'avancer plus rapidement dans les prises de décision.
+tñ-JOEÍQFOEBODF WJTÉWJT EFT UPVST
+vés, souvent longs et fastidieux.
+pour une entreprise comme la vôtre, après avoir suivi le
+- L'avancée de deux candidats médicaments first-in-class en phases cliniques dans l'oncologie.
+- La préparation d'un troisième candidat aux portes des études cliniques dans une indication hors oncologie.
+alumni d’IP Oready, notamment en matière de partage
+n d’expériences ou de networking ?
+Propos recueillis par Euronext
+Propos recueillis par Euronext focu S Sur le marché bourS
+Comment se préparer à une introduction
+lus encore que toute société innovante, une
+société de la Healthtech peut être amenée à
+En effet, dans un secteur à cycle long, il est souvent nécessaire de renouveler et d'enrichir sa base actionnariale pour obtenir les financements adéquats et un horizon de temps dégagé.
+Au-delà de la levée de fonds initiale, qui sera réalisée lors de l'introduction en Bourse, la cotation donne accès à un bassin d'investisseurs diversifiés et internationaux
+réfléchir à l’opportunité d’une introduction en
+Le bon momentum pour la société;
+La bonne fenêtre de marché;
+Les chantiers à mener avant l’introduction (juri
+L’équipe externe qui accompagnera la structuration
+Les facteurs-clés de succès d’une IPO
+Marché porteur avec de fortes
+perspectives de croissance
+R elais de croissance identifiés
+Les facteurs-clés de succès d’une IPO dépendent du secteur et du modèle de chaque société. Par exemple, une
+Avoir un ou des fonds spécialistes de la santé au
+Faible concurrence internationale
+La qualité du conseil d’administration et du conseil
+Dirigeants et actionnaires
+Industriels ou investisseurs
+capital pour créer un effet d’entraînement lors de l’IPO;
+Stratégie de développement
+Opportunités de croissances externes
+Visibilité sur les revenus futurs
+La qualité et la maturité du pipeline scientifique société de biotechnologie sera jugée sur la qualité et la
+permettront de présenter un profil de risque de meilleure
+Capacité à améliorer sa marge
+Fortes barrières à l’entrée
+Exemples de sociétés accompagnées dans le cadre d’IPOready
+Les participants à IPOready sont
+Identifier les entreprises d’un portefeuille éligibles à la -
+tion dédié aux VC et fonds de Private Bourse;
+Appréhender le processus IPO et la mise en place d’un Equity, afin de mieux appréhender
+françaises ont été retenues
+Optimiser le TRI via les marchés financiers;
+Positionner la sortie d’investissement après l’introduc-
+Positionner la sortie d’investissement après l’introduction en bourse.
+À L'ÉTUDE comité de Pilotage
+Adjointe au Directeur Général,
+sectorielles et des relations
+l’Industrie des Sciences de la Vie®), unique
+étude en France analysant d’année en
+année l’évolution du secteur innovant de
+la HealthTech dans l’Hexagone et à l’international.
+Les résultats de cette étude permettent
+epuis 2002, France Biotech réalise le Panorama France HealthdTech (anciennement Panorama de
+Marketing & Communication
+Avoir un effectif inférieur à 500 salariés.
+En complément des données issues du questionnaire,
+une analyse approfondie a été réalisée à partir d’études
+sectorielles et financières, ainsi que de précédentes
+publications et rapports de France Biotech, cités dans
+cette étude. Cette étude a été menée en partenariat avec
+Banque populaire, Bpifrance, Euronext, EY et Howden.
+Les entreprises inclues dans l’étude remplissent
+MÉTHODOLOGIE Exercer une activité principale dans le secteur des
+France Biotech réalise chaque année le Panorama France
+HealthTech, étude réalisée sur la base d’un questionnaire
+dédié et des publications des sociétés du secteur.
+Il n’a pas vocation à être exhaustif. Les informations ont
+été collectées du 23 octobre au 12 décembre 2024 sur
+la base de 516 entreprises.
+Les entreprises inclues dans l’étude remplissent france biotech,
+de PluS de 700 entrePriSeS membreS
+ccélérer le développement des HealthTech,
+sources de croissance économique durable,
+ade création d’emplois et de souveraineté, afin
+de faciliter avec les patients l’accès aux produits et
+services innovants en santé grâce à :
+Un meilleur partage d’informations;
+Un travail étroit avec les pouvoirs publics pour le
+développement d’un écosystème favorable.
+L’é q u i p e d e p e r m a n e n t s de France Biotech, forte
+de huit collaborateurs et pilotée par Olivier Chabanon,
+directeur général, assure le fonctionnement opérationnel de l’association.
+France Biotech est présidée depuis avril 2024 par
+le Dr. Frédéric Girard. Outre le président, six vice-pré-
+sidents et le trésorier constituent le Bureau de l’association. Le président se repose également sur l’expertise de
+trois conseillers spéciaux auprès de la présidence.
+France Biotech poursuit six priorités pour l’ensemble
+de ses adhérents et, plus largement, des entrepreneurs
+de la HealthTech, dans leur diversité de familles technologiques (biotech, medtech, numérique en santé) :
+1. Faciliter l’accès aux informations clefs pour le dévelop-
+1. Faciliter l’accès aux informations clefs pour le développement des HealthTech, à tous les niveaux d’expertise;
+2. Soutenir le financement des innovations;
+3. Inspirer et accompagner les grandes évolutions régle-
+4. Favoriser en France le développement préclinique, clinique et industriel des innovations;
+5. Créer un environnement favorable à l’accès et à l’utilisa-
+5. Créer un environnement favorable à l’accès et à l’utilisation de l’ensemble des données patients (patient centric)
+(avec ou sans IA) dans le respect de la vie privée;
+6. R enforcer l’attractivité de la filière HealthTech pour les
+t$PNNJTTJPO#JPUIÍSBQJFT	.5*#JPQSPEVDUJPO
+t$PNNJTTJPO#VTJOFTT%ÍWFMPQQFNFOU
+a force de propositions de France Biotech repose
+sur le travail de 12 commissions et d’une trenltaine de Groupes d’Expertises qui fonctionnent
+comme de véritables laboratoires d’idées et de prospectives. Ces actions servent la mission de France Biotech et
+concourent à renforcer la valeur sociétale de la filière
+sur le travail de 12 commissions et d’une trentaine de Groupes d’Expertises qui fonctionnent
+t$PNNJTTJPO*NQBDU4PDJÍUBM&OWJSPOOFNFOUBM
+t$PNNJTTJPO.FEUFDI%JBHOPTUJD
+t$PNNJTTJPO/VNÍSJRVFFO4BOUÍ
+t$PNNJTTJPO1BUJFOU"JEBOU'BNJMMF4PJHOBOU
+t$PNNJTTJPO3FTTPVSDFT)VNBJOFT
+t$PNNJTTJPO5SBOTGFSUEF5FDIOPMPHJFT
+es investissements en fonds propres de Bpifrance
+sont opérés par Bpifrance Investissement. Bpifrance
+lfinance les entreprises – à chaque étape de leur développement – en crédit, en garantie et en fonds propres.
+Bpifrance les accompagne dans leurs projets d’innovation et à l’international. Bpifrance assure aussi leur activité export à travers une large gamme de produits. Conseil,
+université, mise en réseau et programme d’accélération à
+destination des startups, des PME et des ETI font également partie de l’offre proposée aux entrepreneurs. Grâce
+à Bpifrance et ses 50 implantations régionales, les
+entrepreneurs bénéficient d’un interlocuteur proche,
+unique et efficace pour les accompagner à faire face à
+uronext est un groupe leader d’infrastructure de
+marché pan-européen, connectant les économies
+eeuropéennes aux marchés financiers mondiaux,
+pour accélérer l’innovation et la croissance durable.
+Il opère en Belgique, en France, en Irlande, en Italie,
+en Norvège, aux Pays-Bas et au Portugal. Avec près de
+1 800 émetteurs et représentant une capitalisation
+boursière totale de près de 6 000 milliards d’euros à
+fin décembre 2023, il dispose d’une franchise inégalée
+d’indices de premier ordre et d’une solide base de clients
+diversifiés nationaux et internationaux. Euronext gère des
+marchés au comptant et dérivés, réglementés et transparents et représente le plus grand centre de cotation d’obligations et de fonds au monde. En complément de son
+principal marché réglementé. Euronext gère également
+des marchés de croissance qui facilitent et simplifient la
+cotation des petites et moyennes entreprises. Euronext
+est la 1re place de marché en Europe, notamment pour les
+réée par et pour les entrepreneurs il y a plus de
+140 ans, Banque Populaire s’est construite sur
+cune vision audacieuse et innovante de la société,
+basée sur la coopération et la solidarité entre groupes de
+citoyens partageant les mêmes valeurs et ayant les mêmes
+besoins. Résolument coopératives, innovantes et entrepreneuriales, les Banques Populaires accompagnent dans
+une relation durable et de proximité tous ceux qui vivent
+et entreprennent, aujourd’hui ou demain, sur nos territoires. Banque Populaire accompagne l’innovation et la
+HealthTech avec NextInnov, sa filière d’expertise dédiée.
+1rebanque des entreprises, 2e banque des professionnels, 1rebanque de l’éducation nationale… Banque Populaire porte bien son nom. n
+rance Biotech, fondée en 1997, est une association
+indépendante qui fédère les entrepreneurs de l’innofvation dans la santé et leurs partenaires experts. Animateur de l’écosystème de l’innovation en santé, fort
+de 2 600 entreprises, et interlocuteur privilégié des
+pouvoirs publics en France et en Europe, France Biotech contribue à relever les défis du secteur HealthTech
+(le financement des entreprises, la fiscalité de l’innovation,
+les enjeux réglementaires et d’accès au marché, etc…) et à
+proposer des solutions concrètes, en termes de compétitivité et d’attractivité, par l’intermédiaire de ses commissions
+et ses groupes de travail. Ceci afin d’aider les start-ups et
+les PME de cette filière à devenir des entreprises internationales performantes et capables de concevoir et développer
+rapidement de nouvelles innovations et les rendre accessibles in fine aux patients. France Biotech est hébergée au
+sein de PariSanté Campus. n france-biotech.fr
+owden courtier d’assurance et leader mondial non
+américain, accompagne depuis 30 ans, les entrehprises du secteur Sciences la Vie & Médical en
+France et dans le monde dans la gestion de leurs risques et
+de leurs sinistres. Fort de ses 650 collaborateurs, Howden
+France apporte des expertises de choix sur de nombreux
+produits : Assurances de Responsabilités & Risques Financiers, Essais Cliniques, Cyber, Assurance de Personnes
+(Santé Prévoyance, Retraite, Accident du travail et maladies professionnelles), Fusions & Acquisitions, Dommages
+et Crédit/Caution/Risques politiques. Nous intervenons
+également sur d’autres secteurs d’activités tels que : Maritime & Transport, Flottes Automobiles, Construction, Institutions Financières, secteurs de la Technologie, Energie
+et Ressources Naturelles, Hôtellerie de plein air et Froid.»n
+terme pour nos clients et nos collaborateurs aussi bien que pour la société et la planète dans leur
+ensemble, tout en renforçant la confiance dans les marchés
+financiers. En s’appuyant sur le traitement des données, l’IA
+et les nouvelles technologies, les équipes EY contribuent à
+créer la confiance nécessaire à nos clients pour façonner un
+futur à l’épreuve des défis les plus pressants d’aujourd’hui et
+de demain. Avec un éventail de servi ces allant de l’audit au
+consulting en passant par la fiscalité, la stratégie et les transactions, les équipes d’EY sont en mesure de déployer
+leur expertise dans plus de 150 pays et territoires. Une
+connaissance approfondie du secteur, un réseau international et pluridisciplinaire ainsi qu’un écosystème de partenaires aussi vaste que diversiގ sont autant d’atouts qui permettront à EY de participer à la construction d’un monde
+plus équilibré. Ensemble pour créer un futur riche d’opportunités. n + d’informations sur ey.com/fr
+PôleS de comPétitivitéS Santé
+tlanpole Biotherapies est le
+Pôle de Compétitivité en Sanaté du Grand Ouest, labellisé
+par le ministère de l’Industrie. Depuis
+sa création en 2005, il a structuré une filière innovante,
+positionnée sur les trois régions Centre Val de Loire,
+Pays de la Loire et Bretagne. Son objectif : développer
+la médecine de demain. Pour cela, il fédère les compétences des laboratoires et entreprises sur la chaîne
+de valeur du biomédicament depuis la découverte de
+cibles jusqu’à l’évaluation clinique. Son action, centrée
+autour de 4 axes stratégiques :
+t les biothérapies, la bioproduction et la pharma (Bio-
+t les biothérapies, la bioproduction et la pharma (Biotech), t les technologies innovantes (Medtech), t la
+santé numérique (e-santé) et t la prévention.
+Engag é dans une dynamique de
+croissance, il comptabilise plus de
+230 membres comprenant 65 000
+emplois dont 6 000 emplois R&D privés sur l’ensemble de son territoire. Le pôle de compé-
+vés sur l’ensemble de son territoire. Le pôle de compé-
+titivité propose à ses adhérents une offre globale sur
+mesure pour développer leur activité. Ils bénéficient
+d’un accompagnement personnalisé pour tout projet
+collaboratif d’innovation et ont accès aux réseaux européens dont le pôle fait partie, à des aides spécifiques
+pour l’internationalisation. Ils peuvent aussi diversifier leur réseau et identifier des partenaires clés en
+participant aux nombreux événements organisés par
+le pôle, ou bien gagner en visibilité grâce aux outils de
+Clubster nsl, réseau des professionnels
+industriels, académiques et acteurs du soin
+engagés dans l’innovation en nutrition-santé et
+longévité en Hauts-de-France.
+lubster NSL est le pôle de compétitivité à l’inc
+lubster NSL est le pôle de compétitivité à l’interface de la nutrition et de la santé rassemcblant les acteurs des secteurs agro-nutrition, biotech-pharma, medtech-hospitech, e-santé,
+et silver économie. Clubster NSL stimule les échanges
+et les collaborations entre les mondes académique et
+industriel et soutient les projets d’innovation candidats
+aux guichets de financement régionaux, nationaux et
+européens. Sa vocation est de faire émerger des projets
+d’innovation entre les acteurs privés et publics dans le
+but d’animer et de promouvoir la filière nutrition-santé.
+Clubster NSL, c’est aujourd’hui 350 structures
+Enosis Santé, l’alliance française
+nosis Santé est une association
+biopôle Auvergne-Rhône-Alpes et Medicen
+Paris Region. Son ambition est d’accélérer le développement de l’innovation healthtech et d’affir mer le leadership de la France en matière de santé. Enosis Santé
+se distingue par sa proximité avec les acteurs de l’innovation en santé qu’elle accompagne et l’expertise de
+ses équipes. En fédérant un écosystème de plus de
+créée en 2022 qui regroupe à ce jour
+e4 pôles de compétitivité santé fran-
+çais : BioValley France, Eurobiomed, Lyonbiopôle Auvergne-Rhône-Alpes et Medicen
+Paris Region. Son ambition est d’accélérer le dévelop-
+ils trouvent dans le cadre de Clubster NSL les ressources et les partenaires nécessaires pour innover collectivement, financer leurs projets et développer leur activité.
+Clubster NSL a son ancrage dans la région des
+Hauts-de-France, 3e pôle d’excellence de nutrition-santé en France. La région est riche de 1 100 entreprises
+de nutrition-santé employant 32 000 salariés,
+actives dans les secteurs biotech-pharma, medtech-hospitech, e-santé, agro-nutrition et silver
+Clubster NSL co-organise aux côtés d’Eurasanté
+Clubster NSL co-organise aux côtés d'Eurasanté quatre conventions d'affaires européennes annuelles destinées à faire naitre les innovations de demain de la filière nutrition-santé et longévité : BioFIT : biofit-event.com; MedFIT : medfit-event.com; NutrEvent : nutrevent.com; AgeingFit : ageingfit-event.fr ■
+www.clubster-nsl.com • X : @ClubsterNSL
+La première présidence d’Enosis Santé est assurée par Eric Vacaresse, président
+d’Eurobiomed et sa vice-présidence par Philippe Sans,
+de Lyonbiopôle. Enosis Santé compte 1 500 acteurs
+de l’innovation; les entreprises membres des
+4 pôles ont levé plus de 1,3 Md€ en 2022 et les pôles
+ont accompagnés plus de 1 000 projets pour + de
+Flexible Instrumentation)
+10 rue d'Oradour-sur-Glane
+Tél. : +33 (0)1 56 58 10 70
+contact@france-biotech.org
+biotech | medtech | e-santé | IA

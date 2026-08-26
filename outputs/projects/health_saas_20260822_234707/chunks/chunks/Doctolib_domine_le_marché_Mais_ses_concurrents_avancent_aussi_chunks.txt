@@ -1,0 +1,46 @@
+
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/posts/kamel-meziani-739781148_doctolib-domine-le-march%25C3%25A9-mais-ses-concurrents-activity-7472163571443994624-SGtj
+# Document parent: Doctolib domine le marché. Mais ses concurrents avancent aussi.
+# Section: unknown
+# Question: 
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: 
+# Chemin hiérarchique: Scraping Failed
+# Titre section: Scraping Failed
+# Type: list
+# Taille: 363 caractères
+# Tokens: 63
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T22:59:08.215829+00:00
+................................................................................
+
+# Scraping Failed
+L'URL suivante n'a pas pu être scrapée après 3 tentatives :
+- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.
+
+
+
+================================================================================# Source URL: https://fr.linkedin.com/posts/kamel-meziani-739781148_doctolib-domine-le-march%25C3%25A9-mais-ses-concurrents-activity-7472163571443994624-SGtj
+# Document parent: Doctolib domine le marché. Mais ses concurrents avancent aussi.
+# Section: unknown
+# Question: 
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: 
+# Chemin hiérarchique: Scraping Failed > Métadonnées
+# Titre section: Métadonnées
+# Type: list
+# Taille: 201 caractères
+# Tokens: 32
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T22:59:08.215829+00:00
+................................................................................
+
+### Métadonnées
+- Section: Analyse macro marché et tendances
+- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+- Angle: competitive landscape and market shares

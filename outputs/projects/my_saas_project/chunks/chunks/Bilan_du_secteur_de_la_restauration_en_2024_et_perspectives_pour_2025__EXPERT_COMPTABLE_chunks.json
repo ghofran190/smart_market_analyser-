@@ -1,0 +1,402 @@
+[
+    {
+        "chunk_id": "6203caa0c808ea60",
+        "content": "## **1\\. État du marché de la restauration en 2024**\nL’année 2024 a été marquée par des transformations majeures dans le secteur de la restauration, sous l’effet des nouvelles habitudes de consommation, de l’inflation et des avancées technologiques. Entre adaptation des offres, montée en puissance du digital et préoccupations écologiques, le marché a dû évoluer rapidement.",
+        "metadata": {
+            "chunk_id": "6203caa0c808ea60",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**1\\. État du marché de la restauration en 2024**"
+            ],
+            "section_title": "**1\\. État du marché de la restauration en 2024**",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## **1\\. État du marché de la restauration en 2024**\nL’année 2024 a été marquée par des transformations majeures dans le secteur de la restauration, sous l’effet des nouvelles habitudes de consommation, de l’inflation et des avancées technologiques. Entre adaptation des offres, montée en puissance du digital et préoccupations écologiques, le marché a dû évoluer rapidement.",
+            "token_count": 56,
+            "character_count": 375,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e27be6bcb81edd08",
+        "content": "### **1.1 Impact de l’inflation et adaptation des prix**\n- Stratégies d’adaptation : réduction des portions, optimisation des cartes, diversification des offres (formules économiques, plats à partager).\n- Importance croissante des circuits courts et des produits locaux pour maîtriser les coûts et répondre à la demande.",
+        "metadata": {
+            "chunk_id": "e27be6bcb81edd08",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**1\\. État du marché de la restauration en 2024**",
+                "**1.1 Impact de l’inflation et adaptation des prix**"
+            ],
+            "section_title": "**1.1 Impact de l’inflation et adaptation des prix**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **1.1 Impact de l’inflation et adaptation des prix**\n- Stratégies d’adaptation : réduction des portions, optimisation des cartes, diversification des offres (formules économiques, plats à partager).\n- Importance croissante des circuits courts et des produits locaux pour maîtriser les coûts et répondre à la demande.",
+            "token_count": 46,
+            "character_count": 320,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c5970b45df54a2d1",
+        "content": "### **1.2 Digitalisation et nouveaux modes de consommation**\n- Explosion des commandes en ligne et des plateformes de livraison.\n- Développement des bornes de commande et de la prise de commande via mobile.\n- Automatisation croissante avec l’intelligence artificielle et les robots en cuisine.",
+        "metadata": {
+            "chunk_id": "c5970b45df54a2d1",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**1\\. État du marché de la restauration en 2024**",
+                "**1.2 Digitalisation et nouveaux modes de consommation**"
+            ],
+            "section_title": "**1.2 Digitalisation et nouveaux modes de consommation**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **1.2 Digitalisation et nouveaux modes de consommation**\n- Explosion des commandes en ligne et des plateformes de livraison.\n- Développement des bornes de commande et de la prise de commande via mobile.\n- Automatisation croissante avec l’intelligence artificielle et les robots en cuisine.",
+            "token_count": 44,
+            "character_count": 293,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6daac5094fd70f09",
+        "content": "### **1.3 Montée en puissance de la restauration durable**\n- Réduction du gaspillage alimentaire et mise en place de pratiques plus écoresponsables.\n- Adoption de nouveaux emballages biodégradables et suppression progressive du plastique à usage unique.",
+        "metadata": {
+            "chunk_id": "6daac5094fd70f09",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**1\\. État du marché de la restauration en 2024**",
+                "**1.3 Montée en puissance de la restauration durable**"
+            ],
+            "section_title": "**1.3 Montée en puissance de la restauration durable**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **1.3 Montée en puissance de la restauration durable**\n- Réduction du gaspillage alimentaire et mise en place de pratiques plus écoresponsables.\n- Adoption de nouveaux emballages biodégradables et suppression progressive du plastique à usage unique.",
+            "token_count": 36,
+            "character_count": 253,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c40c2c2124869b6b",
+        "content": "### **2.1 Pénurie de main-d’œuvre et recrutement**\n- Difficulté à recruter et fidéliser le personnel.\n- Amélioration des conditions de travail : salaires revalorisés, flexibilité des horaires.\n- Intégration de la formation continue et montée en compétences des équipes.",
+        "metadata": {
+            "chunk_id": "c40c2c2124869b6b",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**2\\. Enjeux économiques et stratégiques**",
+                "**2.1 Pénurie de main-d’œuvre et recrutement**"
+            ],
+            "section_title": "**2.1 Pénurie de main-d’œuvre et recrutement**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **2.1 Pénurie de main-d’œuvre et recrutement**\n- Difficulté à recruter et fidéliser le personnel.\n- Amélioration des conditions de travail : salaires revalorisés, flexibilité des horaires.\n- Intégration de la formation continue et montée en compétences des équipes.",
+            "token_count": 39,
+            "character_count": 269,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "becb3b9508d402a6",
+        "content": "### **2.2 Transformation des modèles de restauration**\n- Essor des dark kitchens et des concepts de restauration hybride (vente sur place et livraison uniquement).\n- Multiplication des offres street food et food courts.\n- Développement de la restauration immersive et expérientielle.",
+        "metadata": {
+            "chunk_id": "becb3b9508d402a6",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**2\\. Enjeux économiques et stratégiques**",
+                "**2.2 Transformation des modèles de restauration**"
+            ],
+            "section_title": "**2.2 Transformation des modèles de restauration**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **2.2 Transformation des modèles de restauration**\n- Essor des dark kitchens et des concepts de restauration hybride (vente sur place et livraison uniquement).\n- Multiplication des offres street food et food courts.\n- Développement de la restauration immersive et expérientielle.",
+            "token_count": 41,
+            "character_count": 283,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2fe6a0bb2ede29f4",
+        "content": "## **3\\. Grands événements du secteur en 2024**\n- **Jeux Olympiques de Paris 2024** : impact positif sur la restauration, avec une augmentation de la fréquentation touristique.\n- **Nouvelles réglementations sur le gaspillage alimentaire et la traçabilité des produits.**\n- **Montée en puissance de la gastronomie durable dans les guides et classements internationaux.**",
+        "metadata": {
+            "chunk_id": "2fe6a0bb2ede29f4",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**3\\. Grands événements du secteur en 2024**"
+            ],
+            "section_title": "**3\\. Grands événements du secteur en 2024**",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## **3\\. Grands événements du secteur en 2024**\n- **Jeux Olympiques de Paris 2024** : impact positif sur la restauration, avec une augmentation de la fréquentation touristique.\n- **Nouvelles réglementations sur le gaspillage alimentaire et la traçabilité des produits.**\n- **Montée en puissance de la gastronomie durable dans les guides et classements internationaux.**",
+            "token_count": 53,
+            "character_count": 369,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "2bfb856e3db512b5",
+        "content": "### **4.1 Nouvelles attentes des consommateurs**\n- Une restauration plus rapide, accessible et personnalisée.\n- Accent mis sur la transparence des ingrédients et la qualité des produits.\n- Expansion des options végétariennes et véganes.",
+        "metadata": {
+            "chunk_id": "2bfb856e3db512b5",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**4\\. Perspectives pour 2025**",
+                "**4.1 Nouvelles attentes des consommateurs**"
+            ],
+            "section_title": "**4.1 Nouvelles attentes des consommateurs**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **4.1 Nouvelles attentes des consommateurs**\n- Une restauration plus rapide, accessible et personnalisée.\n- Accent mis sur la transparence des ingrédients et la qualité des produits.\n- Expansion des options végétariennes et véganes.",
+            "token_count": 34,
+            "character_count": 236,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "684c5483533fb1fc",
+        "content": "### **4.2 Innovations et nouvelles tendances**\n- Expansion des restaurants autonomes avec peu ou pas d’interaction humaine.",
+        "metadata": {
+            "chunk_id": "684c5483533fb1fc",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**4\\. Perspectives pour 2025**",
+                "**4.2 Innovations et nouvelles tendances**"
+            ],
+            "section_title": "**4.2 Innovations et nouvelles tendances**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **4.2 Innovations et nouvelles tendances**\n- Expansion des restaurants autonomes avec peu ou pas d’interaction humaine.",
+            "token_count": 17,
+            "character_count": 123,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cded6fee5cc8d248",
+        "content": "### **4.3 Stratégies des restaurateurs pour 2025**\n- Renforcement des engagements en faveur du développement durable.\n- Augmentation des offres de restauration rapide premium et healthy.\n- Diversification des sources de revenus : abonnements, vente à emporter, événements privés.\nL’année 2024 a confirmé la transformation du secteur de la restauration, avec un équilibre à trouver entre digitalisation, durabilité et nouvelles attentes des consommateurs. En 2025, l’innovation et l’adaptation seront clés pour répondre aux défis et opportunités d’un marché en constante évolution.",
+        "metadata": {
+            "chunk_id": "cded6fee5cc8d248",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**4\\. Perspectives pour 2025**",
+                "**4.3 Stratégies des restaurateurs pour 2025**"
+            ],
+            "section_title": "**4.3 Stratégies des restaurateurs pour 2025**",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### **4.3 Stratégies des restaurateurs pour 2025**\n- Renforcement des engagements en faveur du développement durable.\n- Augmentation des offres de restauration rapide premium et healthy.\n- Diversification des sources de revenus : abonnements, vente à emporter, événements privés.\nL’année 2024 a confirmé la transformation du secteur de la restauration, avec un équilibre à trouver entre digitalisation, durabilité et nouvelles attentes des consommateurs. En 2025, l’innovation et l’adaptation seront ",
+            "token_count": 81,
+            "character_count": 580,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "88f4e1d7e761b26f",
+        "content": "### Partager :\n- Partager sur X(ouvre dans une nouvelle fenêtre)X\n- Envoyer un lien par e-mail à un ami(ouvre dans une nouvelle fenêtre)E-mail\n- Partager sur WhatsApp(ouvre dans une nouvelle fenêtre)WhatsApp",
+        "metadata": {
+            "chunk_id": "88f4e1d7e761b26f",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**4\\. Perspectives pour 2025**",
+                "Partager :"
+            ],
+            "section_title": "Partager :",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Partager :\n- Partager sur X(ouvre dans une nouvelle fenêtre)X\n- Envoyer un lien par e-mail à un ami(ouvre dans une nouvelle fenêtre)E-mail\n- Partager sur WhatsApp(ouvre dans une nouvelle fenêtre)WhatsApp",
+            "token_count": 32,
+            "character_count": 207,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "44659a7ec43516dd",
+        "content": "### _Similaire_\nBilan du secteur du commerce en 2024 et perspectives pour 202524 avril 2025Dans \"Actualités\"\nBilan du secteur de l’agriculture en 2024 et perspectives pour 20252 mai 2025Dans \"Actualités\"\nBilan du secteur du BTP en 2024 et perspectives pour 202510 avril 2025Dans \"Actualités\"",
+        "metadata": {
+            "chunk_id": "44659a7ec43516dd",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "**4\\. Perspectives pour 2025**",
+                "_Similaire_"
+            ],
+            "section_title": "_Similaire_",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### _Similaire_\nBilan du secteur du commerce en 2024 et perspectives pour 202524 avril 2025Dans \"Actualités\"\nBilan du secteur de l’agriculture en 2024 et perspectives pour 20252 mai 2025Dans \"Actualités\"\nBilan du secteur du BTP en 2024 et perspectives pour 202510 avril 2025Dans \"Actualités\"",
+            "token_count": 44,
+            "character_count": 291,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1a69aa00fe266cf6",
+        "content": "## En savoir plus sur EXPERT COMPTABLE\nAbonnez-vous pour poursuivre la lecture et avoir accès à l’ensemble des archives.\nSaisissez votre adresse e-mail…\nActiver la visibilité des métadonnées sur les photosActiver la visibilité des commentaires sur les photos\nChargement des commentaires…\nE-mail (requis)Nom (requis)Site web",
+        "metadata": {
+            "chunk_id": "1a69aa00fe266cf6",
+            "parent_doc": "Bilan du secteur de la restauration en 2024 et perspectives pour 2025 – EXPERT COMPTABLE",
+            "source_url": "https://nord-expertise.com/2025/04/11/restauration-actualite-2024-perspectives-2025",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "digitalisation restauration indépendante France étude marché 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "market research on digital transformation adoption",
+            "heading_path": [
+                "En savoir plus sur EXPERT COMPTABLE"
+            ],
+            "section_title": "En savoir plus sur EXPERT COMPTABLE",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## En savoir plus sur EXPERT COMPTABLE\nAbonnez-vous pour poursuivre la lecture et avoir accès à l’ensemble des archives.\nSaisissez votre adresse e-mail…\nActiver la visibilité des métadonnées sur les photosActiver la visibilité des commentaires sur les photos\nChargement des commentaires…\nE-mail (requis)Nom (requis)Site web",
+            "token_count": 45,
+            "character_count": 323,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:56:34.714318+00:00",
+            "extra": {}
+        }
+    }
+]

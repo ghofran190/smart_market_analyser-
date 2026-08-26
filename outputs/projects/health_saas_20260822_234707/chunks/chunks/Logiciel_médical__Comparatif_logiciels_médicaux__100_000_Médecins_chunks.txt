@@ -1,0 +1,425 @@
+
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical
+# Titre section: 🖥️Logiciel médical
+# Type: h1
+# Taille: 961 caractères
+# Tokens: 150
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+# 🖥️Logiciel médical
+_Trente ans qu'ils promettent de vous faire gagner du temps. Vous êtes toujours là à 20h._
+Le logiciel médical — ou LGC (Logiciel de Gestion de Cabinet) — est devenu le système nerveux central du cabinet : dossier patient, prescription, facturation, télétransmission. Changer d'outil ressemble moins à une mise à jour qu'à un déménagement — des mois de transition, des données à migrer, une équipe à reformer.
+Le problème n'est pas le manque de fonctionnalités — c'est souvent l'inverse. Les éditeurs empilent les modules, la plupart des médecins n'en utilisent qu'une fraction. L'ergonomie, elle, peine parfois à suivre : interfaces vieillissantes, flux de travail des années 2000, interopérabilité encore trop rare.
+_Trois questions avant de signer : la migration de vos données est-elle incluse et garantie ? L'outil est-il certifié HAS et compatible Mon Espace Santé ? Peut-on y connecter appareils médicaux, agenda externe, IA scribe ?
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Premiocare
+# Titre section: Premiocare
+# Type: h3
+# Taille: 176 caractères
+# Tokens: 30
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Premiocare
+Jeune LGC avec dossier patient construit autour d'une "ligne de vie", assez différenciante et agréable à utiliser. A voir si cela suffit pour se faire sa place !
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Medimust
+# Titre section: Medimust
+# Type: h3
+# Taille: 133 caractères
+# Tokens: 20
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Medimust
+Pas en ligne, mais complet, robuste, et avec toutes les labellisations et fonctionnalités possibles. Toujours un… must ?
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > DrSanté
+# Titre section: DrSanté
+# Type: h3
+# Taille: 137 caractères
+# Tokens: 19
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### DrSanté
+Design simple avec beau potentiel d’efficacité, mais difficilement personnalisable. Accès à distance, mais pas dans le cloud.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > XMED
+# Titre section: XMED
+# Type: h3
+# Taille: 214 caractères
+# Tokens: 39
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### XMED
+XMED est un OVNI : logiciel porté par une association au début des années 2000, toujours valeureux (et qui passe le Ségur en 2024 !), mais qui souffre de son manque d'évolution. Racheté par Olaqin en 2025.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > MEDILINK
+# Titre section: MEDILINK
+# Type: h3
+# Taille: 101 caractères
+# Tokens: 12
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### MEDILINK
+Gros potentiel notamment en pluriprofessionnalité, mais quelques problèmes de fiabilité.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > easy-care
+# Titre section: easy-care
+# Type: h3
+# Taille: 197 caractères
+# Tokens: 32
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### easy-care
+Après un lâchage en rase campagne par Orisha, easy-care est bien repris en mains par sa maison-mère Calimed et propose désormais un logiciel bien assemblé avec un soupçon d'IA dedans.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Med'Oc
+# Titre section: Med'Oc
+# Type: h3
+# Taille: 107 caractères
+# Tokens: 17
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Med'Oc
+Solution pas aussi régionale que son nom le suggère, mais surtout orientée spécialistes et MMGs.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Weda
+# Titre section: Weda
+# Type: h3
+# Taille: 115 caractères
+# Tokens: 18
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Weda
+Un logiciel avec tant de possibilités qu’on aurait aimé une meilleure ergonomie pour pouvoir les utiliser.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Acteur.fr
+# Titre section: Acteur.fr
+# Type: h3
+# Taille: 151 caractères
+# Tokens: 24
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Acteur.fr
+Plutôt axé centres de santé, mais également présent en libéral. Racheté par Compugroup Medical (CGM) en 2021, on espère pour le meilleur.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Follow
+# Titre section: Follow
+# Type: h3
+# Taille: 123 caractères
+# Tokens: 17
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Follow
+Récent et efficace, mais aujourd'hui surtout pour les spécialistes, voire pour les chirurgiens et anesthésistes.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > HelloDoc
+# Titre section: HelloDoc
+# Type: h3
+# Taille: 158 caractères
+# Tokens: 22
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### HelloDoc
+Logiciel fonctionnel mais interface vieillissante, avec un coût augmenté trop régulièrement ces dernières années.
+!AxiSanté 5 - AxiSanté en ligne
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > AxiSanté 5
+# Titre section: AxiSanté 5
+# Type: h3
+# Taille: 141 caractères
+# Tokens: 25
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### AxiSanté 5
+Un logiciel sérieux et complet, mais surtout très lourd. Cela doit être difficile de tout bien faire quand on veut tout faire.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > MedicaWin
+# Titre section: MedicaWin
+# Type: h3
+# Taille: 133 caractères
+# Tokens: 24
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### MedicaWin
+Un logiciel métier mettant en avant la rapidité de la prescription, mais qui ne passera pas le Ségur. A vous de voir...
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Maiia Médecin
+# Titre section: Maiia Médecin
+# Type: h3
+# Taille: 174 caractères
+# Tokens: 27
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Maiia Médecin
+Logiciel de gestion de cabinet (LGC) de Cegedim avec agenda en ligne, téléconsultation, gestion des RDV et assistant IA. Référencé Ségur, hébergé en France.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Desmos Médecin
+# Titre section: Desmos Médecin
+# Type: h3
+# Taille: 259 caractères
+# Tokens: 36
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Desmos Médecin
+LGC en ligne référencé Ségur, développé par Juxta (devenu Orisha Healthcare), avec dossier médical, facturation, télétransmission et gestion d'agenda. Utilisé par environ 8 000 pros de santé, surtout en centres de santé pluridisciplinaires.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > HyperMed
+# Titre section: HyperMed
+# Type: h3
+# Taille: 237 caractères
+# Tokens: 32
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### HyperMed
+Logiciel de gestion de cabinet médical proposant dossier patient, prescription électronique et accès sécurisé aux données. Labelisé Ségur, utilisé en médecine générale et pluridisciplinaire, avec plus de 30 ans d'ancienneté.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Instamed
+# Titre section: Instamed
+# Type: h3
+# Taille: 100 caractères
+# Tokens: 16
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Instamed
+Logiciel métier avec espace patient sécurisé hébergé en France, assez méconnu. A tort ?
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Libellia
+# Titre section: Libellia
+# Type: h3
+# Taille: 218 caractères
+# Tokens: 29
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Libellia
+Logiciel de gestion de cabinet nouvelle génération par CompuGroup Medical France, conçu pour simplifier la gestion quotidienne des dossiers patients, prescriptions et facturation avec une interface épurée.
+
+
+
+================================================================================# Source URL: https://www.100000medecins.org/solutions
+# Document parent: Logiciel médical — Comparatif logiciels médicaux | 100 000 Médecins
+# Section: Analyse de la demande et pain points
+# Question: Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?
+# Query: avis utilisateurs logiciels prise de rendez-vous médical en ligne France 2024
+# Angle: user reviews and satisfaction
+# Chemin hiérarchique: 🖥️Logiciel médical > Semble
+# Titre section: Semble
+# Type: h3
+# Taille: 217 caractères
+# Tokens: 33
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:26:44.210509+00:00
+................................................................................
+
+### Semble
+Logiciel de dossier patient et gestion de cabinet pour médecins libéraux en pratique privée, disponible en UK et France. Conçu pour les structures de toutes tailles, de l'individuel aux groupes multi-sites.

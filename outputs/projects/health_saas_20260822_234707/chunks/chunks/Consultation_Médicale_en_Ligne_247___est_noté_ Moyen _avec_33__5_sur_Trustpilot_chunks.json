@@ -1,0 +1,32 @@
+[
+    {
+        "chunk_id": "e93f6d3713ae707a",
+        "content": "# Verifying your connection...\nPlease wait while we verify your browser.\nVerification failed. Please try again.\nVerification is taking longer than expected.",
+        "metadata": {
+            "chunk_id": "e93f6d3713ae707a",
+            "parent_doc": "Consultation Médicale en Ligne 24/7   est noté « Moyen » avec 3,3 / 5 sur Trustpilot",
+            "source_url": "https://fr.trustpilot.com/review/urgencedocteurs.com?page=10",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "avis utilisateurs plateforme prise rendez-vous médical en ligne France 2024",
+            "question": "Quels sont les besoins des clients et les obstacles et frictions dans le processus d'achat actuel ?",
+            "angle": "retours d'expérience et frustrations clients",
+            "heading_path": [
+                "Verifying your connection..."
+            ],
+            "section_title": "Verifying your connection...",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Verifying your connection...\nPlease wait while we verify your browser.\nVerification failed. Please try again.\nVerification is taking longer than expected.",
+            "token_count": 22,
+            "character_count": 156,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:26:06.552059+00:00",
+            "extra": {}
+        }
+    }
+]

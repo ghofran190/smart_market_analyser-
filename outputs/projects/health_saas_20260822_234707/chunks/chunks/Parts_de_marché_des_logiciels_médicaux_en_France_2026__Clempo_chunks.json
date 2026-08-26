@@ -1,0 +1,854 @@
+[
+    {
+        "chunk_id": "1abb06c2b9dd39ee_0",
+        "content": "## Quels sont les logiciels médicaux les plus utilisés en France ?\nVoici le logiciel n°1 par spécialité en juin 2026, mesuré en part de feuilles de soins électroniques télétransmises. Cliquez sur une ligne pour ouvrir le classement complet (top 5, évolution mensuelle, données téléchargeables).\nSpécialitéLogiciel n°1ÉditeurPart↗\nMédecins GénéralistesDoctolibDoctolib26,2%→ DentistesLogos\\_wLogjia (ex-Imagex)45,9%→ InfirmiersAgathe YOU (E.Motion)CBA Informatique Libérale33,4%→ KinésithérapeutesVegaEpsilog41,3%→ OrthophonistesSoins 2000Logisur'M32,4%→ PharmaciesID.",
+        "metadata": {
+            "chunk_id": "1abb06c2b9dd39ee_0",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Quels sont les logiciels médicaux les plus utilisés en France ?"
+            ],
+            "section_title": "Quels sont les logiciels médicaux les plus utilisés en France ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Quels sont les logiciels médicaux les plus utilisés en France ?\nVoici le logiciel n°1 par spécialité en juin 2026, mesuré en part de feuilles de soins électroniques télétransmises. Cliquez sur une ligne pour ouvrir le classement complet (top 5, évolution mensuelle, données téléchargeables).\nSpécialitéLogiciel n°1ÉditeurPart↗\nMédecins GénéralistesDoctolibDoctolib26,2%→ DentistesLogos\\_wLogjia (ex-Imagex)45,9%→ InfirmiersAgathe YOU (E.Motion)CBA Informatique Libérale33,4%→ KinésithérapeutesVega",
+            "token_count": 60,
+            "character_count": 567,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fcb4b10953f45cab_1",
+        "content": "(LGPI)Equasens (ex-Pharmagest)39,9%→ Médecins SpécialistesDoctolibDoctolib16,5%→ OpticiensCosium CenterCosium30,4%→ AudioprothésistesCosium CenterCosium44,4%→ OrthoptistesMedi+4000Cegedim Santé30,7%→ Sages-FemmesMaieuticAppFT Labs24,3%→ Pédicures-PodologuesMedi+4000Cegedim Santé24,6%→ Centres de santéIntellio EditeursOrisha Healthcare France24,3%→ Laboratoires d'analysesHexalisDedalus Healthcare France31,0%→\nDonnées juin 2026 — Source : GIE SESAM-Vitale. Part = % des feuilles de soins électroniques télétransmises par cette spécialité utilisant ce progiciel sur le mois de référence.",
+        "metadata": {
+            "chunk_id": "fcb4b10953f45cab_1",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Quels sont les logiciels médicaux les plus utilisés en France ?"
+            ],
+            "section_title": "Quels sont les logiciels médicaux les plus utilisés en France ?",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "(LGPI)Equasens (ex-Pharmagest)39,9%→ Médecins SpécialistesDoctolibDoctolib16,5%→ OpticiensCosium CenterCosium30,4%→ AudioprothésistesCosium CenterCosium44,4%→ OrthoptistesMedi+4000Cegedim Santé30,7%→ Sages-FemmesMaieuticAppFT Labs24,3%→ Pédicures-PodologuesMedi+4000Cegedim Santé24,6%→ Centres de santéIntellio EditeursOrisha Healthcare France24,3%→ Laboratoires d'analysesHexalisDedalus Healthcare France31,0%→\nDonnées juin 2026 — Source : GIE SESAM-Vitale. Part = % des feuilles de soins électroniq",
+            "token_count": 52,
+            "character_count": 588,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ce74e55881fa58da",
+        "content": "## Top des éditeurs de logiciels médicaux en France\nLe marché français du logiciel santé est structuré autour d'une quinzaine d'éditeurs majeurs. Certains sont **multi-spécialités** — parfois éclatés en plusieurs marques, comme CompuGroup Medical (Vega, HelloDoc, AxiSanté…) ou Cegedim Santé —, d'autres **généralistes** (Sofia Développement, Doctolib) ou **verticaux mono-spécialité** (Logjia en dentaire, CBA en infirmier libéral, Equasens en pharmacie, Cosium en optique/audio). Voici le panorama 2026, ordonné par poids stratégique sur le marché libéral français.",
+        "metadata": {
+            "chunk_id": "ce74e55881fa58da",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France"
+            ],
+            "section_title": "Top des éditeurs de logiciels médicaux en France",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Top des éditeurs de logiciels médicaux en France\nLe marché français du logiciel santé est structuré autour d'une quinzaine d'éditeurs majeurs. Certains sont **multi-spécialités** — parfois éclatés en plusieurs marques, comme CompuGroup Medical (Vega, HelloDoc, AxiSanté…) ou Cegedim Santé —, d'autres **généralistes** (Sofia Développement, Doctolib) ou **verticaux mono-spécialité** (Logjia en dentaire, CBA en infirmier libéral, Equasens en pharmacie, Cosium en optique/audio). Voici le panorama ",
+            "token_count": 75,
+            "character_count": 567,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8be656225af2434f",
+        "content": "### CompuGroup Medical (CGM)\nLe plus gros groupe éditeur en base cumulée (~16 % de tous les télétransmetteurs, devant Cegedim) — souvent sous-estimé car éclaté en plusieurs marques. Leader des kinés (Vega, 42 %), 2ᵉ des orthophonistes (24 %) et orthoptistes (19 %), ~14 % des généralistes et 12 % des IDEL. Groupe allemand ; a racheté Epsilog (Vega) en 2019.\nProgiciels : Vega (Epsilog), HelloDoc & CGM eVITALE (Imagine Editions), AxiSanté, Acteur.fr (Aatlantide)",
+        "metadata": {
+            "chunk_id": "8be656225af2434f",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "CompuGroup Medical (CGM)"
+            ],
+            "section_title": "CompuGroup Medical (CGM)",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### CompuGroup Medical (CGM)\nLe plus gros groupe éditeur en base cumulée (~16 % de tous les télétransmetteurs, devant Cegedim) — souvent sous-estimé car éclaté en plusieurs marques. Leader des kinés (Vega, 42 %), 2ᵉ des orthophonistes (24 %) et orthoptistes (19 %), ~14 % des généralistes et 12 % des IDEL. Groupe allemand ; a racheté Epsilog (Vega) en 2019.\nProgiciels : Vega (Epsilog), HelloDoc & CGM eVITALE (Imagine Editions), AxiSanté, Acteur.fr (Aatlantide)",
+            "token_count": 74,
+            "character_count": 463,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a230e18757c3e368",
+        "content": "### Cegedim Santé\nPrésent sur 8 spécialités sur 14 — l'éditeur à la présence la plus large, même si sa base recule depuis 2022.\nProgiciels : Crossway, MonLogicielMedical.com, Medi+4000, Simply-Vitale, Maiia Gestion, MEDICLICK",
+        "metadata": {
+            "chunk_id": "a230e18757c3e368",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Cegedim Santé"
+            ],
+            "section_title": "Cegedim Santé",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cegedim Santé\nPrésent sur 8 spécialités sur 14 — l'éditeur à la présence la plus large, même si sa base recule depuis 2022.\nProgiciels : Crossway, MonLogicielMedical.com, Medi+4000, Simply-Vitale, Maiia Gestion, MEDICLICK",
+            "token_count": 33,
+            "character_count": 225,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5dd958ef806d7f88",
+        "content": "### Doctolib\nLeader des médecins généralistes (26 %) et spécialistes (17 %), 3ᵉ chez les kinés (16 %). Croissance la plus rapide du marché, encore +3 pts chez les généralistes au 2e trimestre 2026.\nProgiciels : Doctolib Logiciel (gestion de cabinet intégrée à la prise de RDV)",
+        "metadata": {
+            "chunk_id": "5dd958ef806d7f88",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Doctolib"
+            ],
+            "section_title": "Doctolib",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Doctolib\nLeader des médecins généralistes (26 %) et spécialistes (17 %), 3ᵉ chez les kinés (16 %). Croissance la plus rapide du marché, encore +3 pts chez les généralistes au 2e trimestre 2026.\nProgiciels : Doctolib Logiciel (gestion de cabinet intégrée à la prise de RDV)",
+            "token_count": 47,
+            "character_count": 276,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b0b98e37fea42fbc",
+        "content": "### Sofia Développement\nForce majeure chez les infirmiers, kinés, orthophonistes, orthoptistes, pédicures-podologues. ~22 % cumulés en IDEL.\nProgiciels : Albus AIR, Topaze AIR, Orthomax, Televitale, Infimax",
+        "metadata": {
+            "chunk_id": "b0b98e37fea42fbc",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Sofia Développement"
+            ],
+            "section_title": "Sofia Développement",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Sofia Développement\nForce majeure chez les infirmiers, kinés, orthophonistes, orthoptistes, pédicures-podologues. ~22 % cumulés en IDEL.\nProgiciels : Albus AIR, Topaze AIR, Orthomax, Televitale, Infimax",
+            "token_count": 26,
+            "character_count": 206,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0d2c665efdd389ae",
+        "content": "### Equasens (ex-Pharmagest)\nLeader stable du marché pharmacie depuis plus de 20 ans, intégré à un écosystème (groupements Pharmavie, Optipharm…).",
+        "metadata": {
+            "chunk_id": "0d2c665efdd389ae",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Equasens (ex-Pharmagest)"
+            ],
+            "section_title": "Equasens (ex-Pharmagest)",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Equasens (ex-Pharmagest)\nLeader stable du marché pharmacie depuis plus de 20 ans, intégré à un écosystème (groupements Pharmavie, Optipharm…).",
+            "token_count": 20,
+            "character_count": 146,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e15533e56793afcc",
+        "content": "### Logjia\nGroupe né au 1ᵉʳ janvier 2026 de la fusion de Logos\\_w, Julie et JULiA (rachetés à Henry Schein One). Il réunit les deux premiers logiciels dentaires (Logos\\_w 46 % + Julie 20 %), soit ~66 % du parc de ville.\nProgiciels : Logos\\_w, Julie, JULiA",
+        "metadata": {
+            "chunk_id": "e15533e56793afcc",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Logjia"
+            ],
+            "section_title": "Logjia",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Logjia\nGroupe né au 1ᵉʳ janvier 2026 de la fusion de Logos\\_w, Julie et JULiA (rachetés à Henry Schein One). Il réunit les deux premiers logiciels dentaires (Logos\\_w 46 % + Julie 20 %), soit ~66 % du parc de ville.\nProgiciels : Logos\\_w, Julie, JULiA",
+            "token_count": 47,
+            "character_count": 255,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b5ddd1a4faa06a1a",
+        "content": "### CBA Informatique Libérale\nNuméro 1 absolu du marché infirmier libéral (33 %) — l'éditeur historique de l'IDEL, qui se diversifie depuis peu vers les kinés avec Milo.\nProgiciels : Agathe YOU (E.Motion), Agathe (legacy), Milo (kinés)",
+        "metadata": {
+            "chunk_id": "b5ddd1a4faa06a1a",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "CBA Informatique Libérale"
+            ],
+            "section_title": "CBA Informatique Libérale",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### CBA Informatique Libérale\nNuméro 1 absolu du marché infirmier libéral (33 %) — l'éditeur historique de l'IDEL, qui se diversifie depuis peu vers les kinés avec Milo.\nProgiciels : Agathe YOU (E.Motion), Agathe (legacy), Milo (kinés)",
+            "token_count": 37,
+            "character_count": 235,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e1077e226bf5ce1b",
+        "content": "### Cosium\nDouble leader sur l'optique (30 %) et l'audioprothèse (44 %) — éditeur spécialisé sur le commerce de détail santé.\nProgiciels : Cosium Center",
+        "metadata": {
+            "chunk_id": "e1077e226bf5ce1b",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Cosium"
+            ],
+            "section_title": "Cosium",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Cosium\nDouble leader sur l'optique (30 %) et l'audioprothèse (44 %) — éditeur spécialisé sur le commerce de détail santé.\nProgiciels : Cosium Center",
+            "token_count": 25,
+            "character_count": 152,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8c8475404e506040",
+        "content": "### Logisur'M\nPremier des orthophonistes (32 %) — a multiplié sa part par 6 en 7 ans grâce à une bascule cloud précoce.",
+        "metadata": {
+            "chunk_id": "8c8475404e506040",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Logisur'M"
+            ],
+            "section_title": "Logisur'M",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Logisur'M\nPremier des orthophonistes (32 %) — a multiplié sa part par 6 en 7 ans grâce à une bascule cloud précoce.",
+            "token_count": 23,
+            "character_count": 119,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4c836878a42d7e26",
+        "content": "### Visiodent\nPrésent en dentaire (Veasy 4 %) et leader de la nouvelle gamme cloud chez les centres de santé (17 %).\nProgiciels : Veasy, Visiodent Ligne 100/500",
+        "metadata": {
+            "chunk_id": "4c836878a42d7e26",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Visiodent"
+            ],
+            "section_title": "Visiodent",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Visiodent\nPrésent en dentaire (Veasy 4 %) et leader de la nouvelle gamme cloud chez les centres de santé (17 %).\nProgiciels : Veasy, Visiodent Ligne 100/500",
+            "token_count": 28,
+            "character_count": 160,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "78730f5e5711f560",
+        "content": "### Orisha Healthcare France\nPrésent sur 4 spécialités (médecins spé, pédicures, centres de santé, audio). Numéro 1 des centres de santé (24 %).\nProgiciels : Intellio, Intellio Editeurs",
+        "metadata": {
+            "chunk_id": "78730f5e5711f560",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Orisha Healthcare France"
+            ],
+            "section_title": "Orisha Healthcare France",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Orisha Healthcare France\nPrésent sur 4 spécialités (médecins spé, pédicures, centres de santé, audio). Numéro 1 des centres de santé (24 %).\nProgiciels : Intellio, Intellio Editeurs",
+            "token_count": 28,
+            "character_count": 185,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f0f701060b91a685",
+        "content": "### Olaqin\nActeur transverse chez les médecins (généralistes 7 %, spécialistes 6 %) — a su capter une partie des bascules dans le segment médecins.\nProgiciels : Stellair Integral\n// vue cross-spécialités — base cumulée",
+        "metadata": {
+            "chunk_id": "f0f701060b91a685",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Top des éditeurs de logiciels médicaux en France",
+                "Olaqin"
+            ],
+            "section_title": "Olaqin",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Olaqin\nActeur transverse chez les médecins (généralistes 7 %, spécialistes 6 %) — a su capter une partie des bascules dans le segment médecins.\nProgiciels : Stellair Integral\n// vue cross-spécialités — base cumulée",
+            "token_count": 35,
+            "character_count": 218,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "51dbc959359cceda_15",
+        "content": "## Qui pèse le plus, tous métiers confondus ?\nLa lecture par spécialité masque le poids réel des grands groupes, souvent **éclatés en plusieurs marques**. En agrégeant les praticiens qui télétransmettent sur les 14 spécialités (juin 2026), la hiérarchie change : **CompuGroup Medical** (Vega, HelloDoc, AxiSanté…) devient le 1er groupe éditeur français, devant Cegedim Santé. À noter aussi : le marché grandit presque partout (13 spécialités sur 14 en hausse sur un an, portées par les podologues, opticiens et orthoptistes à +7 %), la pharmacie étant la seule en recul (-1,5 %).\n1. 01CompuGroup Medical (CGM)Vega, HelloDoc, CGM eVITALE, AxiSanté, Acteur.fr15,3 %\n2. 02Cegedim SantéCrossway, Medi+4000, Maiia Gestion, Simply-Vitale13,7 %\n3. 03DoctolibDoctolib (croissance la plus rapide)9,1 %\n4. 04Sofia DéveloppementAlbus AIR, Topaze AIR, Orthomax, Televitale8,0 %\n5. 05CBA Informatique LibéraleAgathe YOU, Milo7,6 %\n6. 06LogjiaLogos\\_w, Julie, JULiA6,1 %\n7. 07EquasensID. (LGPI)4,3 %\n8.",
+        "metadata": {
+            "chunk_id": "51dbc959359cceda_15",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Qui pèse le plus, tous métiers confondus ?"
+            ],
+            "section_title": "Qui pèse le plus, tous métiers confondus ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Qui pèse le plus, tous métiers confondus ?\nLa lecture par spécialité masque le poids réel des grands groupes, souvent **éclatés en plusieurs marques**. En agrégeant les praticiens qui télétransmettent sur les 14 spécialités (juin 2026), la hiérarchie change : **CompuGroup Medical** (Vega, HelloDoc, AxiSanté…) devient le 1er groupe éditeur français, devant Cegedim Santé. À noter aussi : le marché grandit presque partout (13 spécialités sur 14 en hausse sur un an, portées par les podologues, op",
+            "token_count": 143,
+            "character_count": 988,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "919a13931adc7622_16",
+        "content": "08VidalWeda, DrSanté4,0 %\nPart cumulée des télétransmetteurs sur les 14 spécialités couvertes (juin 2026).\n// top logiciels, tous métiers confondus\n1. 01VegaEpsilog (CGM) · kinés, orthophonistes, orthoptistes, infirmiers, podologues11,5 %\n2. 02DoctolibDoctolib · généralistes, spécialistes, kinés9,1 %\n3. 03Agathe YOUCBA · infirmiers (kinés émergent)7,3 %\n4. 04Medi+4000Cegedim Santé · orthoptistes, podologues, kinés, orthophonistes, sages-femmes, infirmiers6,2 %\n5. 05Logos\\_wLogjia · dentistes, centres de santé4,3 %\n6. 06Soins 2000Logisur'M · orthophonistes, infirmiers3,9 %\nPart cumulée d'un même progiciel sur toutes les spécialités où il est utilisé.\n**À retenir** — **Vega** (Epsilog, groupe CGM) reste le logiciel n°1 tous métiers confondus (11,5 %, présent chez 5 professions). **Doctolib** est le 2e et le plus rapide en croissance — 12e début 2024, il a dépassé Agathe YOU et Medi+4000 depuis.",
+        "metadata": {
+            "chunk_id": "919a13931adc7622_16",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Qui pèse le plus, tous métiers confondus ?"
+            ],
+            "section_title": "Qui pèse le plus, tous métiers confondus ?",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "08VidalWeda, DrSanté4,0 %\nPart cumulée des télétransmetteurs sur les 14 spécialités couvertes (juin 2026).\n// top logiciels, tous métiers confondus\n1. 01VegaEpsilog (CGM) · kinés, orthophonistes, orthoptistes, infirmiers, podologues11,5 %\n2. 02DoctolibDoctolib · généralistes, spécialistes, kinés9,1 %\n3. 03Agathe YOUCBA · infirmiers (kinés émergent)7,3 %\n4. 04Medi+4000Cegedim Santé · orthoptistes, podologues, kinés, orthophonistes, sages-femmes, infirmiers6,2 %\n5. 05Logos\\_wLogjia · dentistes, ce",
+            "token_count": 126,
+            "character_count": 905,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "47ab0c4110262989_17",
+        "content": "Le logiciel le plus **transversal** est **DrSanté** (Calimaps, groupe Vidal), utilisé sur 12 des 14 spécialités.",
+        "metadata": {
+            "chunk_id": "47ab0c4110262989_17",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Qui pèse le plus, tous métiers confondus ?"
+            ],
+            "section_title": "Qui pèse le plus, tous métiers confondus ?",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Le logiciel le plus **transversal** est **DrSanté** (Calimaps, groupe Vidal), utilisé sur 12 des 14 spécialités.",
+            "token_count": 16,
+            "character_count": 112,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "73c008c92c54040f_18",
+        "content": "## Explorez l'évolution de chaque marché en animation\nCliquez sur une spécialité pour ouvrir la **bar chart race interactive** qui rejoue mois par mois 7 ans de bouleversements concurrentiels — le recul d'AxiSanté, la conquête de Doctolib, la bascule cloud chez les infirmiers, le basculement Julie → Logos\\_w en dentaire. Chaque page contient le top 5 détaillé, l'analyse des grandes tendances et le téléchargement gratuit de la donnée brute.\n**Médecins Généralistes** \\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 02 / 14juin 2026\\\\\n3. 3.CS Trophy Gestion7,0%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 03 / 14juin 2026\\\\\n1. 1.Agathe YOU (E.Motion)33,4%\\\\\n3. 3.",
+        "metadata": {
+            "chunk_id": "73c008c92c54040f_18",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Explorez l'évolution de chaque marché en animation"
+            ],
+            "section_title": "Explorez l'évolution de chaque marché en animation",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Explorez l'évolution de chaque marché en animation\nCliquez sur une spécialité pour ouvrir la **bar chart race interactive** qui rejoue mois par mois 7 ans de bouleversements concurrentiels — le recul d'AxiSanté, la conquête de Doctolib, la bascule cloud chez les infirmiers, le basculement Julie → Logos\\_w en dentaire. Chaque page contient le top 5 détaillé, l'analyse des grandes tendances et le téléchargement gratuit de la donnée brute.\n**Médecins Généralistes** \\\\\n▶Voir l'animation 2019→2026",
+            "token_count": 108,
+            "character_count": 725,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ec17884a648d2f15_19",
+        "content": "Simply-Vitale12,2%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 04 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 05 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 06 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 07 / 14juin 2026\\\\\n**Médecins Spécialistes** \\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 08 / 14juin 2026\\\\\n1. 1.Cosium Center30,4%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 09 / 14juin 2026\\\\\n1. 1.",
+        "metadata": {
+            "chunk_id": "ec17884a648d2f15_19",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Explorez l'évolution de chaque marché en animation"
+            ],
+            "section_title": "Explorez l'évolution de chaque marché en animation",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Simply-Vitale12,2%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 04 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 05 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 06 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 07 / 14juin 2026\\\\\n**Médecins Spécialistes** \\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 08 / 14ju",
+            "token_count": 87,
+            "character_count": 633,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a5bda2b0290b2a83_20",
+        "content": "Cosium Center44,4%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 10 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 11 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 12 / 14juin 2026\\\\\n**Pédicures-Podologues** \\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 13 / 14juin 2026\\\\\n1. 1.Intellio Editeurs24,3%\\\\\n3. 3.Galaxie Soins14,4%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 14 / 14juin 2026\\\\\n**Laboratoires d'analyses** \\\\\n3. 3.",
+        "metadata": {
+            "chunk_id": "a5bda2b0290b2a83_20",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Explorez l'évolution de chaque marché en animation"
+            ],
+            "section_title": "Explorez l'évolution de chaque marché en animation",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Cosium Center44,4%\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 10 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 11 / 14juin 2026\\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 12 / 14juin 2026\\\\\n**Pédicures-Podologues** \\\\\n▶Voir l'animation 2019→2026\\+ télécharger la donnée brute (CSV/XLSX)→ // 13 / 14juin 2026\\\\\n1. 1.Intellio Editeurs24,3%\\\\\n3. 3.Galaxie Soins14,4%\\\\\n▶Voir l'animation 2019→2026",
+            "token_count": 80,
+            "character_count": 601,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a181fb81b68a4be1",
+        "content": "## Comment sont mesurées les parts de marché ?\nLes parts de marché publiées sur cette page proviennent du **GIE SESAM-Vitale**, l'organisme qui opère la télétransmission des feuilles de soins électroniques (FSE) en France. Chaque mois, le GIE publie le volume de FSE émises par chaque progiciel agréé — par profession de santé.\nCette mesure est **plus fiable que les chiffres de vente** ou les déclarations d'éditeurs, car elle reflète l'usage réel sur le terrain : un logiciel installé mais non utilisé n'apparaît pas. Elle exclut en revanche les actes non télétransmis (tiers payant intégral, certains actes hospitaliers) et les éditeurs sans agrément SESAM-Vitale (rares en libéral).\nLes données sont retraitées pour : (1) regrouper les versions d'un même produit (ex. : AGATHE et AGATHE YOU), (2) attribuer correctement chaque progiciel à son éditeur actuel après rachat (ex. : Pharmagest → Equasens), (3) consolider les \"Autres\" (longue traîne d'éditeurs <0,5 %) dans une catégorie agrégée.",
+        "metadata": {
+            "chunk_id": "a181fb81b68a4be1",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Comment sont mesurées les parts de marché ?"
+            ],
+            "section_title": "Comment sont mesurées les parts de marché ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Comment sont mesurées les parts de marché ?\nLes parts de marché publiées sur cette page proviennent du **GIE SESAM-Vitale**, l'organisme qui opère la télétransmission des feuilles de soins électroniques (FSE) en France. Chaque mois, le GIE publie le volume de FSE émises par chaque progiciel agréé — par profession de santé.\nCette mesure est **plus fiable que les chiffres de vente** ou les déclarations d'éditeurs, car elle reflète l'usage réel sur le terrain : un logiciel installé mais non util",
+            "token_count": 155,
+            "character_count": 995,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "67c929b0db78be6a_22",
+        "content": "## Foire aux questions\nQuels sont les logiciels médicaux les plus utilisés en France ?\nEn 2026, les logiciels médicaux les plus utilisés en France varient selon la spécialité : Doctolib (26 % des médecins généralistes), Logos\\_w (46 % des dentistes), Agathe YOU (33 % des infirmiers libéraux), Vega (41 % des kinés), LGPI / ID. (40 % des pharmacies), Cosium Center (30 % des opticiens), Soins 2000 (32 % des orthophonistes) et Hexalis (31 % des laboratoires d'analyses). Source : GIE SESAM-Vitale, juin 2026.\nQuelles sont les parts de marché des éditeurs de logiciels médicaux en France ?\nLes parts de marché des éditeurs sont mesurées par le pourcentage de feuilles de soins électroniques (FSE) télétransmises via leur progiciel.",
+        "metadata": {
+            "chunk_id": "67c929b0db78be6a_22",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Foire aux questions"
+            ],
+            "section_title": "Foire aux questions",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Foire aux questions\nQuels sont les logiciels médicaux les plus utilisés en France ?\nEn 2026, les logiciels médicaux les plus utilisés en France varient selon la spécialité : Doctolib (26 % des médecins généralistes), Logos\\_w (46 % des dentistes), Agathe YOU (33 % des infirmiers libéraux), Vega (41 % des kinés), LGPI / ID. (40 % des pharmacies), Cosium Center (30 % des opticiens), Soins 2000 (32 % des orthophonistes) et Hexalis (31 % des laboratoires d'analyses). Source : GIE SESAM-Vitale, ju",
+            "token_count": 120,
+            "character_count": 730,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6206532ea6a933e5_23",
+        "content": "En 2026, Cegedim Santé est l'éditeur le plus diversifié (Crossway, Medi+4000, Maiia, Simply-Vitale, MonLogicielMedical) ; Doctolib domine sur les médecins ; Vidal France (Weda) couvre généralistes et sages-femmes ; Equasens (LGPI) règne sur les pharmacies ; Logjia (Logos\\_w + Julie) sur les dentistes ; CBA (Agathe YOU) sur les infirmiers ; CompuGroup Medical (Vega, via Epsilog) sur les kinésithérapeutes ; Cosium sur l'optique et l'audioprothèse. En base cumulée tous métiers, CompuGroup Medical est d'ailleurs le 1er groupe éditeur, devant Cegedim Santé.\nQuel est le plus gros éditeur de logiciels médicaux en France ?\nEn base installée cumulée (praticiens qui télétransmettent, toutes spécialités confondues), le plus gros groupe éditeur français est CompuGroup Medical (CGM) avec environ 15 % des télétransmetteurs — via Vega (Epsilog), HelloDoc, CGM eVITALE et AxiSanté. Il devance Cegedim Santé (~14 % : Crossway, Medi+4000, Maiia Gestion, Simply-Vitale) et Doctolib (~9 %).",
+        "metadata": {
+            "chunk_id": "6206532ea6a933e5_23",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Foire aux questions"
+            ],
+            "section_title": "Foire aux questions",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "En 2026, Cegedim Santé est l'éditeur le plus diversifié (Crossway, Medi+4000, Maiia, Simply-Vitale, MonLogicielMedical) ; Doctolib domine sur les médecins ; Vidal France (Weda) couvre généralistes et sages-femmes ; Equasens (LGPI) règne sur les pharmacies ; Logjia (Logos\\_w + Julie) sur les dentistes ; CBA (Agathe YOU) sur les infirmiers ; CompuGroup Medical (Vega, via Epsilog) sur les kinésithérapeutes ; Cosium sur l'optique et l'audioprothèse. En base cumulée tous métiers, CompuGroup Medical e",
+            "token_count": 144,
+            "character_count": 982,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5e632e7bd8df08b2_24",
+        "content": "Le logiciel individuel le plus utilisé reste Vega (Epsilog, groupe CGM), présent chez 5 professions de santé.\nComment sont calculées les parts de marché des logiciels santé ?\nLes parts de marché sont calculées à partir des feuilles de soins électroniques (FSE SESAM-Vitale) télétransmises chaque mois. C'est l'indicateur le plus fiable car il reflète l'usage réel — pas les ventes ni les déclarations d'éditeurs. Les données sont publiées mensuellement par le GIE SESAM-Vitale et agrégées ici par spécialité.\nÀ quelle fréquence ces données sont-elles mises à jour ?\nLes données sont mises à jour mensuellement, dès publication des statistiques de télétransmission par le GIE SESAM-Vitale. Chaque page spécialité affiche le mois de référence dans son titre et permet de visualiser l'évolution mois par mois sur 7 ans (2019 → 2026).\nPuis-je télécharger la donnée brute des parts de marché ?\nOui.",
+        "metadata": {
+            "chunk_id": "5e632e7bd8df08b2_24",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Foire aux questions"
+            ],
+            "section_title": "Foire aux questions",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Le logiciel individuel le plus utilisé reste Vega (Epsilog, groupe CGM), présent chez 5 professions de santé.\nComment sont calculées les parts de marché des logiciels santé ?\nLes parts de marché sont calculées à partir des feuilles de soins électroniques (FSE SESAM-Vitale) télétransmises chaque mois. C'est l'indicateur le plus fiable car il reflète l'usage réel — pas les ventes ni les déclarations d'éditeurs. Les données sont publiées mensuellement par le GIE SESAM-Vitale et agrégées ici par spé",
+            "token_count": 141,
+            "character_count": 893,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d26080ba833f9219_25",
+        "content": "Chaque page spécialité propose le téléchargement gratuit de la donnée brute en format CSV et XLSX (mensuel, par éditeur, par progiciel). Le téléchargement nécessite une simple inscription (e-mail) pour permettre le suivi des cas d'usage. La source d'origine reste publique : gie-sesam-vitale.fr.\nQuel est le logiciel médecin généraliste n°1 en France ?\nDoctolib est le logiciel le plus utilisé par les médecins généralistes français en 2026, avec 26,2 % des FSE télétransmises en juin (+3 points sur le 2e trimestre). Il est suivi par Weda (13,4 %, Vidal France), Medistory (10,1 %), HelloDoc (7,6 %) et Stellair Integral (7,2 %).\nQuel est le logiciel pharmacie n°1 en France ?\nID. (LGPI), édité par Equasens (anciennement Pharmagest), est le logiciel pharmacie le plus utilisé en France en 2026, avec 40 % de parts de marché. Il est suivi de très près par Winpharma (Everys, 37 %), qui a gagné 16 points en 7 ans — l'écart n'est plus que de 3 points.\nQuel est le logiciel dentaire n°1 en France ?",
+        "metadata": {
+            "chunk_id": "d26080ba833f9219_25",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Foire aux questions"
+            ],
+            "section_title": "Foire aux questions",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Chaque page spécialité propose le téléchargement gratuit de la donnée brute en format CSV et XLSX (mensuel, par éditeur, par progiciel). Le téléchargement nécessite une simple inscription (e-mail) pour permettre le suivi des cas d'usage. La source d'origine reste publique : gie-sesam-vitale.fr.\nQuel est le logiciel médecin généraliste n°1 en France ?\nDoctolib est le logiciel le plus utilisé par les médecins généralistes français en 2026, avec 26,2 % des FSE télétransmises en juin (+3 points sur ",
+            "token_count": 170,
+            "character_count": 997,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0eccb77444b4571c_26",
+        "content": "Logos\\_w (groupe Logjia) est le logiciel dentaire le plus utilisé en France en 2026, avec 45,9 % de parts de marché — il a doublé Julie (20,2 % en 2023, désormais 19,7 %) en 2023. Depuis janvier 2026, Logos\\_w, Julie et JULiA sont réunis dans un même groupe, Logjia (~66 % du parc dentaire).\nQuel est le logiciel infirmier libéral le plus utilisé ?\nAgathe YOU (gamme E.Motion) édité par CBA Informatique Libérale équipe 33,4 % des infirmiers libéraux français en 2026, devant Albus AIR (Sofia, 17,4 %) et Simply-Vitale (Cegedim, 12,2 %).\nComment ces données sont-elles utiles pour un éditeur ou un investisseur ?\nPour un éditeur de logiciel santé, ces données permettent de benchmarker sa position concurrentielle, d'identifier les spécialités où conquérir des parts, et de mesurer l'effet de ses campagnes go-to-market. Pour un investisseur ou un acquéreur, elles donnent une vision objective de la trajectoire d'un éditeur et de sa résilience face à la concurrence (cloud, IA, plateformisation).",
+        "metadata": {
+            "chunk_id": "0eccb77444b4571c_26",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Foire aux questions"
+            ],
+            "section_title": "Foire aux questions",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Logos\\_w (groupe Logjia) est le logiciel dentaire le plus utilisé en France en 2026, avec 45,9 % de parts de marché — il a doublé Julie (20,2 % en 2023, désormais 19,7 %) en 2023. Depuis janvier 2026, Logos\\_w, Julie et JULiA sont réunis dans un même groupe, Logjia (~66 % du parc dentaire).\nQuel est le logiciel infirmier libéral le plus utilisé ?\nAgathe YOU (gamme E.Motion) édité par CBA Informatique Libérale équipe 33,4 % des infirmiers libéraux français en 2026, devant Albus AIR (Sofia, 17,4 %",
+            "token_count": 161,
+            "character_count": 997,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "84e9a2f7753a17bc",
+        "content": "## Discutons de votre stratégie go-to-market sur le marché santé français\nCroissance, pricing, positionnement vs Cegedim/Doctolib/Sofia, distribution syndicats/groupements — 30 minutes pour faire le point.",
+        "metadata": {
+            "chunk_id": "84e9a2f7753a17bc",
+            "parent_doc": "Parts de marché des logiciels médicaux en France (2026) | Clempo",
+            "source_url": "https://www.clempo.fr/parts-de-marche-logiciels-medicaux",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "parts de marché logiciels HealthTech prise de rendez-vous médical France 2023",
+            "question": "Qui sont les acteurs majeurs du marché et quelle est leur position ?",
+            "angle": "analyse quantitative des positions concurrentielles",
+            "heading_path": [
+                "Discutons de votre stratégie go-to-market sur le marché santé français"
+            ],
+            "section_title": "Discutons de votre stratégie go-to-market sur le marché santé français",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Discutons de votre stratégie go-to-market sur le marché santé français\nCroissance, pricing, positionnement vs Cegedim/Doctolib/Sofia, distribution syndicats/groupements — 30 minutes pour faire le point.",
+            "token_count": 25,
+            "character_count": 205,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:30:57.728010+00:00",
+            "extra": {}
+        }
+    }
+]

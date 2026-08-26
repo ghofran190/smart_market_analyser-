@@ -1,0 +1,52 @@
+Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.
+Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’utilisateur.
+Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.
+Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.
+Gérer les options Gérer les services Gérer {vendor\_count} fournisseurs En savoir plus sur ces finalités
+AccepterRefuserPréférencesEnregistrer les préférences Préférences
+!réglementation pour les prestataires SaaS
+# Nouvel arsenal réglementaire pour les prestataires SaaS
+Article rédigé par Vincent Denoyelle et Camille Larreur, avocats associé et collaboratrice chez Herbert Smith Freehills Paris
+**Temps de lecture : 12 mn\| Cybersécurité**
+**Plusieurs textes dont la loi SREN, le Data Act et la directive NIS 2 imposent directement de nouvelles obligations aux prestataires SaaS, qui les contraignent à revoir certaines pratiques et leurs modèles de contrats.**
+Les services d’informatique en nuage (ou « cloud ») se sont imposés comme un outil majeur de la transformation numérique. Ainsi, près de la moitié des entreprises européennes ont acheté des services cloud en 2023, et 95% de ces acheteurs de services cloud ont souscrit au moins à un service SaaS (« Software as a Service ») 1.
+- Les manquements exposent à des sanctions financières significatives, en plus des exigences contractuelles sectorielles (ex. DORA).
+## 1\. Les obligations et contraintes visant à renforcer la concurrence et la souveraineté des données
+Le règlement européen 2023/2854 du 13 décembre 2023 (le Règlement sur les Données ou « Data Act ») et la loi française n° 2024-449 du 21 mai 2024 visant à sécuriser et à réguler l’espace numérique (la « Loi SREN ») imposent de nouvelles règles respectivement aux « fournisseurs de services de traitement de données » et aux « fournisseurs de services d’informatique en nuage ». Curieusement, ces notions sont définies de façon identique, et le Data Act prévoit expressément que cette définition couvre les services SaaS 2 3 et dont les pratiques peuvent rendre leurs clients captifs 4, et notamment les frais de transfert de données. Le Data Act prévoit que les frais de changement de fournisseur ne peuvent dépasser les coûts directement liés au processus de changement jusqu’au 12 janvier 2027, puis interdit complètement ces frais à compter de cette date 5 pour les frais de transfert de données, anticipant ainsi l’interdiction totale prévue par le Data Act au 12 janvier 2027.
+De plus, tant le Data Act (à partir du 12 septembre 2025) que la loi SREN (entre sa promulgation et le 12 janvier 2027) impose des obligations d’interopérabilité et de portabilité des données, en particulier via la mise à disposition par les prestataires cloud d’interfaces dédiées. Il est prévu que des spécifications d’interopérabilité seront publiées respectivement via un acte délégué de la Commission Européenne et par l’Arcep en France 8 ou assortis d’une condition d’exclusivité. Il est également interdit aux prestataires cloud de subordonner la vente d’un produit ou service à la souscription à un service cloud lorsque cela constitue une pratique commerciale déloyale 14, afin de permettre aux clients de prendre une décision éclairée quant au choix de leurs prestataires, imposent aux prestataires cloud de publier sur leur site internet les juridictions dans lesquelles les données des services cloud pourraient être traitées ainsi qu’une description des mesures prises pour empêcher l’accès par des autorités publiques hors de l’UE à des données personnelles en conflit avec le droit applicable. Un changement contractuel additionnel est requis à cet égard, puisque les prestataires doivent lister les URL concernées dans les contrats avec leurs clients 15. Le référentiel de qualification applicable sera très vraisemblablement du référentiel « SecNumCloud » visé dans les circulaires.
+### 1.3 Une spécificité française : la fourniture d’information environnementale
+Un autre ajout dans la loi SREN par rapport au Data Act est à noter : les prestataires cloud seront tenus de publier des « informations sur l’empreinte environnementale de leurs services 2022/2555 du 14 décembre 2022 (la « directive NIS 2 ») accroît pour sa part les obligations de cybersécurité applicables aux prestataires SaaS par rapport à la directive « NIS 1 » 19 s’applique aux fournisseurs de services d’informatique en nuage (ces services comprenant entre autres « les logiciels services (SaaS) ») 20 du 4 mars 2025) et a été examiné à l’Assemblée nationale en septembre 2025, avec une adoption attendue début 2026 (Ornisec, « Directive NIS 2 : vers une cybersécurité renforcée en Europe – Point de situation », juin 2025). En mai 2025, la Commission européenne a envoyé un avis motivé à la France pour défaut de notification de la transposition complète (Commission européenne, page de suivi de la transposition NIS 2 pour la France, mise à jour du 7 mai 2025), soulignant le retard pris par rapport à l’échéance du 17 octobre 2024.
+#### Le mécanisme de guichet unique applicable aux fournisseurs de services numériques
+La détermination de la loi de transposition applicable sera particulièrement importante pour les fournisseurs de services numériques, y compris les prestataires SaaS, pour lesquels la directive prévoit un mécanisme de « guichet unique ». Contrairement aux autres entités soumises à ce texte, qui peuvent relever de la compétence de plusieurs États membres 24. Ainsi, les mesures de gestion des risques en matière de cybersécurité devant être mises en œuvre par les fournisseurs de services numériques 29 sont définies dans le règlement d’exécution (UE) 2024/2690, qui est directement applicable dans tous les États membres de l’Union européenne depuis le 6 novembre 2024.
+D’autres obligations devront être étudiées tant au niveau des textes européens que des lois de transposition : les prestataires cloud sont soumis à l’obligation de notification des incidents importants auprès de l’autorité compétente et le cas échéant des destinataires des services prévue à l’article 23 de la directive NIS 2 (telle qu’elle sera transposée par les États membres), étant précisé que le règlement d’exécution susmentionné définit les cas dans lesquels un incident relatif à un service cloud est considéré comme important.
+## Un nouvel environnement normatif structurant pour les prestataires SaaS
+Les prestataires SaaS doivent mettre en œuvre les modifications techniques et contractuelles requises pour éviter des sanctions significatives (par exemple jusqu’à 3% du chiffre d’affaires mondial pour certains manquements à la loi SREN, jusqu’à 10 millions d’euros d’amende ou 2% du chiffre d’affaires mondial en cas de manquements des entités essentielles à certaines dispositions de NIS 2, etc.). Ces contraintes leur étant directement applicables sont bien sûr sans préjudice des obligations pouvant leur être imposées contractuellement par leurs clients en vertu de nouvelles règlementations sectorielles les concernant (par exemple Dora 30
+\[2\] Considérant 81 du Data Act. ↩︎
+\[3\] Article 35 de la loi SREN. ↩︎
+\[4\] Étude d’impact de la loi SREN. ↩︎
+\[5\] Article 29 du Data Act. ↩︎
+\[6\] Article 27 de la loi SREN. ↩︎
+\[7\] Décision n° 2025-0340 du 20 février 2025 de l’Arcep. ↩︎
+\[8\] Articles 30, 34 et 35 du Data Act, articles 28 et 29 de la loi SREN. ↩︎
+\[9\] Recommandation de l’Arcep du 25 septembre 2025 relative à l’interopérabilité et à la portabilité des services d’informatique en nuage. ↩︎
+\[10\] Article 27 de la loi SREN, articles 25, 29.4 et 29.6 du Data Act. ↩︎
+\[11\] Articles 25 et 26 du Data Act. ↩︎
+\[12\] Article 41 du Data Act ; voir aussi la FAQ de la Commission sur le Data Act. ↩︎
+\[13\] Basées sur l’avis de l’Autorité de la concurrence du 29 juin 2023 dédié au marché cloud. ↩︎
+\[14\] Nouvel article L. 442-12 du Code de commerce, créé par l’article 26 de la loi SREN. ↩︎
+\[15\] Article 28 du Data Act et article 33 I de la loi SREN. ↩︎
+\[16\] Circulaire n° 6282-SG du 5 juillet 2021 et circulaire n° 6404/SG du 31 mai 2023. ↩︎
+\[17\] Article 31 de la loi SREN. ↩︎
+\[18\] Article 33 II de la loi SREN. ↩︎
+\[19\] Les règles prévues pour les « fournisseurs de services numériques » par le Règlement d’exécution 2018/151 étaient en particulier moins développées. ↩︎
+\[20\] Annexe I section 8 et considérant 33. ↩︎
+\[21\] Article 2.1 de la directive, qui fait référence à la recommandation 2003/361/CE du 3 mai 2003. Voir notamment les dispositions de la recommandation, ainsi que le considérant 16 de la directive, sur les entreprises partenaires et liées à prendre en compte pour le calcul des seuils. A noter également les articles 2.2 b) à f) ou 2.3 sur les autres entités pouvant être soumises à NIS 2. ↩︎
+\[23\] La France n’est pas le seul pays concerné, par exemple le projet de loi de transposition n° 8364 étant également toujours en suspens au Luxembourg. ↩︎
+\[24\] Article 26.1 et considérant 113. ↩︎
+\[25\] Article 26.1 b). Voir également les règles pour les prestataires étrangers à l’article 26.3. ↩︎
+\[26\] Article 26.2 et considérant 114. ↩︎
+\[28\] Par exemple, la loi de transposition belge du 26 avril 2024 prévoyait une date limite d’enregistrement au 18 décembre 2024. ↩︎
+\[30\] A noter toutefois que pour certains prestataires TIC critiques Dora leur sera applicable directement. ↩︎
+**Vous avez aimé l’article ?**
+N’hésitez pas à le partager et à nous suivre sur nos réseaux sociaux pour en apprendre plus
+### Autres articles

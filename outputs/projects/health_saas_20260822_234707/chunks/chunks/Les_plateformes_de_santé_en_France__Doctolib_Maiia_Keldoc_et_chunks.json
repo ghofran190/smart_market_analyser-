@@ -1,0 +1,250 @@
+[
+    {
+        "chunk_id": "66a89f4017caed70_0",
+        "content": "## Introduction\nDepuis plusieurs années, le paysage de la santé en France est en pleine mutation avec l’essor des plateformes de santé en ligne. Ces outils numériques permettent de prendre rendez-vous avec un professionnel de santé, de consulter à distance ou encore de gérer ses documents médicaux. Doctolib, Maiia, Keldoc ou encore MonDocteur font partie des plateformes les plus connues. Elles ont radicalement modifié la manière dont les Français accèdent aux soins. Dans cet article, nous allons analyser leur fonctionnement, leurs avantages, leurs limites et leur impact sur le système de santé français.\n1. L’émergence des plateformes de santé : contexte et enjeux\n1.1 Le besoin de digitalisation du parcours de soin Avec la crise sanitaire de la COVID-19, les outils de téléconsultation se sont démocratisés. Le besoin de simplifier l’accès aux soins, de décongestionner les salles d’attente et de gérer les rendez-vous efficacement a conduit à un boom des plateformes de santé.\n1.",
+        "metadata": {
+            "chunk_id": "66a89f4017caed70_0",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Introduction\nDepuis plusieurs années, le paysage de la santé en France est en pleine mutation avec l’essor des plateformes de santé en ligne. Ces outils numériques permettent de prendre rendez-vous avec un professionnel de santé, de consulter à distance ou encore de gérer ses documents médicaux. Doctolib, Maiia, Keldoc ou encore MonDocteur font partie des plateformes les plus connues. Elles ont radicalement modifié la manière dont les Français accèdent aux soins. Dans cet article, nous allons",
+            "token_count": 154,
+            "character_count": 989,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d1d7a9ad842c0d86_1",
+        "content": "2 Les objectifs des plateformes Ces outils visent à améliorer l’organisation du système de santé, réduire les délais d’attente et faciliter la coordination entre patients et professionnels de santé.\n2. Les principales plateformes disponibles en France\n2.1 Doctolib : le leader incontesté Lancée en 2013, Doctolib s’est rapidement imposée comme la plateforme de référence. Elle propose la prise de rendez-vous en ligne, la téléconsultation, et une interface intuitive pour les patients comme pour les praticiens. Son modèle économique repose sur un abonnement mensuel payé par les professionnels de santé. Aujourd’hui, Doctolib revendique plusieurs millions d’utilisateurs et des partenariats avec de nombreux hôpitaux et cliniques. En matière de gestion des données, la plateforme se conforme au RGPD et héberge ses données en France.\n2.2 Maiia : l’alternative soutenue par Cegedim Maiia, anciennement Docavenue, est une plateforme française développée par le groupe Cegedim.",
+        "metadata": {
+            "chunk_id": "d1d7a9ad842c0d86_1",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "2 Les objectifs des plateformes Ces outils visent à améliorer l’organisation du système de santé, réduire les délais d’attente et faciliter la coordination entre patients et professionnels de santé.\n2. Les principales plateformes disponibles en France\n2.1 Doctolib : le leader incontesté Lancée en 2013, Doctolib s’est rapidement imposée comme la plateforme de référence. Elle propose la prise de rendez-vous en ligne, la téléconsultation, et une interface intuitive pour les patients comme pour les ",
+            "token_count": 141,
+            "character_count": 975,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "bc403b231da21c19_2",
+        "content": "Elle offre des services similaires à ceux de Doctolib : prise de rendez-vous, téléconsultation, rappels automatiques. Son intégration native avec les logiciels métiers de Cegedim la rend attractive pour de nombreux médecins. Elle propose aussi la réservation par téléphone, pratique pour les patients moins à l’aise avec le numérique.\n2.3 Keldoc : une solution plus discrète Keldoc est une autre alternative française, souvent choisie par des structures publiques ou hospitalières. Elle met en avant sa facilité d’utilisation, sa transparence tarifaire, et son engagement en faveur d’un numérique responsable. Moins connue du grand public, elle reste néanmoins une solution fiable et ergonomique.\n2.4 Autres plateformes : MonDocteur, RDVmedicaux, MaQuestionMedicale MonDocteur, racheté par Doctolib, était auparavant une plateforme concurrente. RDVmedicaux cible des cabinets de ville et propose un service de prise de rendez-vous simple.",
+        "metadata": {
+            "chunk_id": "bc403b231da21c19_2",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Elle offre des services similaires à ceux de Doctolib : prise de rendez-vous, téléconsultation, rappels automatiques. Son intégration native avec les logiciels métiers de Cegedim la rend attractive pour de nombreux médecins. Elle propose aussi la réservation par téléphone, pratique pour les patients moins à l’aise avec le numérique.\n2.3 Keldoc : une solution plus discrète Keldoc est une autre alternative française, souvent choisie par des structures publiques ou hospitalières. Elle met en avant ",
+            "token_count": 132,
+            "character_count": 938,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0ef7c7102a1eb140_3",
+        "content": "MaQuestionMedicale se distingue par sa spécialisation dans la téléconsultation, notamment pour les patients éloignés ou isolés.\n3. Fonctionnalités et services proposés\n3.1 Prise de rendez-vous en ligne Toutes les plateformes permettent de consulter les disponibilités des praticiens en temps réel. Le patient peut choisir un créneau, recevoir un rappel, et annuler facilement son rendez-vous. Ce système diminue la charge administrative des cabinets et améliore la ponctualité.\n3.2 Téléconsultation La téléconsultation permet un accès rapide à un professionnel, particulièrement utile dans les déserts médicaux. Les patients peuvent échanger avec leur médecin via une interface vidéo sécurisée. Toutefois, certaines pathologies nécessitent un examen physique, ce qui limite l’usage dans certains cas.\n3.3 Gestion des données médicales Les plateformes offrent un espace sécurisé où les patients peuvent retrouver leurs ordonnances, comptes rendus, et antécédents médicaux.",
+        "metadata": {
+            "chunk_id": "0ef7c7102a1eb140_3",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "MaQuestionMedicale se distingue par sa spécialisation dans la téléconsultation, notamment pour les patients éloignés ou isolés.\n3. Fonctionnalités et services proposés\n3.1 Prise de rendez-vous en ligne Toutes les plateformes permettent de consulter les disponibilités des praticiens en temps réel. Le patient peut choisir un créneau, recevoir un rappel, et annuler facilement son rendez-vous. Ce système diminue la charge administrative des cabinets et améliore la ponctualité.\n3.2 Téléconsultation L",
+            "token_count": 132,
+            "character_count": 971,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d17a5afa4ad0a122_4",
+        "content": "Ces données sont protégées par le RGPD et hébergées par des prestataires agréés HDS (Hébergeur de Données de Santé).\n3.4 Paiement en ligne et suivi administratif Certaines plateformes intègrent le paiement en ligne. Après la consultation, le patient peut recevoir sa feuille de soins électronique et la transmettre à l’Assurance Maladie pour remboursement.\n4. Les bénéfices pour les patients et les professionnels de santé\n4.1 Pour les patients Les patients gagnent en autonomie, en confort, et en réactivité. Ils peuvent consulter rapidement les disponibilités, choisir leur créneau, éviter les attentes téléphoniques et accéder à leur historique médical.\n4.2 Pour les professionnels Les praticiens bénéficient d’un agenda automatisé, d’un meilleur taux de rendez-vous honorés, et d’une gestion facilitée des absences. Cela libère du temps pour les soins et améliore la satisfaction globale.\n5.",
+        "metadata": {
+            "chunk_id": "d17a5afa4ad0a122_4",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Ces données sont protégées par le RGPD et hébergées par des prestataires agréés HDS (Hébergeur de Données de Santé).\n3.4 Paiement en ligne et suivi administratif Certaines plateformes intègrent le paiement en ligne. Après la consultation, le patient peut recevoir sa feuille de soins électronique et la transmettre à l’Assurance Maladie pour remboursement.\n4. Les bénéfices pour les patients et les professionnels de santé\n4.1 Pour les patients Les patients gagnent en autonomie, en confort, et en ré",
+            "token_count": 132,
+            "character_count": 895,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "47f809d59eb707ec_5",
+        "content": "1 Risque de déshumanisation Certains patients regrettent l’aspect impersonnel des consultations à distance. Le lien humain, l’écoute, et la confiance peuvent être altérés par l’écran.\n5.2 Inégalités d’accès au numérique Les personnes âgées ou en précarité numérique rencontrent des difficultés pour utiliser ces outils. Cela accentue la fracture numérique et crée une inégalité d’accès aux soins.\n5.3 Gestion des données et enjeux éthiques La centralisation des données pose des questions de sécurité, de confidentialité, et de dépendance à des acteurs privés. Certains dénoncent une marchandisation croissante du soin.\n6. Rôle et régulation des pouvoirs publics\n6.1 Cadre légal et initiatives publiques L’État encadre les pratiques via la CNIL, l’Assurance Maladie et le Ministère de la Santé. Il encourage la e-santé tout en veillant à garantir la sécurité et l’éthique.\n6.",
+        "metadata": {
+            "chunk_id": "47f809d59eb707ec_5",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "1 Risque de déshumanisation Certains patients regrettent l’aspect impersonnel des consultations à distance. Le lien humain, l’écoute, et la confiance peuvent être altérés par l’écran.\n5.2 Inégalités d’accès au numérique Les personnes âgées ou en précarité numérique rencontrent des difficultés pour utiliser ces outils. Cela accentue la fracture numérique et crée une inégalité d’accès aux soins.\n5.3 Gestion des données et enjeux éthiques La centralisation des données pose des questions de sécurité",
+            "token_count": 130,
+            "character_count": 875,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "37def63c7b61baad_6",
+        "content": "2 Mon espace santé : le projet public face aux plateformes privées Mon Espace Santé est un portail public permettant de centraliser les données de santé, les documents médicaux et d’échanger avec les professionnels. Il vise à être une alternative souveraine et gratuite aux plateformes privées.",
+        "metadata": {
+            "chunk_id": "37def63c7b61baad_6",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "2 Mon espace santé : le projet public face aux plateformes privées Mon Espace Santé est un portail public permettant de centraliser les données de santé, les documents médicaux et d’échanger avec les professionnels. Il vise à être une alternative souveraine et gratuite aux plateformes privées.",
+            "token_count": 46,
+            "character_count": 294,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3053040220926f12",
+        "content": "## Conclusion\nLes plateformes de santé ont transformé la relation entre les Français et le système médical. Si elles facilitent l’accès aux soins et améliorent l’efficacité organisationnelle, elles posent aussi des questions éthiques et sociales. Le défi des prochaines années sera de garantir un accès équitable, sécurisé et humain aux soins numériques, tout en préservant la qualité de la relation patient-médecin.\nLes plateformes comme Doctolib ou Maiia ne sont pas de simples outils pratiques : elles sont devenues des acteurs majeurs de la santé en France. Leur intégration dans le parcours de soins demande une vigilance constante des autorités pour en tirer le meilleur sans en subir les dérives.",
+        "metadata": {
+            "chunk_id": "3053040220926f12",
+            "parent_doc": "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et ...",
+            "source_url": "https://www.mutuelle-sante.net/les-plateformes-de-sante-en-france-doctolib-maiia-keldoc-et-les-autres",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "comparatif Doctolib Maiia Keldoc fonctionnalités et retours clients France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "competitor comparison and client feedback",
+            "heading_path": [
+                "Les plateformes de santé en France : Doctolib, Maiia, Keldoc et les autres",
+                "Conclusion"
+            ],
+            "section_title": "Conclusion",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Conclusion\nLes plateformes de santé ont transformé la relation entre les Français et le système médical. Si elles facilitent l’accès aux soins et améliorent l’efficacité organisationnelle, elles posent aussi des questions éthiques et sociales. Le défi des prochaines années sera de garantir un accès équitable, sécurisé et humain aux soins numériques, tout en préservant la qualité de la relation patient-médecin.\nLes plateformes comme Doctolib ou Maiia ne sont pas de simples outils pratiques : e",
+            "token_count": 109,
+            "character_count": 703,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:27:24.486948+00:00",
+            "extra": {}
+        }
+    }
+]

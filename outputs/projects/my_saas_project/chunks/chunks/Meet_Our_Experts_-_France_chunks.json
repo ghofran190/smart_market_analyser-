@@ -1,0 +1,125 @@
+[
+    {
+        "chunk_id": "ae81b6ef6ecfeb73",
+        "content": "# France\nMeet our team of experts dedicated to helping restaurants optimize pricing, improve profitability, and tackle local challenges with data-driven, AI-powered solutions\nIn addition to France, our associates also support restaurant brands in **Kuwait, South Africa, UAE** and **Saudi Arabia.**\nOur AI-powered solutions support local and international brands across Europe. With decades of experience and a proven global track record, RMS enables restaurants to stay ahead in a fast-paced market.",
+        "metadata": {
+            "chunk_id": "ae81b6ef6ecfeb73",
+            "parent_doc": "Meet Our Experts - France",
+            "source_url": "https://www.revenuemanage.com/locations/france",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points et besoins non satisfaits solutions RMS restaurants indépendants France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "customer pain points and unmet needs",
+            "heading_path": [
+                "France"
+            ],
+            "section_title": "France",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# France\nMeet our team of experts dedicated to helping restaurants optimize pricing, improve profitability, and tackle local challenges with data-driven, AI-powered solutions\nIn addition to France, our associates also support restaurant brands in **Kuwait, South Africa, UAE** and **Saudi Arabia.**\nOur AI-powered solutions support local and international brands across Europe. With decades of experience and a proven global track record, RMS enables restaurants to stay ahead in a fast-paced market.",
+            "token_count": 71,
+            "character_count": 500,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:57:52.168492+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b071d8a7b66ced12_1",
+        "content": "## Get to know us better\n!The Paris team celebrating Molly's birthday\nThe Paris team celebrated our colleague's birthday with a delicious cake.\n!The London Team enjoying a free sushi lunch\nThe London team indulged in a sushi lunch at the office.\nThe Singapore team marked the end of a successful year with a celebratory team dinner.\n!Team at Client Conference Oct 2024\nThe team ready to meet everyone at an industry conference.\n!team celebrating christmas\nSome of our associates gathered in London for a festive celebration to wrap up the year together.\n!Members of the London Team\nThe London team enjoyed an inspirational talk and received a free book to inspire new ideas.\nThe Tampa team enjoying the sunshine while participating in a local cleanup event.\n!Our Paris and London teams\nOur Paris and London teams had an unforgettable outing in Oxford, exploring the city and enjoying activities.\nThe Tampa team teeing off for a fun round of golf at a summer event.\n!",
+        "metadata": {
+            "chunk_id": "b071d8a7b66ced12_1",
+            "parent_doc": "Meet Our Experts - France",
+            "source_url": "https://www.revenuemanage.com/locations/france",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points et besoins non satisfaits solutions RMS restaurants indépendants France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "customer pain points and unmet needs",
+            "heading_path": [
+                "France",
+                "Get to know us better"
+            ],
+            "section_title": "Get to know us better",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Get to know us better\n!The Paris team celebrating Molly's birthday\nThe Paris team celebrated our colleague's birthday with a delicious cake.\n!The London Team enjoying a free sushi lunch\nThe London team indulged in a sushi lunch at the office.\nThe Singapore team marked the end of a successful year with a celebratory team dinner.\n!Team at Client Conference Oct 2024\nThe team ready to meet everyone at an industry conference.\n!team celebrating christmas\nSome of our associates gathered in London fo",
+            "token_count": 165,
+            "character_count": 966,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:57:52.168492+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b37b8495b63672a5_2",
+        "content": "Paris office celebrates Chinese New Year\nThe Paris office celebrated Chinese New Year at a lovely restaurant.\nSome of our associates at the Bolt Run event, hosted by the Tampa Bay Lightning.\nOur Product team sharing a dinner together.\nMembers of our Art Club toured the Dali Museum.\nOur European team visited in the scenic countryside east of Paris, enjoying nature and team-building activities.\n!team at training session\nA recent Leader as a Coach training in Paris sharpened our leadership skills and enhanced our coaching abilities.\n!The London Office after a race of Easter Egg hunting\nThe London office celebrating after an Easter egg hunt race.\n!The Paris team celebrating Bob's visit to our office\nThe Paris team celebrated the visit of our Chief Client Officer.\n!The London Office enjoying a Chinese New Year lunc\nThe London office got together for a Chinese New Year lunch.\n!",
+        "metadata": {
+            "chunk_id": "b37b8495b63672a5_2",
+            "parent_doc": "Meet Our Experts - France",
+            "source_url": "https://www.revenuemanage.com/locations/france",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points et besoins non satisfaits solutions RMS restaurants indépendants France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "customer pain points and unmet needs",
+            "heading_path": [
+                "France",
+                "Get to know us better"
+            ],
+            "section_title": "Get to know us better",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "Paris office celebrates Chinese New Year\nThe Paris office celebrated Chinese New Year at a lovely restaurant.\nSome of our associates at the Bolt Run event, hosted by the Tampa Bay Lightning.\nOur Product team sharing a dinner together.\nMembers of our Art Club toured the Dali Museum.\nOur European team visited in the scenic countryside east of Paris, enjoying nature and team-building activities.\n!team at training session\nA recent Leader as a Coach training in Paris sharpened our leadership skills a",
+            "token_count": 147,
+            "character_count": 884,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:57:52.168492+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cddfe7299fa2da8b_3",
+        "content": "The Paris team celebrating John's visit to our office\nThe Paris team welcomed our CEO, sharing exciting initiatives and future plans.\n!The London Office enjoying a game of darts\nThe London office enjoyed a darts game with food and drinks.",
+        "metadata": {
+            "chunk_id": "cddfe7299fa2da8b_3",
+            "parent_doc": "Meet Our Experts - France",
+            "source_url": "https://www.revenuemanage.com/locations/france",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points et besoins non satisfaits solutions RMS restaurants indépendants France",
+            "question": "Comment les clients évaluent-ils et choisissent-ils leurs solutions actuelles ?",
+            "angle": "customer pain points and unmet needs",
+            "heading_path": [
+                "France",
+                "Get to know us better"
+            ],
+            "section_title": "Get to know us better",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "The Paris team celebrating John's visit to our office\nThe Paris team welcomed our CEO, sharing exciting initiatives and future plans.\n!The London Office enjoying a game of darts\nThe London office enjoyed a darts game with food and drinks.",
+            "token_count": 40,
+            "character_count": 238,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:57:52.168492+00:00",
+            "extra": {}
+        }
+    }
+]

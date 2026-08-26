@@ -1,0 +1,63 @@
+================================================================================
+RAPPORT DE CHUNKING
+================================================================================
+Date: 2026-08-23T00:42:34.066545
+Document: all_documents
+
+📊 STATISTIQUES GLOBALES:
+----------------------------------------
+Total chunks: 2,728
+Total tokens: 264,925
+Total caractères: 1,759,873
+Moyenne tokens/chunk: 97.1
+Moyenne caractères/chunk: 645
+Médiane tokens: 103
+Min tokens: 20
+Max tokens: 684
+
+📝 MÉTADONNÉES:
+----------------------------------------
+Documents uniques: 134
+Sections uniques: 5
+Questions uniques: 11
+Angles uniques: 43
+
+📂 RÉPARTITION PAR TYPE:
+----------------------------------------
+  list             575 ( 21.1%) ████
+  h3               544 ( 19.9%) ███
+  paragraph        479 ( 17.6%) ███
+  h2               474 ( 17.4%) ███
+  unstructured     257 (  9.4%) █
+  h1               106 (  3.9%) 
+  table             96 (  3.5%) 
+  introduction      93 (  3.4%) 
+  h4                71 (  2.6%) 
+  quote             32 (  1.2%) 
+  code               1 (  0.0%) 
+
+📑 RÉPARTITION PAR NIVEAU DE TITRE:
+----------------------------------------
+  Niveau 1: 300 (11.0%)
+  Niveau 2: 1122 (41.1%)
+  Niveau 3: 1009 (37.0%)
+  Niveau 4: 125 (4.6%)
+  Niveau 5: 76 (2.8%)
+  Niveau 6: 3 (0.1%)
+
+🔍 CONTENU SPÉCIAL:
+----------------------------------------
+  Avec code:      2
+  Avec tableaux:  97
+  Avec listes:    587
+  Avec chiffres:  1687
+  Avec dates:     913
+
+✅ VALIDATION:
+----------------------------------------
+Qualité: 100.0/100
+Statut: ✅ VALIDE
+  ⚠️ Warnings:
+     - 2728/2728 chunks sans doc_title
+
+================================================================================

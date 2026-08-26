@@ -1,0 +1,33 @@
+[
+    {
+        "chunk_id": "bf9ed0093d0ae64b",
+        "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?\n- Angle: adoption trends and competitive landscape in digital restaurant management software",
+        "metadata": {
+            "chunk_id": "bf9ed0093d0ae64b",
+            "parent_doc": "Actualités de la restauration: Les Solutions Digitales Essentielles pour Gérer un Restaurant en France - ApproZone, vos approvisionnements de A à Z",
+            "source_url": "https://approzone.fr/2024/07/22/actualites-de-la-restauration-solutions-digitales",
+            "section": "unknown",
+            "doc_title": "",
+            "query_context": "digitalisation restaurants indépendants France adoption logiciels gestion 2024",
+            "question": "",
+            "angle": "",
+            "heading_path": [
+                "Scraping Failed",
+                "Métadonnées"
+            ],
+            "section_title": "Métadonnées",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Métadonnées\n- Section: Analyse macro marché et tendances\n- Question: Quelle est la structure du marché en termes de segments, taille et croissance ?\n- Angle: adoption trends and competitive landscape in digital restaurant management software",
+            "token_count": 37,
+            "character_count": 245,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:51:27.813982+00:00",
+            "extra": {}
+        }
+    }
+]

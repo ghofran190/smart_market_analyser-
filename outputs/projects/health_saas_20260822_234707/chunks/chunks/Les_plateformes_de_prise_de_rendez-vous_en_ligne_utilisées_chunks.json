@@ -1,0 +1,465 @@
+[
+    {
+        "chunk_id": "0741e4f4c7033752_0",
+        "content": "# Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France\n**En Île-de-France, 62 % des patients et 66 % des médecins utilisent les plateformes** **de rendez-vous médicaux en ligne**\nLa prise de rendez-vous en ligne est au premier rang des outils numériques qui bouleversent la\nrelation patient-médecin. Après avoir publié un premier état des lieux du marché en février 2017,\npuis élaboré la première charte e-RDV en 2018 à destination des éditeurs de plateformes en ligne,\nl’ **URPS médecins libéraux Ile-de-France**, qui représente les 22 000 médecins libéraux exerçant\n• Une **double enquête IFOP – URPS** sur les usages et pratiques des plateformes de\nrendez-vous en ligne chez les patients et les médecins libéraux¹;\n• La 2 édition de son **étude de marché des outils de prise de rendez-vous en ligne** pour\nLes résultats de l’enquête menée avec l’IFOP et les conclusions de l’étude de marché montrent\n1.",
+        "metadata": {
+            "chunk_id": "0741e4f4c7033752_0",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France"
+            ],
+            "section_title": "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France\n**En Île-de-France, 62 % des patients et 66 % des médecins utilisent les plateformes** **de rendez-vous médicaux en ligne**\nLa prise de rendez-vous en ligne est au premier rang des outils numériques qui bouleversent la\nrelation patient-médecin. Après avoir publié un premier état des lieux du marché en février 2017,\npuis élaboré la première charte e-RDV en 2018 à destination d",
+            "token_count": 157,
+            "character_count": 972,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "21d801bff6404c08_1",
+        "content": "**L’usage des plateformes de prise de rendez-vous se répand** chez les patients et les\nmédecins d’Île-de-France **mais le secrétariat téléphonique reste la premier moyen de** **prise de rendez-vous** : seuls 6 % des médecins utilisent une plateforme comme moyen\nexclusif de prise de rendez-vous.\n2. **Les médecins attendent** des plateformes de prise de rendez-vous qu’elles développent **de** **nouvelles fonctionnalités**;\n3. La place prise par les plateformes dans l’organisation des soins **génère quelques** **inquiétudes** chez les patients comme chez les médecins.",
+        "metadata": {
+            "chunk_id": "21d801bff6404c08_1",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France"
+            ],
+            "section_title": "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+            "heading_level": 1,
+            "chunk_type": "unstructured",
+            "content": "**L’usage des plateformes de prise de rendez-vous se répand** chez les patients et les\nmédecins d’Île-de-France **mais le secrétariat téléphonique reste la premier moyen de** **prise de rendez-vous** : seuls 6 % des médecins utilisent une plateforme comme moyen\nexclusif de prise de rendez-vous.\n2. **Les médecins attendent** des plateformes de prise de rendez-vous qu’elles développent **de** **nouvelles fonctionnalités**;\n3. La place prise par les plateformes dans l’organisation des soins **génèr",
+            "token_count": 80,
+            "character_count": 571,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fd8255d699148fd6_2",
+        "content": "## >\\> Les patients :\nParmi les patients Franciliens, 62 % d’entre eux ont recours aux plateformes de prise de rendezvous. Si l’on compare ce chiffre aux dernières données disponibles, on constate une nette\naugmentation puisqu’en 2016, **33 %** des patients Franciliens avaient recours à ce genre de service³.\nPar ailleurs le recours aux plateformes est fortement apprécié puisque **96 %** des patients utilisateurs\ndéclarent que celles-ci facilitent la prise de rendez-vous.\nEnquête URPS-IFOP menée auprès de 1000 Franciliens et 700 médecins libéraux exerçant en Ile-de-France en novembre 2018.\nEtude de marché « Les outils de prise de rendez-vous en ligne pour les médecins libéraux », 18 plateformes étudiées.\n« Les Français et leurs attentes à l’égard des médecins ». Étude menée par Opinionway pour mondocteur.",
+        "metadata": {
+            "chunk_id": "fd8255d699148fd6_2",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                ">\\> Les patients :"
+            ],
+            "section_title": ">\\> Les patients :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## >\\> Les patients :\nParmi les patients Franciliens, 62 % d’entre eux ont recours aux plateformes de prise de rendezvous. Si l’on compare ce chiffre aux dernières données disponibles, on constate une nette\naugmentation puisqu’en 2016, **33 %** des patients Franciliens avaient recours à ce genre de service³.\nPar ailleurs le recours aux plateformes est fortement apprécié puisque **96 %** des patients utilisateurs\ndéclarent que celles-ci facilitent la prise de rendez-vous.\nEnquête URPS-IFOP menée ",
+            "token_count": 126,
+            "character_count": 815,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "dfba2852250b68b4_3",
+        "content": "fr auprès de 1011 personnes,\nEnfin, il est intéressant de noter que **la connaissance du médecin reste un facteur décisif de** **choix** pour la prise de rendez-vous en ligne : **82 %** des patients franciliens choisissent en priorité un\nmédecin généraliste connu et **68 %** d’entre eux un médecin spécialiste connu.",
+        "metadata": {
+            "chunk_id": "dfba2852250b68b4_3",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                ">\\> Les patients :"
+            ],
+            "section_title": ">\\> Les patients :",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "fr auprès de 1011 personnes,\nEnfin, il est intéressant de noter que **la connaissance du médecin reste un facteur décisif de** **choix** pour la prise de rendez-vous en ligne : **82 %** des patients franciliens choisissent en priorité un\nmédecin généraliste connu et **68 %** d’entre eux un médecin spécialiste connu.",
+            "token_count": 51,
+            "character_count": 317,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fbdda9666472540d",
+        "content": "## >\\> Les médecins :\nParmi les médecins franciliens, **66 %** d’entre eux ont déjà recours aux plateformes de prise de\nrendez-vous, et **21 %** des non-utilisateurs sont susceptibles d’y recourir dans un avenir proche. Par\nailleurs le recours aux plateformes est fortement apprécié chez les médecins puisque :\n• **87 %** des médecins utilisateurs déclarent que le recours aux plateformes améliore la prise\n• **80 %** des médecins utilisateurs déclarent que la prise de rendez-vous sur internet a\nsensiblement fait baisser les appels téléphoniques ;\n• **40 %** des médecins utilisateurs ont constaté une diminution de l’absentéisme ( **33 %** ne\nconstatent pas de changement en matière de taux de présence).",
+        "metadata": {
+            "chunk_id": "fbdda9666472540d",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                ">\\> Les médecins :"
+            ],
+            "section_title": ">\\> Les médecins :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## >\\> Les médecins :\nParmi les médecins franciliens, **66 %** d’entre eux ont déjà recours aux plateformes de prise de\nrendez-vous, et **21 %** des non-utilisateurs sont susceptibles d’y recourir dans un avenir proche. Par\nailleurs le recours aux plateformes est fortement apprécié chez les médecins puisque :\n• **87 %** des médecins utilisateurs déclarent que le recours aux plateformes améliore la prise\n• **80 %** des médecins utilisateurs déclarent que la prise de rendez-vous sur internet a\nsen",
+            "token_count": 112,
+            "character_count": 707,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "35e5cc5c2c61a3db",
+        "content": "## L’EVOLUTION ATTENDUE DU MODELE TRADITIONNEL DES PLATEFORMES DE PRISE DE RENDEZ-VOUS\nAu-delà de la simple prise de rendez-vous, les médecins ont exprimé le souhait de voir intégrer de\nnouvelles fonctionnalités :",
+        "metadata": {
+            "chunk_id": "35e5cc5c2c61a3db",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                "L’EVOLUTION ATTENDUE DU MODELE TRADITIONNEL DES PLATEFORMES DE PRISE DE RENDEZ-VOUS"
+            ],
+            "section_title": "L’EVOLUTION ATTENDUE DU MODELE TRADITIONNEL DES PLATEFORMES DE PRISE DE RENDEZ-VOUS",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## L’EVOLUTION ATTENDUE DU MODELE TRADITIONNEL DES PLATEFORMES DE PRISE DE RENDEZ-VOUS\nAu-delà de la simple prise de rendez-vous, les médecins ont exprimé le souhait de voir intégrer de\nnouvelles fonctionnalités :",
+            "token_count": 32,
+            "character_count": 213,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "740546436e3a1b46",
+        "content": "## • L’intégration et la synchronisation avec les logiciels métier :\no C’est la **première** amélioration potentielle des plateformes de rendez-vous citée par\nl’ensemble des médecins ;\no Plus de **50 %** des médecins utilisateurs seraient intéressés par cette fonctionnalité.",
+        "metadata": {
+            "chunk_id": "740546436e3a1b46",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                "• L’intégration et la synchronisation avec les logiciels métier :"
+            ],
+            "section_title": "• L’intégration et la synchronisation avec les logiciels métier :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## • L’intégration et la synchronisation avec les logiciels métier :\no C’est la **première** amélioration potentielle des plateformes de rendez-vous citée par\nl’ensemble des médecins ;\no Plus de **50 %** des médecins utilisateurs seraient intéressés par cette fonctionnalité.",
+            "token_count": 40,
+            "character_count": 275,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4e4443965e4cd8fe",
+        "content": "## • Le télésecrétariat :\no **52 %** des médecins utilisateurs de plateformes seraient intéressés ;\no Cette fonctionnalité serait d’autant plus appréciée que **62 %** des patients nonutilisateurs préfèrent utiliser le téléphone pour prendre rendez-vous ;\no **La moitié des plateformes** étudiées par l’URPS proposent déjà cette fonctionnalité.",
+        "metadata": {
+            "chunk_id": "4e4443965e4cd8fe",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                "• Le télésecrétariat :"
+            ],
+            "section_title": "• Le télésecrétariat :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## • Le télésecrétariat :\no **52 %** des médecins utilisateurs de plateformes seraient intéressés ;\no Cette fonctionnalité serait d’autant plus appréciée que **62 %** des patients nonutilisateurs préfèrent utiliser le téléphone pour prendre rendez-vous ;\no **La moitié des plateformes** étudiées par l’URPS proposent déjà cette fonctionnalité.",
+            "token_count": 49,
+            "character_count": 343,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f1cc4694e0cd735c",
+        "content": "## • La téléconsultation :\no **17 %** des médecins utilisateurs de plateformes seraient intéressés et **20 %** des\nmédecins non-utilisateurs pourraient utiliser une plateforme si ce service était\nproposé. **Quatre des 18 plateformes étudiées la proposent déjà.**",
+        "metadata": {
+            "chunk_id": "f1cc4694e0cd735c",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                "• La téléconsultation :"
+            ],
+            "section_title": "• La téléconsultation :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## • La téléconsultation :\no **17 %** des médecins utilisateurs de plateformes seraient intéressés et **20 %** des\nmédecins non-utilisateurs pourraient utiliser une plateforme si ce service était\nproposé. **Quatre des 18 plateformes étudiées la proposent déjà.**",
+            "token_count": 38,
+            "character_count": 262,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "bc0155474d7e79af",
+        "content": "## • La téléexpertise :\no **11 %** des médecins utilisateurs de plateformes seraient intéressés et **17%** des\nproposé. **Une seule plateforme** propose déjà ce service.",
+        "metadata": {
+            "chunk_id": "bc0155474d7e79af",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "Les plateformes de prise de rendez-vous en ligne utilisées par la majorité des patients et des médecins d’Île-de-France",
+                "• La téléexpertise :"
+            ],
+            "section_title": "• La téléexpertise :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## • La téléexpertise :\no **11 %** des médecins utilisateurs de plateformes seraient intéressés et **17%** des\nproposé. **Une seule plateforme** propose déjà ce service.",
+            "token_count": 26,
+            "character_count": 169,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a08d41642cc4be17",
+        "content": "## Une concentration préoccupante\nDepuis 2017, le marché des plateformes de rendez-vous en ligne s’est concentré avec la fusion de\ndeux leaders du marché, Doctolib et MonDocteur en juillet 2018 puis plus récemment de Docavenue\net RDV médicaux en février 2019. Le sondage réalisé par l’IFOP pour l’URPS le confirme puisque\n**79 %** des patients et **76 %** des médecins utilisateurs ont recours aujourd’hui à Doctolib.",
+        "metadata": {
+            "chunk_id": "a08d41642cc4be17",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "LES INQUIETUDES GENEREES PAR LES PLATEFORMES DE RENDEZ-VOUS",
+                "Une concentration préoccupante"
+            ],
+            "section_title": "Une concentration préoccupante",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Une concentration préoccupante\nDepuis 2017, le marché des plateformes de rendez-vous en ligne s’est concentré avec la fusion de\ndeux leaders du marché, Doctolib et MonDocteur en juillet 2018 puis plus récemment de Docavenue\net RDV médicaux en février 2019. Le sondage réalisé par l’IFOP pour l’URPS le confirme puisque\n**79 %** des patients et **76 %** des médecins utilisateurs ont recours aujourd’hui à Doctolib.",
+            "token_count": 66,
+            "character_count": 417,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "4d7cb9929dcb7258",
+        "content": "## La confidentialité des données\nUn autre sujet d’inquiétude, connexe à la concentration du marché, est la préoccupation des patients\net des médecins quant à l’utilisation de leurs données. Ils sont **51 %** des patients et **44 %** des\nmédecins utilisateurs à percevoir des risques liés à la confidentialité des données médicales ou à\nleur exploitation à des fins commerciales.\nInterrogés dans le cadre de l’étude de marché, **les éditeurs de plateforme se sont globalement** **déclarés favorables à la création d’un label e-RDV** attestant et contrôlant, en autres, l’usage\nstrictement confidentiel des données des patients et des médecins.\nPour mémoire, l’URPS médecins libéraux IDF avait été la première en 2018 a proposé une charte\nde confiance (Charte E-RDV). Cette charte a été signée à ce jour par **15 plateformes** s’engageant\nà respecter la confidentialité des données des patients et des médecins, et à ne pas les utiliser à",
+        "metadata": {
+            "chunk_id": "4d7cb9929dcb7258",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "LES INQUIETUDES GENEREES PAR LES PLATEFORMES DE RENDEZ-VOUS",
+                "La confidentialité des données"
+            ],
+            "section_title": "La confidentialité des données",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## La confidentialité des données\nUn autre sujet d’inquiétude, connexe à la concentration du marché, est la préoccupation des patients\net des médecins quant à l’utilisation de leurs données. Ils sont **51 %** des patients et **44 %** des\nmédecins utilisateurs à percevoir des risques liés à la confidentialité des données médicales ou à\nleur exploitation à des fins commerciales.\nInterrogés dans le cadre de l’étude de marché, **les éditeurs de plateforme se sont globalement** **déclarés favorables ",
+            "token_count": 148,
+            "character_count": 937,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d1fc8ed1f791e851",
+        "content": "## À consulter :\n• Enquête URPS – IFOP _« Usage des plateformes de rendez-vous en ligne chez les médecins_ _et les patients »_ – Février 2019\n• Étude de marché URPS« Outils de prise de rendez-vous en ligne pour les médecins libéraux »\\- 2e édition - Février 2019.",
+        "metadata": {
+            "chunk_id": "d1fc8ed1f791e851",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "LES INQUIETUDES GENEREES PAR LES PLATEFORMES DE RENDEZ-VOUS",
+                "À consulter :"
+            ],
+            "section_title": "À consulter :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## À consulter :\n• Enquête URPS – IFOP _« Usage des plateformes de rendez-vous en ligne chez les médecins_ _et les patients »_ – Février 2019\n• Étude de marché URPS« Outils de prise de rendez-vous en ligne pour les médecins libéraux »\\- 2e édition - Février 2019.",
+            "token_count": 49,
+            "character_count": 263,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b10a67708ae2c5c2",
+        "content": "## À propos de l’URPS médecins libéraux Ile-de-France\nL’Union régionale des professionnels de santé (URPS) médecins libéraux Ile-de-France représente\nles 22 000 médecins libéraux d’Ile-de-France. Constituée de 80 médecins libéraux élus par leurs\npairs pour cinq ans, elle a pour but de contribuer à l’organisation et à l’évolution de l’offre de santé\nau niveau régional. C’est une association loi 1901 créée par la loi du 21 juillet 2009 « portant réforme\nde l’hôpital et relative aux patients, à la santé et aux territoires ».",
+        "metadata": {
+            "chunk_id": "b10a67708ae2c5c2",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "LES INQUIETUDES GENEREES PAR LES PLATEFORMES DE RENDEZ-VOUS",
+                "À propos de l’URPS médecins libéraux Ile-de-France"
+            ],
+            "section_title": "À propos de l’URPS médecins libéraux Ile-de-France",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## À propos de l’URPS médecins libéraux Ile-de-France\nL’Union régionale des professionnels de santé (URPS) médecins libéraux Ile-de-France représente\nles 22 000 médecins libéraux d’Ile-de-France. Constituée de 80 médecins libéraux élus par leurs\npairs pour cinq ans, elle a pour but de contribuer à l’organisation et à l’évolution de l’offre de santé\nau niveau régional. C’est une association loi 1901 créée par la loi du 21 juillet 2009 « portant réforme\nde l’hôpital et relative aux patients, à la ",
+            "token_count": 84,
+            "character_count": 527,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d1d819b85543ea21",
+        "content": "## Contacts presse :\nwww.soignereniledefrance.org\n**Sylvie Courboulay – URPS médecins libéraux Ile-de-France** sylvie.courboulay@urps-med-idf.org \\- 01 40 64 14 78\n**Thomas de Climens / Quentin Hua – DGM conseil**\nthomasdeclimens@dgm-conseil.fr / quentin.hua@dgm-conseil.fr \\- 01 40 70 11 89",
+        "metadata": {
+            "chunk_id": "d1d819b85543ea21",
+            "parent_doc": "Les plateformes de prise de rendez-vous en ligne utilisées ...",
+            "source_url": "https://www.urps-med-idf.org/wp-content/uploads/2019/03/URPS-CP-Usages-et-Pratiques-e-RDV.pdf",
+            "section": "Analyse de la demande et pain points",
+            "doc_title": "",
+            "query_context": "pain points utilisateurs prise de rendez-vous médical en ligne France études 2023",
+            "question": "Comment est la demande actuelle et les segments de clientèle ?",
+            "angle": "difficultés et besoins utilisateurs",
+            "heading_path": [
+                "LES INQUIETUDES GENEREES PAR LES PLATEFORMES DE RENDEZ-VOUS",
+                "Contacts presse :"
+            ],
+            "section_title": "Contacts presse :",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Contacts presse :\nwww.soignereniledefrance.org\n**Sylvie Courboulay – URPS médecins libéraux Ile-de-France** sylvie.courboulay@urps-med-idf.org \\- 01 40 64 14 78\n**Thomas de Climens / Quentin Hua – DGM conseil**\nthomasdeclimens@dgm-conseil.fr / quentin.hua@dgm-conseil.fr \\- 01 40 70 11 89",
+            "token_count": 37,
+            "character_count": 291,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:19:08.883943+00:00",
+            "extra": {}
+        }
+    }
+]

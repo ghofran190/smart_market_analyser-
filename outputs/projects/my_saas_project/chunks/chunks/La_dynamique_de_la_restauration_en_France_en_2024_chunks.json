@@ -1,0 +1,650 @@
+[
+    {
+        "chunk_id": "9e3afe1d08127bbd_0",
+        "content": "## Résumé du rapport\n**Les clients se rendent moins souvent au restaurant.** Les\npersonnes interrogées ont déclaré fréquenter moins\nsouvent les restaurants, toutes catégories confondues. La\nrestauration rapide a connu la plus faible baisse de\nfréquentation, probablement en raison d’un rapport qualité-\nprix attractif. De plus, **parmi les loisirs auxquels les** **Français déclarer renoncer le plus, les restaurant sont en** **pole position**, devant les cinémas.\n**Les clients dépensent moins.** 2 personnes sur 5 déclarent\ndépenser moins au restaurant que l'année dernière. Pour y\nparvenir, les clients optent pour des plats plus abordables.\n**Une opportunité de stimuler les ventes hors restaurant.** La\ngénération Z et les familles commandent plus fréquemment\nvia les canaux de vente « à emporter » et « en livraison ».",
+        "metadata": {
+            "chunk_id": "9e3afe1d08127bbd_0",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "France en 2024",
+                "Résumé du rapport"
+            ],
+            "section_title": "Résumé du rapport",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Résumé du rapport\n**Les clients se rendent moins souvent au restaurant.** Les\npersonnes interrogées ont déclaré fréquenter moins\nsouvent les restaurants, toutes catégories confondues. La\nrestauration rapide a connu la plus faible baisse de\nfréquentation, probablement en raison d’un rapport qualité-\nprix attractif. De plus, **parmi les loisirs auxquels les** **Français déclarer renoncer le plus, les restaurant sont en** **pole position**, devant les cinémas.\n**Les clients dépensent moins.** 2 ",
+            "token_count": 123,
+            "character_count": 824,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "daa5d10c5c1e22cb_1",
+        "content": "RMS recommande aux établissements de proposer des\npromotions exclusives sur leurs applications dédiées, des\noffres packagées et des produits à prix avantageux adaptés\nà toute la famille sur ces canaux de distribution.",
+        "metadata": {
+            "chunk_id": "daa5d10c5c1e22cb_1",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "France en 2024",
+                "Résumé du rapport"
+            ],
+            "section_title": "Résumé du rapport",
+            "heading_level": 2,
+            "chunk_type": "unstructured",
+            "content": "RMS recommande aux établissements de proposer des\npromotions exclusives sur leurs applications dédiées, des\noffres packagées et des produits à prix avantageux adaptés\nà toute la famille sur ces canaux de distribution.",
+            "token_count": 32,
+            "character_count": 217,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "eb92832213413ec2",
+        "content": "# Dans tous les types de restauration, les répondants sont plus nombreux à déclarer une baisse de fréquentation\nAu cours du dernier mois, avez-vous consommé plus ou moins souvent dans les types de restauration suivants ?\nPart des personnes interrogées qui dînent \"plus\" moins la part des répondants qui ont répondu \"moins\".\nQ1 2022 n307 \\| Q3 2022 n301 \\| Q1 2023 n469 \\| Q3 2023 n433 \\| Q1 2024 n408\n**Au 1er trimestre 2024, les répondants sont plus** **nombreux à fréquenter les restaurants qu'au** **3ème trimestre 2023. Bien que beaucoup** **continuent de réduire leur venue en restaurant,** **cela suggère une possible baisse moins sévère** **de la fréquentation par rapport à 2023.**\n**La restauration rapide a connu la plus faible** **baisse de fréquentation, ce qui suggère que les** **clients recherchent des options plus abordables.**",
+        "metadata": {
+            "chunk_id": "eb92832213413ec2",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Dans tous les types de restauration, les répondants sont plus nombreux à déclarer une baisse de fréquentation"
+            ],
+            "section_title": "Dans tous les types de restauration, les répondants sont plus nombreux à déclarer une baisse de fréquentation",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Dans tous les types de restauration, les répondants sont plus nombreux à déclarer une baisse de fréquentation\nAu cours du dernier mois, avez-vous consommé plus ou moins souvent dans les types de restauration suivants ?\nPart des personnes interrogées qui dînent \"plus\" moins la part des répondants qui ont répondu \"moins\".\nQ1 2022 n307 \\| Q3 2022 n301 \\| Q1 2023 n469 \\| Q3 2023 n433 \\| Q1 2024 n408\n**Au 1er trimestre 2024, les répondants sont plus** **nombreux à fréquenter les restaurants qu'au**",
+            "token_count": 134,
+            "character_count": 844,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "c17a11d7d73f3400",
+        "content": "## Plus de 90% des personnes interrogées déclarent consommer sur place au moins une fois par semaine\nPart des personnes interrogées déclarant se rendre au moins une fois par semaine dans un restaurant, par canal de vente\n**Consommer sur place au moins une fois par** **semaine est une pratique courante pour la** **vaste majorité des personnes interrogées.**\n**La part de livraison reste également élevée :** **1 personne sur 2 commande au moins une** **fois par semaine via ce canal.**",
+        "metadata": {
+            "chunk_id": "c17a11d7d73f3400",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Dans tous les types de restauration, les répondants sont plus nombreux à déclarer une baisse de fréquentation",
+                "Plus de 90% des personnes interrogées déclarent consommer sur place au moins une fois par semaine"
+            ],
+            "section_title": "Plus de 90% des personnes interrogées déclarent consommer sur place au moins une fois par semaine",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Plus de 90% des personnes interrogées déclarent consommer sur place au moins une fois par semaine\nPart des personnes interrogées déclarant se rendre au moins une fois par semaine dans un restaurant, par canal de vente\n**Consommer sur place au moins une fois par** **semaine est une pratique courante pour la** **vaste majorité des personnes interrogées.**\n**La part de livraison reste également élevée :** **1 personne sur 2 commande au moins une** **fois par semaine via ce canal.**",
+            "token_count": 79,
+            "character_count": 486,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9199ca9601827745",
+        "content": "# À l'avenir, tous les canaux de revenus pourraient connaître de nouvelles baisses\nÀ l'avenir, à quelle fréquence prévoyez-vous de passer commande auprès des différents canaux suivants ?\nPart des personnes interrogées qui prévoient de réduire leur fréquence de commande.\n**La fréquentation sur place est censée être** **la moins impactée à l'avenir, alors que la** **livraison pourrait connaître une baisse** **significative, peut-être en raison des frais** **de service et de livraison.**",
+        "metadata": {
+            "chunk_id": "9199ca9601827745",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "À l'avenir, tous les canaux de revenus pourraient connaître de nouvelles baisses"
+            ],
+            "section_title": "À l'avenir, tous les canaux de revenus pourraient connaître de nouvelles baisses",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# À l'avenir, tous les canaux de revenus pourraient connaître de nouvelles baisses\nÀ l'avenir, à quelle fréquence prévoyez-vous de passer commande auprès des différents canaux suivants ?\nPart des personnes interrogées qui prévoient de réduire leur fréquence de commande.\n**La fréquentation sur place est censée être** **la moins impactée à l'avenir, alors que la** **livraison pourrait connaître une baisse** **significative, peut-être en raison des frais** **de service et de livraison.**",
+            "token_count": 71,
+            "character_count": 489,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0572979cbd637546",
+        "content": "## 3 répondants sur 4 estiment que les prix des restaurants ont augmenté\nPourcentage de répondants qui estiment que les prix des restaurants et des produits alimentaires sont « plus élevés » ou «\nbeaucoup plus élevés » qu'il y a un mois\n**Depuis le début de l'année 2022, plus de** **¾ des personnes interrogées ont déclaré** **payer leurs produits alimentaires plus cher,** **ce qui reflète une perception générale de** **la hausse des prix.**",
+        "metadata": {
+            "chunk_id": "0572979cbd637546",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "À l'avenir, tous les canaux de revenus pourraient connaître de nouvelles baisses",
+                "3 répondants sur 4 estiment que les prix des restaurants ont augmenté"
+            ],
+            "section_title": "3 répondants sur 4 estiment que les prix des restaurants ont augmenté",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 3 répondants sur 4 estiment que les prix des restaurants ont augmenté\nPourcentage de répondants qui estiment que les prix des restaurants et des produits alimentaires sont « plus élevés » ou «\nbeaucoup plus élevés » qu'il y a un mois\n**Depuis le début de l'année 2022, plus de** **¾ des personnes interrogées ont déclaré** **payer leurs produits alimentaires plus cher,** **ce qui reflète une perception générale de** **la hausse des prix.**",
+            "token_count": 74,
+            "character_count": 444,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1adb9623231d4d0e",
+        "content": "## En réalité, l’inflation des produits alimentaires est légèrement en deça de celle de la restauration\n**Inflation annuelle des prix des produits alimentaires et des restaurants**",
+        "metadata": {
+            "chunk_id": "1adb9623231d4d0e",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "En réalité, l’inflation des produits alimentaires est légèrement en deça de celle de la restauration"
+            ],
+            "section_title": "En réalité, l’inflation des produits alimentaires est légèrement en deça de celle de la restauration",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## En réalité, l’inflation des produits alimentaires est légèrement en deça de celle de la restauration\n**Inflation annuelle des prix des produits alimentaires et des restaurants**",
+            "token_count": 26,
+            "character_count": 180,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f6c6ced25b42bea9",
+        "content": "## 27% des répondants estiment obtenir un meilleur rapport qualité-prix de la part des restaurants\nAu cours du dernier mois, avez-vous le sentiment d'en avoir plus ou moins pour votre argent au restaurant ?",
+        "metadata": {
+            "chunk_id": "f6c6ced25b42bea9",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "27% des répondants estiment obtenir un meilleur rapport qualité-prix de la part des restaurants"
+            ],
+            "section_title": "27% des répondants estiment obtenir un meilleur rapport qualité-prix de la part des restaurants",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 27% des répondants estiment obtenir un meilleur rapport qualité-prix de la part des restaurants\nAu cours du dernier mois, avez-vous le sentiment d'en avoir plus ou moins pour votre argent au restaurant ?",
+            "token_count": 34,
+            "character_count": 206,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f528b6194535963c_8",
+        "content": "## Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants\nPar rapport à l'année dernière, la part de mon revenu disponible que je consacre aux restaurants est...\nQ3 2022 n301 \\| Q1 2023 n469 \\| Q3 2023 n433 \\| Q1 2024 n408\n| | Enseignement n°7 Comment dépensez-vous moins au restaurant ?",
+        "metadata": {
+            "chunk_id": "f528b6194535963c_8",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants"
+            ],
+            "section_title": "Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants\nPar rapport à l'année dernière, la part de mon revenu disponible que je consacre aux restaurants est...\nQ3 2022 n301 \\| Q1 2023 n469 \\| Q3 2023 n433 \\| Q1 2024 n408\n| | Enseignement n°7 Comment dépensez-vous moins au restaurant ?",
+            "token_count": 60,
+            "character_count": 348,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d3e5b3e2afc5d58d_9",
+        "content": "| Les clients qui dépensent moins se tournent vers des plats à meilleur rapport qualité-prix | | |\n| --- | --- | --- | --- | --- |\n| | J'opte pour des plats à meilleur rapport qualité-prix Je commande volontairement moins de plats Je commande moins souvent au restaurant Je choisis des restaurants moins chers Je commande des produits moins chers J'utilise plus de coupons et d'offres Je ne me fais plus livrer pour éviter les frais additionnels Les restaurants que je fréquentais ont fermé Je commande maintenant pour plus de personnes | 13% 12% 7% 7% | 58% 43% 40% 38% 29% | Les clients réduisent également leurs dépenses en commandant intentionnellement moins de produits et en fréquentant moins souvent les restaurants. 10 |\n| | Enseignement n°8 | | | | |\n| --- | --- | --- | --- | --- | --- |\n| | Comment dépensez-vous plus au restaurant ?",
+        "metadata": {
+            "chunk_id": "d3e5b3e2afc5d58d_9",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants"
+            ],
+            "section_title": "Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "| Les clients qui dépensent moins se tournent vers des plats à meilleur rapport qualité-prix | | |\n| --- | --- | --- | --- | --- |\n| | J'opte pour des plats à meilleur rapport qualité-prix Je commande volontairement moins de plats Je commande moins souvent au restaurant Je choisis des restaurants moins chers Je commande des produits moins chers J'utilise plus de coupons et d'offres Je ne me fais plus livrer pour éviter les frais additionnels Les restaurants que je fréquentais ont fermé Je comman",
+            "token_count": 157,
+            "character_count": 844,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "509fd22f8a9be15c_10",
+        "content": "Je commande la même chose mais les prix sont plus élevés Je commande plus souvent au restaurant Il y a plus de restaurants dans mon secteur Les restaurants sont ouverts plus longtemps Je choisis des restaurants plus chers Je paie plus de frais de service et de livraison Je commande pour plus de personnes J'utilise moins de coupons et d'offres Je commande des articles plus chers | cette augmentation par la hausse des prix 12% 9% 9% 9% | Les clients qui dépensent plus au restaurant expliquent 22% 16% | 32% 30% | 43% Un tiers des répondants dépensent plus car ils commandent plus souvent au restaurant et du fait de l'ouverture de nouveaux restaurants dans leur secteur.",
+        "metadata": {
+            "chunk_id": "509fd22f8a9be15c_10",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants"
+            ],
+            "section_title": "Pourtant, 2 personnes sur 5 déclarent consacrer une part moins importante de leur revenu disponible aux restaurants",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Je commande la même chose mais les prix sont plus élevés Je commande plus souvent au restaurant Il y a plus de restaurants dans mon secteur Les restaurants sont ouverts plus longtemps Je choisis des restaurants plus chers Je paie plus de frais de service et de livraison Je commande pour plus de personnes J'utilise moins de coupons et d'offres Je commande des articles plus chers | cette augmentation par la hausse des prix 12% 9% 9% 9% | Les clients qui dépensent plus au restaurant expliquent 22% ",
+            "token_count": 118,
+            "character_count": 673,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "85eef9197819fe53",
+        "content": "## Quels éléments les clients privilégient-ils lorsqu'ils sortent au restaurant ?\n**Les répondants** **plébiscitent la** **qualité de la** **nourriture et du** **service lorsqu’ils** **vont au restaurant**\nEn supposant que vous en avez pour votre argent, quels sont les facteurs les\nplus et les moins importants lorsque vous mangez au restaurant ?\n| | Le moins important | | Le plus important |\n| --- | --- | --- | --- |\n| La qualité des aliments | | | |\n| Qualité de service | | | |\n| Précision des | | | |\n| Offres de réduction | | | |\n| Collecte de points de | | | |",
+        "metadata": {
+            "chunk_id": "85eef9197819fe53",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "Quels éléments les clients privilégient-ils lorsqu'ils sortent au restaurant ?"
+            ],
+            "section_title": "Quels éléments les clients privilégient-ils lorsqu'ils sortent au restaurant ?",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Quels éléments les clients privilégient-ils lorsqu'ils sortent au restaurant ?\n**Les répondants** **plébiscitent la** **qualité de la** **nourriture et du** **service lorsqu’ils** **vont au restaurant**\nEn supposant que vous en avez pour votre argent, quels sont les facteurs les\nplus et les moins importants lorsque vous mangez au restaurant ?\n| | Le moins important | | Le plus important |\n| --- | --- | --- | --- |\n| La qualité des aliments | | | |\n| Qualité de service | | | |\n| Précision des ",
+            "token_count": 112,
+            "character_count": 569,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "f6cec73b28be5106",
+        "content": "## La majorité des personnes interrogées sont prêtes à payer plus cher pour des plats faits maison et une atmosphère chaleureuse\nQuels sont les facteurs pour lesquels vous êtes prêt à payer plus cher lorsque vous commandez dans un restaurant ?",
+        "metadata": {
+            "chunk_id": "f6cec73b28be5106",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "La majorité des personnes interrogées sont prêtes à payer plus cher pour des plats faits maison et une atmosphère chaleureuse"
+            ],
+            "section_title": "La majorité des personnes interrogées sont prêtes à payer plus cher pour des plats faits maison et une atmosphère chaleureuse",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## La majorité des personnes interrogées sont prêtes à payer plus cher pour des plats faits maison et une atmosphère chaleureuse\nQuels sont les facteurs pour lesquels vous êtes prêt à payer plus cher lorsque vous commandez dans un restaurant ?",
+            "token_count": 41,
+            "character_count": 243,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "29650a30ef000231",
+        "content": "## Génération Z\n**84 % passent au moins une** **commande à emporter par semaine.**\n**69 % déclarent avoir passé au moins** **une commande en livraison par** **semaine.**\n**27 % déclarent commander au moins** **une fois par semaine via un drive.**",
+        "metadata": {
+            "chunk_id": "29650a30ef000231",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "Génération Z"
+            ],
+            "section_title": "Génération Z",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Génération Z\n**84 % passent au moins une** **commande à emporter par semaine.**\n**69 % déclarent avoir passé au moins** **une commande en livraison par** **semaine.**\n**27 % déclarent commander au moins** **une fois par semaine via un drive.**",
+            "token_count": 40,
+            "character_count": 246,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "1bcbfd8ae1ab3e66",
+        "content": "## Ménages avec enfants\n**67 % déclarent passer au moins une** **commande hebdomadaire en livraison.**",
+        "metadata": {
+            "chunk_id": "1bcbfd8ae1ab3e66",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Enseignement n°4 bis",
+                "Ménages avec enfants"
+            ],
+            "section_title": "Ménages avec enfants",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Ménages avec enfants\n**67 % déclarent passer au moins une** **commande hebdomadaire en livraison.**",
+            "token_count": 15,
+            "character_count": 102,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0b9790694895d57a",
+        "content": "# 61% des personnes interrogées ont réduit leurs loisirs au cours du dernier trimestre\nAu cours du dernier trimestre, avez-vous participé à plus ou moins d'activités de loisirs en dehors de votre domicile ?\n| | | | | Interrogées sur leurs arbitrages, 2 personnes sur 5 déclarent aller moins souvent au restaurant et au cinéma | |\n| | | Quelles sont les activités de loisirs auxquelles vous avez moins participé ? Restaurants Cinémas Concerts Parcs d'attractions Théâtres Événements sportifs Festivals et événements culturels Musées et galeries d’art Spectacles humoristiques Jeux et divertissements interactifs | 11% 9% | 22% 21% 20% 18% 16% 16% | 43% 41% 18 |",
+        "metadata": {
+            "chunk_id": "0b9790694895d57a",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "61% des personnes interrogées ont réduit leurs loisirs au cours du dernier trimestre"
+            ],
+            "section_title": "61% des personnes interrogées ont réduit leurs loisirs au cours du dernier trimestre",
+            "heading_level": 1,
+            "chunk_type": "table",
+            "content": "# 61% des personnes interrogées ont réduit leurs loisirs au cours du dernier trimestre\nAu cours du dernier trimestre, avez-vous participé à plus ou moins d'activités de loisirs en dehors de votre domicile ?\n| | | | | Interrogées sur leurs arbitrages, 2 personnes sur 5 déclarent aller moins souvent au restaurant et au cinéma | |\n| | | Quelles sont les activités de loisirs auxquelles vous avez moins participé ? Restaurants Cinémas Concerts Parcs d'attractions Théâtres Événements sportifs Festivals",
+            "token_count": 110,
+            "character_count": 660,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a7b07516714b352b",
+        "content": "## Interrogés sur les activités qu’ils pratiquent le plus souvent, 1 répondant sur 3 a déclaré aller plus fréquemment à des spectacles humouristiques\nQuelles sont les activités de loisirs auxquelles vous avez le plus participé ?",
+        "metadata": {
+            "chunk_id": "a7b07516714b352b",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "61% des personnes interrogées ont réduit leurs loisirs au cours du dernier trimestre",
+                "Interrogés sur les activités qu’ils pratiquent le plus souvent, 1 répondant sur 3 a déclaré aller plus fréquemment à des spectacles humouristiques"
+            ],
+            "section_title": "Interrogés sur les activités qu’ils pratiquent le plus souvent, 1 répondant sur 3 a déclaré aller plus fréquemment à des spectacles humouristiques",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Interrogés sur les activités qu’ils pratiquent le plus souvent, 1 répondant sur 3 a déclaré aller plus fréquemment à des spectacles humouristiques\nQuelles sont les activités de loisirs auxquelles vous avez le plus participé ?",
+            "token_count": 36,
+            "character_count": 228,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9e12deeeec55c5ab",
+        "content": "## Fréquentation des restaurants\n\\| \\-\\-\\- \\| \\-\\-\\- \\| \\-\\-\\- \\|\n\\| Commandent au restaurant\npar semaine \\| Commandent au restaurant",
+        "metadata": {
+            "chunk_id": "9e12deeeec55c5ab",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "61% des personnes interrogées ont réduit leurs loisirs au cours du dernier trimestre",
+                "Fréquentation des restaurants"
+            ],
+            "section_title": "Fréquentation des restaurants",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "## Fréquentation des restaurants\n\\| \\-\\-\\- \\| \\-\\-\\- \\| \\-\\-\\- \\|\n\\| Commandent au restaurant\npar semaine \\| Commandent au restaurant",
+            "token_count": 21,
+            "character_count": 133,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d318a588cfec7cb4",
+        "content": "## 14 au 19 mars 2024. Salariés 54%\n**33%** Moins de 29 999€ Retraités **26%** De 30 000€ à 49 000€ **37%** Indépendants **7%** Etudiants **7%** Plus de 50 000€ **25%** Sans emploi **4%** Ne se prononce pas **4%** Personne au foyer **1%** Dans l’incapacité de travailler **1%**",
+        "metadata": {
+            "chunk_id": "d318a588cfec7cb4",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Répartition des répondants",
+                "14 au 19 mars 2024. Salariés 54%"
+            ],
+            "section_title": "14 au 19 mars 2024. Salariés 54%",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## 14 au 19 mars 2024. Salariés 54%\n**33%** Moins de 29 999€ Retraités **26%** De 30 000€ à 49 000€ **37%** Indépendants **7%** Etudiants **7%** Plus de 50 000€ **25%** Sans emploi **4%** Ne se prononce pas **4%** Personne au foyer **1%** Dans l’incapacité de travailler **1%**",
+            "token_count": 48,
+            "character_count": 277,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8c9b27833509937d",
+        "content": "### Les enfants\nDe moins de 16 ans dans le ménage\n**3+** + **3%** **2 11%** **17%** Sans enfant **None 69%**",
+        "metadata": {
+            "chunk_id": "8c9b27833509937d",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Répartition des répondants",
+                "14 au 19 mars 2024. Salariés 54%",
+                "Les enfants"
+            ],
+            "section_title": "Les enfants",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Les enfants\nDe moins de 16 ans dans le ménage\n**3+** + **3%** **2 11%** **17%** Sans enfant **None 69%**",
+            "token_count": 21,
+            "character_count": 108,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "96d0e5d8225e25da",
+        "content": "# Nous augmentons la marge des chaînes de restauration et d’hôtellerie depuis 30 ans.\nNous aidons les dirigeants et responsables financiers de\nl'industrie de la restauration à relever les défis de la\nrentabilité. Notre approche basée sur les données pour\nmarques emblématiques et les concepts à venir dans plus de\n40 pays. Nous comptons actuellement plus de 100 000\nrestaurants comme clients.\n**Faites-en plus avec vos données. Rencontrons-nous dès** **aujourd’hui !**\nVisitez revenuemanage.com\nEnvoyez-nous un courriel à info@revenuemanage.com\nOu appelez l'un de nos cinq bureaux dans le monde.\nEurope/Londres: +44 (0) 20 3948 1871\nAmérique du Nord: +1 813 277-0034\nEurope/Paris: +33 (0) 1-80-96-47-00\nAsie/Singapour: +65 6807 0650\nNous sommes prêts à vous aider.\nAsie/Tokyo: +81 (03) 5326-3022",
+        "metadata": {
+            "chunk_id": "96d0e5d8225e25da",
+            "parent_doc": "La dynamique de la restauration en France en 2024",
+            "source_url": "https://www.revenuemanage.com/wp-content/uploads/2024/04/Q1-24-RMS-RestaurantConsumers-FR.pdf",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Nous augmentons la marge des chaînes de restauration et d’hôtellerie depuis 30 ans."
+            ],
+            "section_title": "Nous augmentons la marge des chaînes de restauration et d’hôtellerie depuis 30 ans.",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Nous augmentons la marge des chaînes de restauration et d’hôtellerie depuis 30 ans.\nNous aidons les dirigeants et responsables financiers de\nl'industrie de la restauration à relever les défis de la\nrentabilité. Notre approche basée sur les données pour\nmarques emblématiques et les concepts à venir dans plus de\n40 pays. Nous comptons actuellement plus de 100 000\nrestaurants comme clients.\n**Faites-en plus avec vos données. Rencontrons-nous dès** **aujourd’hui !**\nVisitez revenuemanage.com\nEnvoy",
+            "token_count": 118,
+            "character_count": 795,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:06.669294+00:00",
+            "extra": {}
+        }
+    }
+]

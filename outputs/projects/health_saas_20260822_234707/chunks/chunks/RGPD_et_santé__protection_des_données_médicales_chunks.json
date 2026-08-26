@@ -1,0 +1,486 @@
+[
+    {
+        "chunk_id": "77d7288e2a0d3cee",
+        "content": "Les données de santé bénéficient du niveau de protection le plus élevé sous le RGPD. L’Art. 9(1) RGPD interdit par principe leur traitement, sauf exceptions limitativement énumérées. La CNIL a sanctionné Doctissimo de **380 000 euros** (Délibération n° SAN-2023-006, 11 mai 2023) pour des manquements au consentement et à la conservation des données de santé collectées via des questionnaires en ligne. Ce guide détaille le cadre juridique applicable aux données médicales et les obligations concrètes pour les acteurs de santé.",
+        "metadata": {
+            "chunk_id": "77d7288e2a0d3cee",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Les données de santé bénéficient du niveau de protection le plus élevé sous le RGPD. L’Art. 9(1) RGPD interdit par principe leur traitement, sauf exceptions limitativement énumérées. La CNIL a sanctionné Doctissimo de **380 000 euros** (Délibération n° SAN-2023-006, 11 mai 2023) pour des manquements au consentement et à la conservation des données de santé collectées via des questionnaires en ligne. Ce guide détaille le cadre juridique applicable aux données médicales et les obligations concrète",
+            "token_count": 80,
+            "character_count": 528,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "372d978763a972aa",
+        "content": "### Points Clés\n- Les données de santé sont des **données sensibles** dont le traitement est interdit par principe (Art. 9(1) RGPD), sauf exceptions (Art. 9(2) RGPD).\n- L’hébergement de données de santé doit être réalisé chez un **hébergeur certifié HDS** (Art. L.1111-8 du Code de la santé publique).\n- Le consentement du patient n’est **pas toujours la base légale appropriée** pour les soins ; l’Art. 9(2)(h) RGPD prévoit une exception spécifique pour les finalités médicales.\n- La recherche médicale utilisant des données personnelles nécessite une **autorisation CNIL** ou une conformité à un référentiel (méthodologies de référence MR).",
+        "metadata": {
+            "chunk_id": "372d978763a972aa",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Points Clés"
+            ],
+            "section_title": "Points Clés",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Points Clés\n- Les données de santé sont des **données sensibles** dont le traitement est interdit par principe (Art. 9(1) RGPD), sauf exceptions (Art. 9(2) RGPD).\n- L’hébergement de données de santé doit être réalisé chez un **hébergeur certifié HDS** (Art. L.1111-8 du Code de la santé publique).\n- Le consentement du patient n’est **pas toujours la base légale appropriée** pour les soins ; l’Art. 9(2)(h) RGPD prévoit une exception spécifique pour les finalités médicales.\n- La recherche médic",
+            "token_count": 98,
+            "character_count": 642,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "fe1740e0d7d352d2_2",
+        "content": "## Qu’est-ce qu’une donnée de santé au sens du RGPD ?\nL’ Art. 4(15) RGPD définit les données de santé comme les données à caractère personnel relatives à la santé physique ou mentale d’une personne, y compris la prestation de services de soins de santé, qui révèlent des informations sur l’état de santé de cette personne.\nCette définition est large et couvre :\n- Les données médicales au sens strict : diagnostics, prescriptions, résultats d’analyses, imagerie médicale, comptes rendus opératoires.\n- Les données collectées lors de l’inscription ou de l’admission dans un établissement de santé.\n- Les données issues de dispositifs médicaux connectés (glycémie, tension, rythme cardiaque).\n- Les données de remboursement de soins (CPAM, mutuelles) qui révèlent indirectement l’état de santé.\n- Les données de bien-être lorsqu’elles sont croisées avec d’autres informations permettant d’en déduire un état de santé.",
+        "metadata": {
+            "chunk_id": "fe1740e0d7d352d2_2",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Qu’est-ce qu’une donnée de santé au sens du RGPD ?"
+            ],
+            "section_title": "Qu’est-ce qu’une donnée de santé au sens du RGPD ?",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Qu’est-ce qu’une donnée de santé au sens du RGPD ?\nL’ Art. 4(15) RGPD définit les données de santé comme les données à caractère personnel relatives à la santé physique ou mentale d’une personne, y compris la prestation de services de soins de santé, qui révèlent des informations sur l’état de santé de cette personne.\nCette définition est large et couvre :\n- Les données médicales au sens strict : diagnostics, prescriptions, résultats d’analyses, imagerie médicale, comptes rendus opératoires.\n",
+            "token_count": 140,
+            "character_count": 915,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0e687b5112a28e5b_3",
+        "content": "Le considérant 35 du RGPD précise que cette catégorie inclut “tout numéro, symbole ou code attribué à une personne physique pour l’identifier de manière univoque à des fins de santé”. Le numéro de sécurité sociale (NIR) est donc une donnée de santé lorsqu’il est utilisé dans un contexte médical.",
+        "metadata": {
+            "chunk_id": "0e687b5112a28e5b_3",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Qu’est-ce qu’une donnée de santé au sens du RGPD ?"
+            ],
+            "section_title": "Qu’est-ce qu’une donnée de santé au sens du RGPD ?",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Le considérant 35 du RGPD précise que cette catégorie inclut “tout numéro, symbole ou code attribué à une personne physique pour l’identifier de manière univoque à des fins de santé”. Le numéro de sécurité sociale (NIR) est donc une donnée de santé lorsqu’il est utilisé dans un contexte médical.",
+            "token_count": 49,
+            "character_count": 296,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "80e53087d0e6056b_4",
+        "content": "## Bases légales pour le traitement des données de santé\nL’Art. 9(2) RGPD prévoit dix exceptions à l’interdiction de traitement des données sensibles. Dans le domaine de la santé, trois sont principalement mobilisées.\n**Art. 9(2)(h) : finalités médicales.** Cette exception couvre les traitements nécessaires aux fins de la médecine préventive ou du travail, du diagnostic médical, de la prise en charge sanitaire ou sociale, ou de la gestion des systèmes de santé. C’est la base la plus courante pour les professionnels de santé dans le cadre du soin — médecins, mais aussi pharmaciens d’officine lorsqu’ils traitent ordonnances et dossier pharmaceutique. Elle n’exige pas le consentement du patient mais impose que le traitement soit effectué par un professionnel de santé soumis au secret professionnel.\n**Art. 9(2)(a) : consentement explicite.",
+        "metadata": {
+            "chunk_id": "80e53087d0e6056b_4",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Bases légales pour le traitement des données de santé"
+            ],
+            "section_title": "Bases légales pour le traitement des données de santé",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Bases légales pour le traitement des données de santé\nL’Art. 9(2) RGPD prévoit dix exceptions à l’interdiction de traitement des données sensibles. Dans le domaine de la santé, trois sont principalement mobilisées.\n**Art. 9(2)(h) : finalités médicales.** Cette exception couvre les traitements nécessaires aux fins de la médecine préventive ou du travail, du diagnostic médical, de la prise en charge sanitaire ou sociale, ou de la gestion des systèmes de santé. C’est la base la plus courante pou",
+            "token_count": 128,
+            "character_count": 847,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "a7d71af86cf4c0f7_5",
+        "content": "** Le consentement est requis lorsque le traitement dépasse le cadre du soin : participation à un programme de recherche, transmission de données à des fins commerciales, inscription à une application de télémédecine. Le consentement doit être **explicite** (et non simplement “univoque” comme pour l’Art. 6) : il faut une déclaration ou un acte positif clair.\n**Art. 9(2)(j) : recherche scientifique.** Les traitements à des fins de recherche scientifique ou historique, ou statistiques, peuvent être réalisés sous conditions : garanties appropriées, conformité au droit national (en France, loi Informatique et Libertés, Art. 66 et suivants).\nIl ne suffit pas de remplir une condition de l’Art. 9(2) : une base légale de l’Art. 6 RGPD doit également être identifiée pour chaque traitement.",
+        "metadata": {
+            "chunk_id": "a7d71af86cf4c0f7_5",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Bases légales pour le traitement des données de santé"
+            ],
+            "section_title": "Bases légales pour le traitement des données de santé",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "** Le consentement est requis lorsque le traitement dépasse le cadre du soin : participation à un programme de recherche, transmission de données à des fins commerciales, inscription à une application de télémédecine. Le consentement doit être **explicite** (et non simplement “univoque” comme pour l’Art. 6) : il faut une déclaration ou un acte positif clair.\n**Art. 9(2)(j) : recherche scientifique.** Les traitements à des fins de recherche scientifique ou historique, ou statistiques, peuvent êtr",
+            "token_count": 121,
+            "character_count": 791,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "667f92f9aed27b08_6",
+        "content": "## Hébergement des données de santé : la certification HDS\nL’Art. L.1111-8 du Code de la santé publique impose que l’hébergement de données de santé à caractère personnel soit réalisé par un prestataire **certifié HDS** (Hébergeur de Données de Santé).\nLa certification HDS, délivrée par un organisme accrédité par le COFRAC, atteste que l’hébergeur respecte un référentiel de sécurité basé sur la norme ISO 27001, complétée d’exigences spécifiques au secteur de la santé. Elle couvre deux périmètres :\n- **Hébergeur d’infrastructure physique** : mise à disposition de locaux, alimentation électrique, climatisation.\n- **Hébergeur infogérant** : administration, exploitation, sauvegarde, haute disponibilité.\n**Sanctions en cas de non-conformité.** L’hébergement de données de santé chez un prestataire non certifié HDS constitue un manquement à l’Art. L.1111-8 CSP, passible de sanctions pénales (3 ans d’emprisonnement et 150 000 euros d’amende) en plus des sanctions CNIL au titre du RGPD.",
+        "metadata": {
+            "chunk_id": "667f92f9aed27b08_6",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Hébergement des données de santé : la certification HDS"
+            ],
+            "section_title": "Hébergement des données de santé : la certification HDS",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Hébergement des données de santé : la certification HDS\nL’Art. L.1111-8 du Code de la santé publique impose que l’hébergement de données de santé à caractère personnel soit réalisé par un prestataire **certifié HDS** (Hébergeur de Données de Santé).\nLa certification HDS, délivrée par un organisme accrédité par le COFRAC, atteste que l’hébergeur respecte un référentiel de sécurité basé sur la norme ISO 27001, complétée d’exigences spécifiques au secteur de la santé. Elle couvre deux périmètres",
+            "token_count": 144,
+            "character_count": 992,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "13adc85ad33e5d39_7",
+        "content": "Les principaux hébergeurs certifiés HDS en France incluent OVHcloud, Scaleway, Outscale (Dassault Systèmes), et des acteurs spécialisés comme Cegedim Cloud et Claranet. Les hyperscalers (AWS, Azure, GCP) disposent de certifications HDS pour certaines régions.",
+        "metadata": {
+            "chunk_id": "13adc85ad33e5d39_7",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Hébergement des données de santé : la certification HDS"
+            ],
+            "section_title": "Hébergement des données de santé : la certification HDS",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "Les principaux hébergeurs certifiés HDS en France incluent OVHcloud, Scaleway, Outscale (Dassault Systèmes), et des acteurs spécialisés comme Cegedim Cloud et Claranet. Les hyperscalers (AWS, Azure, GCP) disposent de certifications HDS pour certaines régions.",
+            "token_count": 34,
+            "character_count": 259,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e65f268397de64dc_8",
+        "content": "## Recherche médicale et méthodologies de référence CNIL\nLe traitement de données personnelles à des fins de recherche en santé est encadré par un dispositif spécifique en droit français.\n**Les méthodologies de référence (MR).** La CNIL a adopté des méthodologies de référence (MR-001 à MR-006) qui dispensent les chercheurs d’une autorisation individuelle si leur recherche est conforme à la MR applicable. Le responsable de traitement doit déposer un engagement de conformité auprès de la CNIL.\n- **MR-001** : recherches nécessitant le recueil du consentement (essais cliniques).\n- **MR-003** : recherches ne nécessitant ni consentement ni information individuelle (études sur bases de données existantes).\n- **MR-004** : recherches n’impliquant pas la personne humaine (études observationnelles).\n**Accès au SNDS.",
+        "metadata": {
+            "chunk_id": "e65f268397de64dc_8",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Recherche médicale et méthodologies de référence CNIL"
+            ],
+            "section_title": "Recherche médicale et méthodologies de référence CNIL",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Recherche médicale et méthodologies de référence CNIL\nLe traitement de données personnelles à des fins de recherche en santé est encadré par un dispositif spécifique en droit français.\n**Les méthodologies de référence (MR).** La CNIL a adopté des méthodologies de référence (MR-001 à MR-006) qui dispensent les chercheurs d’une autorisation individuelle si leur recherche est conforme à la MR applicable. Le responsable de traitement doit déposer un engagement de conformité auprès de la CNIL.\n- *",
+            "token_count": 117,
+            "character_count": 816,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "403067b12a951f2f_9",
+        "content": "** Le Système National des Données de Santé (SNDS), qui regroupe les données de l’Assurance Maladie, des hôpitaux et des causes de décès, est accessible aux chercheurs sous conditions strictes définies par le Health Data Hub et contrôlées par la CNIL.\nLa recherche médicale utilisant des données personnelles doit dans tous les cas respecter le principe de minimisation (Art. 5(1)© RGPD) et privilégier la pseudonymisation, voire l’ anonymisation des données sont sous-traitants au sens de l’Art. 28 RGPD vis-à-vis des professionnels de santé. Ils doivent être certifiés HDS et disposer d’un DPA conforme doivent respecter l’intégralité du RGPD : information, base légale, sécurité, durée de conservation. La CNIL a rappelé en 2024 que les SDK publicitaires intégrés dans les applications de santé constituent un transfert de données sensibles à des tiers non autorisés.\n**Messageries sécurisées.** La transmission de données de santé par email non sécurisé constitue un manquement à l’Art. 32 RGPD.",
+        "metadata": {
+            "chunk_id": "403067b12a951f2f_9",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Recherche médicale et méthodologies de référence CNIL"
+            ],
+            "section_title": "Recherche médicale et méthodologies de référence CNIL",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "** Le Système National des Données de Santé (SNDS), qui regroupe les données de l’Assurance Maladie, des hôpitaux et des causes de décès, est accessible aux chercheurs sous conditions strictes définies par le Health Data Hub et contrôlées par la CNIL.\nLa recherche médicale utilisant des données personnelles doit dans tous les cas respecter le principe de minimisation (Art. 5(1)© RGPD) et privilégier la pseudonymisation, voire l’ anonymisation des données sont sous-traitants au sens de l’Art. 28 ",
+            "token_count": 152,
+            "character_count": 999,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "b1a68ea4d662a78c_10",
+        "content": "La CNIL recommande l’utilisation de messageries sécurisées de santé (MSSanté) ou de solutions chiffrées de bout en bout pour les échanges entre professionnels.",
+        "metadata": {
+            "chunk_id": "b1a68ea4d662a78c_10",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Recherche médicale et méthodologies de référence CNIL"
+            ],
+            "section_title": "Recherche médicale et méthodologies de référence CNIL",
+            "heading_level": 2,
+            "chunk_type": "paragraph",
+            "content": "La CNIL recommande l’utilisation de messageries sécurisées de santé (MSSanté) ou de solutions chiffrées de bout en bout pour les échanges entre professionnels.",
+            "token_count": 23,
+            "character_count": 159,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "cb398ee9d530f53f",
+        "content": "## Sanctions CNIL dans le secteur santé\nLe secteur de la santé fait l’objet d’une vigilance renforcée de la CNIL.\n- **Dedalus Biologie** : 1,5 million d’euros (Délibération n° SAN-2022-009, avril 2022) pour une fuite de données médicales de près de 500 000 patients due à des défauts de sécurité.\n- **Alliance française des maladies rares** : mise en demeure (2021) pour hébergement de données de santé chez un prestataire non certifié HDS.\n- **Médecin libéral** : 3 000 euros via procédure simplifiée (2023) pour défaut de sécurisation des dossiers patients accessibles depuis internet.\nCes décisions montrent que la CNIL sanctionne à tous les niveaux : grands éditeurs, laboratoires et professionnels de santé individuels.",
+        "metadata": {
+            "chunk_id": "cb398ee9d530f53f",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "Sanctions CNIL dans le secteur santé"
+            ],
+            "section_title": "Sanctions CNIL dans le secteur santé",
+            "heading_level": 2,
+            "chunk_type": "list",
+            "content": "## Sanctions CNIL dans le secteur santé\nLe secteur de la santé fait l’objet d’une vigilance renforcée de la CNIL.\n- **Dedalus Biologie** : 1,5 million d’euros (Délibération n° SAN-2022-009, avril 2022) pour une fuite de données médicales de près de 500 000 patients due à des défauts de sécurité.\n- **Alliance française des maladies rares** : mise en demeure (2021) pour hébergement de données de santé chez un prestataire non certifié HDS.\n- **Médecin libéral** : 3 000 euros via procédure simplifié",
+            "token_count": 114,
+            "character_count": 724,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "58605aea330c029a",
+        "content": "### Le médecin a-t-il besoin du consentement du patient pour traiter ses données médicales ?\nNon, pas pour les soins. L’Art. 9(2)(h) RGPD prévoit une exception pour les traitements nécessaires aux fins du diagnostic médical et de la prise en charge sanitaire, réalisés par un professionnel de santé soumis au secret. Le consentement est en revanche nécessaire pour les traitements dépassant le cadre du soin : recherche, transmission à des applications tierces, utilisation à des fins commerciales.",
+        "metadata": {
+            "chunk_id": "58605aea330c029a",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "FAQ",
+                "Le médecin a-t-il besoin du consentement du patient pour traiter ses données médicales ?"
+            ],
+            "section_title": "Le médecin a-t-il besoin du consentement du patient pour traiter ses données médicales ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Le médecin a-t-il besoin du consentement du patient pour traiter ses données médicales ?\nNon, pas pour les soins. L’Art. 9(2)(h) RGPD prévoit une exception pour les traitements nécessaires aux fins du diagnostic médical et de la prise en charge sanitaire, réalisés par un professionnel de santé soumis au secret. Le consentement est en revanche nécessaire pour les traitements dépassant le cadre du soin : recherche, transmission à des applications tierces, utilisation à des fins commerciales.",
+            "token_count": 77,
+            "character_count": 498,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e2cf3da08b912aad",
+        "content": "### Qui est responsable de traitement dans un cabinet médical ?\nLe professionnel de santé libéral (médecin, dentiste, sage-femme) est responsable de traitement pour les données de ses patients : voir notre guide pratique du RGPD en cabinet médical, c’est l’établissement qui est responsable de traitement ; il relève en outre du secteur de la santé désormais dans le champ de NIS2 au titre de ses obligations de cybersécurité. Le logiciel de gestion de cabinet (éditeur) est sous-traitant au sens de l’Art. 28 RGPD et doit être certifié HDS s’il héberge des données de santé.",
+        "metadata": {
+            "chunk_id": "e2cf3da08b912aad",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "FAQ",
+                "Qui est responsable de traitement dans un cabinet médical ?"
+            ],
+            "section_title": "Qui est responsable de traitement dans un cabinet médical ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Qui est responsable de traitement dans un cabinet médical ?\nLe professionnel de santé libéral (médecin, dentiste, sage-femme) est responsable de traitement pour les données de ses patients : voir notre guide pratique du RGPD en cabinet médical, c’est l’établissement qui est responsable de traitement ; il relève en outre du secteur de la santé désormais dans le champ de NIS2 au titre de ses obligations de cybersécurité. Le logiciel de gestion de cabinet (éditeur) est sous-traitant au sens de ",
+            "token_count": 95,
+            "character_count": 575,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "097b62ab62cbd342",
+        "content": "### Combien de temps un hôpital peut-il conserver un dossier médical ?\nLe dossier médical doit être conservé **20 ans** à compter de la dernière consultation ou du dernier séjour (Art. R.1112-7 du Code de la santé publique). Pour les mineurs, ce délai court à partir de leur 18e anniversaire, avec un minimum de 10 ans. Ces durées sont des obligations légales qui prévalent sur les recommandations générales du RGPD.",
+        "metadata": {
+            "chunk_id": "097b62ab62cbd342",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "FAQ",
+                "Combien de temps un hôpital peut-il conserver un dossier médical ?"
+            ],
+            "section_title": "Combien de temps un hôpital peut-il conserver un dossier médical ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Combien de temps un hôpital peut-il conserver un dossier médical ?\nLe dossier médical doit être conservé **20 ans** à compter de la dernière consultation ou du dernier séjour (Art. R.1112-7 du Code de la santé publique). Pour les mineurs, ce délai court à partir de leur 18e anniversaire, avec un minimum de 10 ans. Ces durées sont des obligations légales qui prévalent sur les recommandations générales du RGPD.",
+            "token_count": 70,
+            "character_count": 416,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "145a5f03b4810484",
+        "content": "### Les données collectées par une montre connectée sont-elles des données de santé ?\nCela dépend du contexte. Les données brutes (nombre de pas, rythme cardiaque instantané) ne sont pas systématiquement des données de santé. Elles le deviennent lorsqu’elles sont croisées ou analysées pour en déduire un état de santé (détection d’arythmie, suivi de pathologie). Le considérant 35 du RGPD adopte une interprétation large. En pratique, les fabricants de dispositifs connectés de santé doivent appliquer les protections de l’Art. 9 RGPD par précaution.\nÀ lire aussi : un logiciel RGPD pour la santé\nFondateur de Legiscope et expert RGPD\nDocteur en droit de l'Université Panthéon-Assas (Paris II), 23 ans d'expérience en droit du numérique et conformité RGPD. Ancien conseiller de l'administration du Premier ministre sur la mise en œuvre du RGPD. Thiébaut est le fondateur de Legiscope, plateforme de conformité RGPD automatisée par l'IA.",
+        "metadata": {
+            "chunk_id": "145a5f03b4810484",
+            "parent_doc": "RGPD et santé : protection des données médicales",
+            "source_url": "https://www.legiscope.com/blog/rgpd-sante-donnees-medicales.html",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "réglementation RGPD et sécurité données médicales logiciels santé France",
+            "question": "Quelles sont les tendances technologiques et réglementaires qui façonnent le marché ?",
+            "angle": "regulatory impact of GDPR and data security on HealthTech software",
+            "heading_path": [
+                "FAQ",
+                "Les données collectées par une montre connectée sont-elles des données de santé ?"
+            ],
+            "section_title": "Les données collectées par une montre connectée sont-elles des données de santé ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Les données collectées par une montre connectée sont-elles des données de santé ?\nCela dépend du contexte. Les données brutes (nombre de pas, rythme cardiaque instantané) ne sont pas systématiquement des données de santé. Elles le deviennent lorsqu’elles sont croisées ou analysées pour en déduire un état de santé (détection d’arythmie, suivi de pathologie). Le considérant 35 du RGPD adopte une interprétation large. En pratique, les fabricants de dispositifs connectés de santé doivent appliqu",
+            "token_count": 144,
+            "character_count": 937,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:04:18.984490+00:00",
+            "extra": {}
+        }
+    }
+]

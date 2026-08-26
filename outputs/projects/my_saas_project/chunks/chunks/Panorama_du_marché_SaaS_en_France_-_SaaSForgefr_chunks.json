@@ -1,0 +1,441 @@
+[
+    {
+        "chunk_id": "94f3188a0fde2056",
+        "content": "Aller au contenu principal\nSaaSForge sélectionné par Les Pépites Tech 🇫🇷 - Voir la mention",
+        "metadata": {
+            "chunk_id": "94f3188a0fde2056",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "Aller au contenu principal\nSaaSForge sélectionné par Les Pépites Tech 🇫🇷 - Voir la mention",
+            "token_count": 15,
+            "character_count": 90,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "df1322d0499dcb6b",
+        "content": "# Panorama du marché SaaS en France\nUne cartographie structurée du marché SaaS français : définitions, catégories, acteurs, spécificités et tendances.\nLe marché SaaS français présente des caractéristiques distinctives qui le différencient du marché mondial. Contraintes réglementaires fortes, acteurs locaux compétitifs, et besoins spécifiques des entreprises françaises façonnent un écosystème unique. Cette page offre une vue d'ensemble du contexte dans lequel s'inscrivent les décisions logicielles.",
+        "metadata": {
+            "chunk_id": "df1322d0499dcb6b",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France"
+            ],
+            "section_title": "Panorama du marché SaaS en France",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Panorama du marché SaaS en France\nUne cartographie structurée du marché SaaS français : définitions, catégories, acteurs, spécificités et tendances.\nLe marché SaaS français présente des caractéristiques distinctives qui le différencient du marché mondial. Contraintes réglementaires fortes, acteurs locaux compétitifs, et besoins spécifiques des entreprises françaises façonnent un écosystème unique. Cette page offre une vue d'ensemble du contexte dans lequel s'inscrivent les décisions logicielle",
+            "token_count": 65,
+            "character_count": 502,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8822873f3bb29107",
+        "content": "## La lecture SaaSForge\n**L'abondance d'outils SaaS masque souvent une faible maturité décisionnelle.** Le marché français compte plus de 600 éditeurs, des milliers de solutions, et pourtant la plupart des entreprises choisissent encore leurs logiciels sur la base de recommandations non qualifiées ou de démonstrations commerciales.\nCette profusion crée un paradoxe : plus l'offre est large, plus les décisions sont prises par défaut. L'entreprise qui \"fait comme les autres\" reproduit souvent les mêmes erreurs que les autres.\nConcept SaaSForge : le \"stack par défaut\"\nLe stack par défaut désigne l'assemblage de logiciels adoptés sans analyse préalable, par mimétisme ou par commodité. Il s'oppose au stack choisi, construit sur la base d'un cadrage explicite des besoins et contraintes.",
+        "metadata": {
+            "chunk_id": "8822873f3bb29107",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "La lecture SaaSForge"
+            ],
+            "section_title": "La lecture SaaSForge",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## La lecture SaaSForge\n**L'abondance d'outils SaaS masque souvent une faible maturité décisionnelle.** Le marché français compte plus de 600 éditeurs, des milliers de solutions, et pourtant la plupart des entreprises choisissent encore leurs logiciels sur la base de recommandations non qualifiées ou de démonstrations commerciales.\nCette profusion crée un paradoxe : plus l'offre est large, plus les décisions sont prises par défaut. L'entreprise qui \"fait comme les autres\" reproduit souvent les m",
+            "token_count": 117,
+            "character_count": 790,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "01cdbc897b2f7130",
+        "content": "## Qu'est-ce que le SaaS ?\n**SaaS (Software as a Service)** désigne un modèle de distribution logicielle où l'application est hébergée par l'éditeur et accessible via internet, généralement sur abonnement. L'utilisateur n'installe rien localement et accède au service depuis un navigateur web ou une application mobile.\nCe modèle s'oppose aux logiciels \"on-premise\" (installés sur les serveurs de l'entreprise) et aux licences perpétuelles. Pour une définition approfondie des termes, consultez notre Glossaire de la décision SaaS\nSources : Syntec Numérique, EY SaaS Report, analyses sectorielles. Données estimées pour 2024.",
+        "metadata": {
+            "chunk_id": "01cdbc897b2f7130",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Qu'est-ce que le SaaS ?"
+            ],
+            "section_title": "Qu'est-ce que le SaaS ?",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Qu'est-ce que le SaaS ?\n**SaaS (Software as a Service)** désigne un modèle de distribution logicielle où l'application est hébergée par l'éditeur et accessible via internet, généralement sur abonnement. L'utilisateur n'installe rien localement et accède au service depuis un navigateur web ou une application mobile.\nCe modèle s'oppose aux logiciels \"on-premise\" (installés sur les serveurs de l'entreprise) et aux licences perpétuelles. Pour une définition approfondie des termes, consultez notre",
+            "token_count": 88,
+            "character_count": 625,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "62f9c30c9cc1991e_4",
+        "content": "## Catégories majeures du marché français\nLe marché SaaS français couvre l'ensemble des besoins des entreprises.",
+        "metadata": {
+            "chunk_id": "62f9c30c9cc1991e_4",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Catégories majeures du marché français"
+            ],
+            "section_title": "Catégories majeures du marché français",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Catégories majeures du marché français\nLe marché SaaS français couvre l'ensemble des besoins des entreprises.",
+            "token_count": 16,
+            "character_count": 112,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "21e060b04755839c_5",
+        "content": "Voici les catégories les plus utilisées :\n| Catégorie | Acteurs clés | Volume |\n| Comptabilité & Facturation | Pennylane, Indy, Tiime, Sage | Très élevé |\n| Banque Pro | Qonto, Shine, Propulse, Blank | Très élevé |\n| CRM & Ventes | Sellsy, Axonaut, NoCRM, Salesforce | Élevé |\n| RH & Paie | PayFit, Lucca, Factorial, Silae | Élevé |\n| Signature électronique | Yousign, DocuSign, Universign | Élevé |\n| Gestion de projet | Monday, Notion, Asana, Trello | Élevé |\n| Marketing & Automation | HubSpot, Brevo, Mailchimp | Moyen |\n| E-commerce | Shopify, PrestaShop, WooCommerce | Moyen |\n| Création juridique | LegalPlace, LegalStart, Captain Contrat | Moyen |\n| Hébergement web | OVH, Scaleway, Hostinger | Moyen |\nPour une vision détaillée de l'organisation des logiciels par métier, consultez notre page Types de logiciels SaaS par métier qui répondent aux besoins spécifiques des entreprises françaises et offrent un support en français.",
+        "metadata": {
+            "chunk_id": "21e060b04755839c_5",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Catégories majeures du marché français"
+            ],
+            "section_title": "Catégories majeures du marché français",
+            "heading_level": 2,
+            "chunk_type": "table",
+            "content": "Voici les catégories les plus utilisées :\n| Catégorie | Acteurs clés | Volume |\n| Comptabilité & Facturation | Pennylane, Indy, Tiime, Sage | Très élevé |\n| Banque Pro | Qonto, Shine, Propulse, Blank | Très élevé |\n| CRM & Ventes | Sellsy, Axonaut, NoCRM, Salesforce | Élevé |\n| RH & Paie | PayFit, Lucca, Factorial, Silae | Élevé |\n| Signature électronique | Yousign, DocuSign, Universign | Élevé |\n| Gestion de projet | Monday, Notion, Asana, Trello | Élevé |\n| Marketing & Automation | HubSpot, Br",
+            "token_count": 160,
+            "character_count": 936,
+            "has_code": false,
+            "has_tables": true,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "0717815144fbccea",
+        "content": "### Rôle central de l'expert-comptable\nContrairement à d'autres marchés, l'expert-comptable joue un rôle d'influence majeur dans le choix des logiciels de gestion. Les intégrations comptables sont un critère de choix déterminant.",
+        "metadata": {
+            "chunk_id": "0717815144fbccea",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Catégories majeures du marché français",
+                "Rôle central de l'expert-comptable"
+            ],
+            "section_title": "Rôle central de l'expert-comptable",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Rôle central de l'expert-comptable\nContrairement à d'autres marchés, l'expert-comptable joue un rôle d'influence majeur dans le choix des logiciels de gestion. Les intégrations comptables sont un critère de choix déterminant.",
+            "token_count": 31,
+            "character_count": 229,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3c0baad749d01476",
+        "content": "### Sensibilité au prix\nLes TPE et freelances français sont particulièrement sensibles au prix. Les offres freemium et les tarifs d'entrée compétitifs sont des facteurs clés de pénétration du marché.\nPour approfondir les obligations légales, consultez notre page Normes et obligations réglementaires des logiciels SaaS en France\n- • Banque professionnelle (ACPR, DSP2)\n- • Paie et RH (conventions collectives françaises)\n- • Création juridique (droit français)\n- • Besoin de support en français réactif\n- • Données sensibles nécessitant hébergement UE",
+        "metadata": {
+            "chunk_id": "3c0baad749d01476",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Catégories majeures du marché français",
+                "Sensibilité au prix"
+            ],
+            "section_title": "Sensibilité au prix",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Sensibilité au prix\nLes TPE et freelances français sont particulièrement sensibles au prix. Les offres freemium et les tarifs d'entrée compétitifs sont des facteurs clés de pénétration du marché.\nPour approfondir les obligations légales, consultez notre page Normes et obligations réglementaires des logiciels SaaS en France\n- • Banque professionnelle (ACPR, DSP2)\n- • Paie et RH (conventions collectives françaises)\n- • Création juridique (droit français)\n- • Besoin de support en français réact",
+            "token_count": 82,
+            "character_count": 551,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9245ad7eecfbdbb1",
+        "content": "### Accepter un SaaS international\n- • CRM et ventes (standards universels)\n- • Gestion de projet (méthodologies globales)\n- • Marketing automation (outils matures)\n- • Collaboration (Microsoft 365, Google Workspace)\n- • Équipe internationale ou anglophone\n- • Besoin de fonctionnalités très avancées",
+        "metadata": {
+            "chunk_id": "9245ad7eecfbdbb1",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Catégories majeures du marché français",
+                "Accepter un SaaS international"
+            ],
+            "section_title": "Accepter un SaaS international",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Accepter un SaaS international\n- • CRM et ventes (standards universels)\n- • Gestion de projet (méthodologies globales)\n- • Marketing automation (outils matures)\n- • Collaboration (Microsoft 365, Google Workspace)\n- • Équipe internationale ou anglophone\n- • Besoin de fonctionnalités très avancées",
+            "token_count": 45,
+            "character_count": 300,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "d347889e0f5eb6a6",
+        "content": "### Quelle est la taille du marché SaaS en France ?\nLe marché SaaS français représente environ 8 à 10 milliards d'euros en 2024, avec une croissance annuelle de 15 à 20%. La France est le 2ème marché européen après le Royaume-Uni.",
+        "metadata": {
+            "chunk_id": "d347889e0f5eb6a6",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Questions fréquentes",
+                "Quelle est la taille du marché SaaS en France ?"
+            ],
+            "section_title": "Quelle est la taille du marché SaaS en France ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Quelle est la taille du marché SaaS en France ?\nLe marché SaaS français représente environ 8 à 10 milliards d'euros en 2024, avec une croissance annuelle de 15 à 20%. La France est le 2ème marché européen après le Royaume-Uni.",
+            "token_count": 42,
+            "character_count": 230,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5591bad5497c00f0",
+        "content": "### Quelles sont les catégories SaaS les plus utilisées en France ?\nLes catégories dominantes sont : comptabilité/facturation (Pennylane, Indy), banque pro (Qonto, Shine), CRM (Salesforce, Sellsy), RH/paie (PayFit, Lucca), et collaboration (Microsoft 365, Google Workspace).",
+        "metadata": {
+            "chunk_id": "5591bad5497c00f0",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Questions fréquentes",
+                "Quelles sont les catégories SaaS les plus utilisées en France ?"
+            ],
+            "section_title": "Quelles sont les catégories SaaS les plus utilisées en France ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Quelles sont les catégories SaaS les plus utilisées en France ?\nLes catégories dominantes sont : comptabilité/facturation (Pennylane, Indy), banque pro (Qonto, Shine), CRM (Salesforce, Sellsy), RH/paie (PayFit, Lucca), et collaboration (Microsoft 365, Google Workspace).",
+            "token_count": 36,
+            "character_count": 274,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "e78232806f3f8ad9",
+        "content": "### Pourquoi privilégier un SaaS français ?\nUn SaaS français offre généralement : hébergement des données en France/UE, conformité native aux réglementations françaises (e-facturation, RGPD), support en français, et meilleure compréhension des spécificités métier locales.",
+        "metadata": {
+            "chunk_id": "e78232806f3f8ad9",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Questions fréquentes",
+                "Pourquoi privilégier un SaaS français ?"
+            ],
+            "section_title": "Pourquoi privilégier un SaaS français ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Pourquoi privilégier un SaaS français ?\nUn SaaS français offre généralement : hébergement des données en France/UE, conformité native aux réglementations françaises (e-facturation, RGPD), support en français, et meilleure compréhension des spécificités métier locales.",
+            "token_count": 35,
+            "character_count": 272,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "81c920d43f4b4fdb",
+        "content": "### Quelles différences entre le marché SaaS français et américain ?\nLe marché français est plus réglementé (RGPD strict, e-facturation obligatoire), plus fragmenté avec des acteurs locaux forts, et les cycles de décision sont généralement plus longs. Le marché US est dominé par des acteurs globaux avec moins de contraintes réglementaires.",
+        "metadata": {
+            "chunk_id": "81c920d43f4b4fdb",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Questions fréquentes",
+                "Quelles différences entre le marché SaaS français et américain ?"
+            ],
+            "section_title": "Quelles différences entre le marché SaaS français et américain ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Quelles différences entre le marché SaaS français et américain ?\nLe marché français est plus réglementé (RGPD strict, e-facturation obligatoire), plus fragmenté avec des acteurs locaux forts, et les cycles de décision sont généralement plus longs. Le marché US est dominé par des acteurs globaux avec moins de contraintes réglementaires.",
+            "token_count": 51,
+            "character_count": 341,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "ddf9d8cc304c0fb7",
+        "content": "## Pages connexes\nCe panorama s'inscrit dans un ensemble de ressources structurantes :\nMéthodologie de choix SaaS Critères de comparaison SaaS Écosystème SaaS français Cartographie des stacks PME Types de SaaS par métier Base de connaissance SaaSForge\nParamétrerRefuserAccepter",
+        "metadata": {
+            "chunk_id": "ddf9d8cc304c0fb7",
+            "parent_doc": "Panorama du marché SaaS en France - SaaSForge.fr",
+            "source_url": "https://saasforge.fr/ressources/panorama-saas-france",
+            "section": "Analyse macro marché et tendances",
+            "doc_title": "",
+            "query_context": "taille marché SaaS RMS restauration indépendante France 2024",
+            "question": "Quelle est la structure du marché en termes de segments, taille et croissance ?",
+            "angle": "market size specific to Restaurant Management Systems SaaS for independent restaurants",
+            "heading_path": [
+                "Panorama du marché SaaS en France",
+                "Pages connexes"
+            ],
+            "section_title": "Pages connexes",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Pages connexes\nCe panorama s'inscrit dans un ensemble de ressources structurantes :\nMéthodologie de choix SaaS Critères de comparaison SaaS Écosystème SaaS français Cartographie des stacks PME Types de SaaS par métier Base de connaissance SaaSForge\nParamétrerRefuserAccepter",
+            "token_count": 38,
+            "character_count": 277,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T12:50:01.839124+00:00",
+            "extra": {}
+        }
+    }
+]

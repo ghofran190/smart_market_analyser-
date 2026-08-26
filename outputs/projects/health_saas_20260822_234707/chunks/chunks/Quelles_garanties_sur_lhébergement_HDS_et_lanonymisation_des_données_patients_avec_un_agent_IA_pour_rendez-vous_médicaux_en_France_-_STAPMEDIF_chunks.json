@@ -1,0 +1,316 @@
+[
+    {
+        "chunk_id": "918a1d2099a63a2f",
+        "content": "3. Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+        "metadata": {
+            "chunk_id": "918a1d2099a63a2f",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Introduction"
+            ],
+            "section_title": "Introduction",
+            "heading_level": 0,
+            "chunk_type": "introduction",
+            "content": "3. Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+            "token_count": 20,
+            "character_count": 135,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "5fc00b060bf58deb",
+        "content": "# Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+        "metadata": {
+            "chunk_id": "5fc00b060bf58deb",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France"
+            ],
+            "section_title": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+            "heading_level": 1,
+            "chunk_type": "h1",
+            "content": "# Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+            "token_count": 20,
+            "character_count": 134,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "789e583c85b3d119",
+        "content": "## Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux\nEn France, tout **agent IA pour prise de rendez-vous médical** doit garantir la sécurité et la confidentialité des données patients. La conformité à l’hébergement de données de santé (HDS), l’anonymisation poussée et le respect du RGPD sont des prérequis stricts, essentiels pour les établissements et centres souhaitant automatiser leur gestion d’accueil et de planning via une intelligence artificielle.",
+        "metadata": {
+            "chunk_id": "789e583c85b3d119",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux"
+            ],
+            "section_title": "Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux\nEn France, tout **agent IA pour prise de rendez-vous médical** doit garantir la sécurité et la confidentialité des données patients. La conformité à l’hébergement de données de santé (HDS), l’anonymisation poussée et le respect du RGPD sont des prérequis stricts, essentiels pour les établissements et centres souhaitant automatiser leur gestion d’accueil et de planning via une in",
+            "token_count": 78,
+            "character_count": 524,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9dfb88690f478500",
+        "content": "### Quels sont les mécanismes de sécurisation appliqués aux données patients ?\nLa certification HDS (Hébergeur de Données de Santé) est obligatoire pour tout prestataire traitant ou stockant des dossiers médicaux en France. Cela impose :\n- Des infrastructures 100% localisées en France, régulièrement auditées\n- Un cloisonnement des accès selon les rôles (secrétariat, praticiens, support technique)\n- Des protocoles de chiffrement et une traçabilité complète des actions\n- L'anonymisation ou la pseudonymisation automatique dès que possible\nUn agent IA pour parcours patient conforme HDS limite la ré-identification des personnes et optimise la protection contre les usages non autorisés.",
+        "metadata": {
+            "chunk_id": "9dfb88690f478500",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux",
+                "Quels sont les mécanismes de sécurisation appliqués aux données patients ?"
+            ],
+            "section_title": "Quels sont les mécanismes de sécurisation appliqués aux données patients ?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Quels sont les mécanismes de sécurisation appliqués aux données patients ?\nLa certification HDS (Hébergeur de Données de Santé) est obligatoire pour tout prestataire traitant ou stockant des dossiers médicaux en France. Cela impose :\n- Des infrastructures 100% localisées en France, régulièrement auditées\n- Un cloisonnement des accès selon les rôles (secrétariat, praticiens, support technique)\n- Des protocoles de chiffrement et une traçabilité complète des actions\n- L'anonymisation ou la pseu",
+            "token_count": 99,
+            "character_count": 689,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "345e944d82732dff",
+        "content": "### Comment l’IA s’intègre-t-elle sans faille à la chaîne de valeur médicale ?\nEn renforçant la sécurité des appels et la confidentialité, les solutions IA sont conçues pour s’intégrer aux SI existants (logiciels de planning, appels, télésecrétariat). Les règles métier (actes, quotas, particularités multi-sites) restent strictement respectées, pendant que l’IA traite en autonomie les tâches répétitives ou transfère les cas ambigus à un agent humain. Cette approche hybride permet de stabiliser le décroché et d’uniformiser la gestion sur tous les sites, conformément aux exigences des directions médicales et des réseaux multi-établissements.",
+        "metadata": {
+            "chunk_id": "345e944d82732dff",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux",
+                "Comment l’IA s’intègre-t-elle sans faille à la chaîne de valeur médicale ?"
+            ],
+            "section_title": "Comment l’IA s’intègre-t-elle sans faille à la chaîne de valeur médicale ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Comment l’IA s’intègre-t-elle sans faille à la chaîne de valeur médicale ?\nEn renforçant la sécurité des appels et la confidentialité, les solutions IA sont conçues pour s’intégrer aux SI existants (logiciels de planning, appels, télésecrétariat). Les règles métier (actes, quotas, particularités multi-sites) restent strictement respectées, pendant que l’IA traite en autonomie les tâches répétitives ou transfère les cas ambigus à un agent humain. Cette approche hybride permet de stabiliser le",
+            "token_count": 91,
+            "character_count": 646,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "3f795fcf51166781",
+        "content": "### Quelles spécificités pour la couverture territoriale et l’adaptation aux établissements ?\nLes dispositifs d’ **IA conversationnelle pour la santé** de StapMedif couvrent l’ensemble du territoire français, quelle que soit la volumétrie d’appels ou la complexité des plannings (Paris/IDF, Lyon, Marseille, Strasbourg, Lille). Les délais de mise en ligne et d’audit de conformité restent courts, compatible avec les impératifs des groupes de santé, laboratoires, cliniques ou centres d’imagerie.",
+        "metadata": {
+            "chunk_id": "3f795fcf51166781",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "Les fondamentaux de la conformité HDS et anonymisation pour les agents IA dédiés à la prise de rendez-vous médicaux",
+                "Quelles spécificités pour la couverture territoriale et l’adaptation aux établissements ?"
+            ],
+            "section_title": "Quelles spécificités pour la couverture territoriale et l’adaptation aux établissements ?",
+            "heading_level": 3,
+            "chunk_type": "h3",
+            "content": "### Quelles spécificités pour la couverture territoriale et l’adaptation aux établissements ?\nLes dispositifs d’ **IA conversationnelle pour la santé** de StapMedif couvrent l’ensemble du territoire français, quelle que soit la volumétrie d’appels ou la complexité des plannings (Paris/IDF, Lyon, Marseille, Strasbourg, Lille). Les délais de mise en ligne et d’audit de conformité restent courts, compatible avec les impératifs des groupes de santé, laboratoires, cliniques ou centres d’imagerie.",
+            "token_count": 68,
+            "character_count": 496,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "9863091d644611f4",
+        "content": "## StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux\nDepuis 2017, StapMedif ne recourt à aucune sous-traitance et mobilise des équipes issues du **télésecrétariat médical** français. Cette maîtrise garantit une prise en charge rapide, une adaptation au vocabulaire professionnel et la conformité aux référentiels HDS. L’entreprise agit comme un véritable prolongement de chaque cabinet ou centre, grâce à des outils d’audit, une gestion des accès, la **journalisation** des événements, et des KPI dédiés à la performance. Pour tout projet complexe : déploiement ou audit de solution d’IA spécialisée pour la santé, les directions peuvent s’appuyer sur une expertise éprouvée et des solutions d’IA pour parcours patient labellisées.",
+        "metadata": {
+            "chunk_id": "9863091d644611f4",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux"
+            ],
+            "section_title": "StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux",
+            "heading_level": 2,
+            "chunk_type": "h2",
+            "content": "## StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux\nDepuis 2017, StapMedif ne recourt à aucune sous-traitance et mobilise des équipes issues du **télésecrétariat médical** français. Cette maîtrise garantit une prise en charge rapide, une adaptation au vocabulaire professionnel et la conformité aux référentiels HDS. L’entreprise agit comme un véritable prolongement de chaque cabinet ou centre, grâce à des outils d’audit, une gestion des accès, la **journalisat",
+            "token_count": 111,
+            "character_count": 767,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": true,
+            "has_dates": true,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8d10f341cdc425e2_7",
+        "content": "### Quelles garanties offre une solution respectant l’hébergement HDS en France ?\nLa conformité HDS assure un hébergement national, une sécurité optimale, le respect du RGPD, ainsi qu’une gestion transparente des accès et des incidents par des professionnels aguerris du secteur de la santé.\nLes champs indiqués par un astérisque (\\*) sont obligatoires\n- En soumettant ce formulaire, j'accepte que les informations saisies soient traitées par **STAPMEDIF** dans le cadre de ma demande de contact et de la relation commerciale qui peut en découler. En savoir plus en consultant notre politique de confidentialité.\\*\nradiologues ou spécialistes\nBesoin de plus d'informations ?",
+        "metadata": {
+            "chunk_id": "8d10f341cdc425e2_7",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux",
+                "Quelles garanties offre une solution respectant l’hébergement HDS en France ?"
+            ],
+            "section_title": "Quelles garanties offre une solution respectant l’hébergement HDS en France ?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "### Quelles garanties offre une solution respectant l’hébergement HDS en France ?\nLa conformité HDS assure un hébergement national, une sécurité optimale, le respect du RGPD, ainsi qu’une gestion transparente des accès et des incidents par des professionnels aguerris du secteur de la santé.\nLes champs indiqués par un astérisque (\\*) sont obligatoires\n- En soumettant ce formulaire, j'accepte que les informations saisies soient traitées par **STAPMEDIF** dans le cadre de ma demande de contact et d",
+            "token_count": 101,
+            "character_count": 674,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "6694938853b666fd_8",
+        "content": "Nous sommes à votre disposition pour toute demande\n- Nos secteurs d'activité\n- **Télésecrétariat Téléphonique Médical**\n- Comment mesurer le retour sur investissement d’un agent IA pour la prise de rendez-vous médical et la gestion des plannings en France\n- Accès, authentification du personnel et journalisation : comment l’agent IA médical répond aux exigences de conformité RGPD\n- Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France\n- Demande de devis pour déploiement rapide d’un agent IA de prise de rendez-vous médical adapté aux grands réseaux de cabinets\n- Comment le rappel automatique de rendez-vous par IA diminue significativement les absences patients dans les centres médicaux français\n- Quelles économies réaliser grâce à la réduction des appels répétés et à l’automatisation des prises de rendez-vous par IA\n- **Nos secteurs géographiques**\n- à Paris et l'Île-de-France (75)\")\n- à Marseille et les Bouches-du-Rhône (13)\")\n- à Lille et le Nord (59)\")\n- à Strasbourg et le Bas-Rhin (67)\")\nPréférences pour tous les services\nTout accepter Tout refuser\nLes APIs permettent de charger des scripts : géolocalisation, moteurs de recherche, traductions, ...",
+        "metadata": {
+            "chunk_id": "6694938853b666fd_8",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux",
+                "Quelles garanties offre une solution respectant l’hébergement HDS en France ?"
+            ],
+            "section_title": "Quelles garanties offre une solution respectant l’hébergement HDS en France ?",
+            "heading_level": 3,
+            "chunk_type": "list",
+            "content": "Nous sommes à votre disposition pour toute demande\n- Nos secteurs d'activité\n- **Télésecrétariat Téléphonique Médical**\n- Comment mesurer le retour sur investissement d’un agent IA pour la prise de rendez-vous médical et la gestion des plannings en France\n- Accès, authentification du personnel et journalisation : comment l’agent IA médical répond aux exigences de conformité RGPD\n- Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous mé",
+            "token_count": 191,
+            "character_count": 1246,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": true,
+            "has_numbers": true,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    },
+    {
+        "chunk_id": "8da738fe9b4fc254_9",
+        "content": "Services visant à afficher du contenu web.\nLes gestionnaires de commentaires facilitent le dépôt de vos commentaires et luttent contre le spam.\nLes services de mesure d'audience permettent de générer des statistiques de fréquentation utiles à l'amélioration du site.\nLes régies publicitaires permettent de générer des revenus en commercialisant les espaces publicitaires du site.\nLes réseaux sociaux permettent d'améliorer la convivialité du site et aident à sa promotion via les partages.\nLes services de support vous permettent d'entrer en contact avec l'équipe du site et d'aider à son amélioration.\nLes services de partage de vidéo permettent d'enrichir le site de contenu multimédia et augmentent sa visibilité.",
+        "metadata": {
+            "chunk_id": "8da738fe9b4fc254_9",
+            "parent_doc": "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France - STAPMEDIF",
+            "source_url": "https://www.stapmedif.fr/details-quelles%2Bgaranties%2Bsur%2Bl%2Bhebergement%2Bhds%2Bet%2Bl%2Banonymisation%2Bdes%2Bdonnees%2Bpatients%2Bavec%2Bun%2Bagent%2Bia%2Bpour%2Brendez-vous%2Bmedicaux%2Ben%2Bfrance-55",
+            "section": "Analyse de l'offre et concurrence",
+            "doc_title": "",
+            "query_context": "sécurité données médicales conformité RGPD solutions prise rendez-vous médical en ligne France",
+            "question": "Quelles sont les forces et faiblesses des solutions concurrentes existantes ?",
+            "angle": "aspects réglementaires et sécurité des données",
+            "heading_path": [
+                "Quelles garanties sur l’hébergement HDS et l’anonymisation des données patients avec un agent IA pour rendez-vous médicaux en France",
+                "StapMedif : Expertise et garanties dans la gestion sécurisée des rendez-vous médicaux",
+                "Quelles garanties offre une solution respectant l’hébergement HDS en France ?"
+            ],
+            "section_title": "Quelles garanties offre une solution respectant l’hébergement HDS en France ?",
+            "heading_level": 3,
+            "chunk_type": "unstructured",
+            "content": "Services visant à afficher du contenu web.\nLes gestionnaires de commentaires facilitent le dépôt de vos commentaires et luttent contre le spam.\nLes services de mesure d'audience permettent de générer des statistiques de fréquentation utiles à l'amélioration du site.\nLes régies publicitaires permettent de générer des revenus en commercialisant les espaces publicitaires du site.\nLes réseaux sociaux permettent d'améliorer la convivialité du site et aident à sa promotion via les partages.\nLes servic",
+            "token_count": 106,
+            "character_count": 716,
+            "has_code": false,
+            "has_tables": false,
+            "has_lists": false,
+            "has_numbers": false,
+            "has_dates": false,
+            "extraction_date": "2026-08-22T23:31:52.652876+00:00",
+            "extra": {}
+        }
+    }
+]

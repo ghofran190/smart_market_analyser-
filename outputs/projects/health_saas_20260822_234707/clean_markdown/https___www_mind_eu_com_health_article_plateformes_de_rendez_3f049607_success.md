@@ -1,0 +1,47 @@
+- Financement et politique publique
+- La Lettre mind Health n°348
+# Plateformes de rendez-vous en ligne : vers une structuration du marché
+!Image à la une de l'article Plateformes de rendez-vous en ligne : vers une structuration du marché
+_Ajouter mind Health à vos sources_
+Publication: 16 avril 2018 à 10h32
+Temps de lecture: 14 minutes
+Ajouter à la liste de lectureRetirer de la liste de lecture
+Doctolib, Rdvmedicaux.com, Mondocteur, Keldoc… les plateformes de prise de rendez-vous médicaux en ligne se multiplient. Afin de gagner des parts de marché, les acteurs affinent leur stratégie et développent des outils et services pour les professionnels de santé. mind Health dresse un portrait de ce marché en pleine structuration.
+Cet article vous est offert gratuitement par la rédaction, car vous êtes actuellement en période d'essai.
+Vous avez accès à nos contenus pendant 15 jours.
+Découvrez l’offre d’abonnement mind Health
+Les premières plateformes de prise en rendez-vous en ligne sont apparues dans les années 2000. Inspirées par le marché américain, les plateformes françaises ont mis plusieurs années pour pénétrer le marché. L’une des raisons : l’interdiction pour le médecin de réaliser de la publicité, selon une étude de marché réalisée en 2017 par l’Union régionale des professionnels de santé (URPS) médecins libéraux d’Île-de-France. A ce jour, l’URPS médecins libéraux d’Île-de-France recense plus d’une cinqua
+Vous lisez cet article grâce à votre période d’essai.
+Explorez de nouveaux horizons en consultant nos autres verticales :
+mind Media mind Fintech mind RH mind Retail
+Vous lisez cet article grâce à votre abonnement à mind Health.
+Vous avez une information à nous partager ?
+Article à retrouver dans La lettre mind Health n°13
+Chaque mois, retrouvez l'essentiel de nos articles
+Décider : un service de recherche et de market intelligence sur mesure pour alimenter vos analyses et appuyer vos prises de décisions.
+Se rencontrer : des conférences d'une demie journée dédiées aux problématiques du secteur et ouvertes à l'ensemble de l'écosystème.
+Communiquer : des dispositifs sur mesure pour maximiser votre visibilité et engager une communauté de professionnels qualifiés.
+Ce que vous devez absolument lire cette semaine
+Les contenus essentiels de la semaine sélectionnés par la rédaction.
+Innate Pharma réalise une augmentation de capital de 30 M€
+L’info. La biotech Innate Pharma a annoncé le 14 août le succès de son augmentation de capital de 30 millions d’euros (27,6 millions estimés de produit net)...
+La FDA autorise le premier vaccin antigrippal à ARNm
+L’info. Moderna a annoncé le 5 août que la Food and Drug Administration (FDA) américaine a approuvé mFLUSIVA (mRNA-1010), son nouveau vaccin contre la grippe...
+UpDoc inaugure-t-elle l’ère du soin sans médecin ?
+En juin dernier, l’homologation FDA de la solution UpDoc faisait polémique dans l’univers des IA appliquées à la santé. Présentée comme la “première plateforme d'IA clinique agentisée validée par...
+CAR-T in vivo : J&J signe un accord de collaboration avec Sail Biomedicines et prend une option sur son rachat
+L’info. Le laboratoire Johnson &Johnson (J&J) a annoncé le 29 juillet la signature d’un accord de collaboration avec la biotech américaine Sail Biomedicines pour...
+Les articles les plus consultés du mois sur mind Health
+Ce sur quoi les lecteurs cliquent le plus le mois dernier.
+Financement et politique publiqueIndustrieParcours de soins
+Le secteur de la santé, emblématique des dépendances et vulnérabilités numériques de la France
+Le 15 juillet dernier, la commission d’enquête parlementaire sur les dépendances et vulnérabilités numériques de la France rendait public un vaste rapport mettant en lumière l’ensemble des...
+IA : la Région Île-de-France et Servier lancent un AAP visant à accélérer la recherche en oncologie
+L’info. La Région Île-de-France et le groupe pharmaceutique Servier ont annoncé le 23 juillet le lancement d’un appel à projets (AAP) pour...
+La HAS se réorganise pour accompagner les transformations de l’évaluation des technologies de santé
+L’info. La Haute Autorité de santé (HAS) a annoncé le 23 juillet une évolution marquante dans son organisation. La Cellule de coordination des données en...
+Rapport sur les vulnérabilités numériques de la France : un constat alarmant, des propositions radicales
+L’info. Le 15 juillet dernier, la commission d’enquête parlementaire sur les dépendances et vulnérabilités numériques de la France...
+Séquençage génomique : Lauxera Capital Partners investit dans GenePlanet
+L’info. Le fonds d’investissement français Lauxera Capital Partners a annoncé le 30 juillet sa prise de participation dans le capital de la biotech slovène...
+Essayer mind Health gratuitement J’explore les newsletters mind Health

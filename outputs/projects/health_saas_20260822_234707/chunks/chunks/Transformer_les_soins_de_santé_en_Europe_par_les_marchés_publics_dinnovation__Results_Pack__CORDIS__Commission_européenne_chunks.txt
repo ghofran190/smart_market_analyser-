@@ -1,0 +1,233 @@
+
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 948 caractères
+# Tokens: 142
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+[]()Un site web officiel de l’Union européenneUn site officiel de l’UEComment le vérifier?
+Tous les sites web officiels de l’UE utilisent le domaine **europa.eu**.
+Voir tous les organes et institutions de l’UE.
+Les dépenses de santé figurent parmi les postes budgétaires publics les plus élevés et les plus dynamiques de l’UE, ce qui en fait un terrain privilégié pour les marchés publics d’innovation, mais aussi l’un des contextes réglementaires les plus complexes pour les déployer. Ce Results Pack présente neuf projets financés par Horizon, qui montrent comment des besoins non couverts du secteur public peuvent déboucher sur des solutions innovantes et commercialisables, par le biais de marchés publics de R&D structurés.
+![]()© .shock/stock.adobe.com
+Les systèmes de santé européens font face au vieillissement de la population, à la progression de la multimorbidité, aux pénuries de personnel soignant et aux inégalités d’accès aux soins.
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 791 caractères
+# Tokens: 114
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+Parallèlement, les technologies numériques et la médecine personnalisée évoluent plus vite que les systèmes publics ne peuvent les intégrer. L’écart se creuse ainsi entre ce qui est techniquement possible et ce qui est effectivement accessible aux citoyens. Les marchés publics d’innovation comptent parmi les instruments les plus puissants dont dispose l’UE pour combler ce fossé.
+Les marchés publics d’innovation sont un outil stratégique conçu pour aider les pouvoirs publics à formuler des besoins non couverts, à stimuler la créativité du marché et à co-développer des solutions de rupture. Les achats publics avant commercialisation (APC) permettent notamment aux acheteurs publics d’orienter la R&D en amont, là où aucun produit adéquat n’existe encore, favorisant ainsi l’innovation.
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 906 caractères
+# Tokens: 134
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+Les APC réduisent les risques liés au développement de nouveaux produits ou services et à l’adoption de technologies inédites, tout en veillant à ce que les solutions répondent aux exigences cliniques, organisationnelles et sociétales.
+Cette approche lève certains des obstacles les plus tenaces à l’innovation dans le domaine de la santé. Les APC diminuent le risque des investissements publics dans des technologies non éprouvées, en partageant les coûts de R&D avec les fournisseurs et en validant les solutions avant tout déploiement à grande échelle. Ils facilitent également l’accès au marché pour les entreprises, notamment les PME et les start-ups. En dotant les petits innovateurs d’un cadre clair pour affiner leurs produits et gagner la confiance des acheteurs publics, les APC renforcent l’écosystème européen de l’innovation.
+Les bénéfices dépassent le cadre des technologies prises isolément.
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 970 caractères
+# Tokens: 140
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+Les marchés publics d’innovation accélèrent la mise sur le marché de solutions de pointe et transforment les idées prometteuses en résultats concrets. Ceci est particulièrement crucial en santé, secteur où les besoins sont immenses mais le développement d’innovations long et coûteux.
+Cela s’inscrit également dans les grandes ambitions stratégiques de l’Europe: renforcer la compétitivité, réduire la dépendance aux fournisseurs extérieurs, et bâtir des systèmes de santé plus résilients, interopérables et centrés sur le patient.
+À l’heure où l’Europe prépare la prochaine vague de transformation de la santé et des soins, les marchés publics d’innovation s’imposent comme un catalyseur de changement systémique. Le rapport Letta d’avril 2024 «Bien plus qu’un marché»(s’ouvre dans une nouvelle fenêtre) lse décrit comme «l’un des leviers les plus importants pour soutenir les start-ups, les scale-ups et les PME dans le développement de nouveaux produits et services».
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 839 caractères
+# Tokens: 118
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+Le rapport Heitor «Aligner, agir, accélérer»(s’ouvre dans une nouvelle fenêtre)]( espaces d’expérimentation et adaptation de la santé au changement climatique(s’ouvre dans une nouvelle fenêtre)](
+En faisant converger besoins publics et potentiel du marché, cette approche met l’innovation au service de la société, renforce l’autonomie stratégique et améliore concrètement la vie des citoyens et des patients à travers l’Union.
+Les projets présentés dans ce Pack montrent comment les marchés publics axés sur l’innovation permettent de relever un large éventail de défis en matière de santé. Destinés principalement aux personnes souffrant de maladies chroniques, les projets Carematrix PCP et CRANE ont développé des plateformes numériques qui aident les cliniciens, les soignants et les patients à coordonner les soins plus efficacement.
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 735 caractères
+# Tokens: 110
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+Les achats publics avant commercialisation (APC) peuvent également contribuer à renforcer la résilience stratégique au niveau des systèmes et à développer la capacité d’innovation. Afin de garantir la continuité des soins lors de crises telles que les pandémies et les vagues de chaleur, le projet DYNAMO a aidé les autorités sanitaires à se doter d’outils permettant une planification rapide des soins de santé fondée sur les données. Le projet Procure4Health a renforcé l’écosystème autour des marchés publics innovants, aidant les systèmes de santé à passer d’achats ponctuels à des stratégies d’innovation coordonnées et axées sur la demande.
+Les autres projets portaient sur les diagnostics de pointe et la médecine personnalisée.
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Introduction
+# Titre section: Introduction
+# Type: introduction
+# Taille: 411 caractères
+# Tokens: 61
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+Instand NGS4P et oncNGS rationalisent les flux de travail liés au séquençage de nouvelle génération et à la biopsie liquide afin que les connaissances génomiques puissent se traduire en avantages cliniques concrets, tandis que TIQUE et ROSIA étendent cette approche personnalisée à la télésurveillance et à la rééducation, en utilisant l’IA et des systèmes intelligents pour accompagner les patients à domicile.
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Articles connexes
+# Titre section: Articles connexes
+# Type: list
+# Taille: 899 caractères
+# Tokens: 118
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+## Articles connexes
+Transformer les soins chroniques dans l’Europe rurale grâce aux achats publics avant commercialisation\\
+Des flux de diagnostics intégrés pour des soins personnalisés contre le cancer\\
+- ![Économie numérique icon\\
+Des soins intégrés pour éviter l’hospitalisation des patients souffrant d’insuffisance cardiaque\\
+Des achats plus intelligents pour améliorer les soins de santé en Europe\\
+Des solutions numériques offrent des soins holistiques aux patients atteints de multimorbidité\\
+Utiliser les marchés publics pour faire progresser le diagnostic du cancer\\
+Apporter des soins aux communautés isolées d’Europe\\
+Technologies industrielles\\
+Des outils de planification stratégique assurent la continuité des soins\\
+- ![Technologies industrielles icon\\
+Améliorer la qualité de vie des patients atteints d’insuffisance cardiaque chronique grâce à des soins plus intégrés\\
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Télécharger Télécharger le contenu de la page
+# Titre section: Télécharger Télécharger le contenu de la page
+# Type: h2
+# Taille: 177 caractères
+# Tokens: 25
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+## Télécharger Télécharger le contenu de la page
+DOI: (s’ouvre dans une nouvelle fenêtre)10.2830/9676658
+Numéro de catalogue: OA-01-26-022-FR-Q
+Dernière mise à jour: 8 Juin 2026
+
+
+
+================================================================================# Source URL: https://cordis.europa.eu/article/id/465640-transforming-european-healthcare-through-innovation-procurement/fr
+# Document parent: Transformer les soins de santé en Europe par les marchés publics d’innovation | Results Pack | CORDIS | Commission européenne
+# Section: Analyse de l'offre et concurrence
+# Question: Quels sont les modèles de pricing et les stratégies de différenciation adoptés ?
+# Query: études de cas innovation et différenciation plateformes rendez-vous médicaux en ligne Europe
+# Angle: cas pratiques et innovations dans le secteur HealthTech européen
+# Chemin hiérarchique: Votre extraction de données est disponible
+# Titre section: Votre extraction de données est disponible
+# Type: h2
+# Taille: 193 caractères
+# Tokens: 27
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:33:48.136503+00:00
+................................................................................
+
+## Votre extraction de données est disponible
+Votre extraction de données avec l’ID de la tâche
+**TASK\_ID\_PLACEHOLDER**
+est disponible pour téléchargement
+Accéder à mes extractions de données

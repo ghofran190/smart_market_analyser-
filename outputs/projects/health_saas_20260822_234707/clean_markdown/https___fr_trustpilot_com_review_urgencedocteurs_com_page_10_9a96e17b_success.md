@@ -1,0 +1,4 @@
+# Verifying your connection...
+Please wait while we verify your browser.
+Verification failed. Please try again.
+Verification is taking longer than expected.

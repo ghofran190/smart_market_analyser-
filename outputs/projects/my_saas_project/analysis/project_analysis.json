@@ -1,0 +1,43 @@
+{
+    "country": "France",
+    "customer_industry": "Restauration",
+    "product_sector": "Hospitality SaaS",
+    "software_category": "Restaurant Management System (RMS)",
+    "market_category": "Hospitality SaaS Market",
+    "business_model": "B2B SaaS",
+    "target_market": "Restaurants indépendants en France, petites et moyennes tailles, cherchant à digitaliser et optimiser leur gestion opérationnelle",
+    "personas": [
+        "Propriétaires de restaurants indépendants",
+        "gérants",
+        "responsables opérationnels",
+        "chefs de cuisine"
+    ],
+    "value_proposition": "Une plateforme intégrée et intelligente qui simplifie la gestion des commandes, réservations, stocks et analyse des ventes pour les restaurants indépendants, améliorant ainsi leur efficacité opérationnelle et leur rentabilité.",
+    "primary_keywords": [
+        "gestion restaurant",
+        "réservation restaurant",
+        "commande en ligne",
+        "gestion des stocks",
+        "analyse des ventes"
+    ],
+    "secondary_keywords": [
+        "intelligence artificielle",
+        "optimisation opérationnelle",
+        "SaaS restauration",
+        "digitalisation restaurant",
+        "analytics ventes",
+        "gestion commandes",
+        "gestion réservations",
+        "gestion inventaire",
+        "performance commerciale",
+        "solution intégrée"
+    ],
+    "potential_competitors": [
+        "TouchBistro",
+        "Lightspeed Restaurant",
+        "Square for Restaurants",
+        "Tiller Systems",
+        "Zenchef"
+    ],
+    "raw_description": "Je souhaite lancer une plateforme SaaS destinée aux restaurants indépendants en France permettant de gérer les commandes, les réservations, les stocks et l'analyse des ventes grâce à l'intelligence artificielle."
+}

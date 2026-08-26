@@ -1,0 +1,42 @@
+{
+    "country": "France",
+    "customer_industry": "Santé",
+    "product_sector": "HealthTech",
+    "software_category": "Online Medical Appointment Scheduling Software",
+    "market_category": "HealthTech Software Market",
+    "business_model": "B2C SaaS (avec possibilité B2B2C)",
+    "target_market": "Patients et établissements de santé en France, incluant cabinets médicaux, cliniques et hôpitaux, de toutes tailles, cherchant à digitaliser la gestion des rendez-vous et documents médicaux.",
+    "personas": [
+        "Patients utilisateurs finaux",
+        "professionnels de santé (médecins",
+        "infirmiers)",
+        "responsables administratifs des établissements médicaux."
+    ],
+    "value_proposition": "Permettre aux patients de prendre facilement leurs rendez-vous médicaux en ligne, recevoir des rappels automatiques pour ne pas les oublier, et gérer leurs documents médicaux de manière sécurisée, simplifiant ainsi leur parcours de soins.",
+    "primary_keywords": [
+        "prise de rendez-vous médical",
+        "gestion documents médicaux",
+        "rappels automatiques",
+        "santé numérique",
+        "téléconsultation"
+    ],
+    "secondary_keywords": [
+        "sécurité des données médicales",
+        "gestion patient",
+        "digitalisation santé",
+        "application mobile santé",
+        "agenda médical",
+        "conformité RGPD",
+        "expérience patient",
+        "communication patient-médecin",
+        "plateforme santé en ligne"
+    ],
+    "potential_competitors": [
+        "Doctolib",
+        "Maiia",
+        "Keldoc",
+        "Livi",
+        "Qare"
+    ],
+    "raw_description": "Je souhaite développer une application permettant aux patients de prendre des rendez-vous médicaux en ligne, de recevoir des rappels automatiques et de gérer leurs documents médicaux de manière sécurisée"
+}

@@ -1,0 +1,208 @@
+Participez au Concours des dessins de justice en août >
+![retour accueil village]()
+- / Les Actualités juridiques
+- / Droit du numérique et des TIC
+- / Respect de la vie privée et protection des données personnelles
+2. Les Actualités juridiques
+3. Droit du numérique et des TIC
+4. Respect de la vie privée et protection des données personnelles
+!Ajouter à mes alertesS'abonner!Ajouter à mes alertesS'abonner
+!SaaS Sprawl : enjeux juridiques et techniques du modèle SaaS et gouvernance des applications non maîtrisées. Par Mustapha Barry, Avocat.
+Avocat associé au Barreau de Paris
+Droit des Affaires et Propriété Intellectuelle / Startups & Tech (SaaS, IA, FinTech, HealthTech) / Luxe, Mode & Industries Créatives / Événementiel, Image & Presse / Sport & Athlètes
+- Voir le profil de Mustapha Barry
+- Autres articles de l'auteur
+- Droits, obligations et angles morts des contrats de boxe professionnelle en France : guide pratique.\\
+- Influenceurs ≠ mannequins : le Tribunal judiciaire de Bobigny met un coup d’arrêt à l’extension automatique de la présomption de salariat.\\
+- Influencer License UAE 2026 : Navigating New Media Law Requirements for Content Creators and Brands.\\
+# SaaS Sprawl : enjeux juridiques et techniques du modèle SaaS et gouvernance des applications non maîtrisées.
+##### _Par Mustapha Barry, Avocat._
+1500 lectures 1re parution:
+_Explorer :_ \# protection des données personnelles \# conformité réglementaire \# gouvernance des systèmes d'information \# sécurité informatique
+Ce que vous allez lire ici
+**Ce que vous allez lire ici :** X
+Le phénomène de SaaS Sprawl po
+_Description rédigée par l'IA du Village_
+> Le recours aux solutions SaaS (Software as a Service) est aujourd’hui généralisé dans les entreprises, offrant flexibilité et rapidité de déploiement. Cependant, cette prolifération d’applications en ligne entraîne le phénomène du SaaS Sprawl (littéralement enchevêtrement de SaaS), c’est-à-dire l’utilisation non maîtrisée d’un grand nombre d’outils cloud au sein d’une organisation. On parle également de Shadow IT lorsque ces logiciels sont adoptés sans validation ni visibilité par la DSI (direction des systèmes d’information). Cette tendance s’est accentuée avec la facilité d’abonnement en ligne et le télétravail, au point que 65% des applications SaaS utilisées en entreprise ne seraient pas sanctionnées par l’IT (utilisées sans approbation ni suivi centralisé)
+> Si le SaaS offre des avantages certains, son foisonnement incontrôlé comporte de sérieux risques sur le plan juridique et technique. Les entreprises - qu’il s’agisse des DSI, des juristes, des RSSI (responsables de la sécurité des systèmes d’information) ou des directions générales - doivent comprendre ces enjeux pour mettre en place une gouvernance efficace de leurs outils SaaS.
+## Au sommaire de cet article...
+- Les risques liés au SaaS Sprawl : conformité, contrats et sécurité.
+- Non-conformité au RGPD et aux lois sur les données personnelles.
+- Violation d’obligations contractuelles et réglementaires.
+- Failles de sécurité, perte de contrôle et Shadow IT.
+- Obligations de gouvernance des outils SaaS.
+- Bonnes pratiques pour sécuriser l’environnement SaaS.
+- Outils de sécurisation : l’exemple de LastPass SaaS Protect.
+### Les risques liés au SaaS Sprawl : conformité, contrats et sécurité. Retour au sommaire
+Lorsque des équipes utilisent des applications cloud sans contrôle, plusieurs “bombes à retardement” juridiques peuvent survenir. Comme le résume un expert, le Shadow IT n’est pas qu’un problème de sécurité : l’usage d’outils non sanctionnés peut entraîner des violations de conformité, exposer des données sensibles ou rompre des contrats. Tour d’horizon des principaux risques.
+### Non-conformité au RGPD et aux lois sur les données personnelles. Retour au sommaire
+Le risque de non-respect de la réglementation (notamment du RGPD en Europe) est élevé en cas de SaaS Sprawl. En effet, le RGPD impose un strict contrôle sur les données personnelles traitées par l’entreprise, et l’usage d’outils non approuvés fait perdre la maîtrise de ces donnéesh. Par exemple, des employés peuvent stocker des fichiers contenant des informations clients ou RH sur un service cloud non validé, compromettant ainsi la confidentialité requise.
+Le Délégué à la protection des données (DPO) de l’organisation est dans l’incapacité de tenir à jour le registre des traitements ou de s’assurer que les principes de minimisation, finalité et sécurité sont respectés. Comme l’explique un livre blanc, si des informations à caractère personnel sont stockées dans des outils en ligne, le responsable (DPO) doit le savoir, cartographier ces outils et protéger l’accès aux données. Faute de cette visibilité, l’entreprise ne peut garantir la conformité au RGPD : données non inventoriées, mesures de sécurité non vérifiées, durée de conservation non maîtrisée, etc..
+En outre, l’absence de contrôle ouvre la voie à des transferts illégaux de données. Un salarié pourrait, par exemple, utiliser un SaaS situé hors UE sans encadrement juridique adéquat (pas de clauses contractuelles types ni vérification du pays de stockage), entraînant une violation des règles de transferts internationaux. De même, l’entreprise ne signe en général aucun accord de traitement des données (Data Processing Agreement) avec un fournisseur adopté de manière officieuse, alors que le RGPD l’exige pour tout sous-traitant manipulant des données personnelles pour le compte du responsable de traitement.
+Enfin, satisfaire aux demandes de droits des personnes (droit d’accès, effacement, etc.) devient presque impossible si les données sont disséminées dans des applications non recensées. En cas de contrôle ou de fuite de données, la responsabilité légale de l’entreprise serait engagée, avec à la clé de potentielles sanctions de la CNIL (amendes pouvant atteindre 20 millions d’euros ou 4% du CA mondial).
+### Violation d’obligations contractuelles et réglementaires. Retour au sommaire
+Au-delà du RGPD, le SaaS Sprawl peut conduire à des manquements contractuels.
+D’une part, les contrats clients ou partenaires peuvent contenir des clauses de confidentialité ou de sécurité spécifiques (par exemple l’engagement de n’utiliser que des prestataires approuvés, ou de chiffrer certaines données). L’utilisation d’un logiciel cloud non autorisé, sans les garanties prévues, peut constituer une violation de ces engagements contractuels, exposant l’entreprise à des litiges. Certaines conventions imposent en effet le respect de normes de sécurité précises, et le recours à un logiciel non validé peut contrevenir à ces exigences et ainsi exposer l’organisation à des actions en justice.
+D’autre part, dans les secteurs réglementés (santé, finance, défense …), des obligations sectorielles exigent le contrôle des systèmes d’information. Par exemple, une clinique traitant des données de santé via un SaaS non hébergé sur un service agréé HDS violerait la réglementation e-santé. De même, une banque utilisant des applications non approuvées pourrait contrevenir aux directives internes et aux exigences des autorités prudentielles. Le Shadow IT crée ainsi un angle mort dans la conformité de l’organisation, qui peut se retrouver en défaut vis-à-vis de ses audits ou certifications (ISO 27001, PCI-DSS, etc.).
+Enfin, l’adoption de SaaS sans validation pose le problème de l’acceptation de conditions d’utilisation non négociées. Les salariés cliquent souvent sur « j’accepte » pour des contrats d’adhésion standard, pouvant contenir des clauses désavantageuses (choix de loi étrangère, limitation de responsabilité du fournisseur, autorisation de sous-traitance illimitée…). L’entreprise utilisatrice, n’ayant pas négocié ces termes, se prive de garanties essentielles. La CNIL relevait d’ailleurs que le cloud soulève des difficultés juridiques accrues lorsque les offres sont standardisées et non négociables : manque de transparence du prestataire sur la sécurité et la localisation des données, clauses contractuelles imposées, etc.. En cas d’incident (perte de données, indisponibilité du service), l’entreprise pourrait découvrir qu’elle n’a que très peu de recours juridiques du fait de ces conditions acceptées à la légère.
+### Failles de sécurité, perte de contrôle et Shadow IT. Retour au sommaire
+Le risque technique est naturellement majeur : multiplier des outils SaaS non maîtrisés crée un enchevêtrement de failles potentielles. Chaque application additionnelle élargit la surface d’attaque de l’entreprise. Quand le service informatique ignore l’existence d’un outil, il ne peut pas vérifier son niveau de sécurité (chiffrement, gestion des accès, correctifs, certifications…) ni l’intégrer aux dispositifs de protection existants. Ce défaut de visibilité sur les flux et stockages de données peut cacher des vulnérabilités sérieuses. Par exemple, un collaborateur utilisant un SaaS de partage de fichiers non supervisé peut sans le savoir exposer des documents sensibles si l’outil est mal sécurisé ou s’il subit une brèche de données.
+Par ailleurs, le Shadow IT complique la gestion des accès utilisateurs. Des employés qui quittent l’entreprise ou changent de poste peuvent conserver indûment l’accès à des comptes SaaS non gérés par la DSI. Cela contrevient au principe de contrôle d’accès strict et crée un risque d’accès illégitime (un ancien employé disposant encore de droits actifs, par exemple). De plus, 78% des utilisateurs réutilisent le même mot de passe sur plusieurs comptes. Si un collaborateur emploie des identifiants faibles ou recyclés sur une application non suivie, le risque de compromission augmente drastiquement. Or, comme on le dit souvent, l’IT ne peut pas protéger ce qu’elle ne connaît pas, des ressources inconnues restent hors du périmètre de défense, laissant des données sensibles exposées et la conformité en péril.
+Enfin, le SaaS Sprawl peut engendrer des dysfonctionnements opérationnels. La redondance d’outils aux fonctionnalités similaires (par exemple plusieurs applications de gestion de projet ou de visioconférence concurrentes utilisées simultanément) complique la supervision technique et peut provoquer des incohérences (données dupliquées, intégrations manquantes entre silos d’outils). Des études estiment ainsi que les PME utilisent en moyenne 275 applications SaaS différentes, parfois jusqu’à dix fois plus que ce que l’on imagine, si l’on compte toutes les apps non officielles.
+Cette fragmentation pèse sur la productivité (multiplication des comptes à gérer, difficultés de support) et sur le budget (abonnements redondants non optimisés).
+Pour l’entreprise, c’est un gâchis financier et un risque d’inefficacité en plus des enjeux de conformité et de sécurité.
+### Obligations de gouvernance des outils SaaS. Retour au sommaire
+Face à ces risques, les entreprises ont la responsabilité de mettre en place une gouvernance rigoureuse de l’usage des logiciels cloud. Sur le plan légal, plusieurs textes imposent un pilotage maîtrisé des sous-traitants et des données. Le RGPD, en particulier, consacre le principe de responsabilisation (accountability) : il appartient à l’organisation de démontrer qu’elle contrôle ses traitements de données personnelles et respecte les exigences de sécurité. Cela se traduit par l’obligation de tenir un registre des applications et services utilisés pour traiter des données personnelles, d’évaluer les risques (analyses d’impact si nécessaire) et de formaliser des contrats de sous-traitance conformes à l’article 28 du RGPD avec chaque fournisseur SaaS concerné.
+L’entreprise doit s’assurer que chaque application utilisée offre un niveau de protection adéquat et permet de respecter les droits des personnes (droit à l’effacement, portabilité, etc.), faute de quoi elle s’expose à des sanctions. En France, la CNIL recommande explicitement aux entreprises réalisant des traitements dans le cloud de procéder à une analyse de risques préalable et de choisir des prestataires apportant toutes les garanties de conformité (sécurité, localisation des données, réversibilité…). Une entreprise ne peut se retrancher derrière l’ignorance : si un collaborateur transfère des données clients sur un SaaS tiers, l’entité légale demeure responsable en cas d’incident.
+Outre la protection des données personnelles, une gouvernance saine des outils IT fait partie des principes généraux de sécurité informatique attendus des entreprises.
+L’article L2323-32 du Code du travail (pour la France) oblige par exemple l’employeur à informer et consulter le CSE lors de l’introduction de nouvelles technologies susceptibles d’impacter les salariés, ce qui peut inclure de nouveaux logiciels. Ne pas encadrer ces introductions via une charte ou des directives internes pourrait être considéré comme un manquement. Plus largement, les bonnes pratiques de l’ANSSI et les normes comme l’ISO 27002 encouragent la mise en place d’une politique d’usage des ressources informatiques comprenant la gestion des installations de logiciels et services cloud. Cela implique d’établir des règles sur qui peut installer ou souscrire à de nouveaux outils et selon quel processus d’approbation.
+Du point de vue de la gouvernance interne, les entreprises sont tenues d’édicter des politiques et procédures pour gérer leur parc applicatif. Il est attendu du top management et de la DSI qu’ils instaurent un cadre (souvent via une charte informatique et des procédures associées) précisant les outils autorisés, les processus d’évaluation des nouveaux SaaS, et les contrôles mis en œuvre. Cette gouvernance doit aussi définir les rôles de chacun : par exemple, le service IT central doit avoir la charge de répertorier et normaliser l’usage des SaaS dans l’entreprise, en lien avec le service Juridique/Conformité pour valider les contrats et le DPO pour la conformité RGPD. Ignorer ce devoir de contrôle interne équivaut à laisser prospérer un environnement hors maîtrise, ce qui est incompatible avec les exigences actuelles en matière de sécurité et de conformité. À l’inverse, une bonne gouvernance SaaS permettra non seulement de réduire les risques juridiques, mais aussi de tirer pleinement parti des outils numériques tout en respectant les obligations réglementaires et contractuelles.
+### Bonnes pratiques pour sécuriser l’environnement SaaS. Retour au sommaire
+Afin de maîtriser le SaaS Sprawl, les entreprises ont intérêt à combiner des mesures organisationnelles, juridiques et techniques. Voici les principales bonnes pratiques recommandées pour sécuriser l’usage des applications SaaS :
+- Mettre en place une politique interne claire : adoptez une politique de gestion des SaaS formalisée (par exemple sous la forme d’une charte validée par la direction). Celle-ci doit définir les règles d’usage des logiciels cloud (procédure d’approbation préalable, critères de choix des fournisseurs, types d’outils interdits ou restreints, etc.). Communiquez largement cette politique afin que chaque collaborateur comprenne l’importance d’utiliser des outils approuvés et les implications juridiques en cas de non-respect. Une politique claire décourage le shadow IT en fixant un cadre connu de tous.
+- Centraliser l’inventaire des applications : vous ne pouvez contrôler que ce que vous connaissez. Menez régulièrement des audits de votre environnement IT pour détecter les applications utilisées sans validation. Pour ce faire, recoupez plusieurs sources : listes des dépenses (notes de frais liées à des abonnements SaaS), scans du réseau ou des logs de proxy, sondages internes, etc. L’objectif est d’établir une cartographie complète des SaaS présents dans l’entreprise (y compris les outils “oubliés”). Une fois cet inventaire réalisé, tenez-le à jour et identifiez pour chaque application : son propriétaire interne, les données manipulées, le niveau de risque, l’existence (ou non) d’un contrat/DPA, etc. Cette visibilité est essentielle pour combler les brèches de sécurité et de conformité : « la clé est la visibilité : plus vous voyez, plus vous êtes protégés ».
+- Contrôler les accès et les identités : limitez l’exposition des données en appliquant le principe du moindre privilège. Chaque utilisateur ne devrait accéder qu’aux applications et fonctionnalités dont il a besoin, et rien de plus. Établissez des processus pour accorder et retirer rapidement les accès (notamment lors des arrivées et départs de collaborateurs). L’intégration des applications au SSO (Single Sign-On) de l’entreprise est un bon moyen de centraliser l’authentification et de faciliter la révocation des comptes en un clic. Toutefois, gardez à l’esprit que le SaaS Sprawl pose aussi des défis au-delà du SSO (par ex. visibilité sur les coûts, identification de tous les outils en usage). Il faut donc combiner le SSO avec d’autres mesures de suivi. Enfin, imposez l’authentification multifacteur sur les applications sensibles pour réduire le risque de compromission de compte.
+- Évaluer juridiquement et sécuritairement chaque nouvel outil : avant d’adopter un SaaS, soumettez-le à un processus d’évaluation impliquant la DSI, le RSSI et le service Juridique/Conformité. Vérifiez les conditions générales du fournisseur (lieu d’hébergement des données, clauses de confidentialité, réversibilité…), exigez la signature d’un contrat de sous-traitance (DPA) conforme si des données personnelles sont en jeu, et évaluez les mesures de sécurité (chiffrement, certifications type ISO 27001 ou SecNumCloud, etc.). N’hésitez pas à questionner le prestataire via un questionnaire de sécurité. Ce filtrage en amont permet de n’autoriser que des outils respectant vos standards de conformité. Documentez cette démarche pour démontrer, en cas d’audit, que l’entreprise maîtrise la chaîne de sous-traitance (traçabilité des validations d’outils).
+- Former et responsabiliser les employés : la sensibilisation est un pilier pour lutter contre le shadow IT. Réalisez des formations régulières pour expliquer aux équipes les risques encourus à utiliser des applications non validées (perte de données, non-conformité RGPD, atteinte aux secrets d’entreprise, etc.). Mettez en avant des exemples concrets d’incidents évités ou de failles découvertes liées à un usage non maîtrisé (par exemple, un employé qui utilisait un tableur en ligne gratuit pour stocker des données clients sensibles). Insistez sur le fait que la sécurité et la conformité sont l’affaire de tous, et créez un climat de confiance où les collaborateurs peuvent signaler spontanément l’utilisation d’un nouvel outil sans crainte de sanction. Faites de l’IT un partenaire à l’écoute des besoins métiers : si une équipe a recours à un SaaS sans autorisation, c’est souvent qu’aucune solution officielle ne répond à son besoin. En comprenant ces besoins, la DSI peut proposer des alternatives approuvées ou encadrer l’adoption de l’outil de manière conforme. Cet esprit d’ouverture réduira fortement l’attrait du Shadow IT.
+- Utiliser des outils de détection et de sécurisation du Shadow IT : en complément des mesures organisationnelles, des solutions technologiques dédiées peuvent aider à identifier et contrôler les applications SaaS en usage. Historiquement, les CASB (Cloud Access Security Brokers) offrent ce type de visibilité en interceptant le trafic cloud pour repérer les services utilisés et en permettant d’appliquer des politiques de sécurité (blocage de certaines applications, chiffrement des données, etc.). De même, des outils de SaaS Management Platform (SMP) émergent pour aider à la gestion du parc SaaS (découverte automatique des abonnements, analyses d’utilisation, gestion des licences). Par exemple, la solution française Corma scanne automatiquement l’environnement IT afin de fournir une « visibilité à 100% sur les SaaS » utilisés, y compris la Shadow IT. L’adoption de tels outils, adaptés à la taille et aux ressources de votre organisation, permet de passer d’une visibilité purement passive à une maîtrise proactive du SaaS Sprawl.
+### Outils de sécurisation : l’exemple de LastPass SaaS Protect. Retour au sommaire
+LastPass SaaS Protect propose aux entreprises une visibilité en temps réel et un contrôle proactif sur l’usage des applications SaaS. Lancé en 2025, cet outil s’appuie sur l’extension LastPass installée dans les navigateurs des employés pour surveiller les connexions aux applications cloud sans nécessiter d’agent lourd sur les postes.
+Concrètement, dès qu’un salarié accède à une application web, la solution détecte l’adresse et la compare aux règles définies par l’administrateur. Cela permet à la DSI de bloquer l’accès à des applications non sanctionnées ou jugées à haut risque, ou bien d’afficher un avertissement personnalisé à l’utilisateur tout en lui laissant la possibilité de poursuivre. L’outil transforme ainsi la simple visibilité en action immédiate : plutôt que de subir le Shadow IT, l’entreprise peut intervenir _in situ_ lors de l’usage d’un SaaS non approuvé (message d’alerte, interruption de la connexion, etc.), sans pour autant brider l’autonomie des équipes lorsque l’outil est légitime.
+LastPass SaaS Protect fournit en parallèle des bénéfices précieux en matière de gouvernance.
+D’une part, il génère des rapports centralisés sur l’utilisation des applications (qui utilise quoi, quand, fréquence d’accès), ce qui facilite les audits de conformité et la mise en place de contrôles internes. Ces rapports sont pensés pour être « audit-ready », alignés sur les référentiels comme SOC 2 ou d’autres cadres normatifs. En cas de contrôle réglementaire ou de certification, l’entreprise peut ainsi produire des éléments concrets démontrant sa maîtrise de l’environnement cloud (liste des applications autorisées, trace des tentatives d’accès bloquées, etc.).
+D’autre part, l’outil aide à optimiser le parc applicatif en repérant les doublons ou les abonnements sous-utilisés, contribuant à réduire le gaspillage et à rationaliser les dépenses SaaS.
+Cette optimisation a aussi une valeur juridique indirecte : en réduisant le nombre d’applications redondantes, on réduit d’autant les vecteurs de risque et on simplifie le respect des obligations (moins de contrats à gérer, moins de points de fuite potentiels).
+Sur le plan de la sécurité des données, LastPass SaaS Protect apporte une couche de protection additionnelle. Il s’appuie sur les fonctionnalités du gestionnaire d’identités LastPass pour surveiller l’hygiène des mots de passe (détection des mots de passe faibles ou réutilisés sur les comptes SaaS). On l’a vu, la réutilisation d’identifiants est un facteur critique : l’outil peut alerter lorsqu’un utilisateur emploie un mot de passe compromis sur une application non gérée, évitant ainsi que des identifiants divulgués ne servent de clé d’entrée aux attaquants sur des applications fantômes. De plus, en bloquant l’accès à des services jugés trop risqués, il prévient le téléchargement de données d’entreprise vers des plateformes non conformes, limitant les transferts non autorisés de données sensibles.
+Du point de vue juridique et conformité, un outil comme LastPass SaaS Protect constitue un atout considérable. Il offre une traçabilité fine de qui accède à quelles applications, à quel moment, une exigence clé pour le principe d’accountability. Cette traçabilité permet de reconstituer le fil des traitements en cas d’incident (en sachant précisément si telle donnée client s’est retrouvée sur un SaaS non approuvé, et par qui), ce qui facilite les enquêtes internes et les rapports à la CNIL en cas de violation.
+L’outil assure en outre un contrôle d’accès centralisé conforme à l’article 32 du RGPD (mesures de sécurité adaptées), en donnant à l’entreprise les moyens concrets de restreindre l’accès aux services non autorisés ou d’en conditionner l’usage à l’affichage d’un avertissement de conformité. Enfin, la capacité à générer des rapports de gouvernance “prêts pour audit” aide l’organisation à prouver sa conformité lors de vérifications : par exemple, démontrer à un auditeur que « telle application non approuvée a été bloquée pour tous les utilisateurs et aucune donnée sensible n’y a transité » grâce à la politique en place.
+C’est exactement le type de pratique qui contribue à bâtir un programme de sécurité juridiquement défendable, c’est-à-dire capable de résister à l’examen d’un tribunal ou d’un régulateur. En somme, en donnant de la clarté là où régnait le chaos, des outils comme LastPass SaaS Protect permettent aux entreprises de garder une longueur d’avance sur les risques du SaaS Sprawl, sans alourdir la charge opérationnelle (la solution étant intégrée à des outils existants et automatisée autant que possible).
+### Conclusion. Retour au sommaire
+Le modèle SaaS représente un formidable levier d’agilité pour les entreprises modernes, à condition d’en garder la maîtrise. Le phénomène de SaaS Sprawl, cette prolifération d’applications adoptées de manière diffuse, est aujourd’hui au cœur des préoccupations combinées des DSI, des juristes d’entreprise et des dirigeants. En effet, laisser prospérer un Shadow IT incontrôlé n’est plus une option : les risques de non-conformité, de brèches de sécurité et de dérapages contractuels sont trop élevés dans un contexte réglementaire de plus en plus strict. À l’inverse, en prenant des mesures proactives, il est possible de dompter le foisonnement de logiciels cloud et de transformer cette utilisation en un avantage compétitif sécurisé.
+En synthèse, les organisations gagneront à instaurer une culture de gouvernance du numérique : définition de politiques internes claires, sensibilisation continue du personnel, et collaboration étroite entre l’IT, le juridique et les métiers pour concilier innovation et conformité. Parallèlement, le recours à des outils spécialisés, qu’il s’agisse de plateformes de gestion des SaaS, de CASB ou de solutions intégrées comme LastPass SaaS Protect, permet de doter l’entreprise d’un œil vigilant sur son écosystème cloud et d’un bras armé pour intervenir en temps réel. Une telle approche hybride, mêlant gouvernance humaine et assistée par la technologie, apporte non seulement la sérénité sur le plan juridique (risques maîtrisés, conformité démontrable), mais également des gains opérationnels (sécurité renforcée, rationalisation des coûts, amélioration de l’efficacité).
+En définitive, maîtriser le SaaS Sprawl revient à reprendre le contrôle de son patrimoine applicatif dans le cloud. C’est assurer que chaque brique logicielle utilisée l’est dans un cadre conforme aux lois et aux contrats, et que les données de l’entreprise, son capital informationnel, ne s’éparpillent pas au mépris des règles.
+Avec une gouvernance adaptée et les bons outils, les entreprises peuvent continuer à innover et à se digitaliser via des services SaaS, en toute confiance et en toute conformité. Les DSI et RSSI pourront alors dire adieu aux zones d’ombre du Shadow IT, au profit d’un environnement cloud éclairé, sécurisé et juridiquement pérenne.
+##### Mustapha Barry Avocat associé au Barreau de Paris Cabinet Barry Avocats www.barryavocat.fr contact@barryavocat.fr Droit des Affaires et Propriété Intellectuelle / Startups & Tech (SaaS, IA, FinTech, HealthTech) / Luxe, Mode & Industries Créatives / Événementiel, Image & Presse / Sport & Athlètes
+poser une question privée![]()
+## Interagir avec l'auteur !
+Demander une réponse personnalisée et privée à l'auteur
+Bienvenue sur le village de la justice
+Vous pouvez envoyer une demande personnalisée privée à l'auteur, si ce bouton apparaît : ![]()
+Recommandez-vous cet article ?
+Donnez une note de 1 à 5 à cet article :
+L'auteur déclare ne pas avoir utilisé l'IA générative pour la rédaction de cet article.
+Cet article est protégé par les droits d'auteur pour toute réutilisation ou diffusion ( plus d'infos dans nos mentions légales\] leto.legal.
+" **Ce que vous allez lire ici**". La présentation de cet article et seulement celle-ci a été générée automatiquement par l'intelligence artificielle du Village de la Justice. Elle n'engage pas l'auteur et n'a vocation qu'à présenter les grandes lignes de l'article pour une meilleure appréhension de l'article par les lecteurs. Elle ne dispense pas d'une lecture complète.
+_Explorer :_\# protection des données personnelles \# conformité réglementaire \# gouvernance des systèmes d'information \# sécurité informatique
+![]( "sanctions-des-professionnels-sante-par-cnil-2024-etat-des-lieux-enseignements,52438.html")
+Sanctions des professionnels de santé par la CNIL en 2024 : état des lieux et enseignements. Par Jessy Pollux, Avocate. _lire la suite_
+![]( "intelligence-artificielle-protection-des-donnees-personnelles-entre,51446.html")
+Intelligence artificielle et protection des données personnelles : entre opportunités et conformité. Par Manon Hottin, Juriste. _lire la suite_
+![]( "protection-mineur-egard-des-atteintes-menacant-ses-donnees-personnelles-droit,33494.html")
+La protection du mineur à l’égard des atteintes menaçant ses données personnelles en droit tunisien. Par Mohamed Gargouri, Juriste. _lire la suite_
+![]( "dossier-rgpd-souffle-premiere-bougie,31604.html")
+[\[Dossier\] Le RGPD souffle sa première bougie !]() _lire la suite_
+[\[Point de vue\] Données personnelles, FICOBA, ANTS, Impôts.gouv : la grande évasion ? Par Caroline Diard, Enseignante-chercheur.]()
+Véhicules électriques : un cadre juridique ambitieux mais confus : quelle articulation entre RGPD, DATA ACT ET AI ACT ? Par Williams Ahite, Docteur en droit.
+Donner ses données sans se donner : le défi à l’ère de l’IA. Par Céline Dogan, Avocat et Klaudia Brylinska, Étudiante en Droit.
+[\[Point de vue\] Facturation électronique : ce que le parcours officiel ne dit pas aux entreprises. Par Arnaud Franchini.]()
+Véhicule électrique : comment protéger vos données ? Par Paul Génébès, Juriste.
+La conformité RGPD des petites structures à l’épreuve de l’intelligence artificielle. Par Cyprien Alloy, Etudiant en droit.
+!Village de la justice et du Droit
+Aujourd'hui: 158 300 membres,
+articles, 127 420 messages sur les forums, 1 650 annonces d'emploi et stage... et 1 000 000 visites du site par mois en moyenne. \*
+• Retour d'expérience d'un juriste curieux au milieu de la jungle de l'innovation juridique (en route pour Transfodroit 2026)..")
+• Participez au 16e concours des Dessins de justice : "En tant que professionnel du Droit, étudiant ou acteur de la Justice, quelle serait votre rentrée idéale ?"
+Tous les Articles publiés
+| 22/08Assistez aux Assises de la réputation numérique 2026. |
+| [21/08\[Maroc\] La force obligatoire du contrat à l’épreuve des procédures collectives : le cas du bail commercial.]() |
+| [21/08\[Podcast spécial jeunesse\] Les Odyssées de France Inter célèbrent Robert Badinter et Simone Veil.]() |
+| 21/08Négociations commerciales 2027 et loi d’urgence agricole du 18 août 2026 : quelles nouveautés à anticiper ? |
+| 21/08Arrêté préfectoral de suspension, retrait et rappel de votre gamme cosmétique : que faire quand votre activité est à l’arrêt ? |
+| 21/08Le maire de Chartres peut-il empêcher Patrick Bruel de commencer sa tournée dans sa ville ? |
+| 21/08Simplifier la vie des collectivités locales : ce que change le décret du 27 juillet 2026. |
+| 21/08Retour d’expérience d’un juriste curieux au milieu de la jungle de l’innovation juridique (en route pour Transfodroit 2026). |
+| 21/08Guide de la défense disciplinaire dans l’enseignement supérieur privé. |
+| 21/08Clause résolutoire : préciser les obligations ne signifie pas les énumérer. |
+| Fuite de données à la DGFiP (Direction générale des finances publiques) : ce que l’État devra prouver.\ \ 100 |
+| Décret Magicobus III : simplifier la procédure civile sans relâcher la vigilance.\ \ 76 |
+| Virement bancaire et investissement en crypto-actifs : la banque simple exécutante échappe au devoir de mise en garde.\ \ 44 |
+| La responsabilité de l’avocat : les évolutions jurisprudentielles récentes.\ \ 41 |
+| Droit à l’aide à mourir : la loi est publiée au Journal officiel et instaure un nouveau cadre juridique.\ \ 41 |
+| Simplifier la vie des collectivités locales : ce que change le décret du 27 juillet 2026.\ \ 38 |
+| Le maire de Chartres peut-il empêcher Patrick Bruel de commencer sa tournée dans sa ville ?\ \ 38 |
+| Clause résolutoire : préciser les obligations ne signifie pas les énumérer.\ \ 36 |
+Juriste affaires sociales (F/H)
+Juriste unique confirmé (H/F)
+Assistant(e) Jurdique H/F Anglais bilingue
+Gestionnaire recouvrement contentieux F/H - CDD 4 mois
+Juriste droit des affaires/ distribution - Franchise (H-F)
+Juriste affaires/Cabinet de conseil en stratégie (F/H)
+Avocat(e) droit des affaires / immobilier
+Assistant de direction H/F Anglais bilingue
+Assistant de direction - anglais bilingue H/F
+Avocat collaborateur en droit immobilier F/H
+Talent Acquisition Specialist - Anglais courant H/F
+Source : formations-juridiques.com
+| 20/08/2026 Webinaire : la conformité avec Nira, l’IA agentique de NAVEX. - Agenda |
+| 07/09/2026 Gestion d’un cabinet d’avocat : les fondamentaux - Lamy Liaisons Académie |
+| 07/09/2026 Executive Summer School de l’EDHEC Business School : « L’IA en question : du discernement à l’action responsable » - (...) |
+| 16/09/2026 Parcours Juriste augmenté - Lamy Liaisons Académie |
+| 21/09/2026 Actualités et dispositions testamentaires - Lamy Liaisons Académie |
+| 21/09/2026 Douane : nomenclature, origine et valeurs - Lamy Liaisons Académie |
+| 24/11/2026 10è RDV des Transformations du droit - LEGI TEAM |
+Professionnels du droit et autres inscrits
+![Réseau de professionnels du Droit\\
+Réseau de professionnels du Droit]()
+![Facilite l'accès aux professions du Droit\\
+Facilite l'accès aux professions du Droit]()
+![Bien plus que du droit.\\
+Bien plus que du droit.]()
+![Association pour la prévention positive des cyberviolences\\
+Association pour la prévention positive des cyberviolences]()
+Aménagement des espaces de travail]()
+Logiciels pour professionnels du droit.]()
+Editeur juridique et de solutions de gestion pour les métiers du droit]()
+Offres pour les métiers du droit]()
+Votre présence digitale]()
+Gestion de la propriété intellectuelle]()
+Logiciels de conformité, risques et éthique]()
+Association de gestion et de comptabilité pour Avocats]()
+Lettre recommandée électronique]()
+Auditez vos contrats !]()
+Gestion contractuelle augmentée]()
+Aides et Conseils à l'installation des avocats.]()
+Créateur de confiance juridique]()
+AI-powered Contract Management]()
+Traducteurs assermentés]()
+Solutions d'informations pour professionnels du droit.]()
+![Se former aux métiers du Droit\\
+Se former aux métiers du Droit]()
+![L’école des nouveaux juristes !\\
+L’école des nouveaux juristes !]()
+![La Compétence juridique se recrute !\\
+La Compétence juridique se recrute !]()
+![Des formations spécialisées\\
+Des formations spécialisées]()
+![Se former est une chance !\\
+Se former est une chance !]()
+![Formations courtes ou longues à destination des professionnels du droit\\
+Formations courtes ou longues à destination des professionnels du droit]()
+![Développeur de compétences, incubateur de formations\\
+Développeur de compétences, incubateur de formations]()
+Nouveautés de l'édition juridique:
+Code annoté LexisNexis : textes à jour au 5 mai 2026.
+La Semaine Juridique - Edition Générale
+Le magazine scientifique du droit
+Sélection Liberalis du week-end : Meung-sur-Loire et son château aux deux visages.
+Sélection Liberalis des vacances : le parc oriental de Maulévrier, une âme d’Extrême-Orient en Anjou.
+[\[Peinture\] La Justice vue par l’artiste-peintre Cassou.]()
+![Régulièrement nous partageons ici avec vous quelques images du net...]()
+A voir et à Écouter... sur le Village de la justice:
+!- [\[Podcast spécial jeunesse\] Les Odyssées de France Inter célèbrent Robert Badinter et Simone Veil.]( "[Podcast spécial jeunesse] Les Odyssées de France Inter célèbrent Robert Badinter et Simone Veil. ")
+!-Web TV et chaînes vidéo des acteurs du Droit : la sélection du Village.
+!-Écoutez les podcasts du Village de la Justice.
+!-[\[Podcast\] "Quid juris" : Iran-États-Unis, négociations ou impasse ?]( "[Podcast] ")
+Le Village de la justice est le 1er site de la communauté des métiers du Droit, en accès libre, créé en 1997 ( en savoir plus
+Fil RSS général du Village
+Mentions légales - CGV - CGU
+Plan du Village de la Justice

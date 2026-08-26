@@ -1,0 +1,426 @@
+
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: GPS Santé RDV médicaux
+# Titre section: GPS Santé RDV médicaux
+# Type: h1
+# Taille: 986 caractères
+# Tokens: 144
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# GPS Santé RDV médicaux
+Gratuit · Conçue pour iPad. Non validée pour macOS.
+\\* Trouvez facilement un médecin ou un praticien parmi les milliers de professionnels de santé répartis sur toute la France: généralistes, pédiatres, cardiologues, gynécologues, ostéopathe, psychiatre, etc.
+\\* Consultez les créneaux de disponibilités des professionnels de santé
+\\* Vos Réservez rendez-vous en ligne 24h / 24 et 7j / 7 pour une consultation au cabinet ou via la téléconsultation (vidéo ou téléphonique)
+\\* Recevez des rappels automatiques (SMS et e-mail) pour n'oublier aucun rendez-vous
+\\* Communiquez directement avec vos praticiens via une messagerie sécurisée
+\\* Trouver des informations pratiques sur les spécialités disponibles (adresse du cabinet, tarifs, moyens de paiement acceptés, etc.)
+La téléconsultation avec GPSSanté, comment ça marche? Téléconsultez votre praticien où que vous soyez depuis votre iPhone, iPad ou Mac en toute simplicité.
+1\. Nouveau patient sur GPSSanté?
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: GPS Santé RDV médicaux
+# Titre section: GPS Santé RDV médicaux
+# Type: unstructured
+# Taille: 913 caractères
+# Tokens: 139
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+Inscrivez-vous, c'est totalement gratuit. Une fois sur votre espace, recherchez le médecin ou le praticien de votre choix et fixez votre rendez-vous en quelques clics
+2\. À l'heure du rendez-vous, cliquez sur le bouton rose téléconsultation pour entrer dans une salle de consultation virtuelle. Votre caméra s'active
+3\. Attendez que votre praticien se connecte (il peut avoir un peu de retard, veuillez patienter, vous êtes dans une salle d'attente virtuelle.)
+4\. Une fois votre praticien en ligne, la consultation peut avoir lieu
+Comment payer sa téléconsultation?
+Pour régler une téléconsultation, plusieurs options sont disponibles, suivant le choix du praticien:
+\\* En prépaiement: transaction entièrement sécurisée, vous ne serez débité que le jour de votre consultation
+\\* En attribuant votre numéro de carte bancaire à votre praticien à la fin de votre consultation
+\\* Par envoi de chèque de paiement.
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: GPS Santé RDV médicaux
+# Titre section: GPS Santé RDV médicaux
+# Type: unstructured
+# Taille: 936 caractères
+# Tokens: 139
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+Il est possible qu'un praticien désactive le paiement pour les patients pris en charge à 100%.
+À noter que la téléconsultation est prise en charge par les assurances maladies au même titre que les consultations physiques.
+Nos praticiens proposent la téléconsultation conformément à la directive de la CPAM
+La messagerie sécurisée, c'est quoi?
+Développée dans le respect du secret médical, la messagerie sécurisée vous permet d'échanger avec vos praticiens en toute confidentialité.
+Avec cet outil, communiquez facilement avec vos praticiens à tout moment, que ce soit pour une question liée à votre traitement, échanger des documents médicaux comme les résultats d'analyse, un renouvellement d'ordonnance ... sans avoir à vous déplacer.
+C'est aussi via la messagerie sécurisée que votre praticien vous transmettra le compte-rendu de votre téléconsultation et votre ordonnance ou votre arrêt de travail.
+Vous êtes professionnel de santé?
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: GPS Santé RDV médicaux
+# Titre section: GPS Santé RDV médicaux
+# Type: unstructured
+# Taille: 595 caractères
+# Tokens: 94
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+GPSSanté vous aide à simplifier votre travail pour que vous puissiez vous consacrer à votre véritable corps de métier.
+Nous mettons à votre disposition un outil complet et facile à utiliser pour gérer efficacement votre activité, sans aucun engagement de durée et au juste prix
+\\* Augmentez votre visibilité et vos revenus avec une page web personnalisée GPSSanté.
+\\* Soyez assuré du paiement de chaque prestation effectuée
+\\* Facilitez-vous le quotidien avec notre agenda en ligne qui s’adapte à votre activité et est accessible à tout moment sur n’importe quel terminal (iPhone, iPad, Mac).
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: GPS Santé RDV médicaux
+# Titre section: GPS Santé RDV médicaux
+# Type: list
+# Taille: 849 caractères
+# Tokens: 133
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+Aucune installation n’est nécessaire
+\\* Communiquez avec vos patients, mais aussi entre confrères grâce à la messagerie sécurisée
+\\* Proposez la téléconsultation à vos patients avec notre outil intégré, plus besoin d’une application ou d’un logiciel externe, tout est déjà inclus
+\\* Libérez-vous du temps de secrétariat en nous confiant l’accueil de vos patients grâce à notre service de permanence téléphonique médicale
+Pour en savoir plus, contactez-nous:
+- Une vraie galère pour cette application !!! Elle plante une fois sur deux !!! Impossible de se connecter via l’appli, il faut donc passer par internet !!! On est en 2026, et l’appli n’est toujours pas au point !!!! Dommage qu’il faille passer par GPS Santé pour réserver chez certains praticiens, les autres applications de santé sont beaucoup plus fiable et fonctionnent bien mieux !!!
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Plante régulièrement !
+# Titre section: Plante régulièrement !
+# Type: list
+# Taille: 492 caractères
+# Tokens: 83
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Plante régulièrement !
+Une vraie galère pour cette application !!! Elle plante une fois sur deux !!! Impossible de se connecter via l’appli, il faut donc passer par internet !!! On est en 2026, et l’appli n’est toujours pas au point !!!! Dommage qu’il faille passer par GPS Santé pour réserver chez certains praticiens, les autres applications de santé sont beaucoup plus fiable et fonctionnent bien mieux !!!
+- Bravo pour les changements apportés à l’application elle est bcp plus fluide !
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Good job
+# Titre section: Good job
+# Type: list
+# Taille: 276 caractères
+# Tokens: 46
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Good job
+Bravo pour les changements apportés à l’application elle est bcp plus fluide !
+- Concurrencer Doctolib c’est bien. Mais proposer une application ergonomique et logiques dans le passage d’un écran à un autre. La connexion à notre compte n’est pas non plus intuitive.
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Conçue un dimanche soir
+# Titre section: Conçue un dimanche soir
+# Type: list
+# Taille: 266 caractères
+# Tokens: 44
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Conçue un dimanche soir
+Concurrencer Doctolib c’est bien. Mais proposer une application ergonomique et logiques dans le passage d’un écran à un autre. La connexion à notre compte n’est pas non plus intuitive.
+- Cette application, elle est pas très pratique de tout
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Améliorer votre application
+# Titre section: Améliorer votre application
+# Type: list
+# Taille: 169 caractères
+# Tokens: 27
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Améliorer votre application
+Cette application, elle est pas très pratique de tout
+- Application pas souvent mise à jour, plante régulièrement rien a voir avec Doctolib
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Instable
+# Titre section: Instable
+# Type: list
+# Taille: 193 caractères
+# Tokens: 32
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Instable
+Application pas souvent mise à jour, plante régulièrement rien a voir avec Doctolib
+- L’application met un temps fou à s’ouvrir et parfois se referme aussitôt. Elle bug en permanence
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Bug systématiquement
+# Titre section: Bug systématiquement
+# Type: list
+# Taille: 150 caractères
+# Tokens: 25
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Bug systématiquement
+L’application met un temps fou à s’ouvrir et parfois se referme aussitôt. Elle bug en permanence
+- Ne marche quasiment jamais …
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Toujours en rade
+# Titre section: Toujours en rade
+# Type: list
+# Taille: 135 caractères
+# Tokens: 30
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Toujours en rade
+Ne marche quasiment jamais …
+- Sa fait 2 semaines que j essai de l ouvrir pour prendre rdv et elle ne s ouvre plus !
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Historique
+# Titre section: Historique
+# Type: list
+# Taille: 103 caractères
+# Tokens: 12
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Historique
+- Amélioration des performances
+Amélioration des performances
+**Confidentialité de l’app**
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Confidentialité de l’app
+# Titre section: Confidentialité de l’app
+# Type: h1
+# Taille: 323 caractères
+# Tokens: 49
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+# Confidentialité de l’app
+Le développeur **ACS E SANTE** a indiqué que les pratiques de l’app en matière de confidentialité peuvent inclure le traitement des données tel que décrit ci‑dessous. Ces informations n’ont pas été vérifiées par Apple. Pour en savoir plus, consultez la politique de confidentialité du développeur
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Confidentialité de l’app > Données établissant un lien avec vous
+# Titre section: Données établissant un lien avec vous
+# Type: h3
+# Taille: 159 caractères
+# Tokens: 25
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+### Données établissant un lien avec vous
+Les données suivantes, pouvant être collectées et liées à votre identité, peuvent être utilisées aux fins suivantes :
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Confidentialité de l’app > Données établissant un lien avec vous > Fonctionnalité de l’app
+# Titre section: Fonctionnalité de l’app
+# Type: h4
+# Taille: 273 caractères
+# Tokens: 41
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+#### Fonctionnalité de l’app
+Le développeur **ACS E SANTE** a indiqué que les pratiques de l’app en matière de confidentialité peuvent inclure le traitement des données tel que décrit ci‑dessous. Pour en savoir plus, consultez la politique de confidentialité du développeur
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Confidentialité de l’app > Accessibilité
+# Titre section: Accessibilité
+# Type: h2
+# Taille: 146 caractères
+# Tokens: 21
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+## Accessibilité
+Le développeur n’a pas encore indiqué quelles fonctionnalités d’accessibilité sont prises en charge par cette app. En savoir plus
+
+
+
+================================================================================# Source URL: https://apps.apple.com/fr/app/gps-sant%25C3%25A9-rdv-m%25C3%25A9dicaux/id6526486697
+# Document parent: ‎App GPS Santé RDV médicaux - App Store
+# Section: Analyse de l'offre et concurrence
+# Question: Quelles sont les forces et faiblesses des solutions concurrentes existantes ?
+# Query: avis utilisateurs patients professionnels santé applications prise rendez-vous médical France
+# Angle: retours utilisateurs et expérience patient/professionnel
+# Chemin hiérarchique: Confidentialité de l’app > Informations
+# Titre section: Informations
+# Type: list
+# Taille: 709 caractères
+# Tokens: 103
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T23:31:44.847122+00:00
+................................................................................
+
+## Informations
+CompatibilitéNécessite iOS 12.1 ou version ultérieure.
+Nécessite iOS 12.1 ou version ultérieure.
+Nécessite iPadOS 12.1 ou version ultérieure.
+Nécessite macOS 11.0 ou une version ultérieure et un Mac doté d’une puce Apple M1 ou une version ultérieure.
+Nécessite visionOS 1.0 ou version ultérieure.
+- Le fournisseur ACS E SANTE ne s’est pas identifié comme commerçant de cette app. Si vous achetez des biens et services dans l’Espace économique européen, le droit des consommateurs ne s’applique pas aux contrats entre vous et le fournisseur.
+**Vous aimerez peut-être aussi**
+Trouvez des toilettes !]()
+Prise de RDV vétérinaire]()
+**Materniteam, suivi grossesse**\\
+Accompagner la parentalité]()

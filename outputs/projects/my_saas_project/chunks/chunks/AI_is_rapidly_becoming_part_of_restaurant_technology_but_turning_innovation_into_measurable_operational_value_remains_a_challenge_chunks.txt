@@ -1,0 +1,89 @@
+
+
+
+
+================================================================================# Source URL: https://www.linkedin.com/posts/pernollet_ai-is-rapidly-becoming-part-of-restaurant-activity-7480886040271032321-nDeI
+# Document parent: AI is rapidly becoming part of restaurant technology, but turning innovation into measurable operational value remains a challenge.
+# Section: unknown
+# Question: 
+# Query: operational challenges and technology strengths in AI-powered restaurant management SaaS France
+# Angle: 
+# Chemin hiérarchique: Scraping Failed
+# Titre section: Scraping Failed
+# Type: list
+# Taille: 363 caractères
+# Tokens: 63
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T11:32:54.949359+00:00
+................................................................................
+
+# Scraping Failed
+L'URL suivante n'a pas pu être scrapée après 3 tentatives :
+- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.
+
+
+
+================================================================================# Source URL: https://www.linkedin.com/posts/pernollet_ai-is-rapidly-becoming-part-of-restaurant-activity-7480886040271032321-nDeI
+# Document parent: AI is rapidly becoming part of restaurant technology, but turning innovation into measurable operational value remains a challenge.
+# Section: unknown
+# Question: 
+# Query: operational challenges and technology strengths in AI-powered restaurant management SaaS France
+# Angle: 
+# Chemin hiérarchique: Scraping Failed > Métadonnées
+# Titre section: Métadonnées
+# Type: list
+# Taille: 177 caractères
+# Tokens: 24
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T11:32:54.949359+00:00
+................................................................................
+
+### Métadonnées
+- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?
+- Angle: technology and operational internal factors
+
+
+
+================================================================================# Source URL: https://www.linkedin.com/posts/pernollet_ai-is-rapidly-becoming-part-of-restaurant-activity-7480886040271032321-nDeI
+# Document parent: AI is rapidly becoming part of restaurant technology, but turning innovation into measurable operational value remains a challenge.
+# Section: unknown
+# Question: 
+# Query: operational challenges and technology strengths in AI-powered restaurant management SaaS France
+# Angle: 
+# Chemin hiérarchique: Scraping Failed
+# Titre section: Scraping Failed
+# Type: list
+# Taille: 363 caractères
+# Tokens: 63
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T13:09:02.917474+00:00
+................................................................................
+
+# Scraping Failed
+L'URL suivante n'a pas pu être scrapée après 3 tentatives :
+- **Erreur**: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: - No additional error details provided.
+
+
+
+================================================================================# Source URL: https://www.linkedin.com/posts/pernollet_ai-is-rapidly-becoming-part-of-restaurant-activity-7480886040271032321-nDeI
+# Document parent: AI is rapidly becoming part of restaurant technology, but turning innovation into measurable operational value remains a challenge.
+# Section: unknown
+# Question: 
+# Query: operational challenges and technology strengths in AI-powered restaurant management SaaS France
+# Angle: 
+# Chemin hiérarchique: Scraping Failed > Métadonnées
+# Titre section: Métadonnées
+# Type: list
+# Taille: 177 caractères
+# Tokens: 24
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T13:09:02.917474+00:00
+................................................................................
+
+### Métadonnées
+- Question: Quelles forces internes peuvent être capitalisées et quelles faiblesses doivent être corrigées ?
+- Angle: technology and operational internal factors

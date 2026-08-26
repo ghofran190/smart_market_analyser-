@@ -1,0 +1,200 @@
+
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Titre section: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Type: h1
+# Taille: 936 caractères
+# Tokens: 155
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+# Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+Retenue par le gouvernement comme prestataire pour la prise de rendez-vous en ligne en vue de la vaccination contre le Covid-19, Maiia mise sur l’expertise de sa maison-mère Cegedim. La plateforme est agréée pour héberger des données de santé et estime qu’une fenêtre existe sur ce marché, malgré l'hégémonie de Doctolib.
+Son service a près de 6 ans de moins que Doctolib. Pourtant, Maiia estime avoir les cartes en main pour combler son retard dans le domaine des agendas médicaux. Créé en 2018 par Docavenue, une filiale de Cegedim, l’outil a hérité de les fondations techniques des précédents logiciels développés par le groupe cinquantenaire – spécialiste de la gestion de cabinets médicaux. Il a aussi récupéré sa base de 100 000 utilisateur·rice·s. Il n’a donc pas tout à bâtir, comme son principal concurrent… parti de zéro à sa création en 2013.
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Titre section: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Type: paragraph
+# Taille: 275 caractères
+# Tokens: 45
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+_"Un agenda numérique a toujours été intégré aux offres pro de Cegedim, sans que cela ne soit un grand succès commercial"_ , raconte à _Maddyness_ Richard Kritter, directeur produit de Maiia, qui précise que la volonté d’investir dans ce segment a été prise _"courant 2018"_.
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Un hébergeur de données de santé agréé
+# Titre section: Un hébergeur de données de santé agréé
+# Type: h2
+# Taille: 974 caractères
+# Tokens: 155
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+## Un hébergeur de données de santé agréé
+La filiale de Cegedim a estimé que la prise de rendez-vous en ligne, à l’image de ce que propose Doctolib, était une brique cruciale afin de fournir _"un service à la fois au patient et au professionnel"_. Portée par les synergies de groupes, Maiia a aussi saisi l’opportunité de la présentation par le gouvernement de sa stratégie Ma santé 2022 – qui encourage notamment le développement de la télémédecine. _"Nous n’avions que 12 mois pour sortir un produit qui s’intégrerait dans l’écosystème Cegedim"_ , pointe Richard Kritter. Cela a été chose faite en février 2020, avec un credo : si Doctolib occupe une position hégémonique sur le marché : MonDocteur. _"Les professionnels auraient inévitablement souffert d’un manque de concurrence"_ , avance Richard Kritter, qui rappelle que c’est cette dernière qui _"stimule l’innovation"_. D’ailleurs, la filiale du groupe de technologies et de services de santé cultive sa différence.
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Un hébergeur de données de santé agréé
+# Titre section: Un hébergeur de données de santé agréé
+# Type: paragraph
+# Taille: 526 caractères
+# Tokens: 77
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+Des téléconsultations sont disponibles _"sans rendez-vous, contrairement à Doctolib"_. Des _"centaines de milliers de documents"_ sont, par ailleurs, partagés tous les mois entre patients et praticiens. Et c’est là que Maiia dispose d’un avantage stratégique : sa maison-mère a été agréée par l’Agence française de la santé numérique pour héberger des données de santé à caractère personnel. Tout peut donc être traité en interne, quand Doctolib a recours à un prestataire assermenté pour manipuler ces informations sensibles.
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Gagner en visibilité grâce à la vaccination
+# Titre section: Gagner en visibilité grâce à la vaccination
+# Type: h2
+# Taille: 491 caractères
+# Tokens: 76
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+## Gagner en visibilité grâce à la vaccination
+Pouvoir s’appuyer sur un groupe d’ores et déjà établi, disposant d’infrastructures critiques, _"rend tout scalable en matière de technologies"_ , estime Richard Kritter. C’est ce qu’a voulu prouver Maiia en se positionnant pour devenir l’un des prestataires de l’État dans le cadre de la campagne de vaccination contre le Covid-19. Retenue aux côtés de Doctolib et de Keldoc]()
+Covid-19 : la vaccination en entreprise peut accélérer la campagne
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Le télésuivi comme axe de développement
+# Titre section: Le télésuivi comme axe de développement
+# Type: h2
+# Taille: 836 caractères
+# Tokens: 131
+# Contient chiffres: True
+# Contient dates: False
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+## Le télésuivi comme axe de développement
+La filiale de Cegedim planche déjà sur le "préparamétrage" de son outil pour ce nouveau public, qui y est moins habitué. _"Nous comptons aujourd’hui 1 800 pharmacies équipées, notamment pour ce qui relève de la téléconsultation. La prise de rendez-vous est moins répandue dans les officines, que l’on démarche ou qui nous contactent directement en vue de la vaccination"_ , affirme Richard Kritter, qui précise _"ne pas encore avoir de visibilité sur le nombre d’établissements, sûrement important à terme"_ , qui souhaiteront être équipés. Le directeur produit argue toutefois que sa plateforme est _"tout à fait robuste et évolutive"_.
+C’est justement la stratégie de développement envisagé par Maiia à plus long terme, une fois la crise sanitaire passée. L’accent sera mis sur le télésuivi.
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Le télésuivi comme axe de développement
+# Titre section: Le télésuivi comme axe de développement
+# Type: paragraph
+# Taille: 813 caractères
+# Tokens: 122
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+La plateforme sera adaptée pour faciliter la transmission d’informations entre patients et praticiens, par saisie manuelle ou par le biais d’objets connectés (stéthoscope, otoscope, balance, etc.). Maiia entend aussi favoriser l’échange de données médicales entre professionnels via un chat sécurisé afin que ceux-ci puissent s’adresser des patients les uns aux autres. De multiples recrutements sont prévus (développement commercial et produit) ces prochains mois pour concrétiser cette vision, alors que la filiale de Cegedim se dit _"en pleine structuration"_. Pour rappel, elle fait état de quelque 200 salarié·e·s à date quand sa maison-mère en compte au total 5 300 dans 10 pays. Cette dernière affirme avoir généré en 2020 un chiffre d'affaires de 497 millions d'euros.
+Envie d'être le premier au courant ?
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Le télésuivi comme axe de développement
+# Titre section: Le télésuivi comme axe de développement
+# Type: unstructured
+# Taille: 945 caractères
+# Tokens: 153
+# Contient chiffres: True
+# Contient dates: True
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+L'actualité économique, des entrepreneurs et de l'innovation, directement dans votre boîte mail, avant tous les autres
+Ne passez pas à côté de l'économie de demain, recevez tous les jours à 7H30 la newsletter de Maddyness.
+Que Font Les Fonds ? Le portrait d'IMA Participations
+Maddyness avec IMA Participations
+![L'équipe d'IMA Participations]()
+VivaTech 2026 : la région Sud s'impose dans les technologies de l'énergie
+![Pour sa 9e participation à VivaTech, la région Sud accueillait sur son stand pas moins de 40 startups.]()
+L'Oréal à VivaTech 2026 : une odyssée portée par l'Open Innovation
+Envie de nous contacter ?
+Envie de nous envoyer une info' ? Un témoignage ou une idée ? Anonymement, ou non, nous avons hâte de vous lire
+À celles et ceux qui nous lisent depuis tout ce temps, merci. C’est grace à votre enthousiasme et votre intérêt que nous
+continuons de publier quotidiennement des articles autour de l’entreprise et de l’économie.
+
+
+
+================================================================================# Source URL: https://www.maddyness.com/2021/02/17/medtech-vaccination-maiia-donnees-sante-se-differencier-doctolib
+# Document parent: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib
+# Section: Analyse macro marché et tendances
+# Question: Quelle est la structure du marché en termes de segments, taille et croissance ?
+# Query: analyse parts de marché Doctolib Maiia Keldoc marché prise de rendez-vous médical France
+# Angle: competitive landscape and market shares
+# Chemin hiérarchique: Maiia fait de l'hébergement des données de santé son atout pour contrer Doctolib > Le télésuivi comme axe de développement
+# Titre section: Le télésuivi comme axe de développement
+# Type: paragraph
+# Taille: 125 caractères
+# Tokens: 22
+# Contient chiffres: False
+# Contient dates: False
+# Scrapé le: 2026-08-22T22:59:59.880640+00:00
+................................................................................
+
+Votre soutien est important, aussi n’hésitez pas à vous abonner pour avoir accès à un contenu VIP et faire vivre notre média.
