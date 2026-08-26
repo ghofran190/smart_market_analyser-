@@ -11,9 +11,7 @@ from pathlib import Path
 # from chunking.chunk_processor import ChunkProcessor
 # from scraping.content_cleaner import ContentCleaner
 from chunking.models import Chunk, ChunkMetadata, ChunkType
-from utils.cleaner_utils import CleanerConfig
-from scraping.models import ScrapingStats
-
+from scraping_cleaning.models import ScrapingStats
 
 class MarkdownChunker:
     """

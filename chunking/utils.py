@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 from chunking.models import Chunk, ChunkType
-from scraping.models import CleaningResult
+from scraping_cleaning.models import CleaningResult
 from utils.logger import get_logger
 
 logger = get_logger(__name__)

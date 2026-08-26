@@ -10,7 +10,7 @@ from chunking.utils import (
     log_results,
     save_consolidated_chunks,
 )
-from scraping.models import CleaningResult
+from scraping_cleaning.models import CleaningResult
 from config import ChunkerConfig
 from utils.logger import get_logger
 
